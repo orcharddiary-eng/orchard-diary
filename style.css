@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #F5F7F4;
+    color: #333;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+}
+
+header {
+    background: #1B5E20;
+    padding: 15px 0;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.hero {
+    background: linear-gradient(135deg, #1B5E20, #C62828);
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background: white;
+    color: #1B5E20;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.services {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    width: 30%;
+    min-width: 260px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+    margin-bottom: 20px;
+}
+
+.about {
+    background: white;
+    padding: 70px 0;
+    text-align: center;
+}
+
+.cta {
+    background: #E8F5E9;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.btn-secondary {
+    background: #C62828;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+footer {
+    background: #1B5E20;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #25D366;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* Mobile Responsive */
+@media(max-width: 768px) {
+
+    .hero h1 {
+        font-size: 28px;
+    }
+
+    .cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+    }
+
+    nav {
+        display: none;
+    }
+}
