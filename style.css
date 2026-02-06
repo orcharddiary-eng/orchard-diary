@@ -35,9 +35,17 @@ header {
     align-items: center;
 }
 
-.logo {
-    font-weight: 600;
+.site-logo {
+    height: 55px;
+    width: auto;
+    display: block;
+    transition: 0.3s ease;
 }
+
+.site-logo:hover {
+    transform: scale(1.05);
+}
+
 
 /* NAVIGATION */
 nav a {
@@ -259,3 +267,4 @@ footer {
         margin: 20px 0;
     }
 }
+
