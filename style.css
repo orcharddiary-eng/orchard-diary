@@ -266,6 +266,68 @@ footer{
   gap:16px;
   margin-top:18px;
 }
+/* ==============================
+   MOBILE HAMBURGER NAV
+============================== */
+.menu-toggle{
+  display:none;
+  background:rgba(255,255,255,0.18);
+  border:1px solid rgba(255,255,255,0.28);
+  color:#fff;
+  padding:10px 12px;
+  border-radius:10px;
+  cursor:pointer;
+  font-size:18px;
+  line-height:1;
+}
+
+.nav-right{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+
+/* Mobile menu panel */
+@media(max-width:768px){
+  .menu-toggle{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+  }
+
+  /* hide desktop nav by default on mobile */
+  nav{
+    display:none;
+    width:100%;
+    margin-top:12px;
+  }
+
+  /* when opened */
+  nav.open{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    background:rgba(255,255,255,0.10);
+    border:1px solid rgba(255,255,255,0.18);
+    padding:12px;
+    border-radius:12px;
+  }
+
+  nav a{
+    margin-left:0;
+    padding:12px 12px;
+    border-radius:10px;
+    background:rgba(0,0,0,0.10);
+  }
+
+  .nav-container{
+    flex-wrap:wrap;
+    align-items:center;
+  }
+
+  /* keep logo on left, buttons on right */
+  .site-logo{ height:48px; }
+}
 
 .month-card{
   background:#fff;
@@ -297,5 +359,6 @@ footer{
   color:#0d3b1e;
   margin-right:8px;
 }
+
 
 
