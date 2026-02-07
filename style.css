@@ -1098,6 +1098,56 @@ header{
   0%{ transform:translateX(-50%) translateY(0); opacity:1; }
   100%{ transform:translateX(-50%) translateY(10px); opacity:0.2; }
 }
+/* ==============================
+   MOBILE HORIZONTAL SCROLL NAV
+============================== */
+@media(max-width:768px){
+
+  .nav-container{
+    flex-direction:column;
+    align-items:stretch;
+    gap:10px;
+  }
+
+  /* show nav in one horizontal row */
+  nav{
+    display:flex;
+    flex-direction:row;
+    gap:10px;
+    width:100%;
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+    padding-bottom:6px;
+    scrollbar-width:none; /* Firefox hide scrollbar */
+  }
+
+  nav::-webkit-scrollbar{
+    display:none; /* Chrome hide scrollbar */
+  }
+
+  nav a{
+    flex:0 0 auto;
+    margin:0;
+    padding:10px 14px;
+    border-radius:999px;
+    white-space:nowrap;
+
+    background:rgba(255,255,255,0.12);
+    border:1px solid rgba(255,255,255,0.16);
+    color:#fff;
+  }
+
+  nav a:hover{
+    background:rgba(255,255,255,0.20);
+  }
+}
+@media(max-width:768px){
+  nav{
+    mask-image: linear-gradient(to right, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
+  }
+}
+
 
 
 
