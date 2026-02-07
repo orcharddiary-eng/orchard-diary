@@ -1090,19 +1090,73 @@ header{
   gap:18px;
 }
 
+/* ==============================
+   PREMIUM QUICK ACCESS CARDS
+============================== */
+
 .quick-card{
-  background:rgba(255,255,255,0.9);
-  border:1px solid rgba(0,0,0,0.08);
+  background:linear-gradient(135deg,#0d3b1e,#1b5e20);
+  color:#ffffff;
+
+  border:none;
   border-radius:18px;
-  padding:22px;
-  text-decoration:none;
-  color:#1f1f1f;
-  box-shadow:0 14px 34px rgba(0,0,0,0.06);
-  transition:0.28s ease;
+  padding:24px;
+
+  box-shadow:0 18px 40px rgba(13,59,30,0.35);
+
+  transition:0.35s ease;
   position:relative;
   overflow:hidden;
 }
 
+/* subtle light effect */
+.quick-card::before{
+  content:"";
+  position:absolute;
+  top:-40px;
+  right:-40px;
+  width:120px;
+  height:120px;
+  background:rgba(255,255,255,0.08);
+  border-radius:50%;
+}
+
+/* hover lift */
+.quick-card:hover{
+  transform:translateY(-8px);
+  box-shadow:0 24px 55px rgba(0,0,0,0.25);
+}
+
+/* text colors */
+.quick-card h3{
+  color:#ffffff;
+}
+
+.quick-card p{
+  color:rgba(255,255,255,0.85);
+}
+
+/* open link */
+.quick-link{
+  color:#ffd54f;
+  font-weight:700;
+}
+
+/* icon look better on dark */
+.quick-icon{
+  background:#ffffff;
+  padding:10px;
+  border-radius:12px;
+  width:60px;
+  height:60px;
+}
+.quick-card:nth-child(2){
+  background:linear-gradient(135deg,#1b5e20,#2e7d32);
+}
+
+.quick-card:nth-child(3){
+  background:linear-gradient(135deg,#2e7d32,#388e3c);
+}
 .quick-card:hover{
   transform:translateY(-6px);
   box-shadow:0 18px 44px rgba(0,0,0,0.10);
@@ -1149,6 +1203,7 @@ header{
   .quick-access{ padding:60px 0; }
   .quick-icon{ width:56px; height:56px; }
 }
+
 
 
 
