@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IPM for Apple | Orchard Diary</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <div class="container nav-container">
+    <img src="logo.png" class="site-logo" alt="Orchard Diary Logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pest-alerts.html">Pest Alerts</a>
+      <a href="advisories.html">Advisories</a>
+      <a href="articles.html">Articles</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="langToggle" class="lang-btn">हिंदी</button>
+  </div>
+</header>
+
+<section class="container page-title article-wrap">
+  <h1>
+    <span class="lang-en">Integrated Pest Management (IPM) in Apple</span>
+    <span class="lang-hi">सेब में एकीकृत कीट प्रबंधन (IPM)</span>
+  </h1>
+
+  <div class="article-meta">
+    <span class="lang-en">Author: Pawan (M.Sc. Fruit Science) • Region: North India</span>
+    <span class="lang-hi">लेखक: पवन (एम.एससी. फल विज्ञान) • क्षेत्र: उत्तर भारत</span>
+  </div>
+
+  <p>
+    <span class="lang-en">
+      IPM means controlling pests with a smart combination of monitoring, cultural practices, mechanical removal,
+      biological control and selective chemical use—only when needed. The goal is healthy orchards, lower cost,
+      less resistance, and safer fruit production.
+    </span>
+    <span class="lang-hi">
+      IPM का मतलब है—कीट नियंत्रण के लिए निगरानी, सांस्कृतिक उपाय, यांत्रिक नियंत्रण, जैविक नियंत्रण और
+      आवश्यकता होने पर ही चयनित रसायनों का समझदारी से उपयोग। लक्ष्य: स्वस्थ बाग, कम लागत, कम रेजिस्टेंस और सुरक्षित उत्पादन।
+    </span>
+  </p>
+
+  <h2>
+    <span class="lang-en">1) Start with monitoring (सबसे पहले निगरानी)</span>
+    <span class="lang-hi">1) निगरानी से शुरुआत</span>
+  </h2>
+  <ul>
+    <li>
+      <span class="lang-en">Walk the orchard weekly in the active season; inspect trunk, shoots, underside of leaves, and fruit spurs.</span>
+      <span class="lang-hi">सक्रिय मौसम में साप्ताहिक बाग का निरीक्षण करें; तना, नई टहनियाँ, पत्तियों की निचली सतह और स्पर देखें।</span>
+    </li>
+    <li>
+      <span class="lang-en">Use pheromone traps for key pests (e.g., moths). Record counts and observe peak activity.</span>
+      <span class="lang-hi">मुख्य कीटों के लिए फेरोमोन ट्रैप लगाएँ; गिनती रिकॉर्ड करें और पीक गतिविधि पहचानें।</span>
+    </li>
+    <li>
+      <span class="lang-en">For scales/aphids, look for early colonies; check sheltered crevices and graft union.</span>
+      <span class="lang-hi">स्केल/एफिड के लिए शुरुआती कॉलोनी देखें; दरारों और ग्राफ्ट यूनियन के आसपास निरीक्षण करें।</span>
+    </li>
+  </ul>
+
+  <div class="note">
+    <strong><span class="lang-en">Field habit:</span><span class="lang-hi">फील्ड आदत:</span></strong>
+    <span class="lang-en">Keep a simple notebook: date, pest observed, severity (low/medium/high), action taken. This makes your spray program scientific.</span>
+    <span class="lang-hi">एक नोटबुक रखें: तारीख, कीट, स्तर (कम/मध्यम/अधिक), किया गया उपाय। इससे आपका स्प्रे प्रोग्राम वैज्ञानिक बनता है।</span>
+  </div>
+
+  <h2>
+    <span class="lang-en">2) Cultural practices (रोकथाम वाले उपाय)</span>
+    <span class="lang-hi">2) सांस्कृतिक उपाय</span>
+  </h2>
+  <ul>
+    <li>
+      <span class="lang-en">Pruning for light & airflow reduces many diseases and improves spray coverage.</span>
+      <span class="lang-hi">प्रूनिंग से प्रकाश/हवा बढ़ती है, रोग घटते हैं और स्प्रे कवरेज बेहतर होता है।</span>
+    </li>
+    <li>
+      <span class="lang-en">Remove and destroy infected leaves/fruits and heavily infested twigs.</span>
+      <span class="lang-hi">संक्रमित पत्तियाँ/फल और अत्यधिक संक्रमित टहनियाँ हटाकर नष्ट करें।</span>
+    </li>
+    <li>
+      <span class="lang-en">Avoid excess nitrogen; lush growth attracts sucking pests and increases disease risk.</span>
+      <span class="lang-hi">अधिक नाइट्रोजन से बचें; नरम बढ़वार से चूसक कीट और रोग बढ़ते हैं।</span>
+    </li>
+    <li>
+      <span class="lang-en">Maintain orchard hygiene: clean basins, manage weeds, and remove pruned material.</span>
+      <span class="lang-hi">बाग की स्वच्छता रखें: बेसिन साफ़, खरपतवार प्रबंधन, कटाई सामग्री हटाएँ।</span>
+    </li>
+  </ul>
+
+  <h2>
+    <span class="lang-en">3) Mechanical & physical control (यांत्रिक नियंत्रण)</span>
+    <span class="lang-hi">3) यांत्रिक/भौतिक नियंत्रण</span>
+  </h2>
+  <ul>
+    <li>
+      <span class="lang-en">For scales: dormant scraping + oil sprays can reduce population strongly.</span>
+      <span class="lang-hi">स्केल के लिए: डॉर्मेंट स्क्रेपिंग + ऑयल स्प्रे से आबादी काफी घटती है।</span>
+    </li>
+    <li>
+      <span class="lang-en">For aphids: early colony removal on young shoots can slow spread.</span>
+      <span class="lang-hi">एफिड में: नई टहनियों पर शुरुआती कॉलोनी हटाने से फैलाव धीमा होता है।</span>
+    </li>
+    <li>
+      <span class="lang-en">Use trunk banding/grease bands if ants are assisting aphids (where appropriate).</span>
+      <span class="lang-hi">यदि चींटियाँ एफिड को बढ़ावा दे रही हों तो ट्रंक बैंडिंग/ग्रीस बैंड (उचित स्थिति में) करें।</span>
+    </li>
+  </ul>
+
+  <h2>
+    <span class="lang-en">4) Biological control (जैविक नियंत्रण)</span>
+    <span class="lang-hi">4) जैविक नियंत्रण</span>
+  </h2>
+  <p>
+    <span class="lang-en">
+      Encourage beneficial insects by avoiding unnecessary broad-spectrum sprays. Ladybirds, lacewings and parasitoids
+      can naturally suppress aphids and some other pests.
+    </span>
+    <span class="lang-hi">
+      अनावश्यक ब्रॉड-स्पेक्ट्रम स्प्रे से बचकर मित्र कीटों को बढ़ावा दें। लेडीबर्ड, लेसविंग और पैरासिटॉइड
+      एफिड आदि को प्राकृतिक रूप से नियंत्रित कर सकते हैं।
+    </span>
+  </p>
+
+  <h2>
+    <span class="lang-en">5) Chemical control—only when needed (रसायन: जरूरत पर ही)</span>
+    <span class="lang-hi">5) रासायनिक नियंत्रण—केवल आवश्यकता पर</span>
+  </h2>
+  <ul>
+    <li>
+      <span class="lang-en">Target the most vulnerable stage (e.g., crawler stage for scales). Timing matters more than quantity.</span>
+      <span class="lang-hi">सबसे संवेदनशील चरण को लक्ष्य करें (जैसे स्केल का क्रॉलर चरण)। समय सही होना सबसे महत्वपूर्ण है।</span>
+    </li>
+    <li>
+      <span class="lang-en">Rotate mode of action to prevent resistance. Avoid repeating the same chemistry back-to-back.</span>
+      <span class="lang-hi">रेजिस्टेंस से बचने हेतु मोड-ऑफ-एक्शन बदलें। एक ही दवा बार-बार न दोहराएँ।</span>
+    </li>
+    <li>
+      <span class="lang-en">Follow label dose, PHI and safety precautions. Use protective gear and avoid spraying in strong wind.</span>
+      <span class="lang-hi">लेबल-डोज, PHI और सुरक्षा निर्देश मानें। सुरक्षा उपकरण पहनें और तेज हवा में स्प्रे न करें।</span>
+    </li>
+  </ul>
+
+  <div class="note">
+    <strong><span class="lang-en">IPM success rule:</span><span class="lang-hi">IPM सफलता नियम:</span></strong>
+    <span class="lang-en">80% prevention + monitoring, 20% spray. This reduces cost and improves orchard sustainability.</span>
+    <span class="lang-hi">80% रोकथाम + निगरानी, 20% स्प्रे। इससे लागत घटती है और बाग टिकाऊ बनता है।</span>
+  </div>
+
+  <h2>
+    <span class="lang-en">Practical weekly checklist</span>
+    <span class="lang-hi">साप्ताहिक चेकलिस्ट</span>
+  </h2>
+  <ul>
+    <li><span class="lang-en">Look for scale crusting on trunk/branches.</span><span class="lang-hi">तने/शाखाओं पर स्केल की परत देखें।</span></li>
+    <li><span class="lang-en">Check young leaves for aphids and curling.</span><span class="lang-hi">नई पत्तियों पर एफिड/मुड़ाव देखें।</span></li>
+    <li><span class="lang-en">Inspect for disease spots after rains and dew.</span><span class="lang-hi">बारिश/ओस के बाद रोग के धब्बे देखें।</span></li>
+    <li><span class="lang-en">Record findings and plan action.</span><span class="lang-hi">रिकॉर्ड रखें और उपाय योजना बनाएं।</span></li>
+  </ul>
+
+  <p><a href="articles.html"><span class="lang-en">← Back to Articles</span><span class="lang-hi">← लेख सूची पर वापस</span></a></p>
+</section>
+
+<script>
+(function(){
+  const btn = document.getElementById("langToggle");
+  function setLang(lang){
+    document.querySelectorAll(".lang-en").forEach(el => el.style.display = (lang==="en") ? "" : "none");
+    document.querySelectorAll(".lang-hi").forEach(el => el.style.display = (lang==="hi") ? "" : "none");
+    localStorage.setItem("od_lang", lang);
+    btn.textContent = (lang==="en") ? "हिंदी" : "English";
+  }
+  const saved = localStorage.getItem("od_lang") || "en";
+  setLang(saved);
+  btn.addEventListener("click", ()=> setLang((localStorage.getItem("od_lang")||"en")==="en" ? "hi" : "en"));
+})();
+</script>
+
+<a href="https://wa.me/919816115314" class="whatsapp">💬</a>
+<footer>© 2026 Orchard Diary</footer>
+
+</body>
+</html>
