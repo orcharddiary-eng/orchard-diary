@@ -987,6 +987,118 @@ footer{
   margin-bottom:12px;
   line-height:1.6;
 }
+/* ==============================
+   PREMIUM HERO ANIMATION
+============================== */
+@keyframes fadeUp{
+  0%{ opacity:0; transform:translateY(14px); }
+  100%{ opacity:1; transform:translateY(0); }
+}
+
+.hero2 .hero2-title{
+  animation:fadeUp 0.7s ease forwards;
+}
+
+.hero2 .hero2-sub{
+  opacity:0;
+  animation:fadeUp 0.8s ease forwards;
+  animation-delay:0.12s;
+}
+
+.hero2 .hero2-actions{
+  opacity:0;
+  animation:fadeUp 0.85s ease forwards;
+  animation-delay:0.22s;
+}
+
+.hero2 .hero2-card{
+  opacity:0;
+  animation:fadeUp 0.95s ease forwards;
+  animation-delay:0.28s;
+}
+.hero2-card{
+  transition:0.35s ease;
+}
+
+.hero2-img{
+  transition:0.45s ease;
+}
+
+.hero2-card:hover .hero2-img{
+  transform:scale(1.03);
+}
+/* ==============================
+   PREMIUM STICKY BLUR NAV
+============================== */
+header{
+  backdrop-filter: blur(10px);
+  background: rgba(13,59,30,0.92);
+  border-bottom: 1px solid rgba(255,255,255,0.10);
+}
+/* ==============================
+   HERO TITLE HIGHLIGHT ANIMATION
+============================== */
+.hero2-title{
+  display:inline-block;
+  position:relative;
+}
+
+.hero2-title::after{
+  content:"";
+  position:absolute;
+  left:0;
+  bottom:-6px;
+  height:10px;
+  width:100%;
+  border-radius:999px;
+  background:linear-gradient(90deg, rgba(198,40,40,0.35), rgba(13,59,30,0.35));
+  transform:scaleX(0);
+  transform-origin:left;
+  animation:titleMark 1.1s ease forwards 0.35s;
+}
+
+@keyframes titleMark{
+  to{ transform:scaleX(1); }
+}
+/* ==============================
+   MINIMAL SCROLL INDICATOR
+============================== */
+.hero-scroll{
+  margin-top:18px;
+  display:flex;
+  align-items:center;
+  gap:10px;
+  opacity:0.85;
+  font-size:13px;
+  color:#0d3b1e;
+}
+
+.scroll-mouse{
+  width:18px;
+  height:28px;
+  border-radius:999px;
+  border:2px solid rgba(13,59,30,0.35);
+  position:relative;
+}
+
+.scroll-mouse::after{
+  content:"";
+  width:6px;
+  height:6px;
+  border-radius:50%;
+  background:#0d3b1e;
+  position:absolute;
+  left:50%;
+  top:6px;
+  transform:translateX(-50%);
+  animation:scrollDot 1.2s infinite;
+}
+
+@keyframes scrollDot{
+  0%{ transform:translateX(-50%) translateY(0); opacity:1; }
+  100%{ transform:translateX(-50%) translateY(10px); opacity:0.2; }
+}
+
 
 
 
