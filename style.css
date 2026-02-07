@@ -1093,116 +1093,67 @@ header{
 /* ==============================
    PREMIUM QUICK ACCESS CARDS
 ============================== */
-
 .quick-card{
-  background:linear-gradient(135deg,#0d3b1e,#1b5e20);
-  color:#ffffff;
+  display:block;                 /* IMPORTANT for anchor card */
+  text-decoration:none;          /* IMPORTANT (removes underline) */
+  color:#ffffff;                 /* force white text */
 
+  background:linear-gradient(135deg,#0d3b1e,#1b5e20);
   border:none;
   border-radius:18px;
   padding:24px;
 
-  box-shadow:0 18px 40px rgba(13,59,30,0.35);
-
+  box-shadow:0 18px 40px rgba(13,59,30,0.30);
   transition:0.35s ease;
   position:relative;
   overflow:hidden;
 }
 
-/* subtle light effect */
+/* subtle highlight bubble */
 .quick-card::before{
   content:"";
   position:absolute;
   top:-40px;
   right:-40px;
-  width:120px;
-  height:120px;
-  background:rgba(255,255,255,0.08);
+  width:130px;
+  height:130px;
+  background:rgba(255,255,255,0.10);
   border-radius:50%;
 }
 
-/* hover lift */
+/* hover */
 .quick-card:hover{
   transform:translateY(-8px);
-  box-shadow:0 24px 55px rgba(0,0,0,0.25);
+  box-shadow:0 24px 55px rgba(0,0,0,0.22);
 }
 
-/* text colors */
+/* force text colors inside */
 .quick-card h3{
-  color:#ffffff;
+  color:#ffffff !important;
 }
 
 .quick-card p{
-  color:rgba(255,255,255,0.85);
+  color:rgba(255,255,255,0.86) !important;
 }
 
-/* open link */
+/* Open link style */
 .quick-link{
-  color:#ffd54f;
-  font-weight:700;
+  color:#ffd54f !important;
+  font-weight:800;
 }
 
-/* icon look better on dark */
+/* icon as white badge */
 .quick-icon{
+  width:60px;
+  height:60px;
+  object-fit:contain;
   background:#ffffff;
   padding:10px;
   border-radius:12px;
-  width:60px;
-  height:60px;
-}
-.quick-card:nth-child(2){
-  background:linear-gradient(135deg,#1b5e20,#2e7d32);
-}
-
-.quick-card:nth-child(3){
-  background:linear-gradient(135deg,#2e7d32,#388e3c);
-}
-.quick-card:hover{
-  transform:translateY(-6px);
-  box-shadow:0 18px 44px rgba(0,0,0,0.10);
-}
-
-.quick-card::before{
-  content:"";
-  position:absolute;
-  inset:auto -30px -30px auto;
-  width:140px;
-  height:140px;
-  border-radius:50%;
-  background:rgba(13,59,30,0.08);
-}
-
-.quick-icon{
-  width:62px;
-  height:62px;
-  object-fit:contain;
   margin-bottom:12px;
-  filter:drop-shadow(0 10px 18px rgba(0,0,0,0.10));
+  box-shadow:0 10px 20px rgba(0,0,0,0.18);
 }
 
-.quick-card h3{
-  color:#0d3b1e;
-  margin-bottom:6px;
-  font-size:18px;
-}
-
-.quick-card p{
-  font-size:14px;
-  line-height:1.55;
-  opacity:0.9;
-  margin-bottom:10px;
-}
-
-.quick-link{
-  font-weight:800;
-  color:#c62828;
-  font-size:14px;
-}
-
-@media(max-width:768px){
-  .quick-access{ padding:60px 0; }
-  .quick-icon{ width:56px; height:56px; }
-}
 
 
 
