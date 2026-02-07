@@ -833,4 +833,10 @@ footer{
     justify-content:center;
   }
 }
+/* founder text spacing */
+.founder-card p{
+  margin-bottom:12px;
+  line-height:1.6;
+}
+
 
