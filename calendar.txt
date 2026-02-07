@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Monthly Calendar | Orchard Diary</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="container nav-container">
+    <img src="logo.png" class="site-logo" alt="Orchard Diary Logo">
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pest-alerts.html">Pest Alerts</a>
+      <a href="advisories.html">Advisories</a>
+      <a href="articles.html">Articles</a>
+      <a href="calendar.html">Calendar</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+
+    <button id="langToggle" class="lang-btn">हिंदी</button>
+  </div>
+</header>
+
+<section class="container">
+  <h1 style="margin-bottom:18px;">
+    <span class="lang-en">📅 Monthly Orchard Calendar (North India)</span>
+    <span class="lang-hi">📅 मासिक सेब बाग कैलेंडर (उत्तर भारत)</span>
+  </h1>
+
+  <div class="card">
+    <p>
+      <span class="lang-en">
+        This calendar is a practical month-wise guide. Exact timing may shift with altitude and weather.
+        Use it as a checklist and match it with local conditions.
+      </span>
+      <span class="lang-hi">
+        यह कैलेंडर एक व्यावहारिक मासिक मार्गदर्शिका है। ऊँचाई और मौसम के अनुसार समय थोड़ा बदल सकता है।
+        इसे चेकलिस्ट की तरह उपयोग करें और स्थानीय परिस्थितियों के अनुसार समायोजित करें।
+      </span>
+    </p>
+  </div>
+
+  <div class="calendar-grid">
+
+    <!-- DECEMBER -->
+    <div class="month-card">
+      <h3>December / <span class="lang-hi" style="display:inline;">दिसंबर</span></h3>
+      <ul>
+        <li><span class="tag">EN</span><span class="lang-en">Dormant pruning, remove dead/diseased wood.</span><span class="lang-hi">डॉर्मेंट छंटाई, सूखी/रोगग्रस्त शाखाएँ हटाएँ।</span></li>
+        <li><span class="tag">EN</span><span class="lang-en">Orchard sanitation: remove fallen leaves/fruits.</span><span class="lang-hi">बाग की सफाई: गिरी पत्तियाँ/फल हटाएँ।</span></li>
+        <li><span class="tag">EN</span><span class="lang-en">Plan dormant spray and input procurement.</span><span class="lang-hi">डॉर्मेंट स्प्रे की योजना व सामग्री जुटाएँ।</span></li>
+      </ul>
+    </div>
+
+    <!-- JANUARY -->
+    <div class="month-card">
+      <h3>January / <span class="lang-hi" style="display:inline;">जनवरी</span></h3>
+      <ul>
+        <li><span class="lang-en">Complete pruning & training structure.</span><span class="lang-hi">छंटाई व ट्रेनिंग संरचना पूरी करें।</span></li>
+        <li><span class="lang-en">Dormant spray (oil + recommended fungicide/insecticide as per label).</span><span class="lang-hi">डॉर्मेंट स्प्रे (ऑयल + लेबल अनुसार दवाएँ)।</span></li>
+        <li><span class="lang-en">Apply FYM/compost and soil amendments if required.</span><span class="lang-hi">आवश्यकता अनुसार FYM/कम्पोस्ट व सुधार सामग्री दें।</span></li>
+      </ul>
+    </div>
+
+    <!-- FEBRUARY -->
+    <div class="month-card">
+      <h3>February / <span class="lang-hi" style="display:inline;">फरवरी</span></h3>
+      <ul>
+        <li><span class="lang-en">Bud swell monitoring; prepare for early pests/diseases.</span><span class="lang-hi">कली फूटने की निगरानी; शुरुआती कीट-रोग की तैयारी।</span></li>
+        <li><span class="lang-en">Whitewashing trunks (sunscald/frost cracking).</span><span class="lang-hi">तनों पर सफेदी (सनस्कॉल्ड/क्रैकिंग रोकने हेतु)।</span></li>
+        <li><span class="lang-en">Check irrigation system and drip maintenance.</span><span class="lang-hi">ड्रिप/सिंचाई सिस्टम की सर्विसिंग करें।</span></li>
+      </ul>
+    </div>
+
+    <!-- MARCH -->
+    <div class="month-card">
+      <h3>March / <span class="lang-hi" style="display:inline;">मार्च</span></h3>
+      <ul>
+        <li><span class="lang-en">Flowering: avoid heavy nitrogen, protect pollinators.</span><span class="lang-hi">फूल: अधिक नाइट्रोजन से बचें, परागण मित्रों की सुरक्षा करें।</span></li>
+        <li><span class="lang-en">Disease watch: scab/leaf spots (as per local risk).</span><span class="lang-hi">रोग निगरानी: स्कैब/लीफ स्पॉट (स्थानीय जोखिम अनुसार)।</span></li>
+        <li><span class="lang-en">Set up monitoring (traps/weekly scouting).</span><span class="lang-hi">निगरानी सेटअप (ट्रैप/साप्ताहिक निरीक्षण)।</span></li>
+      </ul>
+    </div>
+
+    <!-- APRIL -->
+    <div class="month-card">
+      <h3>April / <span class="lang-hi" style="display:inline;">अप्रैल</span></h3>
+      <ul>
+        <li><span class="lang-en">Fruit set: start balanced fertigation in small splits.</span><span class="lang-hi">फल सेट: संतुलित फर्टिगेशन छोटे भागों में शुरू करें।</span></li>
+        <li><span class="lang-en">Thin fruit if needed for size and quality.</span><span class="lang-hi">आवश्यकता पर फल छंटाई करें।</span></li>
+        <li><span class="lang-en">Watch for aphids/scales; manage early infestations.</span><span class="lang-hi">एफिड/स्केल निगरानी; शुरुआती संक्रमण नियंत्रित करें।</span></li>
+      </ul>
+    </div>
+
+    <!-- MAY -->
+    <div class="month-card">
+      <h3>May / <span class="lang-hi" style="display:inline;">मई</span></h3>
+      <ul>
+        <li><span class="lang-en">Irrigation critical; avoid moisture stress.</span><span class="lang-hi">सिंचाई महत्वपूर्ण; पानी की कमी से बचें।</span></li>
+        <li><span class="lang-en">Calcium program for firmness and storage quality (as advised).</span><span class="lang-hi">कैल्शियम प्रोग्राम (सलाह अनुसार) गुणवत्ता हेतु।</span></li>
+        <li><span class="lang-en">Canopy management for light and spray coverage.</span><span class="lang-hi">कैनोपी प्रबंधन: धूप व स्प्रे कवरेज सुधारें।</span></li>
+      </ul>
+    </div>
+
+    <!-- JUNE -->
+    <div class="month-card">
+      <h3>June / <span class="lang-hi" style="display:inline;">जून</span></h3>
+      <ul>
+        <li><span class="lang-en">Fruit development: steady water + potassium balance.</span><span class="lang-hi">फल विकास: नियमित पानी + पोटाश संतुलन।</span></li>
+        <li><span class="lang-en">Monitor pests (scales/aphids/mites) weekly.</span><span class="lang-hi">कीट निगरानी (स्केल/एफिड/माइट्स) साप्ताहिक।</span></li>
+        <li><span class="lang-en">Remove water shoots if excessive.</span><span class="lang-hi">अधिक वाटर शूट हों तो हटाएँ।</span></li>
+      </ul>
+    </div>
+
+    <!-- JULY -->
+    <div class="month-card">
+      <h3>July / <span class="lang-hi" style="display:inline;">जुलाई</span></h3>
+      <ul>
+        <li><span class="lang-en">Monsoon risk: disease watch and hygiene.</span><span class="lang-hi">मानसून जोखिम: रोग निगरानी व स्वच्छता।</span></li>
+        <li><span class="lang-en">Avoid waterlogging; ensure drainage.</span><span class="lang-hi">जलभराव से बचें; ड्रेनेज रखें।</span></li>
+        <li><span class="lang-en">Continue calcium sprays if recommended.</span><span class="lang-hi">कैल्शियम स्प्रे (सलाह अनुसार) जारी रखें।</span></li>
+      </ul>
+    </div>
+
+    <!-- AUGUST -->
+    <div class="month-card">
+      <h3>August / <span class="lang-hi" style="display:inline;">अगस्त</span></h3>
+      <ul>
+        <li><span class="lang-en">Focus on fruit colour/quality: canopy & nutrition balance.</span><span class="lang-hi">रंग/गुणवत्ता: कैनोपी व पोषण संतुलन।</span></li>
+        <li><span class="lang-en">Pest/disease monitoring; remove infected parts early.</span><span class="lang-hi">कीट/रोग निगरानी; संक्रमित भाग तुरंत हटाएँ।</span></li>
+        <li><span class="lang-en">Harvest planning and market preparation.</span><span class="lang-hi">तोड़ाई योजना व बाजार तैयारी।</span></li>
+      </ul>
+    </div>
+
+    <!-- SEPTEMBER -->
+    <div class="month-card">
+      <h3>September / <span class="lang-hi" style="display:inline;">सितंबर</span></h3>
+      <ul>
+        <li><span class="lang-en">Harvest window: pick at proper maturity.</span><span class="lang-hi">तोड़ाई: सही परिपक्वता पर तोड़ें।</span></li>
+        <li><span class="lang-en">Handle fruit gently; grading & packing.</span><span class="lang-hi">फल संभालें; ग्रेडिंग व पैकिंग।</span></li>
+        <li><span class="lang-en">Post-harvest orchard hygiene.</span><span class="lang-hi">तोड़ाई बाद बाग की सफाई।</span></li>
+      </ul>
+    </div>
+
+    <!-- OCTOBER -->
+    <div class="month-card">
+      <h3>October / <span class="lang-hi" style="display:inline;">अक्टूबर</span></h3>
+      <ul>
+        <li><span class="lang-en">Post-harvest nutrition (as per soil/leaf status).</span><span class="lang-hi">पोस्ट-हार्वेस्ट पोषण (मृदा/लीफ अनुसार)।</span></li>
+        <li><span class="lang-en">Remove mummified fruit and diseased wood.</span><span class="lang-hi">ममीफाइड फल/रोगग्रस्त लकड़ी हटाएँ।</span></li>
+        <li><span class="lang-en">Irrigation reduction as temperatures drop.</span><span class="lang-hi">तापमान घटने पर सिंचाई कम करें।</span></li>
+      </ul>
+    </div>
+
+    <!-- NOVEMBER -->
+    <div class="month-card">
+      <h3>November / <span class="lang-hi" style="display:inline;">नवंबर</span></h3>
+      <ul>
+        <li><span class="lang-en">Prepare for dormancy: sanitation + tool maintenance.</span><span class="lang-hi">डॉर्मेंसी तैयारी: सफाई + औजार देखभाल।</span></li>
+        <li><span class="lang-en">Plan pruning strategy and spray inputs.</span><span class="lang-hi">छंटाई रणनीति व स्प्रे सामग्री की योजना।</span></li>
+        <li><span class="lang-en">Rodent watch (if a problem in your area).</span><span class="lang-hi">चूहा/कृंतक नियंत्रण (यदि समस्या हो)।</span></li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<footer>© 2026 Orchard Diary</footer>
+<a href="https://wa.me/919816115314" class="whatsapp">💬</a>
+
+<!-- Language Toggle -->
+<script>
+const btn = document.getElementById("langToggle");
+function setLang(lang){
+  document.querySelectorAll(".lang-en").forEach(e=>e.style.display = (lang==="en")?"":"none");
+  document.querySelectorAll(".lang-hi").forEach(e=>e.style.display = (lang==="hi")?"":"none");
+  localStorage.setItem("lang",lang);
+  btn.innerText = lang==="en"?"हिंदी":"English";
+}
+setLang(localStorage.getItem("lang") || "en");
+btn.onclick = ()=>{
+  const current = localStorage.getItem("lang") || "en";
+  setLang(current==="en"?"hi":"en");
+};
+</script>
+
+</body>
+</html>
