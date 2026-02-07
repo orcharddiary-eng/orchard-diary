@@ -224,8 +224,25 @@ footer{
 ============================== */
 @media(max-width:768px){
 
+  /* show nav on mobile */
   nav{
-    display:none;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    width:100%;
+    margin-top:10px;
+  }
+
+  nav a{
+    margin-left:0;
+    padding:10px 12px;
+    border-radius:10px;
+    background:rgba(255,255,255,0.10);
+  }
+
+  .nav-container{
+    flex-direction:column;
+    align-items:flex-start;
   }
 
   .founder-grid{
@@ -237,7 +254,7 @@ footer{
   }
 
   .image-grid img{
-    height:130px;  /* smaller on mobile */
+    height:130px;
   }
 }
 /* ==============================
@@ -280,4 +297,5 @@ footer{
   color:#0d3b1e;
   margin-right:8px;
 }
+
 
