@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Orchard Diary</title>
+  <meta name="description" content="Contact Orchard Diary for apple orchard advisory, pest alerts and consulting across North India.">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+  <div class="container nav-container">
+    <img src="logo.png" class="site-logo" alt="Orchard Diary Logo">
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pest-alerts.html">Pest Alerts</a>
+      <a href="advisories.html">Advisories</a>
+      <a href="articles.html">Articles</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+
+    <button id="langToggle" class="lang-btn">हिंदी</button>
+  </div>
+</header>
+
+<section class="container page-title">
+  <h1>
+    <span class="lang-en">📞 Contact</span>
+    <span class="lang-hi">📞 संपर्क</span>
+  </h1>
+  <p class="article-meta">
+    <span class="lang-en">For orchard advisory, pest identification help, and consulting across North India.</span>
+    <span class="lang-hi">उत्तर भारत में बाग सलाह, कीट पहचान सहायता और कंसल्टिंग के लिए संपर्क करें।</span>
+  </p>
+</section>
+
+<section class="container">
+
+  <div class="card">
+    <h2>
+      <span class="lang-en">Contact Details</span>
+      <span class="lang-hi">संपर्क विवरण</span>
+    </h2>
+
+    <p>
+      <strong><span class="lang-en">Email:</span><span class="lang-hi">ईमेल:</span></strong>
+      <span> orchardiary@gmail.com</span>
+    </p>
+
+    <p>
+      <strong><span class="lang-en">WhatsApp:</span><span class="lang-hi">व्हाट्सएप:</span></strong>
+      <span> +91 9816115314</span>
+    </p>
+
+    <p>
+      <strong><span class="lang-en">Response time:</span><span class="lang-hi">उत्तर समय:</span></strong>
+      <span class="lang-en">Within 24–48 hours</span>
+      <span class="lang-hi">24–48 घंटे के भीतर</span>
+    </p>
+
+    <p>
+      <a href="https://wa.me/919816115314">
+        <span class="lang-en">Message on WhatsApp →</span>
+        <span class="lang-hi">व्हाट्सएप पर संदेश करें →</span>
+      </a>
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>
+      <span class="lang-en">Send a Message</span>
+      <span class="lang-hi">संदेश भेजें</span>
+    </h2>
+
+    <!-- Note: This form won't send emails by itself on GitHub Pages.
+         It can be connected later using Formspree / Google Forms. -->
+    <form>
+      <label>
+        <span class="lang-en">Your Name</span>
+        <span class="lang-hi">आपका नाम</span>
+      </label>
+      <input type="text" placeholder="Name" required style="width:100%; padding:10px; margin:8px 0; border-radius:10px; border:1px solid #ccc;">
+
+      <label>
+        <span class="lang-en">Your Email</span>
+        <span class="lang-hi">आपका ईमेल</span>
+      </label>
+      <input type="email" placeholder="Email" required style="width:100%; padding:10px; margin:8px 0; border-radius:10px; border:1px solid #ccc;">
+
+      <label>
+        <span class="lang-en">Message</span>
+        <span class="lang-hi">संदेश</span>
+      </label>
+      <textarea placeholder="Write your message..." rows="5" required style="width:100%; padding:10px; margin:8px 0; border-radius:10px; border:1px solid #ccc;"></textarea>
+
+      <button type="submit" style="background:#0d3b1e; color:#fff; border:none; padding:10px 18px; border-radius:10px; cursor:pointer;">
+        <span class="lang-en">Submit</span>
+        <span class="lang-hi">भेजें</span>
+      </button>
+
+      <div class="note">
+        <strong><span class="lang-en">Note:</span><span class="lang-hi">नोट:</span></strong>
+        <span class="lang-en">This form is currently for display. To receive messages, we can connect it to Formspree or Google Forms.</span>
+        <span class="lang-hi">यह फॉर्म अभी केवल दिखाने के लिए है। संदेश प्राप्त करने हेतु हम इसे Formspree या Google Forms से जोड़ सकते हैं।</span>
+      </div>
+    </form>
+  </div>
+
+  <div class="card">
+    <h2>
+      <span class="lang-en">Location</span>
+      <span class="lang-hi">स्थान</span>
+    </h2>
+    <p>
+      <span class="lang-en">North India (Online consulting available)</span>
+      <span class="lang-hi">उत्तर भारत (ऑनलाइन सलाह उपलब्ध)</span>
+    </p>
+
+    <!-- Optional: Replace the src with your own Google Maps embed later -->
+    <iframe
+      title="Map"
+      width="100%"
+      height="280"
+      style="border:0; border-radius:12px;"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      src="https://www.google.com/maps?q=Himachal%20Pradesh&output=embed">
+    </iframe>
+  </div>
+
+</section>
+
+<footer>© 2026 Orchard Diary</footer>
+<a href="https://wa.me/919816115314" class="whatsapp" aria-label="WhatsApp">💬</a>
+
+<!-- Language Toggle -->
+<script>
+(function(){
+  const btn = document.getElementById("langToggle");
+
+  function setLang(lang){
+    document.querySelectorAll(".lang-en").forEach(el => el.style.display = (lang==="en") ? "" : "none");
+    document.querySelectorAll(".lang-hi").forEach(el => el.style.display = (lang==="hi") ? "" : "none");
+    localStorage.setItem("od_lang", lang);
+    btn.textContent = (lang==="en") ? "हिंदी" : "English";
+  }
+
+  const saved = localStorage.getItem("od_lang") || "en";
+  setLang(saved);
+
+  btn.addEventListener("click", () => {
+    const current = localStorage.getItem("od_lang") || "en";
+    setLang(current === "en" ? "hi" : "en");
+  });
+})();
+</script>
+
+</body>
+</html>
