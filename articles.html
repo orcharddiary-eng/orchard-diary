@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Articles | Orchard Diary</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <div class="container nav-container">
+    <img src="logo.png" class="site-logo" alt="Orchard Diary Logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pest-alerts.html">Pest Alerts</a>
+      <a href="advisories.html">Advisories</a>
+      <a href="articles.html">Articles</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="langToggle" class="lang-btn">हिंदी</button>
+  </div>
+</header>
+
+<section class="container page-title">
+  <h1>
+    <span class="lang-en">📚 Articles</span>
+    <span class="lang-hi">📚 लेख</span>
+  </h1>
+  <p class="article-meta">
+    <span class="lang-en">Practical, research-backed guides for North India apple growers.</span>
+    <span class="lang-hi">उत्तर भारत के सेब उत्पादकों के लिए व्यावहारिक, वैज्ञानिक मार्गदर्शिका।</span>
+  </p>
+</section>
+
+<section class="container">
+
+  <div class="card">
+    <h2>
+      <span class="lang-en">High Density Apple Orchard: Complete Setup Guide</span>
+      <span class="lang-hi">हाई डेंसिटी सेब बाग: पूर्ण सेटअप गाइड</span>
+    </h2>
+    <p>
+      <span class="lang-en">Rootstock selection, spacing, training system, drip-fertigation and canopy management.</span>
+      <span class="lang-hi">रूटस्टॉक चयन, दूरी, ट्रेनिंग सिस्टम, ड्रिप-फर्टिगेशन और कैनोपी प्रबंधन।</span>
+    </p>
+    <a href="article-high-density.html"><span class="lang-en">Read full article →</span><span class="lang-hi">पूरा लेख पढ़ें →</span></a>
+  </div>
+
+  <div class="card">
+    <h2>
+      <span class="lang-en">Integrated Pest Management (IPM) for Apple</span>
+      <span class="lang-hi">सेब में एकीकृत कीट प्रबंधन (IPM)</span>
+    </h2>
+    <p>
+      <span class="lang-en">Monitoring, thresholds, cultural practices, biological control and safe chemical use.</span>
+      <span class="lang-hi">निगरानी, ETL, सांस्कृतिक उपाय, जैविक नियंत्रण और सुरक्षित रासायनिक उपयोग।</span>
+    </p>
+    <a href="article-ipm.html"><span class="lang-en">Read full article →</span><span class="lang-hi">पूरा लेख पढ़ें →</span></a>
+  </div>
+
+  <div class="card">
+    <h2>
+      <span class="lang-en">Apple Fertigation & Nutrition: Practical Schedule</span>
+      <span class="lang-hi">सेब फर्टिगेशन व पोषण: व्यावहारिक शेड्यूल</span>
+    </h2>
+    <p>
+      <span class="lang-en">Stage-wise nutrition goals, common deficiencies and field tips for better fruit quality.</span>
+      <span class="lang-hi">स्टेज-वाइज पोषण लक्ष्य, सामान्य कमी के लक्षण और गुणवत्ता सुधार टिप्स।</span>
+    </p>
+    <a href="article-fertigation.html"><span class="lang-en">Read full article →</span><span class="lang-hi">पूरा लेख पढ़ें →</span></a>
+  </div>
+
+</section>
+
+<script>
+(function(){
+  const btn = document.getElementById("langToggle");
+  function setLang(lang){
+    document.querySelectorAll(".lang-en").forEach(el => el.style.display = (lang==="en") ? "" : "none");
+    document.querySelectorAll(".lang-hi").forEach(el => el.style.display = (lang==="hi") ? "" : "none");
+    localStorage.setItem("od_lang", lang);
+    btn.textContent = (lang==="en") ? "हिंदी" : "English";
+  }
+  const saved = localStorage.getItem("od_lang") || "en";
+  setLang(saved);
+  btn.addEventListener("click", ()=> setLang((localStorage.getItem("od_lang")||"en")==="en" ? "hi" : "en"));
+})();
+</script>
+
+<a href="https://wa.me/919816115314" class="whatsapp">💬</a>
+<footer>© 2026 Orchard Diary</footer>
+</body>
+</html>
