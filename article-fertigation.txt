@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apple Fertigation & Nutrition | Orchard Diary</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <div class="container nav-container">
+    <img src="logo.png" class="site-logo" alt="Orchard Diary Logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pest-alerts.html">Pest Alerts</a>
+      <a href="advisories.html">Advisories</a>
+      <a href="articles.html">Articles</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="langToggle" class="lang-btn">हिंदी</button>
+  </div>
+</header>
+
+<section class="container page-title article-wrap">
+  <h1>
+    <span class="lang-en">Apple Fertigation & Nutrition: A Practical Guide</span>
+    <span class="lang-hi">सेब फर्टिगेशन व पोषण: व्यावहारिक गाइड</span>
+  </h1>
+
+  <div class="article-meta">
+    <span class="lang-en">Author: Pawan (M.Sc. Fruit Science) • Region: North India</span>
+    <span class="lang-hi">लेखक: पवन (एम.एससी. फल विज्ञान) • क्षेत्र: उत्तर भारत</span>
+  </div>
+
+  <p>
+    <span class="lang-en">
+      Fertigation (fertilizer through drip) is the most efficient way to feed apple trees—especially in modern orchards.
+      Instead of giving large doses a few times, fertigation splits nutrients into small, timely doses that match crop demand.
+      This improves nutrient-use efficiency, fruit size, colour and overall yield.
+    </span>
+    <span class="lang-hi">
+      फर्टिगेशन (ड्रिप द्वारा खाद) सेब में पोषण देने का सबसे प्रभावी तरीका है—खासकर आधुनिक बागों में।
+      बड़ी मात्रा को कुछ बार देने के बजाय, फर्टिगेशन में पोषक तत्व छोटे-छोटे हिस्सों में सही समय पर दिए जाते हैं।
+      इससे उपयोग दक्षता बढ़ती है और फल का आकार/रंग/उपज बेहतर होती है।
+    </span>
+  </p>
+
+  <h2>
+    <span class="lang-en">1) Basics you must get right</span>
+    <span class="lang-hi">1) सबसे जरूरी आधार</span>
+  </h2>
+  <ul>
+    <li><span class="lang-en">Good quality water (low EC/salinity) and clean filters.</span><span class="lang-hi">अच्छा पानी (कम EC/लवणता) और साफ फिल्टर।</span></li>
+    <li><span class="lang-en">Proper drip layout: uniform distribution and correct emitter spacing.</span><span class="lang-hi">सही ड्रिप लेआउट: समान वितरण और उचित एमिटर दूरी।</span></li>
+    <li><span class="lang-en">Use fully water-soluble fertilizers suitable for fertigation.</span><span class="lang-hi">फर्टिगेशन के लिए पूर्ण घुलनशील उर्वरक उपयोग करें।</span></li>
+  </ul>
+
+  <div class="note">
+    <strong><span class="lang-en">Practical tip:</span><span class="lang-hi">व्यावहारिक टिप:</span></strong>
+    <span class="lang-en">Always run plain water 10–15 minutes after fertigation to flush lines and prevent clogging.</span>
+    <span class="lang-hi">फर्टिगेशन के बाद 10–15 मिनट साफ पानी चलाएँ ताकि लाइनें फ्लश हों और जाम न हों।</span>
+  </div>
+
+  <h2>
+    <span class="lang-en">2) Nutrition goals by stage</span>
+    <span class="lang-hi">2) चरण अनुसार पोषण लक्ष्य</span>
+  </h2>
+
+  <h3>
+    <span class="lang-en">Dormancy to bud swell</span>
+    <span class="lang-hi">डॉर्मेंसी से कली फूटने तक</span>
+  </h3>
+  <p>
+    <span class="lang-en">Focus on orchard preparation: pruning, sanitation, and planning soil amendments (FYM/compost) as per soil test.</span>
+    <span class="lang-hi">इस समय बाग की तैयारी: प्रूनिंग, स्वच्छता, मृदा परीक्षण के अनुसार FYM/कम्पोस्ट की योजना।</span>
+  </p>
+
+  <h3>
+    <span class="lang-en">Flowering to fruit set</span>
+    <span class="lang-hi">फूल से फल सेट तक</span>
+  </h3>
+  <ul>
+    <li><span class="lang-en">Balanced nutrition; avoid excess nitrogen during flowering.</span><span class="lang-hi">संतुलित पोषण; फूल के समय अधिक नाइट्रोजन से बचें।</span></li>
+    <li><span class="lang-en">Support boron/zinc (where deficient) as per recommendation.</span><span class="lang-hi">कमी होने पर बोरोन/जिंक का समर्थन (सलाह अनुसार)।</span></li>
+  </ul>
+
+  <h3>
+    <span class="lang-en">Fruit development (cell division → cell expansion)</span>
+    <span class="lang-hi">फल विकास (सेल डिविजन → सेल एक्सपैंशन)</span>
+  </h3>
+  <ul>
+    <li><span class="lang-en">Potassium becomes important for size and quality; maintain steady irrigation.</span><span class="lang-hi">आकार/गुणवत्ता हेतु पोटाश महत्वपूर्ण; नियमित सिंचाई रखें।</span></li>
+    <li><span class="lang-en">Calcium management is critical for firmness and storage quality.</span><span class="lang-hi">कैल्शियम प्रबंधन मजबूती व स्टोरेज गुणवत्ता के लिए अत्यंत जरूरी है।</span></li>
+  </ul>
+
+  <h3>
+    <span class="lang-en">Pre-harvest</span>
+    <span class="lang-hi">तोड़ाई से पहले</span>
+  </h3>
+  <p>
+    <span class="lang-en">Avoid heavy nitrogen; focus on potassium balance and calcium sprays (as recommended) for better shelf life.</span>
+    <span class="lang-hi">अधिक नाइट्रोजन न दें; संतुलित पोटाश और कैल्शियम स्प्रे (सलाह अनुसार) से स्टोरेज बेहतर होता है।</span>
+  </p>
+
+  <h2>
+    <span class="lang-en">3) Common deficiency identification</span>
+    <span class="lang-hi">3) सामान्य कमी की पहचान</span>
+  </h2>
+  <ul>
+    <li><span class="lang-en"><strong>Nitrogen:</strong> pale leaves, weak growth.</span><span class="lang-hi"><strong>नाइट्रोजन:</strong> पत्तियाँ फीकी, वृद्धि कमजोर।</span></li>
+    <li><span class="lang-en"><strong>Potassium:</strong> marginal scorching, poor fruit size/colour.</span><span class="lang-hi"><strong>पोटाश:</strong> किनारों पर जलन, फल का आकार/रंग कम।</span></li>
+    <li><span class="lang-en"><strong>Calcium:</strong> bitter pit risk, poor firmness (often needs foliar program).</span><span class="lang-hi"><strong>कैल्शियम:</strong> बिटर पिट का खतरा, फल नरम (अक्सर फोलियर प्रोग्राम जरूरी)।</span></li>
+    <li><span class="lang-en"><strong>Boron/Zinc:</strong> poor fruit set, small leaves (confirm with leaf analysis).</span><span class="lang-hi"><strong>बोरोन/जिंक:</strong> फल सेट कम, छोटी पत्तियाँ (लीफ एनालिसिस से पुष्टि करें)।</span></li>
+  </ul>
+
+  <div class="note">
+    <strong><span class="lang-en">Best practice:</span><span class="lang-hi">सर्वोत्तम अभ्यास:</span></strong>
+    <span class="lang-en">Use soil test + leaf analysis for accurate nutrient correction. Guesswork leads to waste and imbalance.</span>
+    <span class="lang-hi">सटीक सुधार हेतु मृदा परीक्षण + लीफ एनालिसिस करें। अनुमान से खर्च बढ़ता है और असंतुलन होता है।</span>
+  </div>
+
+  <h2>
+    <span class="lang-en">4) Practical fertigation approach (simple)</span>
+    <span class="lang-hi">4) सरल फर्टिगेशन दृष्टिकोण</span>
+  </h2>
+  <ul>
+    <li><span class="lang-en">Split doses weekly/fortnightly rather than heavy monthly doses.</span><span class="lang-hi">भारी मासिक मात्रा के बजाय साप्ताहिक/पखवाड़े में विभाजित डोज दें।</span></li>
+    <li><span class="lang-en">Adjust with weather: reduce during cold/wet; increase carefully during peak growth.</span><span class="lang-hi">मौसम अनुसार समायोजन: ठंड/नमी में कम, पीक वृद्धि में सावधानी से बढ़ाएँ।</span></li>
+    <li><span class="lang-en">Keep uniformity: unequal drippers = unequal trees and uneven fruit quality.</span><span class="lang-hi">एकरूपता रखें: ड्रिप असमान = पौधे असमान = फल गुणवत्ता असमान।</span></li>
+  </ul>
+
+  <p>
+    <span class="lang-en">
+      If you want a customized fertigation schedule, it should be based on tree age, planting density, soil fertility,
+      irrigation water quality and expected yield.
+    </span>
+    <span class="lang-hi">
+      यदि आप कस्टम फर्टिगेशन शेड्यूल चाहते हैं, तो वह पौधे की आयु, डेंसिटी, मिट्टी की उर्वरता, पानी की गुणवत्ता और अपेक्षित उपज पर आधारित होना चाहिए।
+    </span>
+  </p>
+
+  <p><a href="articles.html"><span class="lang-en">← Back to Articles</span><span class="lang-hi">← लेख सूची पर वापस</span></a></p>
+</section>
+
+<script>
+(function(){
+  const btn = document.getElementById("langToggle");
+  function setLang(lang){
+    document.querySelectorAll(".lang-en").forEach(el => el.style.display = (lang==="en") ? "" : "none");
+    document.querySelectorAll(".lang-hi").forEach(el => el.style.display = (lang==="hi") ? "" : "none");
+    localStorage.setItem("od_lang", lang);
+    btn.textContent = (lang==="en") ? "हिंदी" : "English";
+  }
+  const saved = localStorage.getItem("od_lang") || "en";
+  setLang(saved);
+  btn.addEventListener("click", ()=> setLang((localStorage.getItem("od_lang")||"en")==="en" ? "hi" : "en"));
+})();
+</script>
+
+<a href="https://wa.me/919816115314" class="whatsapp">💬</a>
+<footer>© 2026 Orchard Diary</footer>
+
+</body>
+</html>
