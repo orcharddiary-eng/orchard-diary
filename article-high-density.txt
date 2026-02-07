@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>High Density Apple Orchard | Orchard Diary</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <div class="container nav-container">
+    <img src="logo.png" class="site-logo" alt="Orchard Diary Logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pest-alerts.html">Pest Alerts</a>
+      <a href="advisories.html">Advisories</a>
+      <a href="articles.html">Articles</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="langToggle" class="lang-btn">हिंदी</button>
+  </div>
+</header>
+
+<section class="container page-title article-wrap">
+  <h1>
+    <span class="lang-en">High Density Apple Orchard: Complete Setup Guide</span>
+    <span class="lang-hi">हाई डेंसिटी सेब बाग: पूर्ण सेटअप गाइड</span>
+  </h1>
+  <div class="article-meta">
+    <span class="lang-en">Author: Pawan (M.Sc. Fruit Science) • Region: North India</span>
+    <span class="lang-hi">लेखक: पवन (एम.एससी. फल विज्ञान) • क्षेत्र: उत्तर भारत</span>
+  </div>
+
+  <p>
+    <span class="lang-en">
+      High density apple is a modern system where you grow more trees per unit area using dwarf/semi-dwarf rootstocks,
+      scientific training and drip-fertigation. The benefit is early bearing, uniform fruit quality and better returns—
+      but only if management is precise.
+    </span>
+    <span class="lang-hi">
+      हाई डेंसिटी सेब एक आधुनिक प्रणाली है जिसमें बौने/अर्ध-बौने रूटस्टॉक, वैज्ञानिक ट्रेनिंग और ड्रिप-फर्टिगेशन के साथ
+      प्रति क्षेत्र अधिक पौधे लगाए जाते हैं। सही प्रबंधन से जल्दी फल लगना, समान गुणवत्ता और अधिक लाभ मिलता है।
+    </span>
+  </p>
+
+  <h2><span class="lang-en">1. Planning before planting</span><span class="lang-hi">1. रोपण से पहले योजना</span></h2>
+  <ul>
+    <li><span class="lang-en">Choose a suitable site with good sunlight and air movement; avoid frost pockets.</span><span class="lang-hi">अच्छी धूप व हवा वाले स्थान का चयन करें; पाले वाले निचले स्थान से बचें।</span></li>
+    <li><span class="lang-en">Do soil testing: pH, EC, organic carbon and major nutrients to plan amendments.</span><span class="lang-hi">मृदा परीक्षण करें: pH, EC, ऑर्गेनिक कार्बन व पोषक तत्वों के आधार पर सुधार करें।</span></li>
+    <li><span class="lang-en">Ensure assured irrigation—high density without drip is risky.</span><span class="lang-hi">सुनिश्चित सिंचाई जरूरी है—ड्रिप के बिना हाई डेंसिटी जोखिमपूर्ण है।</span></li>
+  </ul>
+
+  <h2><span class="lang-en">2. Rootstock and variety selection</span><span class="lang-hi">2. रूटस्टॉक व किस्म चयन</span></h2>
+  <p>
+    <span class="lang-en">
+      Dwarfing rootstocks (like M9) give early bearing and compact canopy but need support and careful water/nutrition.
+      Semi-dwarf options are more forgiving. Select varieties proven for your belt and market demand.
+    </span>
+    <span class="lang-hi">
+      बौने रूटस्टॉक (जैसे M9) जल्दी फल देते हैं और कैनोपी छोटी रखते हैं, लेकिन सपोर्ट और जल-पोषण प्रबंधन जरूरी है।
+      अर्ध-बौने विकल्प अपेक्षाकृत आसान होते हैं। क्षेत्र व बाजार के अनुसार किस्म चुनें।
+    </span>
+  </p>
+
+  <h2><span class="lang-en">3. Spacing, layout and support system</span><span class="lang-hi">3. दूरी, लेआउट और सपोर्ट सिस्टम</span></h2>
+  <ul>
+    <li><span class="lang-en">Spacing depends on rootstock, training system and vigour. Keep uniform row orientation.</span><span class="lang-hi">दूरी रूटस्टॉक, ट्रेनिंग सिस्टम और वृद्धि पर निर्भर है। पंक्तियों की दिशा समान रखें।</span></li>
+    <li><span class="lang-en">Install trellis/support early (especially for dwarf systems) to avoid lodging and improve canopy structure.</span><span class="lang-hi">ट्रेलिस/सपोर्ट जल्दी लगाएँ (खासकर बौने सिस्टम में) ताकि पौधे गिरें नहीं और संरचना सही बने।</span></li>
+  </ul>
+
+  <h2><span class="lang-en">4. Training and pruning (the heart of high density)</span><span class="lang-hi">4. ट्रेनिंग व प्रूनिंग (मुख्य आधार)</span></h2>
+  <p>
+    <span class="lang-en">
+      Adopt a suitable system (tall spindle/slender spindle). Aim for a strong central leader, good light penetration,
+      and regular renewal of fruiting wood. Pruning is lighter but more frequent compared to traditional orchards.
+    </span>
+    <span class="lang-hi">
+      उपयुक्त ट्रेनिंग सिस्टम अपनाएँ (टॉल स्पिंडल/स्लेंडर स्पिंडल)। मजबूत सेंट्रल लीडर, प्रकाश का प्रवेश और
+      फल देने वाली लकड़ी का नियमित नवीनीकरण लक्ष्य रखें। प्रूनिंग हल्की लेकिन नियमित होती है।
+    </span>
+  </p>
+
+  <h2><span class="lang-en">5. Drip irrigation & fertigation basics</span><span class="lang-hi">5. ड्रिप सिंचाई व फर्टिगेशन</span></h2>
+  <ul>
+    <li><span class="lang-en">Irrigate based on soil moisture and weather; avoid water stress during fruit development.</span><span class="lang-hi">मिट्टी की नमी व मौसम के अनुसार सिंचाई करें; फल विकास समय पानी की कमी न होने दें।</span></li>
+    <li><span class="lang-en">Split nutrients into small doses; focus on N, K, Ca and micronutrients as per stage.</span><span class="lang-hi">पोषक तत्व छोटे भागों में दें; स्टेज के अनुसार N, K, Ca व माइक्रोन्यूट्रिएंट पर ध्यान दें।</span></li>
+  </ul>
+
+  <div class="note">
+    <strong><span class="lang-en">Takeaway:</span><span class="lang-hi">मुख्य बात:</span></strong>
+    <span class="lang-en">High density succeeds when training + drip-fertigation + timely pest management work together.</span>
+    <span class="lang-hi">हाई डेंसिटी में सफलता ट्रेनिंग + ड्रिप-फर्टिगेशन + समय पर कीट-रोग प्रबंधन से मिलती है।</span>
+  </div>
+
+  <p><a href="articles.html"><span class="lang-en">← Back to Articles</span><span class="lang-hi">← लेख सूची पर वापस</span></a></p>
+</section>
+
+<script>
+(function(){
+  const btn = document.getElementById("langToggle");
+  function setLang(lang){
+    document.querySelectorAll(".lang-en").forEach(el => el.style.display = (lang==="en") ? "" : "none");
+    document.querySelectorAll(".lang-hi").forEach(el => el.style.display = (lang==="hi") ? "" : "none");
+    localStorage.setItem("od_lang", lang);
+    btn.textContent = (lang==="en") ? "हिंदी" : "English";
+  }
+  const saved = localStorage.getItem("od_lang") || "en";
+  setLang(saved);
+  btn.addEventListener("click", ()=> setLang((localStorage.getItem("od_lang")||"en")==="en" ? "hi" : "en"));
+})();
+</script>
+
+<a href="https://wa.me/919816115314" class="whatsapp">💬</a>
+<footer>© 2026 Orchard Diary</footer>
+</body>
+</html>
