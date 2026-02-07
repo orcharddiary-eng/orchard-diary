@@ -571,36 +571,63 @@ footer{
   }
 }
 /* ==============================
-   SERVICES SECTION
+   PREMIUM COLORED BADGE SERVICES
 ============================== */
+
 .services-grid{
   display:grid;
   grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-  gap:18px;
-  margin-top:25px;
+  gap:22px;
+  margin-top:30px;
 }
 
 .service-card{
   background:#ffffff;
-  padding:22px;
-  border-radius:14px;
-  box-shadow:0 8px 20px rgba(0,0,0,0.08);
-  transition:0.25s;
+  padding:28px 22px;
+  border-radius:16px;
+  text-align:center;
+  box-shadow:0 10px 25px rgba(0,0,0,0.08);
+  transition:0.3s;
 }
 
 .service-card:hover{
-  transform:translateY(-4px);
+  transform:translateY(-6px);
 }
 
-.service-icon{
+/* colored circle badge */
+.service-badge{
+  width:70px;
+  height:70px;
+  margin:0 auto 14px auto;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
   font-size:30px;
-  margin-bottom:10px;
+  color:#fff;
 }
+
+/* different colors */
+.badge-green{ background:#2e7d32; }
+.badge-blue{ background:#0277bd; }
+.badge-orange{ background:#ef6c00; }
+.badge-red{ background:#c62828; }
+.badge-purple{ background:#6a1b9a; }
+.badge-teal{ background:#00695c; }
 
 .service-card h3{
   color:#0d3b1e;
   margin-bottom:10px;
+  font-size:18px;
 }
+
+.service-card p{
+  font-size:14px;
+  line-height:1.5;
+  opacity:0.9;
+}
+
+
 
 
 
