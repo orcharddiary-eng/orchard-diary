@@ -13,9 +13,19 @@
 
 <header>
   <div class="container nav-container">
+
     <img src="logo.png" class="site-logo" alt="Orchard Diary Logo">
 
-    <nav>
+    <div class="nav-right">
+      <button id="langToggle" class="lang-btn">हिंदी</button>
+
+      <!-- Hamburger button -->
+      <button id="menuToggle" class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+        ☰
+      </button>
+    </div>
+
+    <nav id="mainNav">
       <a href="index.html">Home</a>
       <a href="pest-alerts.html">Pest Alerts</a>
       <a href="advisories.html">Advisories</a>
@@ -24,10 +34,8 @@
       <a href="contact.html">Contact</a>
     </nav>
 
-    <button id="langToggle" class="lang-btn">हिंदी</button>
   </div>
 </header>
-
 <section class="container page-title">
   <h1>
     <span class="lang-en">📞 Contact</span>
@@ -140,26 +148,47 @@
 
 <!-- Language Toggle -->
 <script>
+/* ---------- Language Toggle ---------- */
 (function(){
   const btn = document.getElementById("langToggle");
-
   function setLang(lang){
     document.querySelectorAll(".lang-en").forEach(el => el.style.display = (lang==="en") ? "" : "none");
     document.querySelectorAll(".lang-hi").forEach(el => el.style.display = (lang==="hi") ? "" : "none");
-    localStorage.setItem("od_lang", lang);
-    btn.textContent = (lang==="en") ? "हिंदी" : "English";
+    localStorage.setItem("lang", lang);
+    btn.innerText = (lang==="en") ? "हिंदी" : "English";
   }
-
-  const saved = localStorage.getItem("od_lang") || "en";
-  setLang(saved);
-
+  setLang(localStorage.getItem("lang") || "en");
   btn.addEventListener("click", () => {
-    const current = localStorage.getItem("od_lang") || "en";
-    setLang(current === "en" ? "hi" : "en");
+    const cur = localStorage.getItem("lang") || "en";
+    setLang(cur === "en" ? "hi" : "en");
+  });
+})();
+
+/* ---------- Mobile Hamburger Menu ---------- */
+(function(){
+  const toggle = document.getElementById("menuToggle");
+  const nav = document.getElementById("mainNav");
+  if(!toggle || !nav) return;
+
+  toggle.addEventListener("click", () => {
+    nav.classList.toggle("open");
+    const opened = nav.classList.contains("open");
+    toggle.setAttribute("aria-expanded", opened ? "true" : "false");
+    toggle.textContent = opened ? "✕" : "☰";
+  });
+
+  // close menu after clicking any link
+  nav.querySelectorAll("a").forEach(a=>{
+    a.addEventListener("click", ()=>{
+      nav.classList.remove("open");
+      toggle.setAttribute("aria-expanded", "false");
+      toggle.textContent = "☰";
+    });
   });
 })();
 </script>
 
 </body>
 </html>
+
 
