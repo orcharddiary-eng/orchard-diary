@@ -570,6 +570,38 @@ footer{
     height:120px;
   }
 }
+/* ==============================
+   SERVICES SECTION
+============================== */
+.services-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:18px;
+  margin-top:25px;
+}
+
+.service-card{
+  background:#ffffff;
+  padding:22px;
+  border-radius:14px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.08);
+  transition:0.25s;
+}
+
+.service-card:hover{
+  transform:translateY(-4px);
+}
+
+.service-icon{
+  font-size:30px;
+  margin-bottom:10px;
+}
+
+.service-card h3{
+  color:#0d3b1e;
+  margin-bottom:10px;
+}
+
 
 
 
