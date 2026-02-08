@@ -1296,6 +1296,46 @@ header{
   .ss-slide img{ height:240px; }
   .ss-cap{ max-width:92%; }
 }
+/* premium body */
+body {
+  font-family:'Inter',sans-serif;
+  color:#333;
+  line-height:1.6;
+}
+
+/* global section spacing */
+section{
+  padding:90px 0;
+}
+
+/* premium button */
+.btn{
+  padding:12px 20px;
+  border-radius:30px;
+  font-weight:700;
+  transition:0.25s;
+}
+
+.btn-primary{
+  background:#0d3b1e;
+  color:#fff;
+  box-shadow:0 8px 18px rgba(0,0,0,0.2);
+}
+
+.btn-secondary{
+  background:#fff;
+  color:#0d3b1e;
+  border:1px solid rgba(0,0,0,0.1);
+}
+
+/* card glass */
+.glass{
+  background:rgba(255,255,255,0.18);
+  backdrop-filter:blur(10px);
+  border-radius:18px;
+  border:1px solid rgba(255,255,255,0.25);
+}
+
 
 
 
