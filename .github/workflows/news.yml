@@ -25,12 +25,24 @@ jobs:
           import xml.etree.ElementTree as ET
 
           def fetch(url, timeout=30):
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-              return r.read()
+            try:
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+            except Exception as e:
+              print("FETCH FAILED:", url, "->", e)
+              return b""
 
           def parse_rss(xml_bytes, category):
-            root = ET.fromstring(xml_bytes)
+            if not xml_bytes:
+              return []
+
+            try:
+              root = ET.fromstring(xml_bytes)
+            except Exception as e:
+              print("PARSE FAILED:", category, "->", e)
+              return []
+
             channel = root.find("channel")
             items = channel.findall("item") if channel is not None else []
             out = []
@@ -46,10 +58,12 @@ jobs:
               if src_el is not None and src_el.text:
                 source = src_el.text.strip()
 
+              # Google News often appends source like: "Headline - Source"
               if not source and " - " in title:
                 parts = title.rsplit(" - ", 1)
-                title = parts[0].strip()
-                source = parts[1].strip()
+                if len(parts) == 2:
+                  title = parts[0].strip()
+                  source = parts[1].strip()
 
               desc = (it.findtext("description") or "").strip()
               desc_txt = re.sub("<[^>]*>", "", desc).strip()
@@ -67,13 +81,13 @@ jobs:
 
             return out
 
-          # --- Queries tuned for Orchard Diary (India) ---
+          # ✅ Improved Queries (more consistent results for Pest + Govt)
           queries = {
-            "pest": "apple orchard pest disease San Jose scale aphid thrips borer scab mildew himachal",
-            "govt": "horticulture department advisory scheme subsidy notification apple himachal",
-            "weather": "frost alert hailstorm rainfall warning himachal apple orchard weather advisory",
-            "politics": "India politics parliament election government policy",
-            "economy": "India economy inflation RBI GDP budget stock market"
+            "pest": 'apple pest infestation orchard India aphid scale thrips borer pesticide horticulture',
+            "govt": "India agriculture advisory government notification horticulture subsidy scheme",
+            "weather": "IMD weather alert hailstorm frost warning Himachal Pradesh",
+            "politics": "India politics parliament government policy",
+            "economy": "India economy RBI inflation GDP budget stock market"
           }
 
           def google_rss(query):
