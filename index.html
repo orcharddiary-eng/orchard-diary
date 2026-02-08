@@ -268,6 +268,8 @@
       <button class="pest-btn pest-prev" type="button" aria-label="Previous">‹</button>  
   
       <div class="pest-slides" id="pestSlides">  
+        </div> <!-- closes pestSlides -->
+<div class="pest-dots" id="pestDots"></div>
         <div class="pest-slide is-active">  
           <img src="images/slides/sanjose.jpg" alt="San Jose Scale">  
           <div class="pest-caption">  
@@ -841,8 +843,78 @@ if(items.length === 0){
     if(y) y.textContent = new Date().getFullYear();
   })();
 </script>
+<script>
+(function(){
+  const slider = document.getElementById("pestSlider");
+  const track  = document.getElementById("pestSlides");
+  const prev   = slider?.querySelector(".pest-prev");
+  const next   = slider?.querySelector(".pest-next");
+  const dotsWrap = document.getElementById("pestDots");
+
+  if(!slider || !track) return;
+
+  const slides = Array.from(track.querySelectorAll(".pest-slide"));
+  if(slides.length === 0) return;
+
+  let idx = slides.findIndex(s => s.classList.contains("is-active"));
+  if(idx < 0) idx = 0;
+
+  // build dots
+  if(dotsWrap){
+    dotsWrap.innerHTML = "";
+    slides.forEach((_, i)=>{
+      const dot = document.createElement("div");
+      dot.className = "pest-dot" + (i===idx ? " active" : "");
+      dot.addEventListener("click", ()=> go(i));
+      dotsWrap.appendChild(dot);
+    });
+  }
+  const dots = dotsWrap ? Array.from(dotsWrap.querySelectorAll(".pest-dot")) : [];
+
+  function update(){
+    track.style.transform = `translateX(-${idx*100}%)`;
+    slides.forEach((s,i)=> s.classList.toggle("is-active", i===idx));
+    dots.forEach((d,i)=> d.classList.toggle("active", i===idx));
+  }
+
+  function go(n){
+    idx = (n + slides.length) % slides.length;
+    update();
+    reset();
+  }
+
+  prev?.addEventListener("click", ()=> go(idx-1));
+  next?.addEventListener("click", ()=> go(idx+1));
+
+  // autoplay + pause
+  let timer = null;
+  function start(){ stop(); timer = setInterval(()=> go(idx+1), 4200); }
+  function stop(){ if(timer) clearInterval(timer); timer = null; }
+  function reset(){ start(); }
+
+  slider.addEventListener("mouseenter", stop);
+  slider.addEventListener("mouseleave", start);
+  slider.addEventListener("touchstart", stop, {passive:true});
+  slider.addEventListener("touchend", start, {passive:true});
+
+  // swipe support
+  let startX = 0;
+  slider.addEventListener("touchstart", (e)=>{ startX = e.touches[0].clientX; }, {passive:true});
+  slider.addEventListener("touchend", (e)=>{
+    const endX = e.changedTouches[0].clientX;
+    const diff = endX - startX;
+    if(Math.abs(diff) > 45){
+      go(diff > 0 ? idx-1 : idx+1);
+    }
+  }, {passive:true});
+
+  update();
+  start();
+})();
+</script>
 
 </body>  
 </html>
+
 
 
