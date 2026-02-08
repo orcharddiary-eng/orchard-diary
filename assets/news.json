@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-08T19:15:44.213704Z",
+  "generated_at_utc": "2026-02-08T19:38:17.351062Z",
   "items": [
     {
       "category": "pest",
@@ -227,19 +227,19 @@
     },
     {
       "category": "economy",
-      "title": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVNfQXhabmVNamlOdFBJNVNhbEdDeFpIZVN6NEZXTXBYaVBiemtQUnptSFlZSjZTaUZpMHp1Mzd5RlZJblg1UnhnZnF6cHZRNFhob0FVVU01aUZwUmQ5UHJoQ0NMaHRON0Zvd3JTOGl3aDRLMlgwdWxIYnc2YWRKVjNBa3k2XzdrX1kyeUd5cmJZcEtncU9XV0FlS1N5TVY0a2RUS1cwX2hobVlMTUxOZjVpWUg4cVB6VkpERGsxV1N2Y2RFNjlTdHZhVHhrUi1PSVY2cDNoQnFxOW_SAeABQVVfeXFMUHBWSVNkRnQxM0huLTlLNlFHSXdfeFd0ak9GdEVlQlBNbVZDSGtlcDFTTDlTU0FHZmdLbG0wWTR1MmFnalN4YzFlT0g1ZGtBZVBkUlpOa3d5dTdMOW1CZTJTYTJBYjV1THdrem92RnhEZ3RvcV91eml6eFlqU2ZIcWktOThCVTdPRHBZeUpVU2hjV2RaaHJYTDMxelJvUUN2S1pHWWpRLVNvclp5LWVUT29OZHNWYVJCcHdWa3R3dmg5QVBsOUVraU5wVGlNT21kNWRkWEFTNTBiU1ZtdS1nYWo?oc=5",
-      "published": "Fri, 06 Feb 2026 05:09:24 GMT",
-      "summary": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
       "title": "RBI MPC Meet 2026 Highlights: Sanjay Malhotra-led MPC keeps repo rate unchanged at 5.25%; sees FY26 GDP growth at 7.4%",
       "source": "Mint",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMzlnU1dIdW5relN2Y0IzRFhsN2JwZk5EX24tTEZ5YlBLQk9YNlhreW03WkloT2ladURoOUR0LUJOVGIzVDZMTDlnX3dKdVUzQnY2a0JuLWhBMVVzQ2RQWmdId3RjX0RUVi1PTlJ5V0huaTk5ZHFfbF9adnp0NFB1WHVYUWtZMkRoQW1vYkxLQ0tjdDZxNy0xbmo0Z0lVSW1tak9zbThBeGxOSFBwT2dlcFpKQks0ODkxb05tM2p0UlFjWjhaQ1kzUkduVmYtSU5vYTZvd3BDdjRFNGFqbkswQXFZVzAyVFZvUmc1OTRlblFIVlo1NUd0QkEzMmhQbnlsMmZYYU5zQ3AxQXdQLU5PREE4NVFtZXfSAZwCQVVfeXFMTXhEWERhM1Y4akNIeDhYWmQzTjBIbkpiamtvX0U2RkRnd3c1UVdnRFIxc0pyX2I0dldDWU4xV1U3RXNaa1pWckNQTDRCMGJSOUE0THpsbUVQeTY4bGU3SE5OQkE4XzlCTWwyRnVzc1lGbW9lQU90ajQ1dUZrM2VxMWg5Q2hodV9nMVZhUnhvcmtIek1IU0NkRGRYOTdJcnE5STBuTldFRWNKZVJSZXBtUXc4VU5oQUxja2t6RllDdjBYNmlOcm4wZ2JyOFNVT2RRaUpkSzU1T29hejh6UHhDeko1VlozTEpZVmwtUGt4M1RmdDBwM1MwcGwyX2hPMjBtZ2YxbkZvV01jTVhmSkpQOHgyR1NXZFNNaFhLOVU?oc=5",
       "published": "Fri, 06 Feb 2026 10:57:12 GMT",
       "summary": "RBI MPC Meet 2026 Highlights: Sanjay Malhotra-led MPC keeps repo rate unchanged at 5.25%; sees FY26 GDP growth at 7.4%&nbsp;&nbsp;Mint"
+    },
+    {
+      "category": "economy",
+      "title": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVNfQXhabmVNamlOdFBJNVNhbEdDeFpIZVN6NEZXTXBYaVBiemtQUnptSFlZSjZTaUZpMHp1Mzd5RlZJblg1UnhnZnF6cHZRNFhob0FVVU01aUZwUmQ5UHJoQ0NMaHRON0Zvd3JTOGl3aDRLMlgwdWxIYnc2YWRKVjNBa3k2XzdrX1kyeUd5cmJZcEtncU9XV0FlS1N5TVY0a2RUS1cwX2hobVlMTUxOZjVpWUg4cVB6VkpERGsxV1N2Y2RFNjlTdHZhVHhrUi1PSVY2cDNoQnFxOW_SAeABQVVfeXFMUHBWSVNkRnQxM0huLTlLNlFHSXdfeFd0ak9GdEVlQlBNbVZDSGtlcDFTTDlTU0FHZmdLbG0wWTR1MmFnalN4YzFlT0g1ZGtBZVBkUlpOa3d5dTdMOW1CZTJTYTJBYjV1THdrem92RnhEZ3RvcV91eml6eFlqU2ZIcWktOThCVTdPRHBZeUpVU2hjV2RaaHJYTDMxelJvUUN2S1pHWWpRLVNvclp5LWVUT29OZHNWYVJCcHdWa3R3dmg5QVBsOUVraU5wVGlNT21kNWRkWEFTNTBiU1ZtdS1nYWo?oc=5",
+      "published": "Fri, 06 Feb 2026 05:09:24 GMT",
+      "summary": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
@@ -291,27 +291,27 @@
     },
     {
       "category": "economy",
+      "title": "RBI repo rate decision & India’s economic outlook: From GDP growth to inflation and forex reserves - Key points",
+      "source": "ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbmJrbkFpdmZsRmhwSDFlamNMYjBsS0JiS0tTcjVkZUFyOXlpbWNLNXRlOTEtbm5xenBUSE1majdfWkVkQ1hpRmU1WnFPM2Q3emdMcTVTWEdLNm9icWF6X2JlQy1lelhvNEktNXpJZlRLSGQtVEJrWFJLamVtZDlWVHBtVTk0QjFWVkNPXzBFZW85UVkzbnV1M21QV21OcnpjdzVVaDFHS3Z5cXFMT21HdUZJaUE2SnNPTk9xYzJmR2hoRHpTZTh6emdUMzZfOUFRZmJaM2RUTmpFcmVHTWpWU2dsdGVxTjJsU3pvaW1R0gHzAUFVX3lxTE5YRUJmNmw1RFhVUm9JcnhxMEZESmhwSHo5Ykt0WVhnQzU4VE90Z0hEaDhTNUxLZGVBTWdHbndmX0RRUlVrZk5PTlU1eloyRExMX1U4V1E3eGhIT3FzdTZweGtzdHlBTFNvOVVjR1dpS1Y2aE91cDF6X0I5RTMxUmhaTVZ1XzRNRWhrTFB6QTkxenMzbklaeVZXS0xWd19CV240QWlodWkxQWU3MExQSDQwQmk0U0tsbnVTV1o5cS01a3FqTEFEOERRUUpGZ0ZWajB0b2J4RG5MZ25EUVoxYjI0RGxmaEs5cU5FTC1jeDJ5T2ZEOA?oc=5",
+      "published": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "summary": "RBI repo rate decision & India’s economic outlook: From GDP growth to inflation and forex reserves - Key points&nbsp;&nbsp;ET Now"
+    },
+    {
+      "category": "economy",
+      "title": "Inflation is dead (for now): Why the RBI just slashed rates to 2%",
+      "source": "The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejQ3WURtR2RUdUpKODVoT0lvMU42Rjgxb1pWdm9mamd3SXNiTlFOME9SOWY1c0l0ZGlEci1Ja3M3aU5uWkYwcV9kdGpESUs1RExVb2g5dDAtU0RCNU0wdzlKeW04N3ZtSXJiend2b0pQdlZoSHRMcFE3ckgtdllpX1Z5aXFLN0YwTzFMVXNLTTdxelFpYXFySktCeFhETTV5ZWJMOFY0UGFmZHA5cnlzTE43YXh2aU9ZdjZMUUtBT1BGclFzdWlyd0h30gHQAUFVX3lxTFBjNmRSYVIzY2hCc21iQ0pCSXVNcVI1TlJyZGs1ay1lWGFwY1lNYkMtazJ6T2JVY2RSVXBwZ3puRUJDaHFxMHVKYjF4bWpzYXlLMVdiV3g4Ukl1ZlVRc3BRaHlZRS1zRzUzY0RGeWY4a241RlBhR3hRNUZyOTRRblpDNVJuU0RQRHVTS3lPdEpaTUp6aDZ3OXBuUEFOdGNObUM0NElaa0diU3M1TC1IT2NMcGlNTTNHSDZFNC1DYnhxeEVwY1JJX0U0WVZYRm1Gekc?oc=5",
+      "published": "Sat, 06 Dec 2025 08:00:00 GMT",
+      "summary": "Inflation is dead (for now): Why the RBI just slashed rates to 2%&nbsp;&nbsp;The Financial Express"
+    },
+    {
+      "category": "economy",
       "title": "RBI Holds Rates, Lifts Inflation Estimates And Expands MSME Support: Key Takeaways",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnBnOFVMel9SQVF4X2YwMXJHTVZndlBMTEZQTkJTZDJ6M2VsUkR1enRGN2M1VEkwRlRvSzB1VWdWZktxRVFxOVRTRDlIdmxuc2huVmZDeXhfa050S0Q2NXROV2RaUjI4am8xbmJ0TWFrN0xUc2hqLTY4aG1ickZ0YTlrN2hBSnFtZUs5eWNyZF9jTGl1dW1DRW00THRwYTBiWER1aHAtc2sxZUZHSUJDX1Myd2R3R1lUUm5zWGFmQmtyY0kzTDQxMzN5eEdYN1A1bEtqYzA0MDBHang4NFJZ0gHnAUFVX3lxTE5XeG9oVTFibm5pdzViNkNISi1TbS04aU1zVzBPRTlyN2NvZkExMm52aFBscHQ0bURaWVBtUVAzRFFrQWxibS1PUGVvc0tfME90UDFNQUpuRFBFWFlFU2hKUzdnLU5OaElORUprTXJ4R3J0ZjR5VENselBwR2JicmZaNE1CaHJNSVdjY1ZpMXR4UnJ1RGt6T254aWtUMldtc0hjdnppTHV0UVozSlVTdWlnRGpjYnRmMEVjS0FRLW1BaDk5MkJ0cGIxZGdmTlhMZThRdDMwWFpQQjhrWENycTVrYzdXOWIzOA?oc=5",
       "published": "Fri, 06 Feb 2026 05:22:13 GMT",
       "summary": "RBI Holds Rates, Lifts Inflation Estimates And Expands MSME Support: Key Takeaways&nbsp;&nbsp;NDTV Profit"
-    },
-    {
-      "category": "economy",
-      "title": "RBI may cut rates by 25 bps in December: Economists see record low inflation, strong GDP key triggers",
-      "source": "The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXVubGtIdzl3MTVZQzFqUVk3ci1FNlFVUWtQbzZPRUd2WFNoTzlNUDQ0MUtSaGJOand1dzdpUUg4aVV4N1EtR2hZQUhSN080c1lZbWxBU2dRMU9odkdsMVl1V0dBX0FsQVRmUzVwcWppTXdyS2gzeEY4aTJjX3dkeFA4RGl0ak4xeGJzQXdPdURiTnFhUXF2TFdMVHRqSkl3bnhnNFU5UU9pWWd3c2lkX0FGZkVmRllob0lBb1RTR3lfX0hnTl9kZGpxR1RLajRrMklrbkxJaFNwbktBVGFvV05NTGhKalkxZ2FubNIB8wFBVV95cUxQNWI4c245aV91Z0Z3c01VMW15V2U0dUZqNjdtVjRmTWUxMUVWamtHMUtRekcyUjBiNnhWdWhtVU1hOV9ncG5NX0V4bHplQUJLTElVcnJXMkIwYll1M1ZOdmYyODVBLXcwYWxVU2JPMHlMNXM5a3JtN3dHaTZWbHNJN0VYSHpsN1pGZ0l1NVROQUlucFFsd1JzT2R3MHExc2FLLXk3NmJGcVliSkJIQUxBVlZKcXZ4TW9CeXpPS1huR3dJVktEOEk3WjVnLWNZV1RPZmFnUEJhSHhoajJPTFZaYjZvYlZ5RjhTNHhRZloxZW0xRDA?oc=5",
-      "published": "Sun, 30 Nov 2025 08:00:00 GMT",
-      "summary": "RBI may cut rates by 25 bps in December: Economists see record low inflation, strong GDP key triggers&nbsp;&nbsp;The Financial Express"
-    },
-    {
-      "category": "economy",
-      "title": "RBI MPC Meeting Highlights: RBI governor Sanjay Malhotra announces 25 bps repo rate cut as Trump's tariffs add to uncertainties; GDP growth outlook cut to 6.5%",
-      "source": "Times of India",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQS21Ra2RKREJ4V2FMcHpyWWNCVlN1VlYxblhKeXotcUFQdGtMZG8wY0xQUWpXcWlieWpDQXFqOS1pUUo3a2NXNVlKUURwYjJKMTBNNzUxc1VGQ3JQckRMcEVqY2pOVE1vSzVTdFdLSDRCRUFsVjhDU0F0Q1BNWVZiT3JlTHNKMjcybDIwTTFaOEpvcWFUU2pqUXRTWXJOVk93aDRRdl9ROWRJdFhkM0VFdUFzYXc4d2RqVzR6eFZyWUxIRWVhYVVBSEE4d2VGSkFab2lUaUtJWDNjU0Ntb2JnaHRVbjJtVEdNS1ZpWmVTQjM3WHE4ZVFtOURlbE5ldFZ6RGpqU2JCVUdhYTQ4TVJhTWVHUERkb0JySGR6U0p4VFBzcUtjSVM2QjRZNFFzeVZzcUHSAbcCQVVfeXFMT213bVRBUzQ5VUs2cmFQMjFFVm82RVBMaGFYQTFVbkpqUDRNSWR6engtQ09FbGtPLXhpLW9fU0lCMlVDQXRocUp1c1M0UHZvZEFlUTRzT1dBMWZ3eVZlVXFIVEliY09CYzVSb0hoTVFwTGZ0NHQwWElDY0dtUm41NkpQZDJERFBJcVpHLUg4QWJKbUFqX01HcEVRdUFDWTMtT1U4MWVsR0g4WlJYZFlLNkV3eXZKdVh5YzR1RjVrOTBtVW44Mk0xSXFIclVJNDJrMVVuX2tYcHdrSlpPVzEtcFhVMEFJd3dGYk1IR29wNEtxckswZGdERXYtNXNaeHV0SFg5M20wdnhBS3AxS2tPYkE2cmVYQ1c4NzZaQ2d5S2JrcWh4aFBRZTZLMVduZGVyMk1Hd3RCX2c?oc=5",
-      "published": "Wed, 09 Apr 2025 07:00:00 GMT",
-      "summary": "RBI MPC Meeting Highlights: RBI governor Sanjay Malhotra announces 25 bps repo rate cut as Trump's tariffs add to uncertainties; GDP growth outlook cut to 6.5%&nbsp;&nbsp;Times of India"
     }
   ]
 }
