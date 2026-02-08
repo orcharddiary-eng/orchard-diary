@@ -694,12 +694,15 @@ footer{
 
 /* photo */
 .founder-photo{
-  width:150px;
-  height:150px;
-  border-radius:50%;
-  object-fit:cover;
-  border:5px solid #e8f5e9;
+  width:100%;
+  max-width:380px;
+  height:auto;
+  display:block;
+  margin:0 auto;
+  border-radius:16px;
+  box-shadow:0 14px 34px rgba(0,0,0,0.12);
 }
+
 
 /* quote */
 .founder-quote{
@@ -1979,6 +1982,7 @@ section{ padding:90px 0; }
   position:relative;
   z-index:2;
 }
+
 
 
 
