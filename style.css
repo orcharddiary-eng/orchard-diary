@@ -692,16 +692,7 @@ footer{
   border-radius:20px 0 0 20px;
 }
 
-/* photo */
-.founder-photo{
-  width:100%;
-  max-width:380px;
-  height:auto;
-  display:block;
-  margin:0 auto;
-  border-radius:16px;
-  box-shadow:0 14px 34px rgba(0,0,0,0.12);
-}
+
 
 
 /* quote */
@@ -2088,6 +2079,87 @@ section{ padding:90px 0; }
   .pest-caption{ left:10px; right:10px; bottom:10px; padding:10px 12px; }
   .pest-caption h3{ font-size:16px; }
 }
+/* ===== About Page: left aligned, more professional ===== */
+.about-page .about-text,
+.founder-page{
+  text-align:left;
+}
+
+.page-title{
+  margin: 20px 0 18px;
+  font-size: 34px;
+  color:#0d3b1e;
+  font-weight:800;
+}
+
+.about-text .lead{
+  font-size:18px;
+  font-weight:500;
+  margin-bottom:18px;
+}
+
+/* ===== Founder Layout (image left) ===== */
+.founder-grid{
+  display:grid;
+  grid-template-columns: 320px 1fr;
+  gap: 28px;
+  align-items:start;
+}
+
+.founder-photo.clean{
+  width:100%;
+  height:auto;
+  display:block;
+  border-radius:12px;
+  box-shadow:none !important;      /* ✅ no shadow */
+  background:none !important;      /* ✅ no overlay */
+}
+
+.signature-line{
+  margin-top:12px;
+}
+
+.founder-signature{
+  width: 220px;
+  height:auto;
+  display:block;
+}
+
+.founder-right h3{
+  margin-top:0;
+}
+
+.founder-meta{
+  margin: 6px 0 14px;
+  font-weight:700;
+  opacity:0.8;
+}
+
+.founder-points{
+  margin: 14px 0 16px;
+  padding-left: 18px;
+}
+
+.founder-points li{
+  margin: 8px 0;
+  line-height:1.6;
+}
+
+.founder-location{
+  font-weight:800;
+  margin-top:10px;
+}
+
+/* Mobile */
+@media(max-width:768px){
+  .founder-grid{
+    grid-template-columns: 1fr;
+  }
+  .founder-signature{
+    width:200px;
+  }
+}
+
 
 
 
