@@ -104,67 +104,6 @@
 </section>
 
 
-<!-- ================= HOME SLIDESHOW ================= -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const slider = document.querySelector(".slider");
-  const slides = Array.from(document.querySelectorAll(".slide"));
-  const prev = document.querySelector(".slider-btn.prev");
-  const next = document.querySelector(".slider-btn.next");
-
-  if (!slider || slides.length === 0 || !prev || !next) return;
-
-  let i = slides.findIndex(s => s.classList.contains("active"));
-  if (i < 0) i = 0;
-
-  function show(idx){
-    slides.forEach(s => s.classList.remove("active"));
-    slides[idx].classList.add("active");
-    i = idx;
-  }
-
-  prev.addEventListener("click", () => show((i - 1 + slides.length) % slides.length));
-  next.addEventListener("click", () => show((i + 1) % slides.length));
-
-  // ✅ Autoplay (works on mobile too)
-  let timer = setInterval(() => show((i + 1) % slides.length), 4500);
-
-  function resetTimer(){
-    clearInterval(timer);
-    timer = setInterval(() => show((i + 1) % slides.length), 4500);
-  }
-
-  prev.addEventListener("click", resetTimer);
-  next.addEventListener("click", resetTimer);
-
-  // ✅ Swipe support (mobile)
-  let startX = 0;
-  let isTouch = false;
-
-  slider.addEventListener("touchstart", (e) => {
-    isTouch = true;
-    startX = e.touches[0].clientX;
-  }, { passive: true });
-
-  slider.addEventListener("touchend", (e) => {
-    if(!isTouch) return;
-    const endX = e.changedTouches[0].clientX;
-    const diff = endX - startX;
-
-    // swipe threshold
-    if (Math.abs(diff) > 40) {
-      if (diff < 0) next.click(); // swipe left = next
-      else prev.click();          // swipe right = prev
-      resetTimer();
-    }
-    isTouch = false;
-  }, { passive: true });
-
-  // Start on first active
-  show(i);
-});
-</script>
-
 
 <!-- ================= ABOUT ================= -->
 <section class="about">
@@ -867,29 +806,67 @@ document.addEventListener("DOMContentLoaded", function () {
 
 })();
 </script>
+
 <script>
-(function(){
-  const slides = Array.from(document.querySelectorAll(".slide"));
-  const prev = document.querySelector(".slider-btn.prev");
-  const next = document.querySelector(".slider-btn.next");
-  if(slides.length === 0 || !prev || !next) return;
+document.addEventListener("DOMContentLoaded", function(){
 
-  let i = slides.findIndex(s => s.classList.contains("active"));
-  if(i < 0) i = 0;
+  const slidesWrap = document.getElementById("slides");
+  const slider = document.getElementById("featuredSlider");
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  const dotsWrap = document.getElementById("dots");
 
-  function show(idx){
-    slides.forEach(s => s.classList.remove("active"));
-    slides[idx].classList.add("active");
-    i = idx;
+  if(!slidesWrap) return;
+
+  const total = slidesWrap.children.length;
+  let index = 0;
+  let timer;
+
+  slidesWrap.style.display = "flex";
+  slidesWrap.style.transition = "transform .5s ease";
+
+  // create dots
+  for(let i=0;i<total;i++){
+    const dot=document.createElement("span");
+    dot.className="dot";
+    dot.onclick=()=>go(i);
+    dotsWrap.appendChild(dot);
   }
 
-  prev.addEventListener("click", () => show((i - 1 + slides.length) % slides.length));
-  next.addEventListener("click", () => show((i + 1) % slides.length));
+  const dots=dotsWrap.children;
 
-  // auto-play (optional)
-  setInterval(() => show((i + 1) % slides.length), 4500);
-})();
+  function updateDots(){
+    for(let i=0;i<dots.length;i++){
+      dots[i].classList.toggle("active", i===index);
+    }
+  }
+
+  function go(i){
+    index=i;
+    slidesWrap.style.transform=`translateX(-${i*100}%)`;
+    updateDots();
+  }
+
+  function next(){ go((index+1)%total); }
+  function prev(){ go((index-1+total)%total); }
+
+  nextBtn.onclick=next;
+  prevBtn.onclick=prev;
+
+  function autoplay(){
+    timer=setInterval(next,4000);
+  }
+
+  autoplay();
+
+  slider.onmouseenter=()=>clearInterval(timer);
+  slider.onmouseleave=autoplay;
+
+  go(0);
+});
 </script>
+
 
 </body>
 </html>
+
