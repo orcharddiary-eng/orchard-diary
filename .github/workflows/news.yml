@@ -20,12 +20,12 @@ jobs:
           mkdir -p assets
 
           python - << 'PY'
-          import json, time, datetime
+          import json, datetime, re
           import urllib.request
           import xml.etree.ElementTree as ET
 
           def fetch(url, timeout=30):
-            req = urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(req, timeout=timeout) as r:
               return r.read()
 
@@ -34,26 +34,24 @@ jobs:
             channel = root.find("channel")
             items = channel.findall("item") if channel is not None else []
             out = []
+
             for it in items[:12]:
               title = (it.findtext("title") or "").strip()
               link = (it.findtext("link") or "").strip()
               pub  = (it.findtext("pubDate") or "").strip()
+
+              # try to get source
               source = ""
               src_el = it.find("{http://search.yahoo.com/mrss/}credit")
               if src_el is not None and src_el.text:
                 source = src_el.text.strip()
 
-              if not source:
-                # Google News often puts source in title like "Headline - Source"
-                if " - " in title:
-                  parts = title.rsplit(" - ", 1)
-                  title = parts[0].strip()
-                  source = parts[1].strip()
+              if not source and " - " in title:
+                parts = title.rsplit(" - ", 1)
+                title = parts[0].strip()
+                source = parts[1].strip()
 
-              # Description is HTML; keep short text only
               desc = (it.findtext("description") or "").strip()
-              # quick strip tags
-              import re
               desc_txt = re.sub("<[^>]*>", "", desc).strip()
               if len(desc_txt) > 220:
                 desc_txt = desc_txt[:220].rstrip() + "…"
@@ -66,16 +64,17 @@ jobs:
                 "published": pub,
                 "summary": desc_txt
               })
+
             return out
 
           # --- Queries tuned for Orchard Diary (India) ---
-       queries = {
-  "pest": "apple orchard pest disease San Jose scale aphid thrips borer scab mildew himachal",
-  "govt": "horticulture department advisory scheme subsidy notification apple himachal",
-  "weather": "frost alert hailstorm rainfall warning himachal apple orchard weather advisory",
-  "politics": "India politics parliament election government policy",
-  "economy": "India economy inflation RBI GDP budget stock market"
-}
+          queries = {
+            "pest": "apple orchard pest disease San Jose scale aphid thrips borer scab mildew himachal",
+            "govt": "horticulture department advisory scheme subsidy notification apple himachal",
+            "weather": "frost alert hailstorm rainfall warning himachal apple orchard weather advisory",
+            "politics": "India politics parliament election government policy",
+            "economy": "India economy inflation RBI GDP budget stock market"
+          }
 
           def google_rss(query):
             import urllib.parse
@@ -106,5 +105,3 @@ jobs:
           git add assets/news.json
           git diff --cached --quiet || git commit -m "chore: update news.json"
           git push
-
-
