@@ -1882,6 +1882,15 @@ section{ padding:90px 0; }
 @media(max-width:768px){
   .news-thumb{ height:140px; }
 }
+.news-subtitle{
+  text-align:center;
+  margin:10px 0 18px;
+  font-size:13px;
+  font-weight:800;
+  color:rgba(0,0,0,0.55);
+  letter-spacing:0.3px;
+}
+
 
 
 
