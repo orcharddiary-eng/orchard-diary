@@ -75,22 +75,20 @@
 
     <a class="ticker-cta" href="pest-alerts.html">Open Alerts</a>
   </div>
-</section>
 <section class="news-tabs">
   <div class="container">
     <div class="tabs-head">
       <h2>Live Updates</h2>
-      <p style="opacity:0.85;">Auto-updated headlines grouped: Pest, Government & Weather.</p>
+      <p style="opacity:0.85;">Auto-updated headlines grouped: Pest, Government, Weather, Politics & Economy.</p>
     </div>
 
-   <div class="tabs-bar">
-  <button class="tab-btn active" type="button" data-tab="pest">Pest</button>
-  <button class="tab-btn" type="button" data-tab="govt">Govt</button>
-  <button class="tab-btn" type="button" data-tab="weather">Weather</button>
-  <button class="tab-btn" type="button" data-tab="politics">Politics</button>
-  <button class="tab-btn" type="button" data-tab="economy">Economy</button>
-</div>
-
+    <div class="tabs-bar">
+      <button class="tab-btn active" type="button" data-tab="pest">Pest</button>
+      <button class="tab-btn" type="button" data-tab="govt">Govt</button>
+      <button class="tab-btn" type="button" data-tab="weather">Weather</button>
+      <button class="tab-btn" type="button" data-tab="politics">Politics</button>
+      <button class="tab-btn" type="button" data-tab="economy">Economy</button>
+    </div>
 
     <div id="newsStatus" class="news-status">Loading latest updates…</div>
     <div id="newsGrid" class="news-grid"></div>
@@ -100,6 +98,7 @@
     </div>
   </div>
 </section>
+
 
 <!-- ================= HOME SLIDESHOW ================= -->
 <section class="home-slideshow">
@@ -792,59 +791,76 @@
   const statusEl = document.getElementById("newsStatus");
   const moreBtn = document.getElementById("newsMoreBtn");
   const tabBtns = Array.from(document.querySelectorAll(".tab-btn"));
+
   if(!grid || !statusEl || !moreBtn || tabBtns.length === 0) return;
 
   let allItems = [];
-  const labels = { pest:"Pest updates", govt:"Government advisories", weather:"Weather alerts" };
+
+  const labels = {
+    pest: "Pest updates",
+    govt: "Government advisories",
+    weather: "Weather alerts",
+    politics: "Politics",
+    economy: "Economy"
+  };
+
+  const moreQueries = {
+    pest: "apple orchard pest disease himachal",
+    govt: "horticulture department advisory apple himachal",
+    weather: "frost alert hailstorm himachal apple orchard",
+    politics: "India politics parliament government policy",
+    economy: "India economy inflation RBI GDP budget stock market"
+  };
 
   function esc(s){
-    return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+    return (s||"")
+      .replace(/&/g,"&amp;")
+      .replace(/</g,"&lt;")
+      .replace(/>/g,"&gt;")
+      .replace(/"/g,"&quot;");
+  }
+
+  function setActive(tabKey){
+    tabBtns.forEach(b => b.classList.toggle("active", b.dataset.tab === tabKey));
   }
 
   function render(tabKey){
-    tabBtns.forEach(b => b.classList.toggle("active", b.dataset.tab === tabKey));
+    setActive(tabKey);
+
     const items = allItems.filter(x => x.category === tabKey).slice(0, 6);
 
     if(items.length === 0){
-      statusEl.textContent = `No ${labels[tabKey].toLowerCase()} available right now.`;
+      statusEl.textContent = `No ${labels[tabKey]?.toLowerCase() || "updates"} available right now.`;
       grid.innerHTML = "";
-      return;
+    } else {
+      statusEl.textContent = `Auto-updated: ${labels[tabKey] || "Latest updates"}`;
+
+      grid.innerHTML = items.map(item => {
+        const title = esc(item.title);
+        const source = esc(item.source || "Google News");
+        const summary = esc(item.summary || "");
+        const link = item.link || "#";
+
+        const dateText = item.published ? (new Date(item.published).toLocaleDateString()) : "";
+
+        return `
+          <article class="news-card">
+            <div class="news-body">
+              <div class="news-meta">
+                <span>${source}</span>
+                <span>${dateText}</span>
+              </div>
+              <h3 class="news-title">${title}</h3>
+              <p class="news-desc">${summary}</p>
+              <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
+            </div>
+          </article>
+        `;
+      }).join("");
     }
 
-    statusEl.textContent = `Auto-updated: ${labels[tabKey]}`;
-
-    grid.innerHTML = items.map(item => {
-      const title = esc(item.title);
-      const source = esc(item.source || "Google News");
-      const summary = esc(item.summary || "");
-      const link = item.link || "#";
-
-      // date: keep simple
-      const dateText = item.published ? (new Date(item.published).toLocaleDateString()) : "";
-
-      return `
-        <article class="news-card">
-          <div class="news-body">
-            <div class="news-meta">
-              <span>${source}</span>
-              <span>${dateText}</span>
-            </div>
-            <h3 class="news-title">${title}</h3>
-            <p class="news-desc">${summary}</p>
-            <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
-          </div>
-        </article>
-      `;
-    }).join("");
-
-    // "See more" opens Google News search page (no API)
-    const q = encodeURIComponent(tabKey === "pest"
-      ? "apple orchard pest disease himachal"
-      : tabKey === "govt"
-      ? "horticulture department advisory apple himachal"
-      : "frost alert hailstorm himachal apple orchard"
-    );
-
+    // "See more" button opens Google News search
+    const q = encodeURIComponent(moreQueries[tabKey] || "India news");
     moreBtn.href = `https://news.google.com/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en`;
   }
 
@@ -853,13 +869,17 @@
       const res = await fetch("assets/news.json", { cache: "no-store" });
       const data = await res.json();
       allItems = (data && data.items) ? data.items : [];
+
       const stamp = data && data.generated_at_utc ? data.generated_at_utc : "";
       statusEl.textContent = stamp ? `Updated: ${stamp.replace("Z"," UTC")}` : "Updated recently.";
 
-      render("pest");
+      // bind clicks
       tabBtns.forEach(btn => btn.addEventListener("click", ()=>render(btn.dataset.tab)));
+
+      // default
+      render("pest");
     }catch(e){
-      statusEl.textContent = "News could not load yet. Please check again later.";
+      statusEl.textContent = "News could not load yet. Run the GitHub Action once and refresh.";
     }
   }
 
@@ -869,6 +889,7 @@
 
 </body>
 </html>
+
 
 
 
