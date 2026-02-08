@@ -537,112 +537,7 @@ footer{
   margin-top:10px;
 }
 
-/* ==============================
-   FEATURED SLIDER (HOME)
-============================== */
-.slider{
-  position:relative;
-  overflow:hidden;
-  border-radius:16px;
-  box-shadow:0 10px 24px rgba(0,0,0,0.10);
-  background:#ffffff;
-}
 
-.slides{
-  display:flex;
-  transition:transform 0.45s ease;
-}
-
-.slide{
-  min-width:100%;
-  padding:22px;
-  display:flex;
-  gap:18px;
-  align-items:center;
-}
-
-.slide-img{
-  width:140px;
-  height:140px;
-  border-radius:14px;
-  object-fit:cover;
-  flex:0 0 auto;
-  box-shadow:0 8px 18px rgba(0,0,0,0.12);
-}
-
-.slide h3{
-  color:#0d3b1e;
-  margin-bottom:6px;
-}
-
-.slide p{
-  margin:8px 0 12px;
-  opacity:0.92;
-}
-
-.slide a{
-  display:inline-block;
-  text-decoration:none;
-  font-weight:700;
-  color:#c62828;
-}
-
-.slider-controls{
-  position:absolute;
-  top:50%;
-  left:0;
-  right:0;
-  transform:translateY(-50%);
-  display:flex;
-  justify-content:space-between;
-  padding:0 10px;
-  pointer-events:none;
-}
-
-.slider-btn{
-  pointer-events:auto;
-  width:40px;
-  height:40px;
-  border-radius:50%;
-  border:0;
-  cursor:pointer;
-  background:rgba(13,59,30,0.92);
-  color:#fff;
-  font-size:18px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-}
-
-.dots{
-  display:flex;
-  justify-content:center;
-  gap:8px;
-  padding:12px 0 18px;
-}
-
-.dot{
-  width:10px;
-  height:10px;
-  border-radius:50%;
-  background:#cfd8dc;
-  cursor:pointer;
-}
-
-.dot.active{
-  background:#0d3b1e;
-}
-
-@media(max-width:768px){
-  .slide{
-    flex-direction:column;
-    text-align:center;
-  }
-  .slide-img{
-    width:120px;
-    height:120px;
-  }
-}
 /* ==============================
    ULTRA PREMIUM SERVICES DESIGN
 ============================== */
@@ -1976,6 +1871,61 @@ section{ padding:90px 0; }
 .slide-caption h3{ margin:0 0 4px; font-size:18px; font-weight:900; }
 .slide-caption p{ margin:0; font-weight:700; opacity:.95; }
 
+/* ===== Premium Slider (Mobile fixed + readable caption) ===== */
+.slider{
+  margin-top:18px;
+  position:relative;
+  border-radius:18px;
+  overflow:hidden;
+  background:#fff;
+  border:1px solid rgba(0,0,0,0.08);
+  box-shadow:0 14px 36px rgba(0,0,0,0.08);
+}
+
+.slides{ position:relative; }
+
+.slide{ display:none; }
+.slide.active{ display:block; }
+
+.slide img{
+  width:100%;
+  /* ✅ stable orientation on mobile */
+  aspect-ratio: 16 / 9;
+  height:auto;
+  object-fit:cover;
+  display:block;
+}
+
+/* Caption */
+.slide-caption{
+  position:absolute;
+  left:14px;
+  bottom:14px;
+  right:14px;
+  padding:12px 14px;
+  border-radius:14px;
+  background:rgba(0,0,0,0.50);
+  color:#fff;
+  backdrop-filter: blur(10px);
+}
+
+/* ✅ Pest name more visible (yellow) */
+.slide-caption h3{
+  margin:0 0 4px;
+  font-size:18px;
+  font-weight:900;
+  color:#ffd54f; /* yellow */
+  text-shadow: 0 2px 10px rgba(0,0,0,0.55);
+}
+
+/* scientific name */
+.slide-caption p{
+  margin:0;
+  font-weight:800;
+  color:rgba(255,255,255,0.95);
+}
+
+/* Buttons */
 .slider-btn{
   position:absolute;
   top:50%;
@@ -1989,13 +1939,27 @@ section{ padding:90px 0; }
   font-size:26px;
   cursor:pointer;
   z-index:3;
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
+
 .slider-btn.prev{ left:12px; }
 .slider-btn.next{ right:12px; }
+
+/* Mobile tuning */
+@media(max-width:768px){
+  .slider{ border-radius:16px; }
+  .slider-btn{ width:40px; height:40px; font-size:24px; }
+  .slide-caption{ left:10px; right:10px; bottom:10px; padding:10px 12px; }
+  .slide-caption h3{ font-size:16px; }
+}
+
 
 @media(max-width:768px){
   .slide img{ height:260px; }
 }
+
 
 
 
