@@ -1959,6 +1959,27 @@ section{ padding:90px 0; }
 @media(max-width:768px){
   .slide img{ height:260px; }
 }
+/* ===== Founder image fix (force visible) ===== */
+.founder-grid{
+  align-items: center;
+}
+
+.founder-grid > div{
+  min-width: 0;
+}
+
+.founder-img{
+  display:block !important;
+  width:100% !important;
+  max-width:380px;
+  height:auto !important;
+  margin:0 auto;
+  border-radius:16px;
+  box-shadow:0 14px 34px rgba(0,0,0,0.12);
+  position:relative;
+  z-index:2;
+}
+
 
 
 
