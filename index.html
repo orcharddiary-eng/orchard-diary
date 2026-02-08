@@ -90,6 +90,9 @@
       <button class="tab-btn" type="button" data-tab="politics">Politics</button>
       <button class="tab-btn" type="button" data-tab="economy">Economy</button>
     </div>
+<div style="text-align:center; font-weight:800; color:rgba(0,0,0,0.55); margin-bottom:8px;">
+  Curated from Google News • Updated automatically
+</div>
 
     <div id="newsStatus" class="news-status">Loading latest updates…</div>
     <div id="newsGrid" class="news-grid"></div>
@@ -844,21 +847,30 @@
 
         const dateText = item.published ? (new Date(item.published).toLocaleDateString()) : "";
 
-        return `
-          <article class="news-card">
-            <div class="news-body">
-              <div class="news-meta">
-                <span>${source}</span>
-                <span>${dateText}</span>
-              </div>
-              <h3 class="news-title">${title}</h3>
-              <p class="news-desc">${summary}</p>
-              <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
-            </div>
-          </article>
-        `;
-      }).join("");
-    }
+       const tagIcon =
+  tabKey === "pest" ? "🐛 Pest" :
+  tabKey === "govt" ? "🏛 Govt" :
+  tabKey === "weather" ? "🌦 Weather" :
+  tabKey === "politics" ? "🗳 Politics" :
+  "💹 Economy";
+
+return `
+  <article class="news-card">
+    <img class="news-thumb" src="images/orchard.jpg" alt="">
+    <div class="news-body">
+      <div class="news-meta">
+        <span class="news-tag">${tagIcon}</span>
+        <span>${dateText}</span>
+      </div>
+      <h3 class="news-title">${title}</h3>
+      <p class="news-desc">${summary}</p>
+      <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
+      <div style="margin-top:10px; font-size:12px; font-weight:900; color:rgba(0,0,0,0.55);">
+        Source: ${source}
+      </div>
+    </div>
+  </article>
+`;
 
     // "See more" button opens Google News search
     const q = encodeURIComponent(moreQueries[tabKey] || "India news");
@@ -890,6 +902,7 @@
 
 </body>
 </html>
+
 
 
 
