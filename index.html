@@ -654,9 +654,64 @@
   start();
 })();
 </script>
+<script>
+(function(){
+  const ss = document.getElementById("homeSS");
+  if(!ss) return;
+
+  const track = ss.querySelector(".ss-track");
+  const slides = Array.from(track.querySelectorAll(".ss-slide"));
+  const prev = ss.querySelector(".prev");
+  const next = ss.querySelector(".next");
+  const dotsWrap = document.getElementById("homeSSDots");
+
+  let idx = 0;
+  let timer = null;
+
+  // dots
+  slides.forEach((_, i)=>{
+    const d = document.createElement("div");
+    d.className = "ss-dot" + (i===0 ? " active" : "");
+    d.addEventListener("click", ()=>go(i));
+    dotsWrap.appendChild(d);
+  });
+  const dots = Array.from(dotsWrap.querySelectorAll(".ss-dot"));
+
+  function update(){
+    track.style.transform = `translateX(-${idx * 100}%)`;
+    dots.forEach((d,i)=>d.classList.toggle("active", i===idx));
+  }
+
+  function go(i){
+    idx = (i + slides.length) % slides.length;
+    update();
+    reset();
+  }
+
+  prev.addEventListener("click", ()=>go(idx - 1));
+  next.addEventListener("click", ()=>go(idx + 1));
+
+  // swipe
+  let startX = 0;
+  ss.addEventListener("touchstart", (e)=> startX = e.touches[0].clientX, {passive:true});
+  ss.addEventListener("touchend", (e)=>{
+    const endX = e.changedTouches[0].clientX;
+    const diff = endX - startX;
+    if(Math.abs(diff) > 45){
+      go(diff > 0 ? idx - 1 : idx + 1);
+    }
+  }, {passive:true});
+
+  // autoplay
+  function auto(){ timer = setInterval(()=>go(idx + 1), 4200); }
+  function reset(){ if(timer) clearInterval(timer); auto(); }
+  auto();
+})();
+</script>
 
 </body>
 </html>
+
 
 
 
