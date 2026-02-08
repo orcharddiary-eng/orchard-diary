@@ -1704,6 +1704,18 @@ section{ padding:90px 0; }
 @media(max-width:900px){
   .footer-grid{ grid-template-columns:1fr; }
 }
+/* FORCE news section clean premium */
+.news-tabs{
+  background:#f8faf9 !important;
+  padding:90px 0;
+}
+.news-card{
+  background:#ffffff !important;
+}
+.news-tabs{
+  background:#f8faf9 !important;
+}
+
 
 
 
