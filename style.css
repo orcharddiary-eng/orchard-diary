@@ -2268,14 +2268,41 @@ section{ padding:90px 0; }
 }
 
 /* consistent image ratio */
+/* ===============================
+   PEST SLIDER IMAGE SIZE (PREMIUM)
+=============================== */
+
 .pest-card img{
   width:100%;
-  height:240px;           /* ✅ professional height */
-  object-fit:cover;       /* crops nicely */
+  height:320px;        /* 🔥 taller images */
+  object-fit:cover;
+  border-radius:14px;
   display:block;
-  transform: scale(1.02);
-  transition: transform .8s ease;
 }
+
+/* Tablet */
+@media(max-width:1024px){
+  .pest-card img{
+    height:260px;
+  }
+}
+
+/* Mobile */
+@media(max-width:768px){
+  .pest-card img{
+    height:220px;
+  }
+}
+.pest-card{
+  overflow:hidden;
+  box-shadow:0 12px 30px rgba(0,0,0,0.12);
+  transition:0.3s;
+}
+
+.pest-card:hover{
+  transform:translateY(-6px);
+}
+
 
 .pest-card:hover img{
   transform: scale(1.06);
@@ -2360,6 +2387,7 @@ section{ padding:90px 0; }
   .pest-cap p{ font-size:12px; }
   .pest-btn{ width:40px; height:40px; }
 }
+
 
 
 
