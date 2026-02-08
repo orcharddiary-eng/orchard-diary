@@ -624,13 +624,22 @@
     const days = 14;  
     const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;  
   
-    const items = allItems  
-      .filter(x => x.category === tabKey)  
-      .filter(x => {  
-        const t = Date.parse(x.published || "");  
-        return isNaN(t) ? true : t >= cutoff;  
-      })  
-      .slice(0, 6);  
+   // 1) Try fresh (last 14 days)
+let items = allItems
+  .filter(x => x.category === tabKey)
+  .filter(x => {
+    const t = Date.parse(x.published || "");
+    return isNaN(t) ? true : t >= cutoff;
+  })
+  .slice(0, 6);
+
+// 2) Fallback: if nothing fresh, show older items
+if(items.length === 0){
+  items = allItems
+    .filter(x => x.category === tabKey)
+    .slice(0, 6);
+}
+
   
     if(items.length === 0){  
       statusEl.textContent = `No fresh ${labels[tabKey]?.toLowerCase() || "updates"} right now.`;  
@@ -721,3 +730,4 @@
 
 </body>  
 </html>
+
