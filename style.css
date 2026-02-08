@@ -1101,16 +1101,9 @@ header{
 }
 
 .brand-logo{
-  width:44px;
-  height:44px;
+  height:48px;   /* controls header height */
+  width:auto;    /* auto keeps aspect ratio */
   object-fit:contain;
-}
-
-.brand-name{
-  color:#fff;
-  font-weight:800;
-  letter-spacing:0.2px;
-  font-size:18px;
 }
 
 /* nav */
@@ -1303,6 +1296,7 @@ header{
   .ss-slide img{ height:240px; }
   .ss-cap{ max-width:92%; }
 }
+
 
 
 
