@@ -1,6 +1,70 @@
 {
-  "generated_at_utc": "2026-02-08T13:25:16.768148Z",
+  "generated_at_utc": "2026-02-08T16:50:20.498776Z",
   "items": [
+    {
+      "category": "pest",
+      "title": "Enhancing Urban and Suburban Landscapes to Protect Pollinators",
+      "source": "OSU Extension Service",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEdoeWJoWUNuc2pkRUpQQmlfcUJOaTRuSVlYandDdzAzYXNRQ2VxWWJnQWxoZEloUF9oS09aMmVvTGxpLVkyZHdHb096NloxTWlKN2FzNWZuNUtoMDRYWVlQazFhcHdJbE5LTUxjWEpna3VHRTI1SGw0T2kzbFc3Z01fUEU5NzdLTHpQTE5qMEpSQ1YtM1k1ZlVsYzRoNy04SDZhOW5LOWs?oc=5",
+      "published": "Thu, 24 Jul 2025 22:42:44 GMT",
+      "summary": "Enhancing Urban and Suburban Landscapes to Protect Pollinators&nbsp;&nbsp;OSU Extension Service"
+    },
+    {
+      "category": "govt",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
+      "title": "Horticulture farmers to get Rs. 3.48 crore as subsidy",
+      "source": "thehindu.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzZWTk1mRXlFblNOUU5kQjVEQ2NRN1RTQ0FSMnh2QVdyeEc1N1NsTURBNkF4RW53Q05ETkY5bHlNVkhRUDd3RFNJdGppVFNBQWpXeDl4SlFqeHBzMGNzU25IRXlRRGkxS3Y0TnhGY3RaRzZ2YllweUNOLVEwQ3lKLUlsVjVRTTdwUUl3c0NXNnM2d0tkekdyd2RTcGYzTFI5eXJiajZqbDhJSENfZDlXMDBIVE1UbDE5RVlLVzE1V2vSAccBQVVfeXFMTW9FM21FeW5sM0xEWUZ2ZHhUdGNVVDJhdnBNeDJhVm1FcnN2c21IMnpuMUV6bWUwN1VPTFdXVWIxaXY0bmp0ZFhPc3c4dzJTT2RvcE1xMFRVLV9UbGppaGViYjZlaXpZcUJuN3c3c0dhWW5iazhuWlo2aUIwLW5RU19fYjgzcF85SXhOQ1R6eHBKYjJKSFFMV2wzek01Y0NUVlBqazl4X3oxVU8wck5nQjNQdGkxWWRyVWVUd25RNVJaTThzZTZrNA?oc=5",
+      "published": "Mon, 20 Jun 2016 07:00:00 GMT",
+      "summary": "Horticulture farmers to get Rs. 3.48 crore as subsidy&nbsp;&nbsp;thehindu.com"
+    },
+    {
+      "category": "govt",
+      "title": "Agricultural Equipment Subsidy: Big Opportunity For Small Farmers; Government Offers Subsidies Up To Rs 2 Lakh On Farm Equipment",
+      "source": "The Daily Jagran",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNLVFJV25DaXhoTEFnUF9Ta1V3M0FXVm04S2lqZjEtX0ZMSi1MOTFYUnJIRzFseEM5YWJJOFg4b2tyNVlxbnJNTW9mTHFLTmZrSkF2UXhpXzRYSlRZUnhmTmhfZ3U2NFc3WlFxWm9oWFN0dEV6UFdTWnk2aXBfOEk5WWZpRzd0WnFJaEFmRF9obTZReWh5VS00aHA5SkZkekRsUjN4dVd6UTRmYTBhdzRhQUdxUW1KcWo5OVQ2NmU2S24xSFR5cWd3eXVhMEtVaHNIZlVPTWVnXzU4eTNFWlRDbEtpUlVxcGh6T2M2SWk4VFlsTW4tdTVaM3h6VktpeVE5RUd3cFFkZWVlVC1QWEdTTw?oc=5",
+      "published": "Mon, 02 Feb 2026 06:37:00 GMT",
+      "summary": "Agricultural Equipment Subsidy: Big Opportunity For Small Farmers; Government Offers Subsidies Up To Rs 2 Lakh On Farm Equipment&nbsp;&nbsp;The Daily Jagran"
+    },
+    {
+      "category": "weather",
+      "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdE9DU2ZjdDgwMkFtMlc3Z2Y2MEQ3ZG1aM1lKWUEyY0czTDA4V1ZubVM3LUg0SDdCeGJYSlY1a25IWGtKRFdFTHRVMWM5WGNCMDJBYXB2TkpwYms1MUZBZTF4ZUpWQkxuVTNxLWpWdTM2aGhSMEpPXzM0RG00dUtoVTlPSUp5TW1tdUdLbWlPYUV4V1J0MDZYd2tQM3F2SWU3MWdyNVhYUEZPamZ4bVlKa2pJT3JhYnpxZkE0SGs1MDhPR2V2NmlJRUlUbGZ1NkRoTldWaG5CWG9ZRE9vOFF4LXFrR3loVE83c0txZDB0alJEZWFGWkNkaVNNbkw4Z3RhaXNhNWgyaWNkLXczNWxLV1lkd3dUOGhOQ1dLT0JtSFFwX21EZFVPUWdFZ9IBsAJBVV95cUxNVHAzOXVyUnp3ZUZ2M3gzbkE0UmtTSncwdWd4YnVQbzI2Smw4QUVUQkxudjdjMUZVWUFrT3VuUFhnYS0yZUtvODR3QXFHR3JtR1Bia0JBZGhTNEVaN2Q4SE9NU2xSenhmVWpkZUt5Qi1nVFZsU1FkaU9NQmFKMWpCekV6WU9DWEROMFBueDc4MHdZMkpOQW9FVlZLVDBRaXdIRUYwUjlNblhyU0wwd3FSc3ViOGwzWVc4QzlRcTV4Rlpza01FNFZKbGwzZm5CV05mWjE3Z29od0N0WUtabE1KOEw0M1MxSjRFb2RBR2FtUV83RkQ2SVpSazdNOGVzUVNqWVBac3U3QlE0ZGtXMzBYTVNmQlJYS2R1VnVQWVB1N0hnNG5JNERldHhXSHl6S3kz?oc=5",
+      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "summary": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "weather",
+      "title": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?",
+      "source": "theweek.in",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRfUndJX25pUnZoLUluOGVFYkc1Nzd2UXFtWjJ4OEh6Tlp4TWZBMVl4YVFieXdqWmE0bDN1RzFuZEdmcEVTX2pUUXdwU2dBVHZJTGpCWFVyLXpxLS1maW85TURxTHVNdW1YcGtiVjQtZE9NNHFPZTFRMm5vX19vbDdKbjNYTGExbC1wM0xuc2NSZDZqV1o0SWVQN2p0UGdlV3ZYak1BaG9wMmk0eHBxX2pPMEZGcmFDNV9CVlFzTzA3NV8xTFBYeGU0LWtZb01fcUh2cnduZXRmS2d1QnI4NTVGMVI4Z9IB6wFBVV95cUxOWV9veWJUUWlnaWtURlRESFljYXI1LTlGLV82amFOODN6MjlrMkJZV0pYZVR4c3hWQ3MxLWplWTlwRlNNODFETl9fRngxdFBTVGNDT2I4aGlnRS1RbXljZlV1a3JVTGE0Rk9LanM2d1dMcWM1NDRsS1VPR0xfMVFDc2U1SUZrRzQ1dnhjYlVPVlJScTFNSFRmVWFDYmtCamdKZTNBejRpY2VIVHJ3c21WZ0dEWXdyeG84ZnZkWXlNR2JmZU93TDFWQkgzY0JPMXJoS3FHaWtqYk1NWVhwRjFXNXpOakpGa0wwLTJJ?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?&nbsp;&nbsp;theweek.in"
+    },
+    {
+      "category": "weather",
+      "title": "Uttarakhand Snowfall Alert: IMD Warns of Heavy Falls, Hailstorms in Higher Districts",
+      "source": "Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMERnamloVGJ4Wjk4QWsxd1hMOW41Mi1JSWRVcFpUbmJLZDRLS1lDV19YY3JTNVVXcVpWSnhqMGRvbE1wOXdiU2VGSklyNmZ4dERsM2drWmlfVlJSV2FkR21PRFRQT1lIa3F3bFFkOURPY0ppWWVhOXY1aG9YZlpkVkZsYjJaR0dqeW45S0F5MkIyU0xDNFN3YVRMVms5OG42RmdveGtFVUF6X09GT2IxMVdjSnd5STdJWUNfZtIBygFBVV95cUxPbXN3T1hzUWZHMS0zVjR3M2gxczlVTHlhMzF0cXZZUE1DN2I3VGFLeUtBdklZOXRKelF1X3RxLU9Yc2JkWDh6UTROc3dMOFh4STRPMlRxRlIzSTVzb1gyNDRad19FWXhSM3JVOGtCME1kLUVKeUROVExiT3hOeV9wTTVlaHdfdTNsQmx5a1o5ZVRxYmV1SlAyd3g2cDM2WG9NZVBEX2JBTFJfTktQM1VGUUtTZ1RyMnZyX0hGeEpUYTR1dThvcGladFJB?oc=5",
+      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "summary": "Uttarakhand Snowfall Alert: IMD Warns of Heavy Falls, Hailstorms in Higher Districts&nbsp;&nbsp;Outlook India"
+    },
+    {
+      "category": "weather",
+      "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
+      "source": "Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
+      "published": "Sat, 03 May 2025 07:00:00 GMT",
+      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;Times of India"
+    },
     {
       "category": "weather",
       "title": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details",
@@ -11,11 +75,27 @@
     },
     {
       "category": "weather",
-      "title": "Hail, rain cause extensive damage to apple orchards in Himachal | Hindustan Times",
+      "title": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUJHR1czRnRqdmV4bk8yYkFDYWlBR2RzWXdxUlRmTlhfRXlOY05GWGxrSk5vbWZCZEdIalVhZEpWQmIxNnY4MHk1RWV3MkQwSTdwVmVrblVKQjJCdU9jVmhpdnJYQTVDLU51WmJ2eGZULUFUc2traXUzRWRoZTNoc25oTVhBelZ3Y2FBNmlWZ1pyZjZBQm85WHpEUkE2bVdTSzVkdUx4clc0NjlXcFJDaFlYZ2R3cERIQ1Qybkxza0NGN1hFT2J6Rnc2OEtuY0lnc1Z5M284bUp0bVF1ZlF2Vk82SjlCMER2VVA2dWFjOFIzcmFHMUI5LW1R0gH_AUFVX3lxTE1IamZYYkM4QzlicVpKT2VyMUhHdjkta2lZN1h3QmV3dTJKcUFFSE9ZWnVYSi1TcTlia0hZQTROWlFLa1ZkQ0hrR2szUnhkNzk5ZUJSUmMtaTQtUTg0UVd6aEYwSl9aUzVSTmdZcGU1M0FTOWdobDRoeUZpOHJNNmVKcEtHQnpzTjJyc3FWaTJGNjJpeUpJX2ppQlE5YlFKczcwMUdDdldLM2Z4WlROYUN1eURVNm9BanFQbXVaODV2QUY3ZGdoZ2pKMzAyUXlucnZEZ3FHMmh2VWRUOFcxdmxaUzI5dXJObGo0VnVMNFBOY0pXWjBXdl8yZ2pyMHlDMA?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab&nbsp;&nbsp;CNBC TV18"
+    },
+    {
+      "category": "weather",
+      "title": "Delhi receives highest Dec rainfall; ‘orange alert’ for snowfall in Himachal Pradesh | Updates | India News",
       "source": "Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNQ2c3bGd5T3BSQ2QyME9yR0VMcWx5NTNrLTRFeUNOVVFUaTJZYUl5NF9KUXVqLUYzbDdHUVZLVlJEbVhkZ3p4QjBvblRmQlNtekc3OVl6TnM2R3I3bWlxcTItWXhTYnRJVldYZVZ4eFMxeTVzNVVBaEdQMUhXVm52Zkk5TVk1ZU9XMWllU3dmSTBMQnlRT1hFNWo2a0sxYmNwcnhPeHNuc0s0UjdsWEw0XzRlZmk4VHlLNWhFMVdlVjlwZUJCTWlOWk5qUzlQR3Izc2pFbDcya3BRUWtSc2tJbjVqNTRKYm1EWUs4T2pnZFdHN1dBUlFGZzdWQURsenVpMTJWRUtEN2dfbEw2UFotdmE3eEEwMnpHbGlSUjdibjdOQVJuaWRhQTc4SFZRVXZadmozb2JpSFctQWloWS1nQ3F1LTdwNkZESzh1ajJKYy1FNHh0cFlfaG5TeEhPaHJCRTVV0gHoAkFVX3lxTE5SWmY3VW1OdzVWbnMyU0JMLUVvelpNRXpyZU9OYUFDTUdnUUhLOHo0cW9fNGpITmlwRDdEWHBMamtBYTFiM1JQVGtNbEo1RkowbE5Cb2JzTVliNjFZMWFVdlBRVXNEbmY3OTFkODlQRGZCU2t4anoyOVlYMG1UVEkycERJR1pZWWt1d3ZaX3Fkc3FvaTI3Rkh3bmd6ZEhSTEVOclV0MTNHVExleUFoR01rc1Brd3BKTkxJMWl5SW5XTEk5bUtnNE9INjhPTFdhSnUzTFh6M3VSYVVaQ3k0XzVvQU9GX1VfYUhWRDZVWWFEcDlSMFBOd1RXRXc4Y3ZQV2tsWmduYlNoYl9TaUZOeVZWSkZGZGVqbjZTcmlDVFFzWC1oc2l5Q19xMGEwckdtZEM5TnlOZDFmY3BrRXpyN2pzNllIRURRVWxTcU0tUzlDbm9OZUJ6OVppNndzdDV4aUpsQUEyVml3aw?oc=5",
-      "published": "Fri, 21 Apr 2023 07:00:00 GMT",
-      "summary": "Hail, rain cause extensive damage to apple orchards in Himachal | Hindustan Times&nbsp;&nbsp;Hindustan Times"
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXlBaGlsY1Y4a2lBNG5CX0d6Zk9kQ1ZwSDQxRTB6OGY5NGFUUWJxcWprN0dBUzhXcXBVYWliZmpHeEU5S2RyWnFZaUxNZkluZUlmLTZKdWlWei1IQ2RnVE9XTnVKRE5XQngzaENRN2xvMGxvaEFBZnlJMEtsemVLaDdtNGxaTEFiOVhMNlNWVUtWeld2aGVSY2E1Q0ZMOERSS2JNbUUxUlY5Y2F6anQ0UGlReGlkR19ybW9TTTdMUllwMmVMUHdoM2Z5aHhfVldMUm9ZQnN3cEZ4VkpXcFJ3aEhJUGozcm_SAewBQVVfeXFMUFZHVWdTcVlWa0h6VWJvRHBBMUhWU0FZYTRnUFo3R3c0RW8xbVMtTk5RcThFMHpXa2hvTlJuWnlzc2RYY1FyN3JqNGtXMWdjN3FVQkdta3VDaml4Y1VvSENCeFlXcEYxdk1NWGduWmQ0UzZoQnc5M1JodjRvWDZ2bGVJelNqYjQ5R2hmaGM0bVdVQjllR1J4X19kcWNuaHdRdVF0V2hRNmFla2FtZmV5bHVpQmhmMXNWZUhYUEJWZzZDVjg5a3VXazV3ZkNIS2ZacUJmbEJKRXVkbDVRZDdtMnZXQkwzS05LMHFBNVM?oc=5",
+      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
+      "summary": "Delhi receives highest Dec rainfall; ‘orange alert’ for snowfall in Himachal Pradesh | Updates | India News&nbsp;&nbsp;Hindustan Times"
+    },
+    {
+      "category": "weather",
+      "title": "Cold wave conditions likely to grip North India from..., temperature to go down by..; Check IMD weather forec",
+      "source": "India.Com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3FGckZCdXFacl92OURnWTBwcTVKVTV5aTJ5a0praHRPWHJiU2tQdVNnZk5zV2ZLc19RcGFMR2lsZ0h1WTJZd3VKUHFjZ200ME16RmJtOU1mZTBSQ19vS2otZS14UWhJX1JyVXJBd0xwcGRURDNxQTZ2QmVmci1Ga1V5UWhYN1VMeU9jNHRNX0M2NlVBRE56N0lXVlNXOGdSYVZOdVlMWVZjc3BVUjlVajlMT0s4eHd6cVc5RHQ2NnNwUmVRUjdQaUZsbUdnTEhtWWZtZmhqbWVfVkt4anZvT9IB5gFBVV95cUxQbTFFVk4yMk1QNGx4RllqWERNSDR1QUdqNkFjRGZyMmJ3b3pqSDcxN1laS2l6UHJ6eDZ3TVk1NE85OWNFVm1DRVZXUGo2VmdGbTRjMGZhT2xBUmhBcDNEQ05qbGRuY0RPRVNkalZSdnpxLW9sYW50dms1ZnhBdFp4UjJEYWhEMDZNclFqRFJGRDkyblRXVjJsZGdPYUh2UFQ3QnJpLS1PUnhoUWFZYjJJYnoyZkoxaGZnOE5HSzYycjg4R2NlTERsRTQwcnFScXVnX09LWlRlNVB4LWZFX0NES1RCbkpnUQ?oc=5",
+      "published": "Sun, 29 Dec 2024 08:00:00 GMT",
+      "summary": "Cold wave conditions likely to grip North India from..., temperature to go down by..; Check IMD weather forec&nbsp;&nbsp;India.Com"
     },
     {
       "category": "weather",
@@ -24,6 +104,46 @@
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWUJoRENxRC15alV2OVU5NWFaMTRFeEUxTUpwcGowR3ZyeXkyRTI5dl95YmU1MEJHSDRFS296V1RtNTdtVmtMU2g5czE5cTByOGsxbFpXV0ZaeGxQVnlYS1FZa3R1TzY0a3Fsc3NXTDBNZzB5NkVaQVNnRk15b3dIbTZnLVJWdG5GWW5HeS1JRWZYSDFmOEhDaFdSR1ZIX2JmcXYzbWVYR0FMazlGazhuOXpWTmFoVU1CUlZHX0ZRRmpFdVFhWVNCYlpDd25vWnNGWmhfUzU3ejJDMnAwS2REeExjZWlFMjFTYUZwcmdBdFQtVGJkSHBDbjIxODFJeGR6NWJ5UTZUWDVOVDFfUGlVYjZaQnFDM1pubmtEVXdMTkNJNVVjNG40a015Yw?oc=5",
       "published": "Wed, 08 Jan 2025 08:00:00 GMT",
       "summary": "Weather Update: IMD Forecasts Rain, Hailstorms, Cold Wave, and Dense Fog Across Northeast, Northwest, and Northern India, Including Delhi, Punjab, Uttar Pradesh, and Bihar&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
+      "category": "weather",
+      "title": "Delhi on yellow alert! IMD predicts rainfall in these 9 states, replacing heatwave alerts",
+      "source": "Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLW0yUU9uXzlQUW5wcDk2SGEwSXZyZFNJOXBuSzVueWhHTm1lSnZCWGZOUnA3Tm9UOGwtMDhjS3ctaVNzOWZFZTlkM3UyNnh0NUNMQi1HTHdlcmlrYVhQRVdsR2xlZEJmWVJLTWl3ekhpNlp5ZW5CRldUVDlmUGlkTWZTZnRMdmEtdWtNVjBaUlYydnVZdTBaVzJlQjBXaW4yQ0hXbzNkVGxPX0VKUi15ZUl0ZG9uc0c0Mm1ZcjV5SWtpT2hITlBoaVRSbDNmd3lmYzBnZi1JalFzVnVOTE11b2hvWkplTXNmS2tYeEw0c1jSAfYBQVVfeXFMT1l5OXY1SFVSd2RJZ1hVdWhaLTV5NExLdk0yYWgwX2tvSE1VaWtZRzV0ZmdkZklNVHlZaXdaMmxpT2w5REtTM1VDUE96cXh2a1d5dFFvU1J0YVA1THhLaWpNbkFNRjRmVmIxbWc1OTlFRGMyMzMzdE83VEcxQkEtemM2ZUdNNklyQWNtWnJZQ1hCVmFoWHhuOGJhUTZfbGVGemNuRDRFN2xPdE9USlpfQlp0MGFNeGxWSzdobXBaYVFQZ2JYWk43djU1LUgtWVRlYWE5NUVTc3VLbnVlOElmYWFsMkttNkVHZ3FtVDBQRFVvaldwS0R3?oc=5",
+      "published": "Fri, 11 Apr 2025 07:00:00 GMT",
+      "summary": "Delhi on yellow alert! IMD predicts rainfall in these 9 states, replacing heatwave alerts&nbsp;&nbsp;Times of India"
+    },
+    {
+      "category": "weather",
+      "title": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal",
+      "source": "Mint",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEtVQlVic0NJNzhVWnJGUEM4X0FzRzBlOE1LbkNLbV9mcUVMZFNTeWlyQ1FBX2ZERTBOaFVLMk13NmU5ZURaUUZadXlSa0NPaHg4c1pVckN5ZkRQOXRFd2V6S3ZENFQ0Mm1OdnhFX2tlT1UyelBibmtZNGp1clozeHZEaTYyNFFxcE9WUzFKTkpLUm16cWFZc0EtYVRFV2x5dGt2RGNOSjR2NWk2WUlqaHBGcnFLX0VTdEJFeFkwd2ZOa1FDa1Z4YlJPUFk5MkF0M0tDUkxqZjdhWUloX0ItTG9ublo5b2JyYlg3Q2RNWWUzN2dNd3fSAfsBQVVfeXFMTTd1cVNBVS1KRi1qR1U0ZURYWVVqWWRZTWZGODlPLUI2d2dhTktkNm9sT2hsYjItVFJYZ0FfaUh4cl9GaWJYX3dQRUR5UFdOT2oxSnYwWUpMZnJxN3R2TlhXbUZ0c01MLTJCVFFMd3NZOHdteU9yR2lhVVFzSE12LUpyTEFVSksxNFM4eTQwUzVTdFBmeGR6TEpIUFpwSHJRYXNXczRPeVZBX1dmV3NVbklhME9EN2VPZ2hkbGZXZzZuNTUwT09ZU2E4QUo5WTkyZElHU24tZXMyYzd3U1ZZc2I0M0pIUEZ1UjQ2elZWSW9yTUlFZC1GOFZQWHc?oc=5",
+      "published": "Sat, 02 Mar 2024 08:00:00 GMT",
+      "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Mint"
+    },
+    {
+      "category": "weather",
+      "title": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGQxR3pmOW5lb1ZFQXJYbXZQTXljWWVwb1pPbW1jWTlKTEFiM05rNVl3ak51cEpSNHdRdDQ3QVM5M3o3bDkwa2VyczNxUktyTWd4X2hJZWlqU0RkQnlNZ2xNazZTWU11YVhDSUZyQTB6MFlYSTRzdUYyemNMMnA5RHc1aWJ1N1NOR0JTOGM1Y3FKMm5uUjM3OWtGai1GSGRNelc1QUtoZ2t5VEtfc0VTNWFqeUlmelczTE9kX2I2MkFfSldmS3UxdFlPbUp5WWJpaGlQQmZaUHVmQdIB3wFBVV95cUxOdFdzUTRlR3RSRWhfbjZJVzNHZ0ZmTEliWnpRLXowdl9KcWRmWU5NTGd1bkRMTmtmWFB1RjBwTXk3V19LQk9lcFVLdnVYOHJqVWpvNzhWc1VkLXN2aVRzaVJjNHN0el9vMmhHQ2g3Q0NZWWpSRGhOUFF5Y3hGV3d1NlpWZ1oxRW9Xbk13WmpEOUNreGd5Q0F6VUd3aUhGdHJndGtKdnFkck0tazk1WXY4THJsZTlzM0FiWU9lbW9UdlYzWXZ6QlJCZHl3VFBFcGw2bWJBUlhXS25Pc1FBTkE4?oc=5",
+      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
+      "summary": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "politics",
+      "title": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjNxSzZpVmZPa24tTzRVYm9Kc0k2dW9SNVZHcnJVWEFUNXdLd2tvWnRFcW9kbVgwNGgxSTNYRHZrMDJ5bTBWaFNCcmxnVFVYTUJWeGxUbnAwYnVBRDRMQ0czRmgxd3hfb3VmNGtRcHdLVkxHT2dIYUxIWkxaOFpKSi1jTmJZNUtMZmdLeERicDRGbzNJT0puMHU4UE5oU0loNGxMQVc3WEZoenV1SmRseWFEcFhLbUFNTEZ3ajV0TXBONmJtRHhyNVlSOVNuOG1XNm82NDRtLU52TFM2cEg00gHkAUFVX3lxTE5Sa3dsVnE0eVcwWkhUdE5lLTh5cVJadjlUNzh2MnJ6OTZVNmdBaURRenJJMGtZYjZOMGs0SFZ2WlF0TlJrcGR6Uno3MUh0YXJGZzN6NWNhVVlqWk9adXBsa24tel9MZG83WUY5Zmh6cVVRVV9VeFZpTnFoMFVJNFlYYWs2NXpubGo5NWljcU5mbHVNdW5MdlhaUUlhVXZFRlRGNW84VnJ1MlhaR2tTa3czLV9LQUx0YWZTbURWM2trNi1NeW5Oa1lseEs2dmZiREJvRUpFQ3J2WXNRelRYZmFIRktqQg?oc=5",
+      "published": "Tue, 03 Feb 2026 06:33:07 GMT",
+      "summary": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "politics",
+      "title": "General Naravane and Four Stars of Destiny: Row over former Indian army chief's unpublished memoir",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROEcybU1KMzdnVmZfcklXMnBnQ2dzVjNsQ19UTHpoVDA1Y1VPcUpJSnlfNUpXNUNOdmVsM0FydzUyUFJueHkwektSanJtSzBQNWZjUmx2X2h3UQ?oc=5",
+      "published": "Thu, 05 Feb 2026 03:23:38 GMT",
+      "summary": "General Naravane and Four Stars of Destiny: Row over former Indian army chief's unpublished memoir&nbsp;&nbsp;BBC"
     },
     {
       "category": "politics",
@@ -35,19 +155,35 @@
     },
     {
       "category": "politics",
-      "title": "Droupadi Murmu | Life, Education, Career, & Facts",
+      "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UaU1MLWN2czRuVHBuTHZKWkdNSU1rQ3NfVTJfaHF2VFdFcVAxY2ZEVk9xMWxXY0F4eW91YWJ1R1U5VXVCMWlxbERma1N4UGpCck9TOWh3ZWJzNlkycEdnQg?oc=5",
-      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "summary": "Droupadi Murmu | Life, Education, Career, & Facts&nbsp;&nbsp;Britannica"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
+      "published": "Sun, 11 Jan 2026 08:00:00 GMT",
+      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
-      "title": "Rahul Gandhi Criticises Election Commission During Parliament Session",
-      "source": "India News Network",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbk82R0J1YzJXanVGcjRRYlBxOElOd1BnLUtlUmtQdW9qRThqZDl5MVZSRkZKMk90SkRaNmZXQmloT2JoNHZVRE5MNEpSQmdIZUk2U3Q0OUhWdWNKdWF2cExwLUE5b2pTZ29nRURDN2dOc04zSFluX2VXaFhUYmNsMW5ob0p0UlNtQjFxVkJQYkxURzlOc0dfUDlSaExXVVdwSllNZ3BzTnNjNXRzUmN0NlpCMmc?oc=5",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Rahul Gandhi Criticises Election Commission During Parliament Session&nbsp;&nbsp;India News Network"
+      "title": "Politics latest: Police search Mandelson properties - as PM warns 'significant volume of material' needs to be reviewed",
+      "source": "Sky News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXR6UnZWRVpDTG1mcDNBVjFHOEtNWmN2RVdTRnE1TVFjT0RsLW1RYmpGZ3BmbjR4UEZKMVhfSVpmdDFtZG1JbkhlamdtWllkMmU1QloyMUk3VWtnY013aHhWTmdwRHVlNWRVRTFoazdJSjFzbnppNHBoUjE2Ym5tVkpLZDVSdHhUcGd2b0RrYXRNM0FE?oc=5",
+      "published": "Tue, 03 Feb 2026 23:00:00 GMT",
+      "summary": "Politics latest: Police search Mandelson properties - as PM warns 'significant volume of material' needs to be reviewed&nbsp;&nbsp;Sky News"
+    },
+    {
+      "category": "politics",
+      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
+      "source": "Citizens for Justice and Peace | CJP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
+      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
+      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
+    },
+    {
+      "category": "politics",
+      "title": "International students in UK higher education",
+      "source": "The House of Commons Library",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HNEFMcXdjUklPWnlxNzgzTUFhUGZQdVBqYlVXbWs1d040eWJLazA1bUJmTHJXTzRNNnNqM24xV3BNS0ZfLUtKTmtJUzlBZEcyWm1abktEWkwzeHB0NzZ1M3lwQnhBMmZsLVRoLVBaNTAycm8?oc=5",
+      "published": "Fri, 27 Jun 2025 07:00:00 GMT",
+      "summary": "International students in UK higher education&nbsp;&nbsp;The House of Commons Library"
     },
     {
       "category": "politics",
@@ -59,35 +195,11 @@
     },
     {
       "category": "politics",
-      "title": "Explained: India's one nation one election proposal",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdkd5aFNKMmdhd2pSdDVYUGlOX2FzbDk0YW42SVVVTHVDbjNSNTBORTZ0LUxNODA1QkdRU0lQWmlKakNtNmt0NVk5VDViS0hJVDJwZnp3aXYtZ9IBX0FVX3lxTFBIaVNmR3BQWERZMkpJb2xOcFl6RjVUSEdUQjh0VU1YTWZiXzdicXRzWWV6SkhRazNVMW1tRWtzSE8tbjJtOGVmb2RNaTV3R2J4a2dnUUZzQlg3T1h6QV9V?oc=5",
-      "published": "Tue, 17 Dec 2024 08:00:00 GMT",
-      "summary": "Explained: India's one nation one election proposal&nbsp;&nbsp;BBC"
-    },
-    {
-      "category": "politics",
-      "title": "Manmohan Singh | Biography, Reforms, Political Career, & Death",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aaGdjMXNhR0xVZjlzTC1ib0pGWDRWZTVCYm4wY0FZeEIzNFhYUTQtc0MtMlRlWjNieG93RE5kcHdNampKalAtak0tajhJZjBEMi1qRjJSYjQyeURfZzdoeA?oc=5",
-      "published": "Sat, 27 Dec 2025 08:00:00 GMT",
-      "summary": "Manmohan Singh | Biography, Reforms, Political Career, & Death&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
-      "title": "What does Maldives’ parliament elections mean for India and China?",
+      "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDUwdTJiR29SbnV2cWt3UC1CM0NoeUdmbi1xQ0ZlbS1LeXlwSVREVXFkbXJVazJKSTE5MHByY1JyejJJVGYxdHVqLU1sYXpiZFFGc2VNWS1pa2RRTkhELWQ4NF9OZ3k5TU16Y0VlQ2o4QlhfLWFhWlhGNVNMQjNTRVFrSmFFanFWRzhSZU4zTnJPRkZZaUdmczNjSnVXZ3E4WEdndFN3?oc=5",
-      "published": "Mon, 29 Apr 2024 07:00:00 GMT",
-      "summary": "What does Maldives’ parliament elections mean for India and China?&nbsp;&nbsp;orfonline.org"
-    },
-    {
-      "category": "politics",
-      "title": "India’s shock election result is a loss for Modi but a win for democracy",
-      "source": "Chatham House",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2Ezcmw1eU9fdmp2YjFReC1VYXdDUUFwRE9oMDRLTVVJdWpkU2ItNllMLWpjQ2RLMG9NUkR5NzBTNGo5b1pnS1JOY1RrMXVoQ2lUNGVQR2NxTjJZSWJKTzZTcF9BaVYzVjhQdVZ2Y2hlZmNZOXA4anRLbW1abTBWMG1rc1d2X2YwVTZyNlRBb2Fva2M?oc=5",
-      "published": "Thu, 06 Jun 2024 07:00:00 GMT",
-      "summary": "India’s shock election result is a loss for Modi but a win for democracy&nbsp;&nbsp;Chatham House"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
+      "published": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
     },
     {
       "category": "politics",
@@ -99,14 +211,6 @@
     },
     {
       "category": "politics",
-      "title": "The Tenth Jawahar Lal Nehru Memorial Lecture on \"Nehru and Parliamentary Democracy\" Delivered by the Hon'ble President of India Shri Pranab Mukherjee at Jawahar Lal Nehru University, New Delhi",
-      "source": "presidentofindia.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3JzTHE2WnQxb19xNmZDVXRua3A0S0RYR1QzaXRhMU9Fc1JHV0hOVTRON1ZaaE9MUE5nOFdMaDZQUnNjR2VpZW9fLXBWZFZMUGxQT2R1bnIxUlVUMVRhdVFYNXZBMjRJbTZiTVdFM0d6ZnRlNTJCLVRQNTJhVkcxVGJ1WDNNcUZMOTVwNnRkOFhmQzBHNXV1UE56d0gzVnlFcXU3Sk9GTmY4dTBPVW1Pa1dpWm9GMmJkQzZ4eTQ5LVU1c0ZY?oc=5",
-      "published": "Sat, 16 Nov 2024 04:21:55 GMT",
-      "summary": "The Tenth Jawahar Lal Nehru Memorial Lecture on \"Nehru and Parliamentary Democracy\" Delivered by the Hon'ble President of India Shri Pranab Mukherjee at Jawahar Lal Nehru University, New Delhi&nbsp;&nbsp;presidentofindia…"
-    },
-    {
-      "category": "politics",
       "title": "The States in Parliament",
       "source": "Vidhi Centre for Legal Policy",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nQlJIWWNsNmd5YWRUS2M2U3B6eTVQVjg3cFVBc0dQUW9vU1RDaW9IczdBRVE1S2ZnQzc1TlFwTGo1NUY2eExZWTA4bHR1OE13U2JNQUV1WEREckQyaFRuazFiS21icE12RU4tMlB3cw?oc=5",
@@ -115,27 +219,11 @@
     },
     {
       "category": "politics",
-      "title": "Mauritius’ Parliamentary Elections Hold a Crucial Lesson for India",
-      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGVsMjlCOE5QN0ZBMUQzQXJGaUNVOWZvQnJPZmcwVkd3eXVDVlVwbDFTc0FaMFZYN0NSRkg5YV9GUlNRcjcxQmc0SGZ3UjRsSDktb0VGR1dWUUVjb3VJd251QlpJOVdMZVJBLXdUWXFSSVFwYmJZbFExUHRUdzZfcWtacWpyTzA0QjJxNlpyOUpfY1hQaEpUYVpheFFfeG8?oc=5",
-      "published": "Wed, 20 Nov 2024 08:00:00 GMT",
-      "summary": "Mauritius’ Parliamentary Elections Hold a Crucial Lesson for India&nbsp;&nbsp;The Diplomat – Asia-Pacific Current Affairs Magazine"
-    },
-    {
-      "category": "economy",
-      "title": "Economic Survey 2025-26",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JRnpRVnJ1R0lTbEtUQWpxUDd1SDd5aTlZX3JtX0xZYjJ5bkF1NWRIYndpUktFb0YzMDYxWU1JeXlWdGhUT0UzNUw0YlJEOUU1MzJBOGNvVzBZV3VnNEktMFBIQW5YSUhk?oc=5",
-      "published": "Fri, 30 Jan 2026 09:47:00 GMT",
-      "summary": "Economic Survey 2025-26&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "economy",
-      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
-      "published": "Fri, 06 Feb 2026 04:32:17 GMT",
-      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
+      "title": "Why India’s south is fighting plans to overhaul parliament",
+      "source": "The Economist",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUNfTi1ObC1QNzNFYWNTM2NYRjJCNVdOdU5SQklvQmJmLUdmNDBuV0o2QmVFMVltVFYzLWt4NDEySnM4cWVvbXdvNzVDb2FuNUR2ZTZKYks1RnltQVhjRlVrT29JR3NEU1hXeGVTcUFBdV9OSk9EeHlQU0Vab2t3M2hBQndhSFhUMGZMVGlQeEQ0cF9QbnlnNk1uTkQwanNH?oc=5",
+      "published": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "summary": "Why India’s south is fighting plans to overhaul parliament&nbsp;&nbsp;The Economist"
     },
     {
       "category": "economy",
@@ -155,11 +243,27 @@
     },
     {
       "category": "economy",
+      "title": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVNfQXhabmVNamlOdFBJNVNhbEdDeFpIZVN6NEZXTXBYaVBiemtQUnptSFlZSjZTaUZpMHp1Mzd5RlZJblg1UnhnZnF6cHZRNFhob0FVVU01aUZwUmQ5UHJoQ0NMaHRON0Zvd3JTOGl3aDRLMlgwdWxIYnc2YWRKVjNBa3k2XzdrX1kyeUd5cmJZcEtncU9XV0FlS1N5TVY0a2RUS1cwX2hobVlMTUxOZjVpWUg4cVB6VkpERGsxV1N2Y2RFNjlTdHZhVHhrUi1PSVY2cDNoQnFxOW_SAeABQVVfeXFMUHBWSVNkRnQxM0huLTlLNlFHSXdfeFd0ak9GdEVlQlBNbVZDSGtlcDFTTDlTU0FHZmdLbG0wWTR1MmFnalN4YzFlT0g1ZGtBZVBkUlpOa3d5dTdMOW1CZTJTYTJBYjV1THdrem92RnhEZ3RvcV91eml6eFlqU2ZIcWktOThCVTdPRHBZeUpVU2hjV2RaaHJYTDMxelJvUUN2S1pHWWpRLVNvclp5LWVUT29OZHNWYVJCcHdWa3R3dmg5QVBsOUVraU5wVGlNT21kNWRkWEFTNTBiU1ZtdS1nYWo?oc=5",
+      "published": "Fri, 06 Feb 2026 05:09:24 GMT",
+      "summary": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "economy",
       "title": "RBI MPC Meeting Updates: Policy rate to remain low for a long period of time, says RBI Governor Sanjay Malhotra",
       "source": "Moneycontrol",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQ0w1QkQ4RWhlVFQ1bDZjNFNMVnpYam9hRGo2VmdpdEZaSGNwZjExblBvdTRlb05pVE9rWmpEUzVYUV9TX2dEVkhqd2k4TkdBNlNXNDlXZHo3bjd0d1V3eVMwMnJQVllMVC0yTjZWVUlhZTVYSEZzd3B5VTdVUE1zMHh4U084cHJnT1BfbDlGa0NrXzZlRVZGUkpXb0tsa0JwVjRGdjViMnRTek0wdWZyYUVfTG52UzlwODROR044UlhEbXJJQWdkLUY3WEZZYXFvTlBBRjBpLW9fZG9jMXBRdDhIdklHclAzNkdWdFphTUFhSDR4LVI3RERZYS1BY2ZRS0hSMGVVSUgyaG9MVnfSAZMCQVVfeXFMT2JCamg3OWtYV3piTlEtbUYxLWFCeEQzSVZZNEpzWXFKci1TUjBoVTgzbk9ZYTA5a1BnbW83czd4RjRZSlNSZ1E5TDhJMi1xZk5yOFZpVzNDU0R6b2p1ZDZ4c0ltaGdBTTN2WF8tdW5kam9hR3lhNUtMWFdib2tyM1FxNzBuYnZCOUdHMXdBTXhMLXJTRmdHdThfcUFDdWdkazloa2h5aUFCOVFpLUNrZ1ZnZUZESm92Z3daNU1Sb3loaEtDZEtUV2pqLUk2Z1ZGRWwzOVA2TzFLWFNEemVfdmNsUTR5MzdCWnhqaVdfSXZiRlVoaTJ6ektuRlg0Ym0xd2d2Y2RqZlZBUWVIS2ZCb0FDalk?oc=5",
       "published": "Fri, 06 Feb 2026 07:38:56 GMT",
       "summary": "RBI MPC Meeting Updates: Policy rate to remain low for a long period of time, says RBI Governor Sanjay Malhotra&nbsp;&nbsp;Moneycontrol"
+    },
+    {
+      "category": "economy",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlhrN19XOWhwR09OZDFwYjFGaVVoLXBuZmJWeWt1bDQ1OV9TdG1paUNPaDdlOFNUVEJnOTl5OGJacEU1am5FUXJ5TjE3bEdyeDdUZmpJaF85bjh0QnhwblNZVDdqSG1pa09KVjZhaXpBZHZhVzR3ZEtFcTRKWmI5VTFXR3E4TkZLcXc?oc=5",
+      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
@@ -179,19 +283,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook",
+      "title": "RBI Monetary Policy 2026 Highlights: India still in same sweet ‘goldilocks’ spot, growth looking even bet...",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVNfQXhabmVNamlOdFBJNVNhbEdDeFpIZVN6NEZXTXBYaVBiemtQUnptSFlZSjZTaUZpMHp1Mzd5RlZJblg1UnhnZnF6cHZRNFhob0FVVU01aUZwUmQ5UHJoQ0NMaHRON0Zvd3JTOGl3aDRLMlgwdWxIYnc2YWRKVjNBa3k2XzdrX1kyeUd5cmJZcEtncU9XV0FlS1N5TVY0a2RUS1cwX2hobVlMTUxOZjVpWUg4cVB6VkpERGsxV1N2Y2RFNjlTdHZhVHhrUi1PSVY2cDNoQnFxOW_SAeABQVVfeXFMUHBWSVNkRnQxM0huLTlLNlFHSXdfeFd0ak9GdEVlQlBNbVZDSGtlcDFTTDlTU0FHZmdLbG0wWTR1MmFnalN4YzFlT0g1ZGtBZVBkUlpOa3d5dTdMOW1CZTJTYTJBYjV1THdrem92RnhEZ3RvcV91eml6eFlqU2ZIcWktOThCVTdPRHBZeUpVU2hjV2RaaHJYTDMxelJvUUN2S1pHWWpRLVNvclp5LWVUT29OZHNWYVJCcHdWa3R3dmg5QVBsOUVraU5wVGlNT21kNWRkWEFTNTBiU1ZtdS1nYWo?oc=5",
-      "published": "Fri, 06 Feb 2026 05:09:24 GMT",
-      "summary": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
-      "title": "Press Note Details: Press Information Bureau",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlhrN19XOWhwR09OZDFwYjFGaVVoLXBuZmJWeWt1bDQ1OV9TdG1paUNPaDdlOFNUVEJnOTl5OGJacEU1am5FUXJ5TjE3bEdyeDdUZmpJaF85bjh0QnhwblNZVDdqSG1pa09KVjZhaXpBZHZhVzR3ZEtFcTRKWmI5VTFXR3E4TkZLcXc?oc=5",
-      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPSkZubTZwaTAtSGNyR1lUV2VyN2drWHpna2hjR2hnZzN0YllFcjBRWlJLdnEyekNVMFpxMGhvV2VUOWVWSFBZdjY2akdvUS01aVY2aGt2bFlnMjZQbTcxWWNaVThobDd2WDB1LUtxaE95bzRWSy1yN2RkS3B6aEg0cWNZckZOM1Nqc005QkdSSnNWRnBhaXRtOHFfRXZldmUtSDJRUC1KVU5Xb1ZXS0o2TTFQajZlWnEyaTN1M0dEVXdFbGlKTTlEejF5QmhOalk2aUZqem45TEg2X0dadGV5UWw4eEdyYTVCSUN1UU43MnRFZm9VNDctSTNvc3FnZVFwRG11UkowU3haNjR4NzBzUWV1VkNyTDd5QlFQbXQ5VWhRajQ5bjhSV3dQRdIBsAJBVV95cUxQcXB2UkZlUHNRWTFTWkkzRkdtS282M1lHOGo4cUE0dDZEM2x2Q2ZsRGVSLW5UOGZZMVFlREN3aTZtdWhGdWtBZ2lMS0xZN1MzYTIwNlA0czFfNlZMUTVYck12UUx3Vm5ZZFJ6Vml0TENmSW1fZ0xnWEI1Snk0eVltU0lwcVdwa2NUTXphRjdLMm1VbGlGbURXd1NRa0JIQnpBVGJ1ZHFuVnNYbW9WUzhSWXlNaXYzNXozekVsRExxTFlGZ1FsSXlZb0F3N0pJdjBHdTc4bGhtWW9CaGpiaW0zMThhNkV6NDBDdEUwUTdUT3dRSTZyMXVlNTlLaGlQenpJMmhGWm5iWDREWlY0LTZ0S21QR1RYLTNCVEJnTDVhMEpYM3d0cUVSUmxBX0dQd2RC?oc=5",
+      "published": "Fri, 06 Feb 2026 08:18:29 GMT",
+      "summary": "RBI Monetary Policy 2026 Highlights: India still in same sweet ‘goldilocks’ spot, growth looking even bet...&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
@@ -203,6 +299,14 @@
     },
     {
       "category": "economy",
+      "title": "RBI repo rate decision & India’s economic outlook: From GDP growth to inflation and forex reserves - Key points",
+      "source": "ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbmJrbkFpdmZsRmhwSDFlamNMYjBsS0JiS0tTcjVkZUFyOXlpbWNLNXRlOTEtbm5xenBUSE1majdfWkVkQ1hpRmU1WnFPM2Q3emdMcTVTWEdLNm9icWF6X2JlQy1lelhvNEktNXpJZlRLSGQtVEJrWFJLamVtZDlWVHBtVTk0QjFWVkNPXzBFZW85UVkzbnV1M21QV21OcnpjdzVVaDFHS3Z5cXFMT21HdUZJaUE2SnNPTk9xYzJmR2hoRHpTZTh6emdUMzZfOUFRZmJaM2RUTmpFcmVHTWpWU2dsdGVxTjJsU3pvaW1R0gHzAUFVX3lxTE5YRUJmNmw1RFhVUm9JcnhxMEZESmhwSHo5Ykt0WVhnQzU4VE90Z0hEaDhTNUxLZGVBTWdHbndmX0RRUlVrZk5PTlU1eloyRExMX1U4V1E3eGhIT3FzdTZweGtzdHlBTFNvOVVjR1dpS1Y2aE91cDF6X0I5RTMxUmhaTVZ1XzRNRWhrTFB6QTkxenMzbklaeVZXS0xWd19CV240QWlodWkxQWU3MExQSDQwQmk0U0tsbnVTV1o5cS01a3FqTEFEOERRUUpGZ0ZWajB0b2J4RG5MZ25EUVoxYjI0RGxmaEs5cU5FTC1jeDJ5T2ZEOA?oc=5",
+      "published": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "summary": "RBI repo rate decision & India’s economic outlook: From GDP growth to inflation and forex reserves - Key points&nbsp;&nbsp;ET Now"
+    },
+    {
+      "category": "economy",
       "title": "Inflation is dead (for now): Why the RBI just slashed rates to 2%",
       "source": "The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejQ3WURtR2RUdUpKODVoT0lvMU42Rjgxb1pWdm9mamd3SXNiTlFOME9SOWY1c0l0ZGlEci1Ja3M3aU5uWkYwcV9kdGpESUs1RExVb2g5dDAtU0RCNU0wdzlKeW04N3ZtSXJiend2b0pQdlZoSHRMcFE3ckgtdllpX1Z5aXFLN0YwTzFMVXNLTTdxelFpYXFySktCeFhETTV5ZWJMOFY0UGFmZHA5cnlzTE43YXh2aU9ZdjZMUUtBT1BGclFzdWlyd0h30gHQAUFVX3lxTFBjNmRSYVIzY2hCc21iQ0pCSXVNcVI1TlJyZGs1ay1lWGFwY1lNYkMtazJ6T2JVY2RSVXBwZ3puRUJDaHFxMHVKYjF4bWpzYXlLMVdiV3g4Ukl1ZlVRc3BRaHlZRS1zRzUzY0RGeWY4a241RlBhR3hRNUZyOTRRblpDNVJuU0RQRHVTS3lPdEpaTUp6aDZ3OXBuUEFOdGNObUM0NElaa0diU3M1TC1IT2NMcGlNTTNHSDZFNC1DYnhxeEVwY1JJX0U0WVZYRm1Gekc?oc=5",
@@ -211,11 +315,11 @@
     },
     {
       "category": "economy",
-      "title": "GDP grows at 8.2%, fastest in 6 quarters: What the data really says about Indian economy - explained",
-      "source": "Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRVRWdDA4aE5EcV9pWEhkMDZVaXZpRDVOMEpfcUhmbXdLcjc0dm5xVFJGeXlGcWI5Uk5JNFJ3S1JrdUlFMW1TdldQZzZiM0xBUXVTMFR3TDRHb1BIYm9GMDBNOUQ3VnRHTUhzWmtMZHd2dlNfbDJ6b3NjVG5DN3BIaW5ETk1Na3M1N2ZXSTF6SjVHY3l2WTZ5eHpRNGgtWExBUi12LWZLVnhsWlJqMzk4cW1VVkRCZ0xoUXcxQndzR3ZiNGpqUnlBUUIzMmw1QWlWUG5TekdWNFpfeGFQc21kdEdpQjNFb2R1ZjZRS3lIVmd2cWYtQVFHMkF4bkRxN3k0d1pUcklydmQyaDdBX0HSAZMCQVVfeXFMUF94SGxHX3V4SjlhZ3J2Z3FGSUFQRnpaU2tIMEx2c2gyUkNVU3poc2h6RHoyVTlOT052cnEweE5ZcEkwMFF1YnA4MzhkZ0xEeG9ySVRndE1BR0VMYXZTaXoya0FSdERGcm93RVZfOWlCSkRGbXREaUtZN29JYWtlaFpuSTlwR0hONGVXZFRHUUMyMjJjZmJXU085emRSNjZVWUZibk9ERU5KWUJsWXVtcVZOUFVwV3VTaEJHMXgzTEhxVkRIVzVQX09TMDlkSWNQWHRBN2g0Y0JPM0FGaTZmR1RKRTU1TTNpSlB5YlJTaF9WdDlJX05HbnQ0bTNpdkZLNGcxSjlzVzFsQjRtWVRtZmJmWjg?oc=5",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "GDP grows at 8.2%, fastest in 6 quarters: What the data really says about Indian economy - explained&nbsp;&nbsp;Times of India"
+      "title": "RBI Holds Rates, Lifts Inflation Estimates And Expands MSME Support: Key Takeaways",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnBnOFVMel9SQVF4X2YwMXJHTVZndlBMTEZQTkJTZDJ6M2VsUkR1enRGN2M1VEkwRlRvSzB1VWdWZktxRVFxOVRTRDlIdmxuc2huVmZDeXhfa050S0Q2NXROV2RaUjI4am8xbmJ0TWFrN0xUc2hqLTY4aG1ickZ0YTlrN2hBSnFtZUs5eWNyZF9jTGl1dW1DRW00THRwYTBiWER1aHAtc2sxZUZHSUJDX1Myd2R3R1lUUm5zWGFmQmtyY0kzTDQxMzN5eEdYN1A1bEtqYzA0MDBHang4NFJZ0gHnAUFVX3lxTE5XeG9oVTFibm5pdzViNkNISi1TbS04aU1zVzBPRTlyN2NvZkExMm52aFBscHQ0bURaWVBtUVAzRFFrQWxibS1PUGVvc0tfME90UDFNQUpuRFBFWFlFU2hKUzdnLU5OaElORUprTXJ4R3J0ZjR5VENselBwR2JicmZaNE1CaHJNSVdjY1ZpMXR4UnJ1RGt6T254aWtUMldtc0hjdnppTHV0UVozSlVTdWlnRGpjYnRmMEVjS0FRLW1BaDk5MkJ0cGIxZGdmTlhMZThRdDMwWFpQQjhrWENycTVrYzdXOWIzOA?oc=5",
+      "published": "Fri, 06 Feb 2026 05:22:13 GMT",
+      "summary": "RBI Holds Rates, Lifts Inflation Estimates And Expands MSME Support: Key Takeaways&nbsp;&nbsp;NDTV Profit"
     }
   ]
 }
