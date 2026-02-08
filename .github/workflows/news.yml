@@ -77,7 +77,6 @@ jobs:
   "economy": "India economy inflation RBI GDP budget stock market"
 }
 
-
           def google_rss(query):
             import urllib.parse
             q = urllib.parse.quote(query)
@@ -107,4 +106,5 @@ jobs:
           git add assets/news.json
           git diff --cached --quiet || git commit -m "chore: update news.json"
           git push
+
 
