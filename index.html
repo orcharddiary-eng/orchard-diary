@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Orchard Diary | Apple Advisory</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 </head>
 
@@ -15,13 +15,11 @@
 <header class="site-header">
   <div class="container header-wrap">
 
-    <!-- Logo + Brand -->
-    <a class="brand" href="index.html">
+    <a class="brand" href="index.html" aria-label="Orchard Diary Home">
       <img src="images/logo.png" class="brand-logo" alt="Orchard Diary Logo">
-      </a>
+    </a>
 
-    <!-- Navigation -->
-    <nav class="site-nav">
+    <nav class="site-nav" aria-label="Primary">
       <a href="index.html">Home</a>
       <a href="pest-alerts.html">Pest Alerts</a>
       <a href="advisories.html">Advisories</a>
@@ -33,6 +31,7 @@
   </div>
 </header>
 
+<!-- ================= HERO ================= -->
 <section class="hero-premium">
   <div class="hero-inner">
     <div class="container">
@@ -52,15 +51,12 @@
           <a class="btn btn-secondary" href="advisories.html">Seasonal Advisory</a>
         </div>
 
-        <div class="hero-scroll">
-          <div class="scroll-mouse"></div>
-          <span>Scroll for updates & resources</span>
-        </div>
-
       </div>
     </div>
   </div>
 </section>
+
+<!-- ================= ALERT TICKER ================= -->
 <section class="alert-ticker">
   <div class="container ticker-wrap">
     <div class="ticker-badge">LATEST</div>
@@ -75,24 +71,29 @@
 
     <a class="ticker-cta" href="pest-alerts.html">Open Alerts</a>
   </div>
-  </section>
+</section>
+
+<!-- ================= NEWS SECTION ================= -->
 <section class="news-tabs">
   <div class="container">
     <div class="tabs-head">
       <h2>News Updates</h2>
-      <p style="opacity:0.85;">Auto-updated headlines grouped: Pest, Government, Weather, Politics & Economy.</p>
+      <p style="opacity:0.85;">
+        Auto-updated headlines grouped: Pest, Government, Weather, Politics & Economy.
+      </p>
     </div>
 
     <div class="tabs-bar">
-      <button class="tab-btn active" type="button" data-tab="pest">Pest</button>
-      <button class="tab-btn" type="button" data-tab="govt">Govt</button>
+      <button class="tab-btn" type="button" data-tab="pest">Pest</button>
+      <button class="tab-btn active" type="button" data-tab="govt">Govt</button>
       <button class="tab-btn" type="button" data-tab="weather">Weather</button>
       <button class="tab-btn" type="button" data-tab="politics">Politics</button>
       <button class="tab-btn" type="button" data-tab="economy">Economy</button>
     </div>
-<div style="text-align:center; font-weight:800; color:rgba(0,0,0,0.55); margin-bottom:8px;">
-  Curated from Google News • Updated automatically
-</div>
+
+    <div style="text-align:center; font-weight:800; color:rgba(0,0,0,0.55); margin-bottom:8px;">
+      Curated from Google News • Updated automatically
+    </div>
 
     <div id="newsStatus" class="news-status">Loading latest updates…</div>
     <div id="newsGrid" class="news-grid"></div>
@@ -102,69 +103,6 @@
     </div>
   </div>
 </section>
-
-
-<!-- ================= HOME SLIDESHOW ================= -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const slider = document.querySelector(".slider");
-  const slides = Array.from(document.querySelectorAll(".slide"));
-  const prev = document.querySelector(".slider-btn.prev");
-  const next = document.querySelector(".slider-btn.next");
-
-  if (!slider || slides.length === 0 || !prev || !next) return;
-
-  let i = slides.findIndex(s => s.classList.contains("active"));
-  if (i < 0) i = 0;
-
-  function show(idx){
-    slides.forEach(s => s.classList.remove("active"));
-    slides[idx].classList.add("active");
-    i = idx;
-  }
-
-  prev.addEventListener("click", () => show((i - 1 + slides.length) % slides.length));
-  next.addEventListener("click", () => show((i + 1) % slides.length));
-
-  // ✅ Autoplay (works on mobile too)
-  let timer = setInterval(() => show((i + 1) % slides.length), 4500);
-
-  function resetTimer(){
-    clearInterval(timer);
-    timer = setInterval(() => show((i + 1) % slides.length), 4500);
-  }
-
-  prev.addEventListener("click", resetTimer);
-  next.addEventListener("click", resetTimer);
-
-  // ✅ Swipe support (mobile)
-  let startX = 0;
-  let isTouch = false;
-
-  slider.addEventListener("touchstart", (e) => {
-    isTouch = true;
-    startX = e.touches[0].clientX;
-  }, { passive: true });
-
-  slider.addEventListener("touchend", (e) => {
-    if(!isTouch) return;
-    const endX = e.changedTouches[0].clientX;
-    const diff = endX - startX;
-
-    // swipe threshold
-    if (Math.abs(diff) > 40) {
-      if (diff < 0) next.click(); // swipe left = next
-      else prev.click();          // swipe right = prev
-      resetTimer();
-    }
-    isTouch = false;
-  }, { passive: true });
-
-  // Start on first active
-  show(i);
-});
-</script>
-
 
 <!-- ================= ABOUT ================= -->
 <section class="about">
@@ -178,31 +116,13 @@ document.addEventListener("DOMContentLoaded", function () {
     <p>
       <span class="lang-en">
         Orchard Diary is a dedicated knowledge platform created for apple growers of North India.
-        Our goal is to provide practical, science-based orchard management guidance that farmers
-        can easily apply in their fields. We share timely pest alerts, disease identification,
-        seasonal advisories, fertigation planning, and modern production techniques.
+        We provide practical, science-based orchard management guidance that farmers can apply
+        directly in the field—pest alerts, disease identification, seasonal advisories and more.
       </span>
-
       <span class="lang-hi">
         ऑर्चर्ड डायरी उत्तर भारत के सेब उत्पादकों के लिए बनाया गया एक ज्ञान मंच है।
-        हमारा उद्देश्य वैज्ञानिक और व्यावहारिक बागवानी सलाह प्रदान करना है जिसे किसान
-        आसानी से अपने खेतों में लागू कर सकें।
-      </span>
-    </p>
-
-    <br>
-
-    <p>
-      <span class="lang-en">
-        Through regular updates, articles and field-based recommendations, we aim to help growers
-        reduce losses, manage pests effectively, improve fruit quality and ultimately increase income.
-        Orchard Diary works as your digital extension advisor — always available when you need support.
-      </span>
-
-      <span class="lang-hi">
-        नियमित अपडेट, लेख और फील्ड आधारित सिफारिशों के माध्यम से हम किसानों को नुकसान कम करने,
-        कीटों का बेहतर प्रबंधन करने, फल की गुणवत्ता सुधारने और आय बढ़ाने में मदद करते हैं।
-        ऑर्चर्ड डायरी आपके डिजिटल सलाहकार की तरह हमेशा उपलब्ध है।
+        यहाँ आपको वैज्ञानिक और व्यावहारिक बागवानी सलाह मिलती है—कीट अलर्ट, रोग पहचान,
+        मौसमी सलाह और अन्य महत्वपूर्ण जानकारियाँ।
       </span>
     </p>
 
@@ -210,65 +130,44 @@ document.addEventListener("DOMContentLoaded", function () {
 </section>
 
 <!-- ================= FOUNDER SECTION ================= -->
-
 <section>
   <div class="container founder-card">
 
-    <!-- Photo -->
-   <img src="images/founder.jpg" class="founder-photo" alt="Pawan">
+    <!-- ✅ Founder Photo -->
+    <img src="images/founder.jpg" class="founder-photo" alt="Pawan">
+
     <div>
 
-      <!-- Quote -->
       <p class="founder-quote">
         "Helping apple growers grow smarter, not harder."
       </p>
 
       <h2>About the Founder</h2>
-
       <h3>Pawan Kumar</h3>
 
       <p>
-        I hold a Master’s degree (M.Sc.) in Fruit Science and have several years of
-        professional experience in horticulture and apple production systems. My work
-        combines scientific research knowledge with practical field-level solutions
-        for orchard growers.
+        I hold a Master’s degree (M.Sc.) in Fruit Science and have several years of professional
+        experience in horticulture and apple production systems. I combine scientific knowledge with
+        practical, field-level solutions for orchard growers.
       </p>
 
       <p>
-        I specialize in fertigation planning, pest and disease diagnosis, orchard
-        nutrition management, canopy training, pruning systems and modern
-        high-density plantation techniques. I have closely worked with farmers to
-        improve productivity, reduce crop losses and enhance fruit quality.
+        I specialize in fertigation planning, pest & disease diagnosis, orchard nutrition management,
+        canopy training, pruning systems and modern high-density plantation techniques.
       </p>
 
-      <p>
-        Through Orchard Diary, my mission is to provide reliable, easy-to-understand
-        and science-based advisory services so that every apple grower can make
-        informed decisions and achieve higher yields and profitability.
-      </p>
+      <p>📍 Mandi, Himachal Pradesh</p>
 
-      <!-- Updated location only -->
-      <p>
-        📍 Mandi, Himachal Pradesh
-      </p>
-
-      <!-- Buttons -->
       <div class="founder-buttons">
-
-        <a href="https://www.linkedin.com/in/pawan9414" target="_blank" class="btn-linkedin">
-          <svg viewBox="0 0 24 24">
-            <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM6.814 20.452H3.861V9h2.953v11.452z"/>
-          </svg>
+        <a href="https://www.linkedin.com/in/pawan9414" target="_blank" class="btn-linkedin" rel="noopener">
           LinkedIn Profile
         </a>
-
         <a href="contact.html" class="btn-contact">Contact Me</a>
-
       </div>
 
-      <!-- Animated Signature -->
+      <!-- ✅ Signature (fixed) -->
       <div class="signature-wrap">
-        < src="images/signature.png" class="founder-signature" alt="Signature">
+        <img src="images/signature.png" class="founder-signature" alt="Signature">
       </div>
 
     </div>
@@ -276,91 +175,7 @@ document.addEventListener("DOMContentLoaded", function () {
   </div>
 </section>
 
-<!-- ================= LATEST UPDATES ================= -->
-<section class="about">
-  <div class="container">
-    <div class="section-title">
-      <h2>
-        <span class="lang-en">Latest Updates</span>
-        <span class="lang-hi">नवीनतम अपडेट</span>
-      </h2>
-      <a href="articles.html">
-        <span class="lang-en">View all →</span>
-        <span class="lang-hi">सभी देखें →</span>
-      </a>
-    </div>
-
-    <div class="grid-3">
-      <div class="mini-card">
-        <h3><span class="lang-en">Woolly Aphid Alert</span><span class="lang-hi">वूली एफिड अलर्ट</span></h3>
-        <p><span class="lang-en">How to identify cottony colonies and manage early infestations.</span><span class="lang-hi">रूई जैसे गुच्छों की पहचान और शुरुआती नियंत्रण।</span></p>
-        <p><a href="pest-alerts.html"><span class="lang-en">Read →</span><span class="lang-hi">पढ़ें →</span></a></p>
-      </div>
-
-      <div class="mini-card">
-        <h3><span class="lang-en">White Peach Scale</span><span class="lang-hi">व्हाइट पीच स्केल</span></h3>
-        <p><span class="lang-en">Scratch test + crawler stage timing for best control.</span><span class="lang-hi">स्क्रैच टेस्ट + क्रॉलर चरण पर नियंत्रण।</span></p>
-        <p><a href="pest-alerts.html"><span class="lang-en">Read →</span><span class="lang-hi">पढ़ें →</span></a></p>
-      </div>
-
-      <div class="mini-card">
-        <h3><span class="lang-en">Winter Advisory Checklist</span><span class="lang-hi">सर्दी सलाह चेकलिस्ट</span></h3>
-        <p><span class="lang-en">Pruning, sanitation, dormant spray and frost protection.</span><span class="lang-hi">छंटाई, सफाई, डॉर्मेंट स्प्रे और पाला सुरक्षा।</span></p>
-        <p><a href="advisories.html"><span class="lang-en">Read →</span><span class="lang-hi">पढ़ें →</span></a></p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ================= SEASON HIGHLIGHT ================= -->
-<section>
-  <div class="container">
-    <div class="highlight">
-      <h2>
-        <span class="lang-en">Season Focus: Winter Orchard Preparation</span>
-        <span class="lang-hi">सीजन फोकस: सर्दियों में बाग की तैयारी</span>
-      </h2>
-      <p>
-        <span class="lang-en">Follow a simple checklist: pruning → sanitation → dormant spray → nutrition planning → frost protection.</span>
-        <span class="lang-hi">सरल चेकलिस्ट अपनाएँ: छंटाई → सफाई → डॉर्मेंट स्प्रे → पोषण योजना → पाला सुरक्षा।</span>
-      </p>
-      <p style="margin-top:12px;">
-        <a href="advisories.html" style="color:#fff; font-weight:700; text-decoration:underline;">
-          <span class="lang-en">Open Winter Advisory →</span>
-          <span class="lang-hi">सर्दी सलाह खोलें →</span>
-        </a>
-      </p>
-    </div>
-  </div>
-</section>
-
-<!-- ================= SUBSCRIPTION ================= -->
-<section class="about">
-  <div class="container">
-    <h2>
-      <span class="lang-en">Get Alerts on Email</span>
-      <span class="lang-hi">ईमेल पर अलर्ट प्राप्त करें</span>
-    </h2>
-    <p>
-      <span class="lang-en">Subscribe to receive pest alerts and seasonal advisories (we’ll connect this to a service later).</span>
-      <span class="lang-hi">कीट चेतावनी और मौसमी सलाह के लिए सब्सक्राइब करें (बाद में इसे सर्विस से जोड़ेंगे)।</span>
-    </p>
-
-    <div class="sub-form">
-      <input type="email" placeholder="Your email">
-      <button type="button">
-        <span class="lang-en">Subscribe</span>
-        <span class="lang-hi">सब्सक्राइब</span>
-      </button>
-    </div>
-
-    <div class="sub-note">
-      <span class="lang-en">Note: This is a UI for now. We can connect it to Formspree/Mailchimp later.</span>
-      <span class="lang-hi">नोट: यह अभी UI है। बाद में इसे Formspree/Mailchimp से जोड़ेंगे।</span>
-    </div>
-  </div>
-</section>
-  <!-- ================= FEATURED ARTICLES SLIDER ================= -->
+<!-- ================= FEATURED ARTICLES SLIDER ================= -->
 <section>
   <div class="container">
     <div class="section-title">
@@ -385,7 +200,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <span class="lang-hi">हाई डेंसिटी सेब बाग: पूर्ण सेटअप</span>
             </h3>
             <p>
-              <span class="lang-en">Rootstock, spacing, trellis, training and drip-fertigation—explained step-by-step.</span>
+              <span class="lang-en">Rootstock, spacing, trellis, training and drip-fertigation—step-by-step.</span>
               <span class="lang-hi">रूटस्टॉक, दूरी, ट्रेलिस, ट्रेनिंग और ड्रिप-फर्टिगेशन—स्टेप-बाय-स्टेप।</span>
             </p>
             <a href="article-high-density.html">
@@ -442,285 +257,18 @@ document.addEventListener("DOMContentLoaded", function () {
     </div>
   </div>
 </section>
-<!-- ================= PREMIUM SERVICES ================= -->
-<section class="services-section">
-<div class="container">
-
-<h2 style="text-align:center;">Services & Support</h2>
-
-<div class="services-grid">
-
-<!-- Pest -->
-<div class="service-card">
-  <div class="service-badge badge-green">
-    <svg viewBox="0 0 24 24"><path d="M4 14c4-8 12-8 16 0M12 2v20"/></svg>
-  </div>
-  <h3>Pest & Disease Diagnosis</h3>
-  <p>Scientific identification and effective control strategies for orchard pests and diseases.</p>
-</div>
-
-<!-- Fertigation -->
-<div class="service-card">
-  <div class="service-badge badge-blue">
-    <svg viewBox="0 0 24 24"><path d="M12 2C8 8 6 11 6 14a6 6 0 0012 0c0-3-2-6-6-12z"/></svg>
-  </div>
-  <h3>Fertigation Planning</h3>
-  <p>Balanced drip fertigation schedules and nutrient management programs.</p>
-</div>
-
-<!-- Orchard -->
-<div class="service-card">
-  <div class="service-badge badge-orange">
-    <svg viewBox="0 0 24 24"><path d="M12 3l4 6H8l4-6zM12 9v12"/></svg>
-  </div>
-  <h3>Orchard Planning</h3>
-  <p>High-density plantation design, pruning systems and canopy management.</p>
-</div>
-
-<!-- Consulting -->
-<div class="service-card">
-  <div class="service-badge badge-red">
-    <svg viewBox="0 0 24 24"><path d="M4 20h16M6 16V8m6 8V4m6 12v-6"/></svg>
-  </div>
-  <h3>Consulting & Advisory</h3>
-  <p>Expert orchard consultation to improve yield, quality and profitability.</p>
-</div>
-
-<!-- Spray -->
-<div class="service-card">
-  <div class="service-badge badge-purple">
-    <svg viewBox="0 0 24 24"><path d="M3 12h18M8 8v8M16 8v8"/></svg>
-  </div>
-  <h3>Spray Scheduling</h3>
-  <p>Timely spray programs for pests, diseases and nutrition management.</p>
-</div>
-
-<!-- Support -->
-<div class="service-card">
-  <div class="service-badge badge-teal">
-    <svg viewBox="0 0 24 24"><path d="M21 15a4 4 0 01-4 4H7l-4 3V7a4 4 0 014-4h10a4 4 0 014 4z"/></svg>
-  </div>
-  <h3>Farmer Support</h3>
-  <p>Instant help through WhatsApp, photos and continuous guidance.</p>
-</div>
-
-</div>
-
-<!-- CTA -->
-<div style="text-align:center;">
-  <a href="contact.html" class="consult-btn">Book Consultation</a>
-</div>
-
-<!-- Stats -->
-<div class="stats">
-  <div>
-    <div class="stat-number">500+</div>
-    <div class="stat-label">Farmers Supported</div>
-  </div>
-  <div>
-    <div class="stat-number">100+</div>
-    <div class="stat-label">Orchards Managed</div>
-  </div>
-  <div>
-    <div class="stat-number">5+</div>
-    <div class="stat-label">Years Experience</div>
-  </div>
-  <div>
-    <div class="stat-number">24/7</div>
-    <div class="stat-label">Guidance</div>
-  </div>
-</div>
-
-</div>
-</section>
-
 
 <!-- ================= FOOTER ================= -->
 <footer>
-  © 2026 Orchard Diary | Shimla, Himachal Pradesh, India
+  © 2026 Orchard Diary | Himachal Pradesh, India
 </footer>
-
 
 <!-- ================= WHATSAPP ================= -->
-<a href="https://wa.me/919816115314" class="whatsapp">💬</a>
+<a href="https://wa.me/919816115314" class="whatsapp" aria-label="WhatsApp">💬</a>
 
-
-<!-- ================= LANGUAGE TOGGLE SCRIPT ================= -->
-<script>
-/* ---------- Language Toggle ---------- */
-(function(){
-  const btn = document.getElementById("langToggle");
-  function setLang(lang){
-    document.querySelectorAll(".lang-en").forEach(el => el.style.display = (lang==="en") ? "" : "none");
-    document.querySelectorAll(".lang-hi").forEach(el => el.style.display = (lang==="hi") ? "" : "none");
-    localStorage.setItem("lang", lang);
-    btn.innerText = (lang==="en") ? "हिंदी" : "English";
-  }
-  setLang(localStorage.getItem("lang") || "en");
-  btn.addEventListener("click", () => {
-    const cur = localStorage.getItem("lang") || "en";
-    setLang(cur === "en" ? "hi" : "en");
-  });
-})();
-
-</script>
+<!-- ================= NEWS SCRIPT (default GOVT + category images) ================= -->
 <script>
 (function(){
-  const slides = document.getElementById("slides");
-  const slider = document.getElementById("featuredSlider");
-  const prevBtn = document.getElementById("prevBtn");
-  const nextBtn = document.getElementById("nextBtn");
-  const dotsWrap = document.getElementById("dots");
-  if(!slides || !slider) return;
-
-  const total = slides.children.length;
-  let i = 0;
-  let timer = null;
-
-  // Build dots
-  for(let d=0; d<total; d++){
-    const dot = document.createElement("div");
-    dot.className = "dot" + (d===0 ? " active" : "");
-    dot.addEventListener("click", ()=> goTo(d));
-    dotsWrap.appendChild(dot);
-  }
-  const dots = [...dotsWrap.children];
-
-  function render(){
-    slides.style.transform = `translateX(-${i*100}%)`;
-    dots.forEach((dot, idx)=> dot.classList.toggle("active", idx===i));
-  }
-
-  function goTo(n){
-    i = (n + total) % total;
-    render();
-  }
-
-  function next(){ goTo(i+1); }
-  function prev(){ goTo(i-1); }
-
-  nextBtn.addEventListener("click", next);
-  prevBtn.addEventListener("click", prev);
-
-  // Auto-slide
-  function start(){
-    stop();
-    timer = setInterval(next, 5000);
-  }
-  function stop(){
-    if(timer) clearInterval(timer);
-    timer = null;
-  }
-
-  slider.addEventListener("mouseenter", stop);
-  slider.addEventListener("mouseleave", start);
-  slider.addEventListener("touchstart", stop, {passive:true});
-  slider.addEventListener("touchend", start, {passive:true});
-
-  start();
-})();
-</script>
-<script>
-(function(){
-  const ss = document.getElementById("homeSS");
-  if(!ss) return;
-
-  const track = ss.querySelector(".ss-track");
-  const slides = Array.from(track.querySelectorAll(".ss-slide"));
-  const prev = ss.querySelector(".prev");
-  const next = ss.querySelector(".next");
-  const dotsWrap = document.getElementById("homeSSDots");
-
-  let idx = 0;
-  let timer = null;
-
-  // dots
-  slides.forEach((_, i)=>{
-    const d = document.createElement("div");
-    d.className = "ss-dot" + (i===0 ? " active" : "");
-    d.addEventListener("click", ()=>go(i));
-    dotsWrap.appendChild(d);
-  });
-  const dots = Array.from(dotsWrap.querySelectorAll(".ss-dot"));
-
-  function update(){
-    track.style.transform = `translateX(-${idx * 100}%)`;
-    dots.forEach((d,i)=>d.classList.toggle("active", i===idx));
-  }
-
-  function go(i){
-    idx = (i + slides.length) % slides.length;
-    update();
-    reset();
-  }
-
-  prev.addEventListener("click", ()=>go(idx - 1));
-  next.addEventListener("click", ()=>go(idx + 1));
-
-  // swipe
-  let startX = 0;
-  ss.addEventListener("touchstart", (e)=> startX = e.touches[0].clientX, {passive:true});
-  ss.addEventListener("touchend", (e)=>{
-    const endX = e.changedTouches[0].clientX;
-    const diff = endX - startX;
-    if(Math.abs(diff) > 45){
-      go(diff > 0 ? idx - 1 : idx + 1);
-    }
-  }, {passive:true});
-
-  // autoplay
-  function auto(){ timer = setInterval(()=>go(idx + 1), 4200); }
-  function reset(){ if(timer) clearInterval(timer); auto(); }
-  auto();
-})();
-</script>
-<footer class="site-footer">
-  <div class="container">
-
-    <div class="footer-grid">
-
-      <div class="footer-brand">
-        <img src="images/logo.png" alt="Orchard Diary">
-        <p>
-          Orchard Diary is a professional platform dedicated to apple orchard management,
-          pest alerts and seasonal advisories to support growers with practical guidance.
-        </p>
-      </div>
-
-      <div class="footer-links">
-        <div class="footer-title">Quick Links</div>
-        <a href="pest-alerts.html">Pest Alerts</a>
-        <a href="advisories.html">Advisories</a>
-        <a href="articles.html">Articles</a>
-        <a href="calendar.html">Monthly Calendar</a>
-        <a href="contact.html">Contact</a>
-      </div>
-
-      <div class="footer-contact">
-        <div class="footer-title">Contact</div>
-        <p>Email: orcharddiary@gmail.com</p>
-        <p>Location: Shimla, Himachal Pradesh</p>
-        <p>
-          LinkedIn:
-          <a href="https://www.linkedin.com/in/pawan9414" target="_blank" style="color:#fff; font-weight:800;">
-            /in/pawan9414
-          </a>
-        </p>
-      </div>
-
-    </div>
-
-    <div class="footer-bottom">
-      <div>© <span id="year"></span> Orchard Diary. All rights reserved.</div>
-      <div>Built for apple growers • Practical & science-based guidance</div>
-    </div>
-
-  </div>
-</footer>
-
-<script>
-(function(){
-
   const grid = document.getElementById("newsGrid");
   const statusEl = document.getElementById("newsStatus");
   const moreBtn = document.getElementById("newsMoreBtn");
@@ -730,7 +278,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let allItems = [];
 
-  /* ⭐ CATEGORY IMAGES (ADD HERE - OUTSIDE render) */
   const categoryImages = {
     pest: "images/news/pest.jpg",
     govt: "images/news/govt.jpg",
@@ -768,7 +315,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function render(tabKey){
-
     setActive(tabKey);
 
     const days = 14;
@@ -788,12 +334,11 @@ document.addEventListener("DOMContentLoaded", function () {
         <article class="news-card">
           <div class="news-body">
             <h3 class="news-title">No fresh updates right now</h3>
-            <p class="news-desc">Try another tab. Updates every 6 hours.</p>
+            <p class="news-desc">Try another tab. We refresh headlines automatically every 6 hours.</p>
           </div>
         </article>
       `;
     } else {
-
       statusEl.textContent = `Auto-updated: ${labels[tabKey]}`;
 
       const tagText =
@@ -804,7 +349,6 @@ document.addEventListener("DOMContentLoaded", function () {
         "💹 Economy";
 
       grid.innerHTML = items.map(item => {
-
         const title = esc(item.title);
         const source = esc(item.source || "Google News");
         const summary = esc(item.summary || "");
@@ -813,26 +357,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
         return `
           <article class="news-card">
-
-            <!-- ⭐ CATEGORY IMAGE -->
             <img class="news-thumb"
-     src="${categoryImages[tabKey] || 'images/news/default.jpg'}"
-     onerror="this.onerror=null; this.src='images/news/default.jpg';"
-     alt="">
-
-
+                 src="${categoryImages[tabKey] || 'images/news/default.jpg'}"
+                 onerror="this.onerror=null; this.src='images/news/default.jpg';"
+                 alt="">
             <div class="news-body">
               <div class="news-meta">
                 <span class="news-tag">${tagText}</span>
                 <span>${dateText}</span>
               </div>
-
               <h3 class="news-title">${title}</h3>
               <p class="news-desc">${summary}</p>
-
-              <a class="news-link" href="${link}" target="_blank">Read →</a>
-
-              <div style="margin-top:10px;font-size:12px;font-weight:700;color:#666;">
+              <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
+              <div style="margin-top:10px;font-size:12px;font-weight:800;color:rgba(0,0,0,0.55);">
                 Source: ${source}
               </div>
             </div>
@@ -841,92 +378,97 @@ document.addEventListener("DOMContentLoaded", function () {
       }).join("");
     }
 
-    const q = encodeURIComponent(moreQueries[tabKey]);
+    const q = encodeURIComponent(moreQueries[tabKey] || "India news");
     moreBtn.href = `https://news.google.com/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en`;
   }
 
   async function init(){
     try{
-      const res = await fetch("assets/news.json",{cache:"no-store"});
+      const res = await fetch("assets/news.json", { cache: "no-store" });
       const data = await res.json();
-      allItems = data.items || [];
+      allItems = (data && data.items) ? data.items : [];
 
-      /* ⭐ DEFAULT TAB = GOVT */
+      // ✅ default: GOVT
       render("govt");
 
-      tabBtns.forEach(btn =>
-        btn.addEventListener("click", ()=>render(btn.dataset.tab))
-      );
-
+      tabBtns.forEach(btn => btn.addEventListener("click", ()=>render(btn.dataset.tab)));
     }catch(e){
-      statusEl.textContent = "News could not load yet.";
+      statusEl.textContent = "News could not load yet. Run GitHub Action once and refresh.";
     }
   }
 
   init();
-
 })();
 </script>
+
+<!-- ================= FEATURED ARTICLES SLIDER SCRIPT (single + stable) ================= -->
 <script>
-(function(){
-  const slides = Array.from(document.querySelectorAll(".slide"));
-  const prev = document.querySelector(".slider-btn.prev");
-  const next = document.querySelector(".slider-btn.next");
-  if(slides.length === 0 || !prev || !next) return;
+document.addEventListener("DOMContentLoaded", function(){
+  const slidesWrap = document.getElementById("slides");
+  const slider = document.getElementById("featuredSlider");
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  const dotsWrap = document.getElementById("dots");
 
-  let i = slides.findIndex(s => s.classList.contains("active"));
-  if(i < 0) i = 0;
+  if(!slidesWrap || !prevBtn || !nextBtn || !dotsWrap) return;
 
-  function show(idx){
-    slides.forEach(s => s.classList.remove("active"));
-    slides[idx].classList.add("active");
-    i = idx;
+  const total = slidesWrap.children.length;
+  let index = 0;
+  let timer = null;
+
+  slidesWrap.style.display = "flex";
+  slidesWrap.style.transition = "transform .5s ease";
+
+  // build dots
+  for(let d=0; d<total; d++){
+    const dot = document.createElement("span");
+    dot.className = "dot";
+    dot.addEventListener("click", ()=>go(d));
+    dotsWrap.appendChild(dot);
+  }
+  const dots = dotsWrap.querySelectorAll(".dot");
+
+  function setDots(){
+    dots.forEach((dot, i) => dot.classList.toggle("active", i === index));
   }
 
-  prev.addEventListener("click", () => show((i - 1 + slides.length) % slides.length));
-  next.addEventListener("click", () => show((i + 1) % slides.length));
+  function go(i){
+    index = i;
+    slidesWrap.style.transform = `translateX(-${i * 100}%)`;
+    setDots();
+  }
 
-  // auto-play (optional)
-  setInterval(() => show((i + 1) % slides.length), 4500);
-})();
+  function next(){ go((index + 1) % total); }
+  function prev(){ go((index - 1 + total) % total); }
+
+  nextBtn.addEventListener("click", next);
+  prevBtn.addEventListener("click", prev);
+
+  function start(){
+    timer = setInterval(next, 4000);
+  }
+  function stop(){
+    clearInterval(timer);
+  }
+
+  slider.addEventListener("mouseenter", stop);
+  slider.addEventListener("mouseleave", start);
+
+  // mobile swipe
+  let startX = 0;
+  slider.addEventListener("touchstart", e => { startX = e.touches[0].clientX; }, {passive:true});
+  slider.addEventListener("touchend", e => {
+    const endX = e.changedTouches[0].clientX;
+    const diff = endX - startX;
+    if(Math.abs(diff) > 40){
+      diff < 0 ? next() : prev();
+    }
+  }, {passive:true});
+
+  go(0);
+  start();
+});
 </script>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
