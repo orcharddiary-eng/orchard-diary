@@ -1982,6 +1982,44 @@ section{ padding:90px 0; }
   position:relative;
   z-index:2;
 }
+#slides{
+  display:flex;
+  width:100%;
+}
+
+.slide{
+  min-width:100%;
+  display:flex;
+  gap:20px;
+  align-items:center;
+}
+
+.slide-img{
+  width:280px;
+  height:180px;
+  object-fit:cover;
+  border-radius:12px;
+}
+
+.dots{
+  text-align:center;
+  margin-top:12px;
+}
+
+.dot{
+  width:10px;
+  height:10px;
+  background:#ccc;
+  border-radius:50%;
+  display:inline-block;
+  margin:4px;
+  cursor:pointer;
+}
+
+.dot.active{
+  background:#0d3b1e;
+}
+
 
 
 
