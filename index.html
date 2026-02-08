@@ -883,7 +883,11 @@
           <article class="news-card">
 
             <!-- ⭐ CATEGORY IMAGE -->
-            <img class="news-thumb" src="${categoryImages[tabKey]}" alt="">
+            <img class="news-thumb"
+     src="${categoryImages[tabKey] || 'images/news/default.jpg'}"
+     onerror="this.onerror=null; this.src='images/news/default.jpg';"
+     alt="">
+
 
             <div class="news-body">
               <div class="news-meta">
@@ -934,6 +938,7 @@
 
 </body>
 </html>
+
 
 
 
