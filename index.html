@@ -788,6 +788,7 @@
 
 <script>
 (function(){
+
   const grid = document.getElementById("newsGrid");
   const statusEl = document.getElementById("newsStatus");
   const moreBtn = document.getElementById("newsMoreBtn");
@@ -796,6 +797,15 @@
   if(!grid || !statusEl || !moreBtn || tabBtns.length === 0) return;
 
   let allItems = [];
+
+  /* ⭐ CATEGORY IMAGES (ADD HERE - OUTSIDE render) */
+  const categoryImages = {
+    pest: "images/news/pest.jpg",
+    govt: "images/news/govt.jpg",
+    weather: "images/news/weather.jpg",
+    politics: "images/news/politics.jpg",
+    economy: "images/news/economy.jpg"
+  };
 
   const labels = {
     pest: "Pest updates",
@@ -826,9 +836,9 @@
   }
 
   function render(tabKey){
+
     setActive(tabKey);
 
-    // ✅ Filter to recent items (last 14 days) so content feels fresh
     const days = 14;
     const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
 
@@ -846,14 +856,13 @@
         <article class="news-card">
           <div class="news-body">
             <h3 class="news-title">No fresh updates right now</h3>
-            <p class="news-desc">
-              Try another tab. We refresh headlines automatically every 6 hours.
-            </p>
+            <p class="news-desc">Try another tab. Updates every 6 hours.</p>
           </div>
         </article>
       `;
     } else {
-      statusEl.textContent = `Auto-updated: ${labels[tabKey] || "Latest updates"}`;
+
+      statusEl.textContent = `Auto-updated: ${labels[tabKey]}`;
 
       const tagText =
         tabKey === "pest" ? "🐛 Pest" :
@@ -863,6 +872,7 @@
         "💹 Economy";
 
       grid.innerHTML = items.map(item => {
+
         const title = esc(item.title);
         const source = esc(item.source || "Google News");
         const summary = esc(item.summary || "");
@@ -871,23 +881,22 @@
 
         return `
           <article class="news-card">
-           const categoryImages = {
-  pest: "images/news/pest.jpg",
-  govt: "images/news/govt.jpg",
-  weather: "images/news/weather.jpg",
-  politics: "images/news/politics.jpg",
-  economy: "images/news/economy.jpg"
-};
+
+            <!-- ⭐ CATEGORY IMAGE -->
+            <img class="news-thumb" src="${categoryImages[tabKey]}" alt="">
 
             <div class="news-body">
               <div class="news-meta">
                 <span class="news-tag">${tagText}</span>
                 <span>${dateText}</span>
               </div>
+
               <h3 class="news-title">${title}</h3>
               <p class="news-desc">${summary}</p>
-              <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
-              <div style="margin-top:10px; font-size:12px; font-weight:900; color:rgba(0,0,0,0.55);">
+
+              <a class="news-link" href="${link}" target="_blank">Read →</a>
+
+              <div style="margin-top:10px;font-size:12px;font-weight:700;color:#666;">
                 Source: ${source}
               </div>
             </div>
@@ -896,39 +905,36 @@
       }).join("");
     }
 
-    // "See more" button opens Google News search
-    const q = encodeURIComponent(moreQueries[tabKey] || "India news");
+    const q = encodeURIComponent(moreQueries[tabKey]);
     moreBtn.href = `https://news.google.com/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en`;
   }
 
   async function init(){
     try{
-      const res = await fetch("assets/news.json", { cache: "no-store" });
+      const res = await fetch("assets/news.json",{cache:"no-store"});
       const data = await res.json();
-      allItems = (data && data.items) ? data.items : [];
+      allItems = data.items || [];
 
-      // ✅ Default tab: choose one that almost always has content
-      // (Weather/Politics/Economy usually available even if Pest/Govt empty)
+      /* ⭐ DEFAULT TAB = GOVT */
       render("govt");
 
-      // bind clicks
-      tabBtns.forEach(btn => btn.addEventListener("click", ()=>render(btn.dataset.tab)));
+      tabBtns.forEach(btn =>
+        btn.addEventListener("click", ()=>render(btn.dataset.tab))
+      );
 
-      // show updated time
-      const stamp = data && data.generated_at_utc ? data.generated_at_utc : "";
-      if(stamp) statusEl.textContent = `Updated: ${stamp.replace("Z"," UTC")}`;
     }catch(e){
-      statusEl.textContent = "News could not load yet. Run GitHub Action once and refresh.";
+      statusEl.textContent = "News could not load yet.";
     }
   }
 
   init();
+
 })();
 </script>
 
-
 </body>
 </html>
+
 
 
 
