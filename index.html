@@ -118,7 +118,7 @@
 
         <!-- PESTS -->
         <div class="ss-slide">
-          <img src="images/slides/sanjose.jpg" alt="San Jose Scale">
+          < src="images/slides/sanjose.jpg" alt="San Jose Scale">
           <div class="ss-cap">
             <h3>San Jose Scale</h3>
             <p><em>Quadraspidiotus perniciosus</em></p>
@@ -126,7 +126,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/whitepeach.jpg" alt="White Peach Scale">
+          < src="images/slides/whitepeach.jpg" alt="White Peach Scale">
           <div class="ss-cap">
             <h3>White Peach Scale</h3>
             <p><em>Pseudaulacaspis pentagona</em></p>
@@ -134,7 +134,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/woolly.jpg" alt="Woolly Apple Aphid">
+          < src="images/slides/woolly.jpg" alt="Woolly Apple Aphid">
           <div class="ss-cap">
             <h3>Woolly Apple Aphid</h3>
             <p><em>Eriosoma lanigerum</em></p>
@@ -142,7 +142,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/greenaphid.jpg" alt="Green Aphid">
+          < src="images/slides/greenaphid.jpg" alt="Green Aphid">
           <div class="ss-cap">
             <h3>Green Aphid</h3>
             <p><em>Aphis pomi</em></p>
@@ -150,7 +150,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/thrips.jpg" alt="Blossom Thrips">
+          < src="images/slides/thrips.jpg" alt="Blossom Thrips">
           <div class="ss-cap">
             <h3>Blossom Thrips</h3>
             <p><em>Thrips spp.</em></p>
@@ -158,7 +158,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/fruitborer.jpg" alt="Fruit Borer">
+          < src="images/slides/fruitborer.jpg" alt="Fruit Borer">
           <div class="ss-cap">
             <h3>Fruit Borer</h3>
             <p><em>Grapholita molesta</em></p>
@@ -166,7 +166,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/rootborer.jpg" alt="Root Borer">
+          < src="images/slides/rootborer.jpg" alt="Root Borer">
           <div class="ss-cap">
             <h3>Root Borer</h3>
             <p><em>Zeuzera pyrina</em></p>
@@ -175,7 +175,7 @@
 
         <!-- DISEASES -->
         <div class="ss-slide">
-          <img src="images/slides/rootrot.jpg" alt="Apple Root Rot">
+          < src="images/slides/rootrot.jpg" alt="Apple Root Rot">
           <div class="ss-cap">
             <h3>Apple Root Rot</h3>
             <p><em>Phytophthora spp.</em></p>
@@ -183,7 +183,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/scab.jpg" alt="Apple Scab">
+          < src="images/slides/scab.jpg" alt="Apple Scab">
           <div class="ss-cap">
             <h3>Apple Scab</h3>
             <p><em>Venturia inaequalis</em></p>
@@ -191,7 +191,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/mildew.jpg" alt="Powdery Mildew">
+          < src="images/slides/mildew.jpg" alt="Powdery Mildew">
           <div class="ss-cap">
             <h3>Powdery Mildew</h3>
             <p><em>Podosphaera leucotricha</em></p>
@@ -199,7 +199,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/alternaria.jpg" alt="Alternaria Leaf Spot">
+          < src="images/slides/alternaria.jpg" alt="Alternaria Leaf Spot">
           <div class="ss-cap">
             <h3>Alternaria Leaf Spot</h3>
             <p><em>Alternaria mali</em></p>
@@ -207,7 +207,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/marsonina.jpg" alt="Marssonina Blight">
+          < src="images/slides/marsonina.jpg" alt="Marssonina Blight">
           <div class="ss-cap">
             <h3>Marssonina Blight</h3>
             <p><em>Diplocarpon mali</em></p>
@@ -215,7 +215,7 @@
         </div>
 
         <div class="ss-slide">
-          <img src="images/slides/corerot.jpg" alt="Core Rot">
+          < src="images/slides/corerot.jpg" alt="Core Rot">
           <div class="ss-cap">
             <h3>Core Rot</h3>
             <p><em>Fusarium spp.</em></p>
@@ -282,7 +282,7 @@
   <div class="container founder-card">
 
     <!-- Photo -->
-    <img src="images/founder.jpg" class="founder-photo" alt="Pawan">
+    < src="images/founder.jpg" class="founder-photo" alt="Pawan">
 
     <div>
 
@@ -336,7 +336,7 @@
 
       <!-- Animated Signature -->
       <div class="signature-wrap">
-        <img src="images/signature.png" class="founder-signature" alt="Signature">
+        < src="images/signature.png" class="founder-signature" alt="Signature">
       </div>
 
     </div>
@@ -871,7 +871,14 @@
 
         return `
           <article class="news-card">
-            <img class="news-thumb" src="images/orchard.jpg" alt="">
+           const categoryImages = {
+  pest: "images/news/pest.jpg",
+  govt: "images/news/govt.jpg",
+  weather: "images/news/weather.jpg",
+  politics: "images/news/politics.jpg",
+  economy: "images/news/economy.jpg"
+};
+
             <div class="news-body">
               <div class="news-meta">
                 <span class="news-tag">${tagText}</span>
@@ -902,7 +909,7 @@
 
       // ✅ Default tab: choose one that almost always has content
       // (Weather/Politics/Economy usually available even if Pest/Govt empty)
-      render("weather");
+      render("govt");
 
       // bind clicks
       tabBtns.forEach(btn => btn.addEventListener("click", ()=>render(btn.dataset.tab)));
@@ -922,6 +929,7 @@
 
 </body>
 </html>
+
 
 
 
