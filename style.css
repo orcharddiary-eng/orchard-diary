@@ -208,43 +208,6 @@ h2{
 }
 
 /* ==============================
-   ABOUT SECTION
-============================== */
-.about{
-  background:#f4f4f4;
-  text-align:center;
-}
-
-/* ==============================
-   FOUNDER SECTION
-============================== */
-.founder-grid{
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:40px;
-  align-items:center;
-}
-
-.founder-img{
-  width:100%;
-  max-height:420px;     /* keeps it visible & neat */
-  object-fit:cover;     /* no stretching */
-  border-radius:14px;
-  box-shadow:0 8px 20px rgba(0,0,0,0.15);
-}
-
-/* ==============================
-   CARD STYLE
-============================== */
-.card{
-  background:white;
-  padding:20px;
-  border-radius:12px;
-  box-shadow:0 6px 18px rgba(0,0,0,0.1);
-  margin:20px 0;
-}
-
-/* ==============================
    PEST ALERT IMAGE GRID (SMALL, SAME SIZE)
 ============================== */
 .image-grid{
@@ -2159,6 +2122,7 @@ section{ padding:90px 0; }
     width:200px;
   }
 }
+
 
 
 
