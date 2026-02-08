@@ -69,11 +69,14 @@ jobs:
             return out
 
           # --- Queries tuned for Orchard Diary (India) ---
-          queries = {
-            "pest": "apple orchard pest disease San Jose scale aphid thrips borer scab mildew himachal",
-            "govt": "horticulture department advisory scheme subsidy notification apple himachal",
-            "weather": "frost alert hailstorm rainfall warning himachal apple orchard weather advisory"
-          }
+       queries = {
+  "pest": "apple orchard pest disease San Jose scale aphid thrips borer scab mildew himachal",
+  "govt": "horticulture department advisory scheme subsidy notification apple himachal",
+  "weather": "frost alert hailstorm rainfall warning himachal apple orchard weather advisory",
+  "politics": "India politics parliament election government policy",
+  "economy": "India economy inflation RBI GDP budget stock market"
+}
+
 
           def google_rss(query):
             import urllib.parse
@@ -104,3 +107,4 @@ jobs:
           git add assets/news.json
           git diff --cached --quiet || git commit -m "chore: update news.json"
           git push
+
