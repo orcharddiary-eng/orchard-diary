@@ -787,9 +787,6 @@
 </footer>
 
 <script>
-  document.getElementById("year").textContent = new Date().getFullYear();
-</script>
-<script>
 (function(){
   const grid = document.getElementById("newsGrid");
   const statusEl = document.getElementById("newsStatus");
@@ -809,11 +806,11 @@
   };
 
   const moreQueries = {
-    pest: "apple orchard pest disease himachal",
-    govt: "horticulture department advisory apple himachal",
-    weather: "frost alert hailstorm himachal apple orchard",
+    pest: "apple pest infestation orchard India aphid scale thrips borer pesticide",
+    govt: "India agriculture advisory government notification horticulture subsidy scheme",
+    weather: "IMD weather alert hailstorm frost warning Himachal Pradesh",
     politics: "India politics parliament government policy",
-    economy: "India economy inflation RBI GDP budget stock market"
+    economy: "India economy RBI inflation GDP budget stock market"
   };
 
   function esc(s){
@@ -831,46 +828,66 @@
   function render(tabKey){
     setActive(tabKey);
 
-    const items = allItems.filter(x => x.category === tabKey).slice(0, 6);
+    // ✅ Filter to recent items (last 14 days) so content feels fresh
+    const days = 14;
+    const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
+
+    const items = allItems
+      .filter(x => x.category === tabKey)
+      .filter(x => {
+        const t = Date.parse(x.published || "");
+        return isNaN(t) ? true : t >= cutoff;
+      })
+      .slice(0, 6);
 
     if(items.length === 0){
-      statusEl.textContent = `No ${labels[tabKey]?.toLowerCase() || "updates"} available right now.`;
-      grid.innerHTML = "";
+      statusEl.textContent = `No fresh ${labels[tabKey]?.toLowerCase() || "updates"} right now.`;
+      grid.innerHTML = `
+        <article class="news-card">
+          <div class="news-body">
+            <h3 class="news-title">No fresh updates right now</h3>
+            <p class="news-desc">
+              Try another tab. We refresh headlines automatically every 6 hours.
+            </p>
+          </div>
+        </article>
+      `;
     } else {
       statusEl.textContent = `Auto-updated: ${labels[tabKey] || "Latest updates"}`;
+
+      const tagText =
+        tabKey === "pest" ? "🐛 Pest" :
+        tabKey === "govt" ? "🏛 Govt" :
+        tabKey === "weather" ? "🌦 Weather" :
+        tabKey === "politics" ? "🗳 Politics" :
+        "💹 Economy";
 
       grid.innerHTML = items.map(item => {
         const title = esc(item.title);
         const source = esc(item.source || "Google News");
         const summary = esc(item.summary || "");
         const link = item.link || "#";
-
         const dateText = item.published ? (new Date(item.published).toLocaleDateString()) : "";
 
-       const tagIcon =
-  tabKey === "pest" ? "🐛 Pest" :
-  tabKey === "govt" ? "🏛 Govt" :
-  tabKey === "weather" ? "🌦 Weather" :
-  tabKey === "politics" ? "🗳 Politics" :
-  "💹 Economy";
-
-return `
-  <article class="news-card">
-    <img class="news-thumb" src="images/orchard.jpg" alt="">
-    <div class="news-body">
-      <div class="news-meta">
-        <span class="news-tag">${tagIcon}</span>
-        <span>${dateText}</span>
-      </div>
-      <h3 class="news-title">${title}</h3>
-      <p class="news-desc">${summary}</p>
-      <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
-      <div style="margin-top:10px; font-size:12px; font-weight:900; color:rgba(0,0,0,0.55);">
-        Source: ${source}
-      </div>
-    </div>
-  </article>
-`;
+        return `
+          <article class="news-card">
+            <img class="news-thumb" src="images/orchard.jpg" alt="">
+            <div class="news-body">
+              <div class="news-meta">
+                <span class="news-tag">${tagText}</span>
+                <span>${dateText}</span>
+              </div>
+              <h3 class="news-title">${title}</h3>
+              <p class="news-desc">${summary}</p>
+              <a class="news-link" href="${link}" target="_blank" rel="noopener">Read →</a>
+              <div style="margin-top:10px; font-size:12px; font-weight:900; color:rgba(0,0,0,0.55);">
+                Source: ${source}
+              </div>
+            </div>
+          </article>
+        `;
+      }).join("");
+    }
 
     // "See more" button opens Google News search
     const q = encodeURIComponent(moreQueries[tabKey] || "India news");
@@ -883,16 +900,18 @@ return `
       const data = await res.json();
       allItems = (data && data.items) ? data.items : [];
 
-      const stamp = data && data.generated_at_utc ? data.generated_at_utc : "";
-      statusEl.textContent = stamp ? `Updated: ${stamp.replace("Z"," UTC")}` : "Updated recently.";
+      // ✅ Default tab: choose one that almost always has content
+      // (Weather/Politics/Economy usually available even if Pest/Govt empty)
+      render("weather");
 
       // bind clicks
       tabBtns.forEach(btn => btn.addEventListener("click", ()=>render(btn.dataset.tab)));
 
-      // default
-      render("pest");
+      // show updated time
+      const stamp = data && data.generated_at_utc ? data.generated_at_utc : "";
+      if(stamp) statusEl.textContent = `Updated: ${stamp.replace("Z"," UTC")}`;
     }catch(e){
-      statusEl.textContent = "News could not load yet. Run the GitHub Action once and refresh.";
+      statusEl.textContent = "News could not load yet. Run GitHub Action once and refresh.";
     }
   }
 
@@ -900,8 +919,10 @@ return `
 })();
 </script>
 
+
 </body>
 </html>
+
 
 
 
