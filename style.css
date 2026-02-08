@@ -1071,6 +1071,115 @@ header{
     -webkit-mask-image: linear-gradient(to right, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
   }
 }
+/* ==============================
+   PREMIUM HEADER
+============================== */
+.site-header{
+  position:sticky;
+  top:0;
+  z-index:999;
+
+  background:rgba(13,59,30,0.92);
+  backdrop-filter:blur(12px);
+  border-bottom:1px solid rgba(255,255,255,0.10);
+}
+
+.header-wrap{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:16px;
+  padding:12px 0;
+}
+
+/* brand */
+.brand{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  text-decoration:none;
+}
+
+.brand-logo{
+  width:44px;
+  height:44px;
+  object-fit:contain;
+}
+
+.brand-name{
+  color:#fff;
+  font-weight:800;
+  letter-spacing:0.2px;
+  font-size:18px;
+}
+
+/* nav */
+.site-nav{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+
+.site-nav a{
+  color:rgba(255,255,255,0.92);
+  text-decoration:none;
+  font-weight:700;
+  font-size:14px;
+
+  padding:9px 12px;
+  border-radius:999px;
+
+  transition:0.25s;
+}
+
+.site-nav a:hover{
+  background:rgba(255,255,255,0.12);
+  color:#fff;
+  transform:translateY(-1px);
+}
+
+/* optional: active link style (add class="active" on current page link) */
+.site-nav a.active{
+  background:rgba(255,255,255,0.18);
+  border:1px solid rgba(255,255,255,0.18);
+  color:#fff;
+}
+
+/* ==============================
+   MOBILE: HORIZONTAL SCROLL NAV
+============================== */
+@media(max-width:768px){
+  .header-wrap{
+    flex-direction:column;
+    align-items:stretch;
+  }
+
+  .brand{
+    justify-content:center;
+  }
+
+  .site-nav{
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+    padding-bottom:6px;
+    scrollbar-width:none;
+    gap:8px;
+  }
+  .site-nav::-webkit-scrollbar{ display:none; }
+
+  .site-nav a{
+    flex:0 0 auto;
+    white-space:nowrap;
+    text-align:center;
+  }
+
+  /* swipe hint fade */
+  .site-nav{
+    mask-image:linear-gradient(to right, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
+    -webkit-mask-image:linear-gradient(to right, transparent 0, black 18px, black calc(100% - 18px), transparent 100%);
+  }
+}
+
 
 
 
