@@ -105,124 +105,65 @@
 
 
 <!-- ================= HOME SLIDESHOW ================= -->
-<section class="slider-section" id="highlights">
-  <div class="container">
-    <h2>Pest &amp; Disease Highlights</h2>
-    <p class="muted">Quick visual identification (1 slide at a time).</p>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const slider = document.querySelector(".slider");
+  const slides = Array.from(document.querySelectorAll(".slide"));
+  const prev = document.querySelector(".slider-btn.prev");
+  const next = document.querySelector(".slider-btn.next");
 
-    <div class="slider" aria-label="Pest and disease slideshow">
-      <button class="slider-btn prev" type="button" aria-label="Previous">‹</button>
+  if (!slider || slides.length === 0 || !prev || !next) return;
 
-      <div class="slides">
-        <div class="slide active">
-          <img src="images/slides/sanjose.jpg" alt="San Jose Scale" loading="lazy">
-          <div class="slide-caption">
-            <h3>San Jose Scale</h3>
-            <p><em>Quadraspidiotus perniciosus</em></p>
-          </div>
-        </div>
+  let i = slides.findIndex(s => s.classList.contains("active"));
+  if (i < 0) i = 0;
 
-        <div class="slide">
-          <img src="images/slides/whitepeach.jpg" alt="White Peach Scale" loading="lazy">
-          <div class="slide-caption">
-            <h3>White Peach Scale</h3>
-            <p><em>Pseudaulacaspis pentagona</em></p>
-          </div>
-        </div>
+  function show(idx){
+    slides.forEach(s => s.classList.remove("active"));
+    slides[idx].classList.add("active");
+    i = idx;
+  }
 
-        <div class="slide">
-          <img src="images/slides/woolly.jpg" alt="Woolly Apple Aphid" loading="lazy">
-          <div class="slide-caption">
-            <h3>Woolly Apple Aphid</h3>
-            <p><em>Eriosoma lanigerum</em></p>
-          </div>
-        </div>
+  prev.addEventListener("click", () => show((i - 1 + slides.length) % slides.length));
+  next.addEventListener("click", () => show((i + 1) % slides.length));
 
-        <div class="slide">
-          <img src="images/slides/greenaphid.jpg" alt="Green Aphid" loading="lazy">
-          <div class="slide-caption">
-            <h3>Green Aphid</h3>
-            <p><em>Aphis pomi</em></p>
-          </div>
-        </div>
+  // ✅ Autoplay (works on mobile too)
+  let timer = setInterval(() => show((i + 1) % slides.length), 4500);
 
-        <div class="slide">
-          <img src="images/slides/thrips.jpg" alt="Blossom Thrips" loading="lazy">
-          <div class="slide-caption">
-            <h3>Blossom Thrips</h3>
-            <p><em>Thrips spp.</em></p>
-          </div>
-        </div>
+  function resetTimer(){
+    clearInterval(timer);
+    timer = setInterval(() => show((i + 1) % slides.length), 4500);
+  }
 
-        <div class="slide">
-          <img src="images/slides/fruitborer.jpg" alt="Fruit Borer" loading="lazy">
-          <div class="slide-caption">
-            <h3>Fruit Borer</h3>
-            <p><em>Grapholita molesta</em></p>
-          </div>
-        </div>
+  prev.addEventListener("click", resetTimer);
+  next.addEventListener("click", resetTimer);
 
-        <div class="slide">
-          <img src="images/slides/rootborer.jpg" alt="Root Borer" loading="lazy">
-          <div class="slide-caption">
-            <h3>Root Borer</h3>
-            <p><em>Zeuzera pyrina</em></p>
-          </div>
-        </div>
+  // ✅ Swipe support (mobile)
+  let startX = 0;
+  let isTouch = false;
 
-        <div class="slide">
-          <img src="images/slides/rootrot.jpg" alt="Apple Root Rot" loading="lazy">
-          <div class="slide-caption">
-            <h3>Apple Root Rot</h3>
-            <p><em>Phytophthora spp.</em></p>
-          </div>
-        </div>
+  slider.addEventListener("touchstart", (e) => {
+    isTouch = true;
+    startX = e.touches[0].clientX;
+  }, { passive: true });
 
-        <div class="slide">
-          <img src="images/slides/scab.jpg" alt="Apple Scab" loading="lazy">
-          <div class="slide-caption">
-            <h3>Apple Scab</h3>
-            <p><em>Venturia inaequalis</em></p>
-          </div>
-        </div>
+  slider.addEventListener("touchend", (e) => {
+    if(!isTouch) return;
+    const endX = e.changedTouches[0].clientX;
+    const diff = endX - startX;
 
-        <div class="slide">
-          <img src="images/slides/mildew.jpg" alt="Powdery Mildew" loading="lazy">
-          <div class="slide-caption">
-            <h3>Powdery Mildew</h3>
-            <p><em>Podosphaera leucotricha</em></p>
-          </div>
-        </div>
+    // swipe threshold
+    if (Math.abs(diff) > 40) {
+      if (diff < 0) next.click(); // swipe left = next
+      else prev.click();          // swipe right = prev
+      resetTimer();
+    }
+    isTouch = false;
+  }, { passive: true });
 
-        <div class="slide">
-          <img src="images/slides/alternaria.jpg" alt="Alternaria Leaf Spot" loading="lazy">
-          <div class="slide-caption">
-            <h3>Alternaria Leaf Spot</h3>
-            <p><em>Alternaria mali</em></p>
-          </div>
-        </div>
-
-        <div class="slide">
-          <img src="images/slides/marsonina.jpg" alt="Marssonina Blight" loading="lazy">
-          <div class="slide-caption">
-            <h3>Marssonina Blight</h3>
-            <p><em>Diplocarpon mali</em></p>
-          </div>
-        </div>
-
-        <div class="slide">
-          <img src="images/slides/corerot.jpg" alt="Core Rot" loading="lazy">
-          <div class="slide-caption">
-            <h3>Core Rot</h3>
-            <p><em>Fusarium spp.</em></p>
-          </div>
-        </div>
-      </div>
-
-      <button class="slider-btn next" type="button" aria-label="Next">›</button>
-    </div>
-  </div>
-</section>
+  // Start on first active
+  show(i);
+});
+</script>
 
 
 <!-- ================= ABOUT ================= -->
@@ -953,6 +894,7 @@
 
 </body>
 </html>
+
 
 
 
