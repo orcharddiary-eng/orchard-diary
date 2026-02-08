@@ -257,64 +257,74 @@
 </section>
 
 
-<section class="pest-slider-section">  
-  <div class="container">  
-    <div class="section-title">  
-      <h2>Pest & Disease Slideshow</h2>  
-      <a href="pest-alerts.html">Open Pest Alerts →</a>  
-    </div>  
-  
-    <div class="pest-slider" id="pestSlider">  
-      <button class="pest-btn pest-prev" type="button" aria-label="Previous">‹</button>  
-  
-      <div class="pest-slides" id="pestSlides">  
-        </div> <!-- closes pestSlides -->
-<div class="pest-dots" id="pestDots"></div>
-        <div class="pest-slide is-active">  
-          <img src="images/slides/sanjose.jpg" alt="San Jose Scale">  
-          <div class="pest-caption">  
-            <h3>San Jose Scale</h3>  
-            <p><em>Quadraspidiotus perniciosus</em></p>  
-          </div>  
-        </div>  
-  
-        <div class="pest-slide">  
-          <img src="images/slides/whitepeach.jpg" alt="White Peach Scale">  
-          <div class="pest-caption">  
-            <h3>White Peach Scale</h3>  
-            <p><em>Pseudaulacaspis pentagona</em></p>  
-          </div>  
-        </div>  
-  
-        <div class="pest-slide">  
-          <img src="images/slides/woolly.jpg" alt="Woolly Apple Aphid">  
-          <div class="pest-caption">  
-            <h3>Woolly Apple Aphid</h3>  
-            <p><em>Eriosoma lanigerum</em></p>  
-          </div>  
-        </div>  
-  
-        <div class="pest-slide">  
-          <img src="images/slides/scab.jpg" alt="Apple Scab">  
-          <div class="pest-caption">  
-            <h3>Apple Scab</h3>  
-            <p><em>Venturia inaequalis</em></p>  
-          </div>  
-        </div>  
-  
-        <div class="pest-slide">  
-          <img src="images/slides/mildew.jpg" alt="Powdery Mildew">  
-          <div class="pest-caption">  
-            <h3>Powdery Mildew</h3>  
-            <p><em>Podosphaera leucotricha</em></p>  
-          </div>  
-        </div>  
-      </div>  
-  
-      <button class="pest-btn pest-next" type="button" aria-label="Next">›</button>  
-    </div>  
-  </div>  
-</section>  
+<section class="pest-slider-section">
+  <div class="container">
+    <div class="section-title">
+      <h2>Pest & Disease Slideshow</h2>
+      <a href="pest-alerts.html">Open Pest Alerts →</a>
+    </div>
+
+    <div class="pest-slider" id="pestSlider">
+      <button class="pest-btn pest-prev" type="button" aria-label="Previous">‹</button>
+
+      <div class="pest-viewport">
+        <div class="pest-track" id="pestTrack">
+
+          <!-- 1 -->
+          <article class="pest-card">
+            <img src="images/slides/sanjose.jpg" alt="San Jose Scale" loading="lazy">
+            <div class="pest-cap">
+              <h3>San Jose Scale</h3>
+              <p><em>Quadraspidiotus perniciosus</em></p>
+            </div>
+          </article>
+
+          <!-- 2 -->
+          <article class="pest-card">
+            <img src="images/slides/whitepeach.jpg" alt="White Peach Scale" loading="lazy">
+            <div class="pest-cap">
+              <h3>White Peach Scale</h3>
+              <p><em>Pseudaulacaspis pentagona</em></p>
+            </div>
+          </article>
+
+          <!-- 3 -->
+          <article class="pest-card">
+            <img src="images/slides/woolly.jpg" alt="Woolly Apple Aphid" loading="lazy">
+            <div class="pest-cap">
+              <h3>Woolly Apple Aphid</h3>
+              <p><em>Eriosoma lanigerum</em></p>
+            </div>
+          </article>
+
+          <!-- 4 -->
+          <article class="pest-card">
+            <img src="images/slides/scab.jpg" alt="Apple Scab" loading="lazy">
+            <div class="pest-cap">
+              <h3>Apple Scab</h3>
+              <p><em>Venturia inaequalis</em></p>
+            </div>
+          </article>
+
+          <!-- 5 -->
+          <article class="pest-card">
+            <img src="images/slides/mildew.jpg" alt="Powdery Mildew" loading="lazy">
+            <div class="pest-cap">
+              <h3>Powdery Mildew</h3>
+              <p><em>Podosphaera leucotricha</em></p>
+            </div>
+          </article>
+
+        </div>
+      </div>
+
+      <button class="pest-btn pest-next" type="button" aria-label="Next">›</button>
+    </div>
+
+    <div class="pest-dots" id="pestDots"></div>
+  </div>
+</section>
+
   
 <!-- ================= SEASON HIGHLIGHT ================= -->  
 <section>  
@@ -844,77 +854,119 @@ if(items.length === 0){
   })();
 </script>
 <script>
-(function(){
+document.addEventListener("DOMContentLoaded", function(){
   const slider = document.getElementById("pestSlider");
-  const track  = document.getElementById("pestSlides");
-  const prev   = slider?.querySelector(".pest-prev");
-  const next   = slider?.querySelector(".pest-next");
+  const track  = document.getElementById("pestTrack");
   const dotsWrap = document.getElementById("pestDots");
-
   if(!slider || !track) return;
 
-  const slides = Array.from(track.querySelectorAll(".pest-slide"));
-  if(slides.length === 0) return;
+  const prev = slider.querySelector(".pest-prev");
+  const next = slider.querySelector(".pest-next");
+  const cards = Array.from(track.querySelectorAll(".pest-card"));
+  if(cards.length === 0) return;
 
-  let idx = slides.findIndex(s => s.classList.contains("is-active"));
-  if(idx < 0) idx = 0;
-
-  // build dots
-  if(dotsWrap){
-    dotsWrap.innerHTML = "";
-    slides.forEach((_, i)=>{
-      const dot = document.createElement("div");
-      dot.className = "pest-dot" + (i===idx ? " active" : "");
-      dot.addEventListener("click", ()=> go(i));
-      dotsWrap.appendChild(dot);
-    });
+  // responsive: 2-up desktop, 1-up mobile
+  function perView(){
+    return window.matchMedia("(max-width: 768px)").matches ? 1 : 2;
   }
-  const dots = dotsWrap ? Array.from(dotsWrap.querySelectorAll(".pest-dot")) : [];
+
+  let index = 0; // page index (not card index)
+  let timer = null;
+
+  // build dots based on pages
+  function buildDots(){
+    if(!dotsWrap) return;
+    dotsWrap.innerHTML = "";
+    const pages = Math.ceil(cards.length / perView());
+    for(let i=0;i<pages;i++){
+      const d = document.createElement("div");
+      d.className = "pest-dot" + (i===index ? " active" : "");
+      d.addEventListener("click", ()=>go(i));
+      dotsWrap.appendChild(d);
+    }
+  }
+
+  function updateDots(){
+    if(!dotsWrap) return;
+    const dots = Array.from(dotsWrap.querySelectorAll(".pest-dot"));
+    dots.forEach((d,i)=> d.classList.toggle("active", i===index));
+  }
 
   function update(){
-    track.style.transform = `translateX(-${idx*100}%)`;
-    slides.forEach((s,i)=> s.classList.toggle("is-active", i===idx));
-    dots.forEach((d,i)=> d.classList.toggle("active", i===idx));
+    const pv = perView();
+    const gap = parseFloat(getComputedStyle(track).gap) || 0;
+    const viewport = slider.querySelector(".pest-viewport");
+    const vw = viewport.getBoundingClientRect().width;
+    const step = vw + gap; // move one full "page"
+    track.style.transform = `translateX(-${index * step}px)`;
+    updateDots();
   }
 
-  function go(n){
-    idx = (n + slides.length) % slides.length;
+  function pagesCount(){
+    return Math.ceil(cards.length / perView());
+  }
+
+  function go(i){
+    const pages = pagesCount();
+    index = (i + pages) % pages;
     update();
-    reset();
+    resetAuto();
   }
 
-  prev?.addEventListener("click", ()=> go(idx-1));
-  next?.addEventListener("click", ()=> go(idx+1));
+  function nextPage(){ go(index + 1); }
+  function prevPage(){ go(index - 1); }
 
-  // autoplay + pause
-  let timer = null;
-  function start(){ stop(); timer = setInterval(()=> go(idx+1), 4200); }
-  function stop(){ if(timer) clearInterval(timer); timer = null; }
-  function reset(){ start(); }
+  prev && prev.addEventListener("click", prevPage);
+  next && next.addEventListener("click", nextPage);
 
-  slider.addEventListener("mouseenter", stop);
-  slider.addEventListener("mouseleave", start);
-  slider.addEventListener("touchstart", stop, {passive:true});
-  slider.addEventListener("touchend", start, {passive:true});
+  // autoplay
+  function startAuto(){
+    stopAuto();
+    timer = setInterval(nextPage, 4200);
+  }
+  function stopAuto(){
+    if(timer) clearInterval(timer);
+    timer = null;
+  }
+  function resetAuto(){ startAuto(); }
 
-  // swipe support
+  slider.addEventListener("mouseenter", stopAuto);
+  slider.addEventListener("mouseleave", startAuto);
+  slider.addEventListener("touchstart", stopAuto, {passive:true});
+  slider.addEventListener("touchend", startAuto, {passive:true});
+
+  // swipe
   let startX = 0;
   slider.addEventListener("touchstart", (e)=>{ startX = e.touches[0].clientX; }, {passive:true});
   slider.addEventListener("touchend", (e)=>{
     const endX = e.changedTouches[0].clientX;
     const diff = endX - startX;
     if(Math.abs(diff) > 45){
-      go(diff > 0 ? idx-1 : idx+1);
+      diff > 0 ? prevPage() : nextPage();
     }
   }, {passive:true});
 
+  // rebuild on resize (switch 2-up <-> 1-up)
+  let resizeTimer = null;
+  window.addEventListener("resize", ()=>{
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(()=>{
+      index = 0;
+      buildDots();
+      update();
+    }, 150);
+  });
+
+  buildDots();
   update();
-  start();
-})();
+  startAuto();
+});
 </script>
+
 
 </body>  
 </html>
+
 
 
 
