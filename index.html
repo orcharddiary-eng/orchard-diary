@@ -33,42 +33,50 @@
   </div>
 </header>
 
+<section class="hero-premium">
+  <div class="hero-inner">
+    <div class="container">
+      <div class="hero-box">
 
-<section class="hero3">
-  <div class="container hero3-inner">
+        <div class="hero-kicker">🍎 Apple Orchard Knowledge Hub</div>
 
-    <div class="hero3-content">
-      <h1 class="hero3-title">
-        <span class="lang-en">Orchard Diary</span>
-        <span class="lang-hi">ऑर्चर्ड डायरी</span>
-      </h1>
+        <h1 class="hero-title">Orchard Diary</h1>
 
-      <p class="hero3-sub">
-        <span class="lang-en">
-          Science-based apple orchard guidance—pest alerts, seasonal advisories,
-          fertigation planning, and modern orchard practices.
-        </span>
-        <span class="lang-hi">
-          सेब बाग के लिए वैज्ञानिक मार्गदर्शन—कीट चेतावनी, मौसमी सलाह,
-          फर्टिगेशन योजना और आधुनिक बाग प्रबंधन।
-        </span>
-      </p>
+        <p class="hero-sub">
+          Science-based guidance for apple growers—pest alerts, seasonal advisories,
+          fertigation planning, and modern orchard practices for North India.
+        </p>
 
-      <div class="hero3-actions">
-        <a class="hero3-btn primary" href="pest-alerts.html">
-          <span class="lang-en">Pest Alerts</span>
-          <span class="lang-hi">कीट चेतावनी</span>
-        </a>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="pest-alerts.html">View Pest Alerts →</a>
+          <a class="btn btn-secondary" href="advisories.html">Seasonal Advisory</a>
+        </div>
 
-        <a class="hero3-btn secondary" href="advisories.html">
-          <span class="lang-en">Seasonal Advisory</span>
-          <span class="lang-hi">मौसमी सलाह</span>
-        </a>
+        <div class="hero-scroll">
+          <div class="scroll-mouse"></div>
+          <span>Scroll for updates & resources</span>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<section class="alert-ticker">
+  <div class="container ticker-wrap">
+    <div class="ticker-badge">LATEST</div>
+
+    <div class="ticker-text">
+      <div class="ticker-move">
+        San Jose Scale: Monitor trunk/branches & plan dormant management •
+        Woolly Apple Aphid: Check collar region & fresh colonies •
+        Winter Advisory: Pruning, sanitation & dormancy sprays — read in Advisories page
       </div>
     </div>
 
+    <a class="ticker-cta" href="pest-alerts.html">Open Alerts</a>
   </div>
 </section>
+
 <!-- ================= HOME SLIDESHOW ================= -->
 <section class="home-slideshow">
   <div class="container">
@@ -707,9 +715,57 @@
   auto();
 })();
 </script>
+<footer class="site-footer">
+  <div class="container">
+
+    <div class="footer-grid">
+
+      <div class="footer-brand">
+        <img src="images/logo.png" alt="Orchard Diary">
+        <p>
+          Orchard Diary is a professional platform dedicated to apple orchard management,
+          pest alerts and seasonal advisories to support growers with practical guidance.
+        </p>
+      </div>
+
+      <div class="footer-links">
+        <div class="footer-title">Quick Links</div>
+        <a href="pest-alerts.html">Pest Alerts</a>
+        <a href="advisories.html">Advisories</a>
+        <a href="articles.html">Articles</a>
+        <a href="calendar.html">Monthly Calendar</a>
+        <a href="contact.html">Contact</a>
+      </div>
+
+      <div class="footer-contact">
+        <div class="footer-title">Contact</div>
+        <p>Email: orcharddiary.gmail.com</p>
+        <p>Location: Mandi, Himachal Pradesh</p>
+        <p>
+          LinkedIn:
+          <a href="https://www.linkedin.com/in/pawan9414" target="_blank" style="color:#fff; font-weight:800;">
+            /in/pawan9414
+          </a>
+        </p>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <div>© <span id="year"></span> Orchard Diary. All rights reserved.</div>
+      <div>Built for apple growers • Practical & science-based guidance</div>
+    </div>
+
+  </div>
+</footer>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
 
 </body>
 </html>
+
 
 
 
