@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-11T15:17:11.857238Z",
+  "generated_at_utc": "2026-02-11T20:01:31.259625Z",
   "items": [
     {
       "category": "pest",
@@ -11,6 +11,22 @@
     },
     {
       "category": "govt",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
+      "title": "Rashtriya Krishi Vikas Yojana, Objectives, Features, Funding Pattern",
+      "source": "Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZE9uNXgyenRKZ2d3MVlCaUdLU054aXRCcGMzSjJnMmozcV9ycWdTN09ad3RQNjFPSHZZVnMtWXFuejhsQy1rRXFpMjRFSkp4QlBwbU5oMEE0QkhwZGFhS1h5N3hrS1h3Zl9mNmJ1MEVSYk5XSmQ0S2IzZzF6QQ?oc=5",
+      "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "summary": "Rashtriya Krishi Vikas Yojana, Objectives, Features, Funding Pattern&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "govt",
       "title": "Government Implements Transport Subsidy Under Market Intervention Scheme to Support Tomato Farmers",
       "source": "global-agriculture.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFRHczdTOXBCeFRXMS1wd01JSUQzOHBDS0p1NXFJSW9TTlJhaVI0WnNYWWNOZkR6bkNJYzY5UXRjczh1dE94Vm9wZEZSUlgzbHN6eG1BNmxucDNhSjVDcldpTlJvV0pmQ0x4M056N3dnZnhIdm5RelozV3pUYTl5TkN1cEhWMUlJZ2lHLVEtRGpRMWozclpNRXAtWDJGWGNwZ1YxWGM0UXFWY04zMGN2cm1TY3VMaDlJMEFMX1RDcEFDZF9uOE5nbnZUQWRmUDI2VzJZSlgzZkd6RGRKdXR1Sg?oc=5",
@@ -18,12 +34,20 @@
       "summary": "Government Implements Transport Subsidy Under Market Intervention Scheme to Support Tomato Farmers&nbsp;&nbsp;global-agriculture.com"
     },
     {
+      "category": "govt",
+      "title": "Horticulture farmers to get Rs. 3.48 crore as subsidy",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzZWTk1mRXlFblNOUU5kQjVEQ2NRN1RTQ0FSMnh2QVdyeEc1N1NsTURBNkF4RW53Q05ETkY5bHlNVkhRUDd3RFNJdGppVFNBQWpXeDl4SlFqeHBzMGNzU25IRXlRRGkxS3Y0TnhGY3RaRzZ2YllweUNOLVEwQ3lKLUlsVjVRTTdwUUl3c0NXNnM2d0tkekdyd2RTcGYzTFI5eXJiajZqbDhJSENfZDlXMDBIVE1UbDE5RVlLVzE1V2vSAccBQVVfeXFMTW9FM21FeW5sM0xEWUZ2ZHhUdGNVVDJhdnBNeDJhVm1FcnN2c21IMnpuMUV6bWUwN1VPTFdXVWIxaXY0bmp0ZFhPc3c4dzJTT2RvcE1xMFRVLV9UbGppaGViYjZlaXpZcUJuN3c3c0dhWW5iazhuWlo2aUIwLW5RU19fYjgzcF85SXhOQ1R6eHBKYjJKSFFMV2wzek01Y0NUVlBqazl4X3oxVU8wck5nQjNQdGkxWWRyVWVUd25RNVJaTThzZTZrNA?oc=5",
+      "published": "Mon, 20 Jun 2016 07:00:00 GMT",
+      "summary": "Horticulture farmers to get Rs. 3.48 crore as subsidy&nbsp;&nbsp;The Hindu"
+    },
+    {
       "category": "weather",
-      "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what’s the forecast till January 27",
+      "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdE9DU2ZjdDgwMkFtMlc3Z2Y2MEQ3ZG1aM1lKWUEyY0czTDA4V1ZubVM3LUg0SDdCeGJYSlY1a25IWGtKRFdFTHRVMWM5WGNCMDJBYXB2TkpwYms1MUZBZTF4ZUpWQkxuVTNxLWpWdTM2aGhSMEpPXzM0RG00dUtoVTlPSUp5TW1tdUdLbWlPYUV4V1J0MDZYd2tQM3F2SWU3MWdyNVhYUEZPamZ4bVlKa2pJT3JhYnpxZkE0SGs1MDhPR2V2NmlJRUlUbGZ1NkRoTldWaG5CWG9ZRE9vOFF4LXFrR3loVE83c0txZDB0alJEZWFGWkNkaVNNbkw4Z3RhaXNhNWgyaWNkLXczNWxLV1lkd3dUOGhOQ1dLT0JtSFFwX21EZFVPUWdFZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdE9DU2ZjdDgwMkFtMlc3Z2Y2MEQ3ZG1aM1lKWUEyY0czTDA4V1ZubVM3LUg0SDdCeGJYSlY1a25IWGtKRFdFTHRVMWM5WGNCMDJBYXB2TkpwYms1MUZBZTF4ZUpWQkxuVTNxLWpWdTM2aGhSMEpPXzM0RG00dUtoVTlPSUp5TW1tdUdLbWlPYUV4V1J0MDZYd2tQM3F2SWU3MWdyNVhYUEZPamZ4bVlKa2pJT3JhYnpxZkE0SGs1MDhPR2V2NmlJRUlUbGZ1NkRoTldWaG5CWG9ZRE9vOFF4LXFrR3loVE83c0txZDB0alJEZWFGWkNkaVNNbkw4Z3RhaXNhNWgyaWNkLXczNWxLV1lkd3dUOGhOQ1dLT0JtSFFwX21EZFVPUWdFZ9IBsAJBVV95cUxNVHAzOXVyUnp3ZUZ2M3gzbkE0UmtTSncwdWd4YnVQbzI2Smw4QUVUQkxudjdjMUZVWUFrT3VuUFhnYS0yZUtvODR3QXFHR3JtR1Bia0JBZGhTNEVaN2Q4SE9NU2xSenhmVWpkZUt5Qi1nVFZsU1FkaU9NQmFKMWpCekV6WU9DWEROMFBueDc4MHdZMkpOQW9FVlZLVDBRaXdIRUYwUjlNblhyU0wwd3FSc3ViOGwzWVc4QzlRcTV4Rlpza01FNFZKbGwzZm5CV05mWjE3Z29od0N0WUtabE1KOEw0M1MxSjRFb2RBR2FtUV83RkQ2SVpSazdNOGVzUVNqWVBac3U3QlE0ZGtXMzBYTVNmQlJYS2R1VnVQWVB1N0hnNG5JNERldHhXSHl6S3kz?oc=5",
       "published": "Fri, 23 Jan 2026 08:00:00 GMT",
-      "summary": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what’s the forecast till January 27&nbsp;&nbsp;The Economic Times"
+      "summary": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "weather",
@@ -83,19 +107,19 @@
     },
     {
       "category": "weather",
+      "title": "Himachal Pradesh Joins Uttarakhand, Punjab, Uttar Pradesh, Madhya Pradesh, Rajasthan, and Other States in India as IMD Issues Urgent Warning For Snowstorms, Thunderstorms, and Travel Disruptions",
+      "source": "Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPb2tfajR1MzhzcklSaTZMLVJjRGp1T3FwdWNXVFBDbTVyNExDczh3NWxkVV94eG1VZ2hudkhBMDUwZVFKVUc2TV84Mk8tUjcwUjZIMzZoWmtCejJTZ3dYMkptckZORHJ0N0VkMTlQSU1wVDU5TTIwT2FOdTlRRlpHMzBCTUIyTXJULWFMUEZTc1FNWUhNMnVJbF8yaUJIcE5qeWFhd2VnWlBBWWtLTnh6WXJ0d3Bla2pwNTF0Nzh5ZGFaX0prN3NEeTRGV2pyZWt3SEJCVElvdDRhWlNsdGIxV2VmaTMzWkZmQlNlVVVnc3JOWjRSdXhXZms3Rkl2c0p6cmtZbGJBMHhpbFgzSnc3OFdpb3pmNzRKRDZLVFBOWXhYMHBIbHg3bnlSVndsMHk4a3JHZlZlbFRFZDI1MEU5R2xRejZxSktndEx2SXBHQzdWaFNycHJv?oc=5",
+      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
+      "summary": "Himachal Pradesh Joins Uttarakhand, Punjab, Uttar Pradesh, Madhya Pradesh, Rajasthan, and Other States in India as IMD Issues Urgent Warning For Snowstorms, Thunderstorms, and Travel Disruptions&nbsp;&nbsp;Travel And Tou…"
+    },
+    {
+      "category": "weather",
       "title": "Himachal Pradesh weather: IMD forecasts rain, hailstorms across state for next three days",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNTNqNFVUTVUyY2U3N2g2Z0x0MDExdFhjYUhJWjdvX3ktaWF4QzZfM05DVzVPeDFvWVBIXzEtU1RJX2hSbWlhbDlhUFJPWnRBSXltWUw0YndGcUlLUll1MklpTHM5aUtfWlZUNUswekVuUlNVSWl2MkxYbXVadmd6b05yNWZUM1V5dWtVaVhOTGtZc0pQV3ZZeXRFa05NLUpfWW9RR1VFYndqUVZFMWROazJVVWRNRmEyZTdOZ1Rtd1VfTTZDOWNVbHoxN2Y3R2FWVVRKZ2xRamItbTVFbXVhamQxYklPR2PSAewBQVVfeXFMUDRmTGk3NWYwLU5YOHUzQTJvazczb01weTZLSDBRcFhQNnRoV2VWVlJQTjBSU0VBSXZCUHVjckV4aFZ0TWpZZDM3WC1GV1VTaDZTdVVqMzZ4R05pSkRlb21FMEJKN3V5RWRLOWtNZEVCV3hoWUstUXNua2s0d3lRdFRCdTdtdEpnVnBPTU81Mm13d1laZFNpck42N09IcGFHaVVBWVNBNjJncEZRU1lpeTNhYThDdjBlWFV2UzJ2Vkt2Rm1KMzFIeDBfRWF4ZGFvWXFoRHA2QzBYRW1lMm9GU0k3OFRjS25CX1hMbTg?oc=5",
       "published": "Mon, 05 May 2025 07:00:00 GMT",
       "summary": "Himachal Pradesh weather: IMD forecasts rain, hailstorms across state for next three days&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "weather",
-      "title": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal",
-      "source": "Mint",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEtVQlVic0NJNzhVWnJGUEM4X0FzRzBlOE1LbkNLbV9mcUVMZFNTeWlyQ1FBX2ZERTBOaFVLMk13NmU5ZURaUUZadXlSa0NPaHg4c1pVckN5ZkRQOXRFd2V6S3ZENFQ0Mm1OdnhFX2tlT1UyelBibmtZNGp1clozeHZEaTYyNFFxcE9WUzFKTkpLUm16cWFZc0EtYVRFV2x5dGt2RGNOSjR2NWk2WUlqaHBGcnFLX0VTdEJFeFkwd2ZOa1FDa1Z4YlJPUFk5MkF0M0tDUkxqZjdhWUloX0ItTG9ublo5b2JyYlg3Q2RNWWUzN2dNd3fSAfsBQVVfeXFMTTd1cVNBVS1KRi1qR1U0ZURYWVVqWWRZTWZGODlPLUI2d2dhTktkNm9sT2hsYjItVFJYZ0FfaUh4cl9GaWJYX3dQRUR5UFdOT2oxSnYwWUpMZnJxN3R2TlhXbUZ0c01MLTJCVFFMd3NZOHdteU9yR2lhVVFzSE12LUpyTEFVSksxNFM4eTQwUzVTdFBmeGR6TEpIUFpwSHJRYXNXczRPeVZBX1dmV3NVbklhME9EN2VPZ2hkbGZXZzZuNTUwT09ZU2E4QUo5WTkyZElHU24tZXMyYzd3U1ZZc2I0M0pIUEZ1UjQ2elZWSW9yTUlFZC1GOFZQWHc?oc=5",
-      "published": "Sat, 02 Mar 2024 08:00:00 GMT",
-      "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Mint"
     },
     {
       "category": "weather",
@@ -107,11 +131,11 @@
     },
     {
       "category": "weather",
-      "title": "IMD warns of fresh spell of hailstorm, rainfall from Thursday: What experts say | Hindustan Times",
-      "source": "Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGkxOXM5TnBqYklvMHctU01LSWRiUm1rTXlNYW9NVEVuTTZxVTAzbVl4alR1VDhfMGhfSS13Nmp2RWhFWDN1Mm1kVmMyQXk4cnk4dlBORTkyeUc4WnB1enlSR1NKWlFscWQ5WVlTZlBKMHdnSmM2RHdYTjI2ZHhjTnRHLTV4U01hamIwU2s1d2g0RG1FcUl3cnVCTGNpd2JiVVI5bXNJaFI3Vy1xYlFzN0F4dlZJLV9yZmcxYnlsdkhCd2E5eXdEVDktLW1HZUlLbEFXblFBWV_SAd4BQVVfeXFMUE1tRTcyVEtIaDNhcGlMaU9OSnczTno4NU5wVmNsVjRmMUttZ29vT184T0c2dDhTRkg3akZfTWltaDNCUWVSYjRvZkdXR1dHbXpIVEw3RVFLaE9oYV9uMVg4MExWRXJxMjJma0oxd3BneGsyMm8yazV2a1FybVpiVGloai11NG5TRVVWZzlYekNGUWJQRU5lMVdnSlhpdzQ1YnpUc2t6aERrWWNpMVpPOXdqdEVBSzJYeUJ6NDM3UkFDcEJ1NThNdHJkeElXdUY5M0VCQVdhOFJMNl9USU5R?oc=5",
-      "published": "Wed, 22 Mar 2023 07:00:00 GMT",
-      "summary": "IMD warns of fresh spell of hailstorm, rainfall from Thursday: What experts say | Hindustan Times&nbsp;&nbsp;Hindustan Times"
+      "title": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal",
+      "source": "Mint",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEtVQlVic0NJNzhVWnJGUEM4X0FzRzBlOE1LbkNLbV9mcUVMZFNTeWlyQ1FBX2ZERTBOaFVLMk13NmU5ZURaUUZadXlSa0NPaHg4c1pVckN5ZkRQOXRFd2V6S3ZENFQ0Mm1OdnhFX2tlT1UyelBibmtZNGp1clozeHZEaTYyNFFxcE9WUzFKTkpLUm16cWFZc0EtYVRFV2x5dGt2RGNOSjR2NWk2WUlqaHBGcnFLX0VTdEJFeFkwd2ZOa1FDa1Z4YlJPUFk5MkF0M0tDUkxqZjdhWUloX0ItTG9ublo5b2JyYlg3Q2RNWWUzN2dNd3fSAfsBQVVfeXFMTTd1cVNBVS1KRi1qR1U0ZURYWVVqWWRZTWZGODlPLUI2d2dhTktkNm9sT2hsYjItVFJYZ0FfaUh4cl9GaWJYX3dQRUR5UFdOT2oxSnYwWUpMZnJxN3R2TlhXbUZ0c01MLTJCVFFMd3NZOHdteU9yR2lhVVFzSE12LUpyTEFVSksxNFM4eTQwUzVTdFBmeGR6TEpIUFpwSHJRYXNXczRPeVZBX1dmV3NVbklhME9EN2VPZ2hkbGZXZzZuNTUwT09ZU2E4QUo5WTkyZElHU24tZXMyYzd3U1ZZc2I0M0pIUEZ1UjQ2elZWSW9yTUlFZC1GOFZQWHc?oc=5",
+      "published": "Sat, 02 Mar 2024 08:00:00 GMT",
+      "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Mint"
     },
     {
       "category": "politics",
@@ -123,27 +147,11 @@
     },
     {
       "category": "politics",
-      "title": "'You Have Sold India, Are You Not Ashamed?: Rahul Gandhi Brings Epstein, Ambani And Trade Deal In Parliament",
-      "source": "Oneindia",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRDRuVXl1STZOU2ZtbjRWLVVFMGd3TGJLYmNPNHBiWTk5dWZnYmdMeVp5VGNNaFN0SGZvN0lEYjFFaWhSS05KR1lhZFJiZDE5RWdsY0swUnc0QS1QTENEWlN6YjJzUnA1RWhsZGM4cVNOUUJ6Q2M4eElMcFlOckVYSENBMlVoQWxhYjVIYmlQci1ROVBHcXc4RDdZZDM3YnYzQWRKRTZleGt0SGdlUnVWWGR4WmNNOWl4SnVXYUZDVUdBSVJOWVpzbTMtWmd1VktUcmc?oc=5",
-      "published": "Wed, 11 Feb 2026 08:22:53 GMT",
-      "summary": "'You Have Sold India, Are You Not Ashamed?: Rahul Gandhi Brings Epstein, Ambani And Trade Deal In Parliament&nbsp;&nbsp;Oneindia"
-    },
-    {
-      "category": "politics",
       "title": "Facts and figures: Women’s leadership and political participation",
       "source": "UN Women",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
       "published": "Mon, 15 Sep 2025 07:00:00 GMT",
       "summary": "Facts and figures: Women’s leadership and political participation&nbsp;&nbsp;UN Women"
-    },
-    {
-      "category": "politics",
-      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -163,6 +171,14 @@
     },
     {
       "category": "politics",
+      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
       "title": "This Constitution does not permit war",
       "source": "The Leaflet",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXQxR05yRjJVUlN1YjNwYVFUb01kaEEyeGZ0ckRlMENUSlR5VUltaEZBbFY4NndBdjF2RFI1SXZBeWh6NXF2b2ZNa2x5bm4yaWYycl9QVW84ZklBYXU0cGpHd3hudDRDX1JJZkZJMEYzNUpFbUlBazVTOG5IckRMclI1eEpHZUlH?oc=5",
@@ -176,6 +192,14 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
       "published": "Tue, 22 Jul 2025 11:57:09 GMT",
       "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
+    },
+    {
+      "category": "politics",
+      "title": "National Education Policy (NEP 2020): Hindi v Tamil - India's language battle heats up",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DZzZlNDd0cFNKWDRzRDBUZ3RlcTdVSS05NzdTckNQWVBIY1lUb3BzRmZzdVZLSloxQnpXQzZiMDMzYm5JVXJGOG1UcnlqQjRjTXpzTnpyRnl2d9IBX0FVX3lxTE9EVXhLaUNiODlBVWk3U3h4aWZUWFVyakVlU0Q0Yl9ScVVUY3lkMlNwRVlUY1FuNDg4UUJwRTZBdmRpNzY0bG1kOFY3MUNxUXBGd2ctYWowYWVlMHM3MnpJ?oc=5",
+      "published": "Tue, 11 Mar 2025 07:00:00 GMT",
+      "summary": "National Education Policy (NEP 2020): Hindi v Tamil - India's language battle heats up&nbsp;&nbsp;BBC"
     },
     {
       "category": "politics",
@@ -227,14 +251,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI MPC Meeting Updates: Policy rate to remain low for a long period of time, says RBI Governor Sanjay Malhotra",
-      "source": "Moneycontrol",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQ0w1QkQ4RWhlVFQ1bDZjNFNMVnpYam9hRGo2VmdpdEZaSGNwZjExblBvdTRlb05pVE9rWmpEUzVYUV9TX2dEVkhqd2k4TkdBNlNXNDlXZHo3bjd0d1V3eVMwMnJQVllMVC0yTjZWVUlhZTVYSEZzd3B5VTdVUE1zMHh4U084cHJnT1BfbDlGa0NrXzZlRVZGUkpXb0tsa0JwVjRGdjViMnRTek0wdWZyYUVfTG52UzlwODROR044UlhEbXJJQWdkLUY3WEZZYXFvTlBBRjBpLW9fZG9jMXBRdDhIdklHclAzNkdWdFphTUFhSDR4LVI3RERZYS1BY2ZRS0hSMGVVSUgyaG9MVnfSAZMCQVVfeXFMT2JCamg3OWtYV3piTlEtbUYxLWFCeEQzSVZZNEpzWXFKci1TUjBoVTgzbk9ZYTA5a1BnbW83czd4RjRZSlNSZ1E5TDhJMi1xZk5yOFZpVzNDU0R6b2p1ZDZ4c0ltaGdBTTN2WF8tdW5kam9hR3lhNUtMWFdib2tyM1FxNzBuYnZCOUdHMXdBTXhMLXJTRmdHdThfcUFDdWdkazloa2h5aUFCOVFpLUNrZ1ZnZUZESm92Z3daNU1Sb3loaEtDZEtUV2pqLUk2Z1ZGRWwzOVA2TzFLWFNEemVfdmNsUTR5MzdCWnhqaVdfSXZiRlVoaTJ6ektuRlg0Ym0xd2d2Y2RqZlZBUWVIS2ZCb0FDalk?oc=5",
-      "published": "Fri, 06 Feb 2026 07:38:56 GMT",
-      "summary": "RBI MPC Meeting Updates: Policy rate to remain low for a long period of time, says RBI Governor Sanjay Malhotra&nbsp;&nbsp;Moneycontrol"
-    },
-    {
-      "category": "economy",
       "title": "RBI Monetary Policy: MPC Keeps Repo Rate Unchanged At 5.25%; Maintains Neutral Stance — All Details Here",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXNDbGZPa2RxLW1jN0tsQ2lZYWY3aFJyWDg1M0RNc0hpZlJxb3o0eDF1Ulp6Yk4xZG0zY3k4NVJ2LWw5UVlpbGEzSnRDRkc2NzNHeEdvODFoZlJKa0tHcFdhM1h6cVlld2hBVzVKNnc4TlVlTmdsMXJMem9aVnBMRXBWUy01dXJWdVB1elh1aFVmU0dZNkt4YlBiNlRxZGhJd1FtX3B5d01PQUJEbm41LVpFa283WDlNNzdBbHFyaWVUcWVT0gHMAUFVX3lxTE03S0lGNXd0bjhVRDY5cUZaNGo1amJMQnRRaXZYNTg3VEZxd1VCZnJ3bHJMMk9xT082RzhuWU14a1o2a1VtSlhDaVBKMElMWjF1S2dPUTluTFd3YW5rVk5ZR3k4Zi1KU09nV3FBVU9lN1pxMGJvTExhaE1jbEVoc21WTnFRNHFpaEJUVWk0eEJTQW1tTGhZSk9BM19kbkJ0Z3NSbi1GSUw3Ml93RXFkMEZselNpOTVQU293LVNDNWtJMDV6UHFZaTd5RjZnWA?oc=5",
@@ -248,6 +264,14 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaFZtWElVSTN6YTlRSWNPMHBlckd1eUItRlpjUXNRbXpDbHloVDIyT2gwRDlJZmg1VmhORnZiaWhaZFJIZGVhSXMzQjZhT0VhRGVpel83dzd0OU0zY2hXVHJTWktWWHFnMVZ6Ni16akR0QWJTSkw1MG9OcEJiY1pBOFUzc1hzTjg5TGdLUlFyTnpLVjVYVk9WVXpNTkgybzI5aExnZGR1MTRXUFZ1V1J3SHpvOEFVRFVkTW1RTEtnT0gzSlhnclEyMzF5VWY3T3duaVctMHF6Z3lxVWd6WE5IcmYxYUxxUnRpMmlKQzZR0gHzAUFVX3lxTFAwdWN1d05TZ1dVNVowNTZlbUxSY3gxT3Ixa0RTSkpyRWo0ZzVLeUhjZVQ3WXI2Q0RtSm1kRGRiNGotM0c4ZWN4dEN3YktIelpJa29RdXJnQU9zeWo4M2JidWUwMzcyV1hNQWpUNGNMbkRUdWR3RHNUd2tHVjNuRUdaNktVTjNPYVAxVUp6NElsWDREWTd5NHVnUTFLZHJnaWk2enN0Z2RXSmJMRm1pNzR5ejR5TFZwYXFjZTV2SDZvcTZFUFV4R19LLVlmSWtzblYzaHAzUVZRWkFoYVUwWkZLUFllRVlNTGxNQUs2dm1STm0tVQ?oc=5",
       "published": "Fri, 05 Dec 2025 08:00:00 GMT",
       "summary": "RBI rate cut: Rate-sensitive sectors soar, Nifty realty jumps 1%, Bank Nifty, auto index also in green&nbsp;&nbsp;Mint"
+    },
+    {
+      "category": "economy",
+      "title": "RBI's policy dilemma: To look at inflation or growth for rate action",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNak5PdkJVQ05ZRUpOQk9peDVQNEFrMG82X2U3SHVoTzNDaWZaczVJeXBfcklXRW5rU0prVW9wcWNQeGpvQXBodHJZMVBBMlRSWlZGbmxuc2tXc3JLV2dweVV1Q1Y0VTRJVWctSFBYSHA0bGFreHVhdndYVmdieWljYk1nV3MyR21leVhqWW0waXRlcFZkd243anJyc3VGNzFwRkdsVWNzRldqOTJWNzg1VEJhWUFzR1hlRUtFX3FYUWVwV3QtUTkyZHluc2xvem_SAdQBQVVfeXFMTnMzS05ZXzV4a2o0X0JxamFpMEJtRDFBNWgxNnB5YkFiLUo4QmtXazJPTzNCb2FOMnZ5Y2pyS2xFTG5GY3YyYmVfUnEzbVVwN1F2aGdtOEFVMl92eTBXR2daQkh0dmczS3ZQcWNiRlY1ZktoeW1rM1p5eGpwV2ZPOWZsb0kwekZwSTZtYWtvSzllRUp5YkFoX2ZUSzJSQjlhLVc3eWE1Z0hGMG5xU3ZDcUpBOENtTV8yWmNZcGhSVWxKaGJnR2dOeVdxRjhIbmhyYV9PNGg?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "summary": "RBI's policy dilemma: To look at inflation or growth for rate action&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
@@ -275,14 +299,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI MPC Outcome: From Repo Rate Decision to Inflation, GDP, Rupee, and More – Highlights",
-      "source": "ET Now",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFktcUtES1NBelNrbEVBWVdGUWZyc0FKOG5rUkdzXzNuUmc5Y0RVdW9NTHlYdXJWVUhrSXdtVDNRZnZQNm1NQktrNHIwSVhsN0s0Xzk3eDEwZFFvc21TVV9tSUppeDBabE9FS0x4a1VQcGIydGpzbkFLOWRnYWthLWJ3dm9iVmR5VVpnMlRDZjdLSlhhSTVyaW55Y3FxQ29MaFd6NEJWc2hQUE5sSlZLd3BwQ3NVRGNJRjV5N01QOWJfem1VVWllN2RzVXFoVm_SAdQBQVVfeXFMTXdwVjFNaFY4U0VqVnpYODlJcVlJMF81LUxpM25ad2Q4VVRqSlNsNnJrZ2lBaVJqbGpvSXpQRXJibVNvbGZqTEUtaEVWRVJnNzZuOVhzcEtwYmZzV1c5T1ZhZWpValFFMW04RWQ5eW1HVkM3akRhU2UtZE40cEVvNGhOd0dZdVRDMERRM0dDNDRUd0E2Ql8wdVNNaG83cUN0YndsM0pZb2ozZEdMWHUyQV9SM0lWOUNtM3RpOXdjRFN0ZUNOa2gwaXJyckI1U3k0cDI1Qms?oc=5",
-      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
-      "summary": "RBI MPC Outcome: From Repo Rate Decision to Inflation, GDP, Rupee, and More – Highlights&nbsp;&nbsp;ET Now"
-    },
-    {
-      "category": "economy",
       "title": "RBI Holds Rates, Lifts Inflation Estimates And Expands MSME Support: Key Takeaways",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnBnOFVMel9SQVF4X2YwMXJHTVZndlBMTEZQTkJTZDJ6M2VsUkR1enRGN2M1VEkwRlRvSzB1VWdWZktxRVFxOVRTRDlIdmxuc2huVmZDeXhfa050S0Q2NXROV2RaUjI4am8xbmJ0TWFrN0xUc2hqLTY4aG1ickZ0YTlrN2hBSnFtZUs5eWNyZF9jTGl1dW1DRW00THRwYTBiWER1aHAtc2sxZUZHSUJDX1Myd2R3R1lUUm5zWGFmQmtyY0kzTDQxMzN5eEdYN1A1bEtqYzA0MDBHang4NFJZ0gHnAUFVX3lxTE5XeG9oVTFibm5pdzViNkNISi1TbS04aU1zVzBPRTlyN2NvZkExMm52aFBscHQ0bURaWVBtUVAzRFFrQWxibS1PUGVvc0tfME90UDFNQUpuRFBFWFlFU2hKUzdnLU5OaElORUprTXJ4R3J0ZjR5VENselBwR2JicmZaNE1CaHJNSVdjY1ZpMXR4UnJ1RGt6T254aWtUMldtc0hjdnppTHV0UVozSlVTdWlnRGpjYnRmMEVjS0FRLW1BaDk5MkJ0cGIxZGdmTlhMZThRdDMwWFpQQjhrWENycTVrYzdXOWIzOA?oc=5",
@@ -291,19 +307,27 @@
     },
     {
       "category": "economy",
-      "title": "Outlook for India is one of cautious optimism, says the RBI report",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVVZMdVJ0ZVlZUnZBZ0dfaVBvWnZzdlpQckNYVXBaQ0JraHVDWVRiVWpXVVNLUWRxTUYwQU5aWVg4Q2VzV3ZrSjdvSGczOTV6VjdTSXpzamlrd29NdUlQSmQyMWRoTlFYekh6bHhjR0tmekplQTh2ZE9ZVndkLUVpMXc1LUNRWE83UVdZcmNENGdmNlhVNG9DeXZ5RWZwQ0RtVFBMMUhCVlpWbi1xQkoySl96MkdMSDA3QUFVcVNYUlZPbnBZN2JfeGtfWHjSAdIBQVVfeXFMT3F6VU16UWp5aXVJUno1ak5McXUwenlPZTRVb2Jra2ljT1pTNGxsekxESFNjNG5uT0RqT09fMkVWR1FIVkxBVEpBUHBKQi1tSWdNY0xYeFdrejFNZFR3a18yWHZiV3NMSHAwbUlyQlFjaXJWNkltVDR4Z2g1UVRELTR3WFVkUUpibklUWGpFNHpSRDRGTTB2Z3h6clo1Tnp5MFNWeHZNQTVRZWJwUUlRamR4aVNlS1dEY3hKcGtnbjdSVVRsa2gwZkZrcURWaVVkZmtn?oc=5",
-      "published": "Thu, 22 May 2025 07:00:00 GMT",
-      "summary": "Outlook for India is one of cautious optimism, says the RBI report&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "category": "economy",
       "title": "RBI unveils big bang banking reforms, hikes limit for loan against shares; maintains status quo on rates",
       "source": "The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZXVCLUlWTHRRY05Oa3Y3TE1OLWJudXhkQVZJX3VGblMxeFMwS0RqeERzc1lCeW90WHhHNTJEU051b0xWZVJXcjRmWVVnUzFMajIxZjNCNUxLN2tYUk9aVGtqcFJ2ZDc0TnFjMGxrWHFmQTFmSGIwWWNPTlVjWEFBa0JGLXUxSUhsT0FEcnBpWDdJLXNfYVpPek9RQV9mdzBBRzV1VThnV2RKZnpNUm9oVHBMdmFwLUV5eUZLY2cwVlFGYTQ1MlpjMWs0M0cyRUVmcU5pTnhIczBMbjRJYmFzS2gtUTJvck1KcFprTVB1eVZfU0FPRGhWRVRacFhnRU1SOVM4Q0RfS0t5cGxydlh2cnBnWDg1TGdKbXF3?oc=5",
       "published": "Wed, 01 Oct 2025 07:00:00 GMT",
       "summary": "RBI unveils big bang banking reforms, hikes limit for loan against shares; maintains status quo on rates&nbsp;&nbsp;The Financial Express"
+    },
+    {
+      "category": "economy",
+      "title": "RBI Monetary Policy 2025 Highlights: MPC delivers dovish pause; ups FY26 GDP growth forecast; unveils measures for banks",
+      "source": "Mint",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObnd4T0JOTkNnYkZlTFFSTnNIdHd1QlpZSTE4ZE5mcWVsOGdHYi16Mm40b3ZNbVpFbVQ3c3ZzU0syNWhldWlDaV8yZm0zc1dfMmtOTVZfUVlHcmRZSlBZckNmWnlwcmJVZkxid2lRZmNGdnRxZ3VjS19hZ1ZlQW80OFJoWVRNaEFWNHRxdmJmS1hmcnRPYzllcVZIb3FKdGk2QkJTNE9hMmxhdWRqWXQ3bnd1Wk9uX3d1eFBVUXZ1N19iZWpKTXJJeVpEYUgyZEtob21PMXljSDVQTENpMV9lSExSczJfRGhiYUtXa1FqOGctR3l4SjFtU2c1aTJISng4d0FNSUtWNnB1TnPSAZACQVVfeXFMTlZVc1VfeERDWDZ5a1Y3dFlsRlRNS3pySnQzS21qV1I0Uk95RU5LeWJXUy15eWVlN2JCMTE3S21lRmZIQjNxR2NMRXRvWDhHdFRyWDZRVFFQVEZCek5LcHhoU2RzWHlaNV9jeVVxaElhYmxnZlFkUHhmdjJVMjRJTUlCRF9MT1ZqOFBKVmk0b3VXdGdNWXRtcHoybkNfSS1icXdTNjBOV3BhbE1Yb0twdDEwMFV2Z1hiTVlQc21CeDhGRW1HVE1DLXlkRzhESkZKb1NMcUNYZFhiUjF0RUNfeUtfNVdJMWxKMm1LMmtqTW5EdlRXR0ZhTnZsYTRnUjlKMlhhMkhJYlBieXk3VmFyY1g?oc=5",
+      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "summary": "RBI Monetary Policy 2025 Highlights: MPC delivers dovish pause; ups FY26 GDP growth forecast; unveils measures for banks&nbsp;&nbsp;Mint"
+    },
+    {
+      "category": "economy",
+      "title": "GDP surges, inflation slides: RBI’s dilemma deepens on rate-cut",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaEQ4X2JMLXNCUEpzSTNuVXJHTmFqUlplSEpJV3V3T2xtdWN1YmFtNldSOFdLTjdrcHNfOTE2bVVpMi1iUF9NTGlyRll3RmNPMl9MbjMyckQ1YUs3Umx3QjRLWGRCSXU1MWhpbU5Kay1mMV9rUTRyc1lUcVpkNlVMOWNabW5PRndzbjJKWjdwcUVlaEdYbzdtTzFiRE1JeEtIeFhqLWtsNnRhMVhEMEdDNk9BNnBHd194QW9OSlBZemJ2akNjS202YVZsaTlBZE00UHfSAdcBQVVfeXFMTmlrT2NsMkZCdkoyQXpEdWM0R3R1VzQyMmdQMF82V1JjUFl2eHhydUd1dFBlMHNSa1NjQmRVTlEzZlc4QWowMkhWYXF6MzFYT2RSaFJrMFdxdkFGaUx6NUJnWEg3WEc0WjdSTXNUblQ3OVJtc1R2Wm9Za2dUYUlzZEdQZktYX21weVdXcGRobURvT1RuOXZlZFd5dFU1czdWUTlPUUZtT0lYZVJ0UFhjem5pSTBOWmNEdnRiRk9JWmRxUkkxdFFRMWNyb1hkMmsxdUV6Q0tVUDA?oc=5",
+      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "summary": "GDP surges, inflation slides: RBI’s dilemma deepens on rate-cut&nbsp;&nbsp;The Economic Times"
     }
   ]
 }
