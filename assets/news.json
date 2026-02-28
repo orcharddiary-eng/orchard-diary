@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-27T19:48:48.500459Z",
+  "generated_at_utc": "2026-02-28T04:36:12.969748Z",
   "items": [
     {
       "category": "pest",
@@ -11,19 +11,11 @@
     },
     {
       "category": "govt",
-      "title": "Press Note Details: Press Information Bureau",
+      "title": "National Mission on Edible Oils",
       "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
-      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "govt",
-      "title": "Press Note Details: Press Information Bureau",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckdSeWV4V1JrTkZPSzZqRFVYS1ZUcUoxZUtBRWNGUkszaWNnX1BHanJfNGs5YjVjamp0RDBJNEtBWC16a0VsLXhEM0x4dVdzNW1VU1RrQlVhbURzcGlzaWs0RE9nRmxpcWhQeWRhSmZYQWFhMmY2bXB0UVZNclBEcTkwWkpNQmNtY0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
       "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
     },
     {
       "category": "govt",
@@ -35,11 +27,27 @@
     },
     {
       "category": "govt",
+      "title": "Government Jobs after BSc Agriculture in 2024",
+      "source": "Adda247",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXAyV3VTSFdqbXpTWUxhckVvelBRUDdqYVMtRVRJaElpUXRWUEtQZXp3ZUdIREM4clkxQ1NvSUcwR1VRNFVsMFN2eTBNYk1ycnphUTVOTEJUVVNjTFdQT2cxUVpFb1IteHQxV2s2YWtZT1gwcU1qa2YyU01wSnNRWWNjU0ZfTjQ?oc=5",
+      "published": "Sat, 22 Jun 2024 07:00:00 GMT",
+      "summary": "Government Jobs after BSc Agriculture in 2024&nbsp;&nbsp;Adda247"
+    },
+    {
+      "category": "govt",
       "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
       "source": "Krishi Jagran",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
       "published": "Wed, 28 Jul 2021 07:00:00 GMT",
       "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
+      "category": "govt",
+      "title": "Top 10 Agricultural Apps for Smart Farming Solutions",
+      "source": "Tractor Junction",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkFnUnY5eG9uSjhLUWFhb1pDOWpNNnpmZEtVMkJKUVFGemlQNUdmemtOcjM0alB3QWdsRWRqb1lQS1VqMF9Uanc4b2pzRzJqOW5EVzdISk9yNU1XQU9QWlVrWWpXR25PdGdDWUhWZkpmOVNDaDdKMlctWmFhNG1TS29ZVHY1QlRWYThwX0p1bEd4TDNF?oc=5",
+      "published": "Wed, 02 Nov 2022 07:00:00 GMT",
+      "summary": "Top 10 Agricultural Apps for Smart Farming Solutions&nbsp;&nbsp;Tractor Junction"
     },
     {
       "category": "weather",
@@ -59,19 +67,19 @@
     },
     {
       "category": "weather",
-      "title": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?",
-      "source": "theweek.in",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRfUndJX25pUnZoLUluOGVFYkc1Nzd2UXFtWjJ4OEh6Tlp4TWZBMVl4YVFieXdqWmE0bDN1RzFuZEdmcEVTX2pUUXdwU2dBVHZJTGpCWFVyLXpxLS1maW85TURxTHVNdW1YcGtiVjQtZE9NNHFPZTFRMm5vX19vbDdKbjNYTGExbC1wM0xuc2NSZDZqV1o0SWVQN2p0UGdlV3ZYak1BaG9wMmk0eHBxX2pPMEZGcmFDNV9CVlFzTzA3NV8xTFBYeGU0LWtZb01fcUh2cnduZXRmS2d1QnI4NTVGMVI4Z9IB6wFBVV95cUxOWV9veWJUUWlnaWtURlRESFljYXI1LTlGLV82amFOODN6MjlrMkJZV0pYZVR4c3hWQ3MxLWplWTlwRlNNODFETl9fRngxdFBTVGNDT2I4aGlnRS1RbXljZlV1a3JVTGE0Rk9LanM2d1dMcWM1NDRsS1VPR0xfMVFDc2U1SUZrRzQ1dnhjYlVPVlJScTFNSFRmVWFDYmtCamdKZTNBejRpY2VIVHJ3c21WZ0dEWXdyeG84ZnZkWXlNR2JmZU93TDFWQkgzY0JPMXJoS3FHaWtqYk1NWVhwRjFXNXpOakpGa0wwLTJJ?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?&nbsp;&nbsp;theweek.in"
-    },
-    {
-      "category": "weather",
       "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
       "published": "Sat, 03 May 2025 07:00:00 GMT",
       "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "weather",
+      "title": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?",
+      "source": "theweek.in",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRfUndJX25pUnZoLUluOGVFYkc1Nzd2UXFtWjJ4OEh6Tlp4TWZBMVl4YVFieXdqWmE0bDN1RzFuZEdmcEVTX2pUUXdwU2dBVHZJTGpCWFVyLXpxLS1maW85TURxTHVNdW1YcGtiVjQtZE9NNHFPZTFRMm5vX19vbDdKbjNYTGExbC1wM0xuc2NSZDZqV1o0SWVQN2p0UGdlV3ZYak1BaG9wMmk0eHBxX2pPMEZGcmFDNV9CVlFzTzA3NV8xTFBYeGU0LWtZb01fcUh2cnduZXRmS2d1QnI4NTVGMVI4Z9IB6wFBVV95cUxOWV9veWJUUWlnaWtURlRESFljYXI1LTlGLV82amFOODN6MjlrMkJZV0pYZVR4c3hWQ3MxLWplWTlwRlNNODFETl9fRngxdFBTVGNDT2I4aGlnRS1RbXljZlV1a3JVTGE0Rk9LanM2d1dMcWM1NDRsS1VPR0xfMVFDc2U1SUZrRzQ1dnhjYlVPVlJScTFNSFRmVWFDYmtCamdKZTNBejRpY2VIVHJ3c21WZ0dEWXdyeG84ZnZkWXlNR2JmZU93TDFWQkgzY0JPMXJoS3FHaWtqYk1NWVhwRjFXNXpOakpGa0wwLTJJ?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?&nbsp;&nbsp;theweek.in"
     },
     {
       "category": "weather",
@@ -147,11 +155,11 @@
     },
     {
       "category": "politics",
-      "title": "From Streets to Discord: How Nepal’s Gen Z Toppled a Government",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOEFwR1piOVlaM2M2YnpFQW9xM2RkaktIdkJWVEU2ZW43UUxjWHpzSzdib0JfTWpZV1Y1OEhUMzRFeVdZT2hEd2tiZDJLNjUzNFBMaXdsWnZKdUJKOENBZGh3aEU2eW5qV2xCeHprM1VIU1h6a1p3ekRudzhpQVptMlZn?oc=5",
-      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "summary": "From Streets to Discord: How Nepal’s Gen Z Toppled a Government&nbsp;&nbsp;Carnegie Endowment for International Peace"
+      "title": "Politics of absurdity is costing Parliament its dignity",
+      "source": "The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUdIBuwFBVV95cUxQaGF4VFk5N0k0UFotLTNqMmdJU3otODBvODBleUc0NWNuaEZzaWlxb1BhU0JFeFJ0Z1VqWmpIMjRydHFJekxZNDRyOVlhZ21hemNuQldJVHFPb0UycFUxQkVwZkpwUzhFSlR1WnFSeVdNaVVYdUlLWDhHYmNOSEVVY0NEOGhqSG1NZHByYlQzanA4cTZvcF9waEEtVnY2YVoxZHNVNEcwX2VJTDg2aHRBbFlXUWtkSmJtejRv?oc=5",
+      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
     },
     {
       "category": "politics",
@@ -163,19 +171,11 @@
     },
     {
       "category": "politics",
-      "title": "Politics of absurdity is costing Parliament its dignity",
-      "source": "The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUdIBuwFBVV95cUxQaGF4VFk5N0k0UFotLTNqMmdJU3otODBvODBleUc0NWNuaEZzaWlxb1BhU0JFeFJ0Z1VqWmpIMjRydHFJekxZNDRyOVlhZ21hemNuQldJVHFPb0UycFUxQkVwZkpwUzhFSlR1WnFSeVdNaVVYdUlLWDhHYmNOSEVVY0NEOGhqSG1NZHByYlQzanA4cTZvcF9waEEtVnY2YVoxZHNVNEcwX2VJTDg2aHRBbFlXUWtkSmJtejRv?oc=5",
-      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
-      "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
-    },
-    {
-      "category": "politics",
-      "title": "Women in Politics, Status in India, Challenges, Measures",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
+      "title": "This Constitution does not permit war",
+      "source": "The Leaflet",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXQxR05yRjJVUlN1YjNwYVFUb01kaEEyeGZ0ckRlMENUSlR5VUltaEZBbFY4NndBdjF2RFI1SXZBeWh6NXF2b2ZNa2x5bm4yaWYycl9QVW84ZklBYXU0cGpHd3hudDRDX1JJZkZJMEYzNUpFbUlBazVTOG5IckRMclI1eEpHZUlH?oc=5",
+      "published": "Wed, 07 May 2025 07:00:00 GMT",
+      "summary": "This Constitution does not permit war&nbsp;&nbsp;The Leaflet"
     },
     {
       "category": "politics",
@@ -195,14 +195,6 @@
     },
     {
       "category": "politics",
-      "title": "Does “One Nation, One Election” Make Sense for India?",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV05NUkhqR2JLVWZYME92cjRGZWhvdWJCZDdOR3BxNTFRZDhUM1JPcTlHUUZ5NFhDeVhWeXJTRXBhMTdFX1hXNEptYkFaanhfNDI2cDJnaXcyU0l3T1BXU1ZBSmtuS1NDaWtraDVrdkx2aUtTZnpjNUJzYUFSazBua3p0WUhVNkZ5ajJRdmpB?oc=5",
-      "published": "Mon, 28 Jul 2025 07:00:00 GMT",
-      "summary": "Does “One Nation, One Election” Make Sense for India?&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
@@ -211,11 +203,11 @@
     },
     {
       "category": "politics",
-      "title": "India’s shock election result is a loss for Modi but a win for democracy",
-      "source": "Chatham House",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2Ezcmw1eU9fdmp2YjFReC1VYXdDUUFwRE9oMDRLTVVJdWpkU2ItNllMLWpjQ2RLMG9NUkR5NzBTNGo5b1pnS1JOY1RrMXVoQ2lUNGVQR2NxTjJZSWJKTzZTcF9BaVYzVjhQdVZ2Y2hlZmNZOXA4anRLbW1abTBWMG1rc1d2X2YwVTZyNlRBb2Fva2M?oc=5",
-      "published": "Thu, 06 Jun 2024 07:00:00 GMT",
-      "summary": "India’s shock election result is a loss for Modi but a win for democracy&nbsp;&nbsp;Chatham House"
+      "title": "The Resilience of India’s Fourth Party System",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamtkTFRkZE8xdGlneTFJdUUxR2J6OTJDUXpNWEFVMzdpdjY3WGxvUnRWN3hwU2RvOHNqdXdjclg4UzJ2QngzRDkzYnVfX3lpT3B4akVYb2VfQzZNQlpnQzh0cGE5dGFoeVBBQzk1eHlLT1NrMjV0V2hpaUdTc1htQl8xU21pY1U?oc=5",
+      "published": "Thu, 26 Sep 2024 07:00:00 GMT",
+      "summary": "The Resilience of India’s Fourth Party System&nbsp;&nbsp;Carnegie Endowment for International Peace"
     },
     {
       "category": "politics",
@@ -226,12 +218,28 @@
       "summary": "The States in Parliament&nbsp;&nbsp;Vidhi Centre for Legal Policy"
     },
     {
-      "category": "economy",
-      "title": "Economic Survey 2025-26",
+      "category": "politics",
+      "title": "Ministry of Youth Affairs and Sports",
       "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JRnpRVnJ1R0lTbEtUQWpxUDd1SDd5aTlZX3JtX0xZYjJ5bkF1NWRIYndpUktFb0YzMDYxWU1JeXlWdGhUT0UzNUw0YlJEOUU1MzJBOGNvVzBZV3VnNEktMFBIQW5YSUhk?oc=5",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "Economic Survey 2025-26&nbsp;&nbsp;PIB"
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnVJcm93NHBDbWVwbjAxd3R5XzctMFZXTGpDdkFodVdLaWMzMU45Z1ViMDJFRjZWRjctOExWRlBpdkhhWlFwWHB4VGtyQ1Vkanc1RkRqY1B4d3ZLNEIwcnZSQ0tqWHJXM0RZWjAtTkt1dXg4N0xOakV0MEVZbHVBU3NSNURPY010anc?oc=5",
+      "published": "Thu, 21 Nov 2024 08:00:00 GMT",
+      "summary": "Ministry of Youth Affairs and Sports&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "politics",
+      "title": "India Under Modi: Shrinking Democracy, Growing Inequalities",
+      "source": "The India Forum",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTRad2FwVExZUG1ZaS12OW5uTjh6aV9OcVJneERrZWpxcVdXUUJCWDQxWWtDRW5nZ1RYS1NxUE9pT1ZqQmp4ZHpXa1R3UzdPM3BUQ3AzWGRQcFFESlc1SnNkWnZ2OGFlenJzNXRmS0s3cVJCUENqWVZoV0VEVzhZM2s5WFBCcFZuaVhUSnhBRVhnbkx4SjNVbXBuQQ?oc=5",
+      "published": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "summary": "India Under Modi: Shrinking Democracy, Growing Inequalities&nbsp;&nbsp;The India Forum"
+    },
+    {
+      "category": "economy",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oREV6c3dQN0x1YmFWdHVkSURSb1I0Vi1GNmh2Y3NHblcwQklLTWFlN3VLQW1FLWlmMDZtM1dQVUhWemItbGNBZ0lYRXBLSXJMQTRHT0YwaVNYdmRQSjdzWllMV1RBXzNyeWJVQTJjNWhBVVBvUGZlQg?oc=5",
+      "published": "Sat, 30 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
@@ -259,14 +267,6 @@
     },
     {
       "category": "economy",
-      "title": "Press Note Details: Press Information Bureau",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oREV6c3dQN0x1YmFWdHVkSURSb1I0Vi1GNmh2Y3NHblcwQklLTWFlN3VLQW1FLWlmMDZtM1dQVUhWemItbGNBZ0lYRXBLSXJMQTRHT0YwaVNYdmRQSjdzWllMV1RBXzNyeWJVQTJjNWhBVVBvUGZlQg?oc=5",
-      "published": "Sat, 30 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "economy",
       "title": "Inflation is dead (for now): Why the RBI just slashed rates to 2%",
       "source": "The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejQ3WURtR2RUdUpKODVoT0lvMU42Rjgxb1pWdm9mamd3SXNiTlFOME9SOWY1c0l0ZGlEci1Ja3M3aU5uWkYwcV9kdGpESUs1RExVb2g5dDAtU0RCNU0wdzlKeW04N3ZtSXJiend2b0pQdlZoSHRMcFE3ckgtdllpX1Z5aXFLN0YwTzFMVXNLTTdxelFpYXFySktCeFhETTV5ZWJMOFY0UGFmZHA5cnlzTE43YXh2aU9ZdjZMUUtBT1BGclFzdWlyd0h30gHQAUFVX3lxTFBjNmRSYVIzY2hCc21iQ0pCSXVNcVI1TlJyZGs1ay1lWGFwY1lNYkMtazJ6T2JVY2RSVXBwZ3puRUJDaHFxMHVKYjF4bWpzYXlLMVdiV3g4Ukl1ZlVRc3BRaHlZRS1zRzUzY0RGeWY4a241RlBhR3hRNUZyOTRRblpDNVJuU0RQRHVTS3lPdEpaTUp6aDZ3OXBuUEFOdGNObUM0NElaa0diU3M1TC1IT2NMcGlNTTNHSDZFNC1DYnhxeEVwY1JJX0U0WVZYRm1Gekc?oc=5",
@@ -275,19 +275,19 @@
     },
     {
       "category": "economy",
-      "title": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbE1RaER4Q01VMWZ3eDh4dHVjaHZIZUVtaVhRRTNQRlN6VG9kaFpLYjFIa0plWUpaZlhjOTZNVFNtOEswSW9WQV9ITlFHYTRlUlpWemZpS1pLa19QU19JOG5hRXhFNWVXMVpfdExfbE84cExrUjRjejBJVGpZVmhNRnpGV3B0R0ZwaDRZSy1IVTlUbFA5cG1kbnMzbWFzN0JLVGtNX1pHRXMxTE55TTF4OUx0RTZLVVR3VGVkbnZkYzlKU3pIVl9wWjl1bmJiZU9rQlZlRTRnVTJYWTMta2h2bV9Eb0JHV3ZkN1RWTWpvamNmbEpuWTEyd3lBMndKd2dmS2RBTEpXWDVEdkFjNTVJMm9TcjR1amxIdEZfM1dqWk5xS3pZc0x4N2ZrSdIBsAJBVV95cUxQaWgzSENsenZHNVBUQXpOenlYS2RkSTBzU1JYdzJJYW5DQkFVTVZSd0Qtc0Z0SDFmc2xYNURRTkVpSDFFS0NTWlI0RlNpVFhndmtJdGFoRVNrTlF6ZFQ0aFlmMnUzNXVBN3FoNThXWkJZMEdYQVZpa1lKSGs5QTdZZXpURC1KeWcwTmppSXZKNGZFalNZeTJRMWhlMXZXUzVTQmpySnloRWNFZ0MyU005Yi1MZzlpWFQ5WmlZUGZiRnBjS1Vfa3JVS1MxZ2NPczJ6T1VOckJxMnpCYXBZX2VteWppMktWX0ZtSU0yQ0RyUmZmenczU3k0cWljanY5M0l3MXYtcU9lNFRfSkRvSG1hbE9GVkR4NlgwVkRnbEhJWXN4ZFBYTGhsMXNNQWo2TDZi?oc=5",
-      "published": "Sat, 27 Dec 2025 08:00:00 GMT",
-      "summary": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
       "title": "No rate cut, but RBI trims rules, drops overlapping biz regulations in credit push",
       "source": "Mint",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaG5RUHdhTDExaHF6bE1jVE5YWUtLbVFRSnFqTlRXWTRQOEpfZnlrLU15MVE1WmZFT09vU2hlLXBJV2piekptb1dvNGo1ZDY0VFRHYjBxSWxJY2VHcjNlX3lzYlJQbGJYMGNVMTN1Vm92WU1jQzE5ZWpzWmtGZUJtNUtLQ2JRbXVhMm9pS2V6dUhtYnc3RWxHZ0tPeThWRnFoZnhLYUlGVzRZVVN6bE5vSjd3VdIBuAFBVV95cUxQTTRsaVBTbHlkMmNlQjJKSGpIRkVobTFHbktMWDhMTG50S0dpbFBQVDFkcjQ4WHR3a1ctYmkzbW5YVFdDVkU5ejRMNVE2ejVacElPdENkV05rcFhRNTNOTGdQZWV2V2kyNGxzTkdCTjdHc0U3U29iQzBJQ2N2NkhRU1NMMklUTXBsbGRFUm5xYnhNR19Sa1BtUHpqQVZkbHoybkxrbHlDcDdINHk0V1FmVlM5ZDV1STJh?oc=5",
       "published": "Thu, 02 Oct 2025 07:00:00 GMT",
       "summary": "No rate cut, but RBI trims rules, drops overlapping biz regulations in credit push&nbsp;&nbsp;Mint"
+    },
+    {
+      "category": "economy",
+      "title": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbE1RaER4Q01VMWZ3eDh4dHVjaHZIZUVtaVhRRTNQRlN6VG9kaFpLYjFIa0plWUpaZlhjOTZNVFNtOEswSW9WQV9ITlFHYTRlUlpWemZpS1pLa19QU19JOG5hRXhFNWVXMVpfdExfbE84cExrUjRjejBJVGpZVmhNRnpGV3B0R0ZwaDRZSy1IVTlUbFA5cG1kbnMzbWFzN0JLVGtNX1pHRXMxTE55TTF4OUx0RTZLVVR3VGVkbnZkYzlKU3pIVl9wWjl1bmJiZU9rQlZlRTRnVTJYWTMta2h2bV9Eb0JHV3ZkN1RWTWpvamNmbEpuWTEyd3lBMndKd2dmS2RBTEpXWDVEdkFjNTVJMm9TcjR1amxIdEZfM1dqWk5xS3pZc0x4N2ZrSdIBsAJBVV95cUxQaWgzSENsenZHNVBUQXpOenlYS2RkSTBzU1JYdzJJYW5DQkFVTVZSd0Qtc0Z0SDFmc2xYNURRTkVpSDFFS0NTWlI0RlNpVFhndmtJdGFoRVNrTlF6ZFQ0aFlmMnUzNXVBN3FoNThXWkJZMEdYQVZpa1lKSGs5QTdZZXpURC1KeWcwTmppSXZKNGZFalNZeTJRMWhlMXZXUzVTQmpySnloRWNFZ0MyU005Yi1MZzlpWFQ5WmlZUGZiRnBjS1Vfa3JVS1MxZ2NPczJ6T1VOckJxMnpCYXBZX2VteWppMktWX0ZtSU0yQ0RyUmZmenczU3k0cWljanY5M0l3MXYtcU9lNFRfSkRvSG1hbE9GVkR4NlgwVkRnbEhJWXN4ZFBYTGhsMXNNQWo2TDZi?oc=5",
+      "published": "Sat, 27 Dec 2025 08:00:00 GMT",
+      "summary": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
@@ -315,11 +315,19 @@
     },
     {
       "category": "economy",
-      "title": "Rs 90 to a dollar: What’s driving the fall and why it matters to you - explained",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMTUyWGYwRkh3T21HWGQ2V1NmeEdvb3doYjF0b3MwcEFQVnNjWUlDU1UtdGpFYms0ZVlwT3JLOHBJMUJjZ1dhaW1HOFNPRWFreWREUFRpblJLRDktR1p3QVBKUUNXTTFad2JUWlB6MFB0cGlqTnVhZHVlNW8zWHMycy1PY1RKcVMyZWVRNkVBSmJiblJDT2YwVWxhdTN1aUNBR0FqRmd1UWhCNDJBUU5TUTFRMGpzcDlLbnRqbE5ONm9xc0NveFlRdHlOS2wzMm5vVzF1NmVORWdJSTdQUnIxWjJLbXAxRHJESnVjckJQOEo2OHF10gH6AUFVX3lxTFBncnAzVEYyZU1aMmYwVVFjQVJDX3JzaURJMTd6MUV0SWxHc3FPNzFxT1dYaW9KTUVGUmxITGNkRmE2dzZKR0h2U2Q2eW9PRGpIYTYyMkN5NjBZbFh6R3lwWmZGSjUydi04RE9rZmZzclV3dEZpaVBYN2FLV09xNG9temZhdVhvRWlTUUl4Vy1PZkl1TF9VT1Mzdnh5dGtYTUQ0VjJlWG04QTR3THMzSFFyV2UtYzhDNE5FZHFVR3Z6Z29zeGdRanByTmpqS3gzQzAtSDlIVkdMQUJLT0xPOUc0NDlIQk5Ca0hydnhaMGk0b2NoS09vRXU3QXc?oc=5",
-      "published": "Sat, 06 Dec 2025 08:00:00 GMT",
-      "summary": "Rs 90 to a dollar: What’s driving the fall and why it matters to you - explained&nbsp;&nbsp;The Times of India"
+      "title": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93WE0tME1oQ01heUFXbTlHLWRPZzNtSVVPYXAtUmtlbUUtWjQtdzBEUVVTOTlzalFoSnU3Nlo1d2dyY0lYM1NCaXp5X1QwVXRKT1ZJbUpCT19lQ3pFbkJfTzkyQ19FQTNBR3Rj?oc=5",
+      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "summary": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "economy",
+      "title": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVNfQXhabmVNamlOdFBJNVNhbEdDeFpIZVN6NEZXTXBYaVBiemtQUnptSFlZSjZTaUZpMHp1Mzd5RlZJblg1UnhnZnF6cHZRNFhob0FVVU01aUZwUmQ5UHJoQ0NMaHRON0Zvd3JTOGl3aDRLMlgwdWxIYnc2YWRKVjNBa3k2XzdrX1kyeUd5cmJZcEtncU9XV0FlS1N5TVY0a2RUS1cwX2hobVlMTUxOZjVpWUg4cVB6VkpERGsxV1N2Y2RFNjlTdHZhVHhrUi1PSVY2cDNoQnFxOW_SAeABQVVfeXFMUHBWSVNkRnQxM0huLTlLNlFHSXdfeFd0ak9GdEVlQlBNbVZDSGtlcDFTTDlTU0FHZmdLbG0wWTR1MmFnalN4YzFlT0g1ZGtBZVBkUlpOa3d5dTdMOW1CZTJTYTJBYjV1THdrem92RnhEZ3RvcV91eml6eFlqU2ZIcWktOThCVTdPRHBZeUpVU2hjV2RaaHJYTDMxelJvUUN2S1pHWWpRLVNvclp5LWVUT29OZHNWYVJCcHdWa3R3dmg5QVBsOUVraU5wVGlNT21kNWRkWEFTNTBiU1ZtdS1nYWo?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
     }
   ]
 }
