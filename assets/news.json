@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-01T19:01:06.310618Z",
+  "generated_at_utc": "2026-03-02T05:07:45.979692Z",
   "items": [
     {
       "category": "pest",
@@ -11,11 +11,35 @@
     },
     {
       "category": "govt",
+      "title": "National Mission on Edible Oils",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
+      "title": "PIB Headquarters",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "PIB Headquarters&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
       "title": "Horticulture farmers to get Rs. 3.48 crore as subsidy",
       "source": "The Hindu",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzZWTk1mRXlFblNOUU5kQjVEQ2NRN1RTQ0FSMnh2QVdyeEc1N1NsTURBNkF4RW53Q05ETkY5bHlNVkhRUDd3RFNJdGppVFNBQWpXeDl4SlFqeHBzMGNzU25IRXlRRGkxS3Y0TnhGY3RaRzZ2YllweUNOLVEwQ3lKLUlsVjVRTTdwUUl3c0NXNnM2d0tkekdyd2RTcGYzTFI5eXJiajZqbDhJSENfZDlXMDBIVE1UbDE5RVlLVzE1V2vSAccBQVVfeXFMTW9FM21FeW5sM0xEWUZ2ZHhUdGNVVDJhdnBNeDJhVm1FcnN2c21IMnpuMUV6bWUwN1VPTFdXVWIxaXY0bmp0ZFhPc3c4dzJTT2RvcE1xMFRVLV9UbGppaGViYjZlaXpZcUJuN3c3c0dhWW5iazhuWlo2aUIwLW5RU19fYjgzcF85SXhOQ1R6eHBKYjJKSFFMV2wzek01Y0NUVlBqazl4X3oxVU8wck5nQjNQdGkxWWRyVWVUd25RNVJaTThzZTZrNA?oc=5",
       "published": "Mon, 20 Jun 2016 07:00:00 GMT",
       "summary": "Horticulture farmers to get Rs. 3.48 crore as subsidy&nbsp;&nbsp;The Hindu"
+    },
+    {
+      "category": "govt",
+      "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
+      "source": "Krishi Jagran",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
+      "published": "Wed, 28 Jul 2021 07:00:00 GMT",
+      "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
     },
     {
       "category": "govt",
@@ -43,19 +67,19 @@
     },
     {
       "category": "weather",
-      "title": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?",
-      "source": "theweek.in",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRfUndJX25pUnZoLUluOGVFYkc1Nzd2UXFtWjJ4OEh6Tlp4TWZBMVl4YVFieXdqWmE0bDN1RzFuZEdmcEVTX2pUUXdwU2dBVHZJTGpCWFVyLXpxLS1maW85TURxTHVNdW1YcGtiVjQtZE9NNHFPZTFRMm5vX19vbDdKbjNYTGExbC1wM0xuc2NSZDZqV1o0SWVQN2p0UGdlV3ZYak1BaG9wMmk0eHBxX2pPMEZGcmFDNV9CVlFzTzA3NV8xTFBYeGU0LWtZb01fcUh2cnduZXRmS2d1QnI4NTVGMVI4Z9IB6wFBVV95cUxOWV9veWJUUWlnaWtURlRESFljYXI1LTlGLV82amFOODN6MjlrMkJZV0pYZVR4c3hWQ3MxLWplWTlwRlNNODFETl9fRngxdFBTVGNDT2I4aGlnRS1RbXljZlV1a3JVTGE0Rk9LanM2d1dMcWM1NDRsS1VPR0xfMVFDc2U1SUZrRzQ1dnhjYlVPVlJScTFNSFRmVWFDYmtCamdKZTNBejRpY2VIVHJ3c21WZ0dEWXdyeG84ZnZkWXlNR2JmZU93TDFWQkgzY0JPMXJoS3FHaWtqYk1NWVhwRjFXNXpOakpGa0wwLTJJ?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?&nbsp;&nbsp;theweek.in"
-    },
-    {
-      "category": "weather",
       "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
       "published": "Sat, 03 May 2025 07:00:00 GMT",
       "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "weather",
+      "title": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?",
+      "source": "theweek.in",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRfUndJX25pUnZoLUluOGVFYkc1Nzd2UXFtWjJ4OEh6Tlp4TWZBMVl4YVFieXdqWmE0bDN1RzFuZEdmcEVTX2pUUXdwU2dBVHZJTGpCWFVyLXpxLS1maW85TURxTHVNdW1YcGtiVjQtZE9NNHFPZTFRMm5vX19vbDdKbjNYTGExbC1wM0xuc2NSZDZqV1o0SWVQN2p0UGdlV3ZYak1BaG9wMmk0eHBxX2pPMEZGcmFDNV9CVlFzTzA3NV8xTFBYeGU0LWtZb01fcUh2cnduZXRmS2d1QnI4NTVGMVI4Z9IB6wFBVV95cUxOWV9veWJUUWlnaWtURlRESFljYXI1LTlGLV82amFOODN6MjlrMkJZV0pYZVR4c3hWQ3MxLWplWTlwRlNNODFETl9fRngxdFBTVGNDT2I4aGlnRS1RbXljZlV1a3JVTGE0Rk9LanM2d1dMcWM1NDRsS1VPR0xfMVFDc2U1SUZrRzQ1dnhjYlVPVlJScTFNSFRmVWFDYmtCamdKZTNBejRpY2VIVHJ3c21WZ0dEWXdyeG84ZnZkWXlNR2JmZU93TDFWQkgzY0JPMXJoS3FHaWtqYk1NWVhwRjFXNXpOakpGa0wwLTJJ?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?&nbsp;&nbsp;theweek.in"
     },
     {
       "category": "weather",
@@ -115,6 +139,14 @@
     },
     {
       "category": "politics",
+      "title": "India - Democracy, Federalism, Constitution",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rWmQxdTk3OXNXTVA4VU50UTJOaWJTWXF4TjVYVlJQLXphMURfODVYRExOeGhYSGRfMms3ODlfb1F6TUZtdVhXQzVwT1Brcmp3UDBFenVYM0F4ZEIxZkpiUVdIb3RuZWNmZHJodVprWQ?oc=5",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "India - Democracy, Federalism, Constitution&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
       "title": "Facts and figures: Women’s leadership and political participation",
       "source": "UN Women",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
@@ -123,43 +155,19 @@
     },
     {
       "category": "politics",
-      "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
+      "title": "Does “One Nation, One Election” Make Sense for India?",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV05NUkhqR2JLVWZYME92cjRGZWhvdWJCZDdOR3BxNTFRZDhUM1JPcTlHUUZ5NFhDeVhWeXJTRXBhMTdFX1hXNEptYkFaanhfNDI2cDJnaXcyU0l3T1BXU1ZBSmtuS1NDaWtraDVrdkx2aUtTZnpjNUJzYUFSazBua3p0WUhVNkZ5ajJRdmpB?oc=5",
+      "published": "Mon, 28 Jul 2025 07:00:00 GMT",
+      "summary": "Does “One Nation, One Election” Make Sense for India?&nbsp;&nbsp;Carnegie Endowment for International Peace"
+    },
+    {
+      "category": "politics",
+      "title": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
-      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
-      "title": "Women in Politics, Status in India, Challenges, Measures",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
-      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
-      "source": "Citizens for Justice and Peace | CJP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
-      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
-      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
-    },
-    {
-      "category": "politics",
-      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
-      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
-      "title": "International students in UK higher education",
-      "source": "The House of Commons Library",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HNEFMcXdjUklPWnlxNzgzTUFhUGZQdVBqYlVXbWs1d040eWJLazA1bUJmTHJXTzRNNnNqM24xV3BNS0ZfLUtKTmtJUzlBZEcyWm1abktEWkwzeHB0NzZ1M3lwQnhBMmZsLVRoLVBaNTAycm8?oc=5",
-      "published": "Fri, 27 Jun 2025 07:00:00 GMT",
-      "summary": "International students in UK higher education&nbsp;&nbsp;The House of Commons Library"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iV3IyMU9lWE9CSXY3VHh3bVhFdHp4STg1VGFteHgyUGxBQmIyNTNTclduRnA4eUYwWEt6SkVtRjhOazBkM2t1TER2UVJMR19JZ0pZUA?oc=5",
+      "published": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "summary": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -171,6 +179,46 @@
     },
     {
       "category": "politics",
+      "title": "Indian Parliament: Shaping Foreign Policy By K V Prasad",
+      "source": "India’s World Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVgxc2psYkt0MVlQd1VlbHZmSVB1cF9UdVJfOUs3elBDaXREeUxoOWpyekZQUGNDTmZ1WXg3XzVlb0JGaW5HWVluREdUcVNONXZTWmtuclpwN2cwcWN4dWZTV1p1M2hMd3FwTFZScTN2Q0JyeXFwZ05FQXZDSGd5eTFDYks?oc=5",
+      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "summary": "Indian Parliament: Shaping Foreign Policy By K V Prasad&nbsp;&nbsp;India’s World Magazine"
+    },
+    {
+      "category": "politics",
+      "title": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRmhlTUJtTHU0V2YyRVVIZGlPTm5vdlpfQzY5X3k5emc0M2w4MEc0OUJacXQ2RkFhMWhoajNMNW5VeXhCdnZseVJpWDRXbDd1ZHBtRExPckRzMkM5TUxoSGxpRmsyckpoa0N2cDJOZWhZdGI3clllZFA1cGF2ejFUWXBDVkNvc01IQXpoaW1qUUpDUENwX09CTU1XNjhhd0czTjZRRURzSjFBaWFJaUhzb3p2T0tTcHUyVTdrZUw0OFNBXzlscm84YXBkcHJmcTlDdDRwVnV3X2RfX3k0N3o0?oc=5",
+      "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "summary": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds&nbsp;&nbsp;Reuters"
+    },
+    {
+      "category": "politics",
+      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
+      "source": "Citizens for Justice and Peace | CJP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
+      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
+      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
+    },
+    {
+      "category": "politics",
+      "title": "Why India’s south is fighting plans to overhaul parliament",
+      "source": "The Economist",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUNfTi1ObC1QNzNFYWNTM2NYRjJCNVdOdU5SQklvQmJmLUdmNDBuV0o2QmVFMVltVFYzLWt4NDEySnM4cWVvbXdvNzVDb2FuNUR2ZTZKYks1RnltQVhjRlVrT29JR3NEU1hXeGVTcUFBdV9OSk9EeHlQU0Vab2t3M2hBQndhSFhUMGZMVGlQeEQ0cF9QbnlnNk1uTkQwanNH?oc=5",
+      "published": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "summary": "Why India’s south is fighting plans to overhaul parliament&nbsp;&nbsp;The Economist"
+    },
+    {
+      "category": "politics",
+      "title": "International students in UK higher education",
+      "source": "The House of Commons Library",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HNEFMcXdjUklPWnlxNzgzTUFhUGZQdVBqYlVXbWs1d040eWJLazA1bUJmTHJXTzRNNnNqM24xV3BNS0ZfLUtKTmtJUzlBZEcyWm1abktEWkwzeHB0NzZ1M3lwQnhBMmZsLVRoLVBaNTAycm8?oc=5",
+      "published": "Fri, 27 Jun 2025 07:00:00 GMT",
+      "summary": "International students in UK higher education&nbsp;&nbsp;The House of Commons Library"
+    },
+    {
+      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
@@ -179,35 +227,11 @@
     },
     {
       "category": "politics",
-      "title": "India’s New Gender Quota Law Is a Win for Women—Mostly",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEN1MUVjenRhSUIzZW0tQVFoR1ZqVzd4TUF2ZWY4b21NcWs1b2I0WXdJSF9FM3hPRFVOM0FMYjBseC0tM0hGRXJkOERuSUIwbV9nYzcxT2tNVmQtOTNURHY4SWh4S29RSmFBYkVqa0pJSUd0UFdYZ0lXN1Y3T3l1U2lYU21oY29pZHh3T3RiYVV1b0p3Tlhob3Y3dVo?oc=5",
-      "published": "Tue, 26 Sep 2023 07:00:00 GMT",
-      "summary": "India’s New Gender Quota Law Is a Win for Women—Mostly&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
       "title": "India’s shock election result is a loss for Modi but a win for democracy",
       "source": "Chatham House",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2Ezcmw1eU9fdmp2YjFReC1VYXdDUUFwRE9oMDRLTVVJdWpkU2ItNllMLWpjQ2RLMG9NUkR5NzBTNGo5b1pnS1JOY1RrMXVoQ2lUNGVQR2NxTjJZSWJKTzZTcF9BaVYzVjhQdVZ2Y2hlZmNZOXA4anRLbW1abTBWMG1rc1d2X2YwVTZyNlRBb2Fva2M?oc=5",
       "published": "Thu, 06 Jun 2024 07:00:00 GMT",
       "summary": "India’s shock election result is a loss for Modi but a win for democracy&nbsp;&nbsp;Chatham House"
-    },
-    {
-      "category": "politics",
-      "title": "The States in Parliament",
-      "source": "Vidhi Centre for Legal Policy",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nQlJIWWNsNmd5YWRUS2M2U3B6eTVQVjg3cFVBc0dQUW9vU1RDaW9IczdBRVE1S2ZnQzc1TlFwTGo1NUY2eExZWTA4bHR1OE13U2JNQUV1WEREckQyaFRuazFiS21icE12RU4tMlB3cw?oc=5",
-      "published": "Wed, 04 Sep 2024 07:00:00 GMT",
-      "summary": "The States in Parliament&nbsp;&nbsp;Vidhi Centre for Legal Policy"
-    },
-    {
-      "category": "politics",
-      "title": "India Under Modi: Shrinking Democracy, Growing Inequalities",
-      "source": "The India Forum",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTRad2FwVExZUG1ZaS12OW5uTjh6aV9OcVJneERrZWpxcVdXUUJCWDQxWWtDRW5nZ1RYS1NxUE9pT1ZqQmp4ZHpXa1R3UzdPM3BUQ3AzWGRQcFFESlc1SnNkWnZ2OGFlenJzNXRmS0s3cVJCUENqWVZoV0VEVzhZM2s5WFBCcFZuaVhUSnhBRVhnbkx4SjNVbXBuQQ?oc=5",
-      "published": "Fri, 24 Oct 2025 07:00:00 GMT",
-      "summary": "India Under Modi: Shrinking Democracy, Growing Inequalities&nbsp;&nbsp;The India Forum"
     },
     {
       "category": "economy",
@@ -235,19 +259,19 @@
     },
     {
       "category": "economy",
-      "title": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzJjWHBJVHpESUpXdW9DQXAtSENBdXJJMGU5LXNEUVlTWHNhaDlNb0txOW41RVZoa2NfbDVIX0RidGRTVTB3RVF3RlVzbGdLeXRmbzdpNFlwdnRmMkdMNnZmZUJydE5yTjlQRjNyd0NNZGpqNXBKeUd5VHpob2ROMlRyLTRRWkhTV1Z0NzlDckc2eXFEMkw4amZndE8waUNoejBtU0hxaEp0WnhHLWRNc1lkc3B2RDM0WXU3c9IBwgFBVV95cUxOX1BubW5SRVZ3aVU3elAyRlFQb1RBcHcyX3J3cTN1SEFhVWZaWlh0RmN5VlVwRzU5U2RDNG4yVFN5Q1BFY25Gb1JUT3pybFZueDR2NlhlZlNvT3lRMXNLUndHbzJscGxLcUNxX3VRaGdMb01OcXpoNEN0RmZwTjJOU1lBVEZiaGd5bFJXemFQOWItTjZXenJrWkJzcWhuSHM4MUNlbTBrSVJwYlNZMGJkVDZ1ZThqVXF4OXI1Qzdack02dw?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "category": "economy",
       "title": "Press Note Details: Press Information Bureau",
       "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oREV6c3dQN0x1YmFWdHVkSURSb1I0Vi1GNmh2Y3NHblcwQklLTWFlN3VLQW1FLWlmMDZtM1dQVUhWemItbGNBZ0lYRXBLSXJMQTRHT0YwaVNYdmRQSjdzWllMV1RBXzNyeWJVQTJjNWhBVVBvUGZlQg?oc=5",
       "published": "Sat, 30 Aug 2025 07:00:00 GMT",
       "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "economy",
+      "title": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzJjWHBJVHpESUpXdW9DQXAtSENBdXJJMGU5LXNEUVlTWHNhaDlNb0txOW41RVZoa2NfbDVIX0RidGRTVTB3RVF3RlVzbGdLeXRmbzdpNFlwdnRmMkdMNnZmZUJydE5yTjlQRjNyd0NNZGpqNXBKeUd5VHpob2ROMlRyLTRRWkhTV1Z0NzlDckc2eXFEMkw4amZndE8waUNoejBtU0hxaEp0WnhHLWRNc1lkc3B2RDM0WXU3c9IBwgFBVV95cUxOX1BubW5SRVZ3aVU3elAyRlFQb1RBcHcyX3J3cTN1SEFhVWZaWlh0RmN5VlVwRzU5U2RDNG4yVFN5Q1BFY25Gb1JUT3pybFZueDR2NlhlZlNvT3lRMXNLUndHbzJscGxLcUNxX3VRaGdMb01OcXpoNEN0RmZwTjJOU1lBVEZiaGd5bFJXemFQOWItTjZXenJrWkJzcWhuSHM4MUNlbTBrSVJwYlNZMGJkVDZ1ZThqVXF4OXI1Qzdack02dw?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
@@ -275,14 +299,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI Governor's Bold Move: Rate Cut Looms as India's Growth Rockets Past 7%!",
-      "source": "Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ1B4eGk0a3NoWXNoTThFLWRVVHdnNjRsclJ4dkpUMGp1QWhvbE5qd3JrY0VnMVpsRE9BWjczR091dHlxem0yUDZtQzNrNU5kVVNaby1FMlhpYVRneUMzZ2dLUmdEUUcxbUthZU9VdkxmQW9LanhFbi1vQUUzRmVuc3NqcU54d3ZTbXZGU3NtYWV1bE11TW90bFdkLXdySUFnal9wVFdSTmg4Q1JVR29tdVBtUWV6OGd3aXdXVTVsUEVSNGNZZHNWZkI0QURTREx6SnBRV0M3N1EtUG91U2szNzZ2Y2Eya2JNYjRTZHAwX3JUNkJXSm1Z?oc=5",
-      "published": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "summary": "RBI Governor's Bold Move: Rate Cut Looms as India's Growth Rockets Past 7%!&nbsp;&nbsp;Whalesbook"
-    },
-    {
-      "category": "economy",
       "title": "Press Note Details: Press Information Bureau",
       "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlhrN19XOWhwR09OZDFwYjFGaVVoLXBuZmJWeWt1bDQ1OV9TdG1paUNPaDdlOFNUVEJnOTl5OGJacEU1am5FUXJ5TjE3bEdyeDdUZmpJaF85bjh0QnhwblNZVDdqSG1pa09KVjZhaXpBZHZhVzR3ZEtFcTRKWmI5VTFXR3E4TkZLcXc?oc=5",
@@ -291,11 +307,19 @@
     },
     {
       "category": "economy",
-      "title": "India's FY26 Growth Outlook Brightens: RBI Cuts Rates, Lifts GDP Forecast as Reforms Target Trade and Inflation",
+      "title": "Stellar growth, low inflation raise questions over need for RBI rate cuts",
       "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMVYzZDdfcHc5YXVmZGd4dzdJM3lkVndGSTRrejE1RTkySU11dERtaWN4d0ZIMU1ncXczLU1BbE05bDZuZWR6c0tqOGdtT3FZT0tDaVpCdEIxNmxBWHhHUEtmSzIwOGR5QXB6eVJMTTRTdVYxeXI1eFlmcjZMOXgzUkR4X2puLUJJUlRDQ0k0SXRJQXdFQng1SFVIdDVjU056R0hNUFJGd2xwRXJPSzFlbVBLNnE5cGEyQjR5cnpSeUdOLVE2WWtQTFVBYV9VNUVEM0JNZzA0TEtjbGlPaUhTSGt5S1RBSm1FdmtOZUNaSTVyNlg5ZzlsVjVrdzF3QU14VnRnOXB3T201UVUyUFFYODF5QU14UDhEQWdZ0gGgAkFVX3lxTE5CYmZCeXF4d1pBd1hTMElJcGRHamVGdkpqZzlGZHNQajlaM19iQTJfUVB1RjY4QVdOdWhmWEZsY21BdGhPTGEwS1BXZnBKVTJzZThFRzFSUkFzNVlrR3N2WGthZ0tLVTBnU0V6V3ZHN0JiWnNrdlNJbldYQThqMjB1R21iTFJhcmlKcGlFQnNOalZiV29teGpSVVV3ZUlab2hLVmtzVEF6THlKNnBkd3JjbkVqdEtYU2kyYmF5UGJIOE5uSEN0VWVYQ1V3MnFSUklUU3ZZZ2ZnZzQ1NldEQW5SamNub3FEelpMZkFPRWVlUnI2eWJnbElMdW9JQU1ZVWpUZlJFOVRhWFVWSk1XWDZjd2lDaXBvc3JIQ1AwejNUYg?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "India's FY26 Growth Outlook Brightens: RBI Cuts Rates, Lifts GDP Forecast as Reforms Target Trade and Inflation&nbsp;&nbsp;Business Standard"
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGpsaElOMUN6TzZqaEdMNjB4OFNhb2VSUjNBNUx6TmNSMTlITGtMSzJLSkktazZybjJGbW9SZ3paZWxNdW9BVVEtcXhTNzJWbEFST2R0bDN3OE1Nd1cxckM1ek1QMjBibkc3Vk9BVWdFOThkUjIzNEt2X1BGc2gyOWhVV0twXzlaclhEaktPWkdmU08zWW9OY0tSVGROTUIwc3lKaF9ZekVKZ1dtRE5yVGFKVG5kZ3lvYk5ZaVlaYmViSUpjdWI3bXhyUEtLYmxzclB1QkNR0gHbAUFVX3lxTE5BQWVXLVZoSUl2NGdWeDVUZ3VrSVhBRk5TX1dhX0lzblRtSWtZaXJjQTRGYVZXS0dTc0wwLUxES2hyc1k0SWdMV0QzdEN6NGRCX1ZiYWFBSkFFVkdpTG40U2lac09OU3UyWi1ySGQxWExYaWNmWV9GZVhfMWprdmxZcF9Zbm1wa01wd3ZackowTGNjNHVXdGNIcHc0cjRhOG1vY0xHYzVkZkpWUmdfTXlwTnVDNjNjR25XMUo5ODNfTFlCQ0JySEpHd2NmSFltd3U1RWVscUl1N1hxNA?oc=5",
+      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "summary": "Stellar growth, low inflation raise questions over need for RBI rate cuts&nbsp;&nbsp;Business Standard"
+    },
+    {
+      "category": "economy",
+      "title": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVNfQXhabmVNamlOdFBJNVNhbEdDeFpIZVN6NEZXTXBYaVBiemtQUnptSFlZSjZTaUZpMHp1Mzd5RlZJblg1UnhnZnF6cHZRNFhob0FVVU01aUZwUmQ5UHJoQ0NMaHRON0Zvd3JTOGl3aDRLMlgwdWxIYnc2YWRKVjNBa3k2XzdrX1kyeUd5cmJZcEtncU9XV0FlS1N5TVY0a2RUS1cwX2hobVlMTUxOZjVpWUg4cVB6VkpERGsxV1N2Y2RFNjlTdHZhVHhrUi1PSVY2cDNoQnFxOW_SAeABQVVfeXFMUHBWSVNkRnQxM0huLTlLNlFHSXdfeFd0ak9GdEVlQlBNbVZDSGtlcDFTTDlTU0FHZmdLbG0wWTR1MmFnalN4YzFlT0g1ZGtBZVBkUlpOa3d5dTdMOW1CZTJTYTJBYjV1THdrem92RnhEZ3RvcV91eml6eFlqU2ZIcWktOThCVTdPRHBZeUpVU2hjV2RaaHJYTDMxelJvUUN2S1pHWWpRLVNvclp5LWVUT29OZHNWYVJCcHdWa3R3dmg5QVBsOUVraU5wVGlNT21kNWRkWEFTNTBiU1ZtdS1nYWo?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
