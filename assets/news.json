@@ -1,14 +1,6 @@
 {
-  "generated_at_utc": "2026-03-08T19:02:13.736084Z",
+  "generated_at_utc": "2026-03-09T05:12:15.439588Z",
   "items": [
-    {
-      "category": "govt",
-      "title": "National Mission on Edible Oils",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
-    },
     {
       "category": "govt",
       "title": "PIB Headquarters",
@@ -19,19 +11,19 @@
     },
     {
       "category": "govt",
-      "title": "Horticulture farmers to get Rs. 3.48 crore as subsidy",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzZWTk1mRXlFblNOUU5kQjVEQ2NRN1RTQ0FSMnh2QVdyeEc1N1NsTURBNkF4RW53Q05ETkY5bHlNVkhRUDd3RFNJdGppVFNBQWpXeDl4SlFqeHBzMGNzU25IRXlRRGkxS3Y0TnhGY3RaRzZ2YllweUNOLVEwQ3lKLUlsVjVRTTdwUUl3c0NXNnM2d0tkekdyd2RTcGYzTFI5eXJiajZqbDhJSENfZDlXMDBIVE1UbDE5RVlLVzE1V2vSAccBQVVfeXFMTW9FM21FeW5sM0xEWUZ2ZHhUdGNVVDJhdnBNeDJhVm1FcnN2c21IMnpuMUV6bWUwN1VPTFdXVWIxaXY0bmp0ZFhPc3c4dzJTT2RvcE1xMFRVLV9UbGppaGViYjZlaXpZcUJuN3c3c0dhWW5iazhuWlo2aUIwLW5RU19fYjgzcF85SXhOQ1R6eHBKYjJKSFFMV2wzek01Y0NUVlBqazl4X3oxVU8wck5nQjNQdGkxWWRyVWVUd25RNVJaTThzZTZrNA?oc=5",
-      "published": "Mon, 20 Jun 2016 07:00:00 GMT",
-      "summary": "Horticulture farmers to get Rs. 3.48 crore as subsidy&nbsp;&nbsp;The Hindu"
-    },
-    {
-      "category": "govt",
       "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
       "source": "Krishi Jagran",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
       "published": "Wed, 28 Jul 2021 07:00:00 GMT",
       "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
+      "category": "govt",
+      "title": "Horticulture farmers to get Rs. 3.48 crore as subsidy",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzZWTk1mRXlFblNOUU5kQjVEQ2NRN1RTQ0FSMnh2QVdyeEc1N1NsTURBNkF4RW53Q05ETkY5bHlNVkhRUDd3RFNJdGppVFNBQWpXeDl4SlFqeHBzMGNzU25IRXlRRGkxS3Y0TnhGY3RaRzZ2YllweUNOLVEwQ3lKLUlsVjVRTTdwUUl3c0NXNnM2d0tkekdyd2RTcGYzTFI5eXJiajZqbDhJSENfZDlXMDBIVE1UbDE5RVlLVzE1V2vSAccBQVVfeXFMTW9FM21FeW5sM0xEWUZ2ZHhUdGNVVDJhdnBNeDJhVm1FcnN2c21IMnpuMUV6bWUwN1VPTFdXVWIxaXY0bmp0ZFhPc3c4dzJTT2RvcE1xMFRVLV9UbGppaGViYjZlaXpZcUJuN3c3c0dhWW5iazhuWlo2aUIwLW5RU19fYjgzcF85SXhOQ1R6eHBKYjJKSFFMV2wzek01Y0NUVlBqazl4X3oxVU8wck5nQjNQdGkxWWRyVWVUd25RNVJaTThzZTZrNA?oc=5",
+      "published": "Mon, 20 Jun 2016 07:00:00 GMT",
+      "summary": "Horticulture farmers to get Rs. 3.48 crore as subsidy&nbsp;&nbsp;The Hindu"
     },
     {
       "category": "weather",
@@ -75,11 +67,11 @@
     },
     {
       "category": "weather",
-      "title": "From Sizzling Heat to Stormy Skies: IMD Predicts April’s Extremes",
-      "source": "pragativadi.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSml3NThabzVFLVhFRHdIOUM3QUpqRjItclRTT3dyQ1lXRllSTlFuR2JuXzQ3UTU3N05JLVNRTTlqSGZyVzZ4LV9XOFpVZlltNkJ1S0pvWnFHVWZrYzg2TjI4VGkxRWZGemRXZFN5VFpwNVBLQXJhUEd6TURBanZYbWN0aTA1SWNzVTZDOTZ1WXU4Zw?oc=5",
-      "published": "Sat, 05 Apr 2025 07:00:00 GMT",
-      "summary": "From Sizzling Heat to Stormy Skies: IMD Predicts April’s Extremes&nbsp;&nbsp;pragativadi.com"
+      "title": "Delhi receives highest Dec rainfall; ‘orange alert’ for snowfall in Himachal Pradesh | Updates | India News",
+      "source": "Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXlBaGlsY1Y4a2lBNG5CX0d6Zk9kQ1ZwSDQxRTB6OGY5NGFUUWJxcWprN0dBUzhXcXBVYWliZmpHeEU5S2RyWnFZaUxNZkluZUlmLTZKdWlWei1IQ2RnVE9XTnVKRE5XQngzaENRN2xvMGxvaEFBZnlJMEtsemVLaDdtNGxaTEFiOVhMNlNWVUtWeld2aGVSY2E1Q0ZMOERSS2JNbUUxUlY5Y2F6anQ0UGlReGlkR19ybW9TTTdMUllwMmVMUHdoM2Z5aHhfVldMUm9ZQnN3cEZ4VkpXcFJ3aEhJUGozcm_SAewBQVVfeXFMUFZHVWdTcVlWa0h6VWJvRHBBMUhWU0FZYTRnUFo3R3c0RW8xbVMtTk5RcThFMHpXa2hvTlJuWnlzc2RYY1FyN3JqNGtXMWdjN3FVQkdta3VDaml4Y1VvSENCeFlXcEYxdk1NWGduWmQ0UzZoQnc5M1JodjRvWDZ2bGVJelNqYjQ5R2hmaGM0bVdVQjllR1J4X19kcWNuaHdRdVF0V2hRNmFla2FtZmV5bHVpQmhmMXNWZUhYUEJWZzZDVjg5a3VXazV3ZkNIS2ZacUJmbEJKRXVkbDVRZDdtMnZXQkwzS05LMHFBNVM?oc=5",
+      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
+      "summary": "Delhi receives highest Dec rainfall; ‘orange alert’ for snowfall in Himachal Pradesh | Updates | India News&nbsp;&nbsp;Hindustan Times"
     },
     {
       "category": "weather",
@@ -99,14 +91,6 @@
     },
     {
       "category": "weather",
-      "title": "IMD warns of fresh spell of hailstorm, rainfall from Thursday: What experts say | Hindustan Times",
-      "source": "Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGkxOXM5TnBqYklvMHctU01LSWRiUm1rTXlNYW9NVEVuTTZxVTAzbVl4alR1VDhfMGhfSS13Nmp2RWhFWDN1Mm1kVmMyQXk4cnk4dlBORTkyeUc4WnB1enlSR1NKWlFscWQ5WVlTZlBKMHdnSmM2RHdYTjI2ZHhjTnRHLTV4U01hamIwU2s1d2g0RG1FcUl3cnVCTGNpd2JiVVI5bXNJaFI3Vy1xYlFzN0F4dlZJLV9yZmcxYnlsdkhCd2E5eXdEVDktLW1HZUlLbEFXblFBWV_SAd4BQVVfeXFMUE1tRTcyVEtIaDNhcGlMaU9OSnczTno4NU5wVmNsVjRmMUttZ29vT184T0c2dDhTRkg3akZfTWltaDNCUWVSYjRvZkdXR1dHbXpIVEw3RVFLaE9oYV9uMVg4MExWRXJxMjJma0oxd3BneGsyMm8yazV2a1FybVpiVGloai11NG5TRVVWZzlYekNGUWJQRU5lMVdnSlhpdzQ1YnpUc2t6aERrWWNpMVpPOXdqdEVBSzJYeUJ6NDM3UkFDcEJ1NThNdHJkeElXdUY5M0VCQVdhOFJMNl9USU5R?oc=5",
-      "published": "Wed, 22 Mar 2023 07:00:00 GMT",
-      "summary": "IMD warns of fresh spell of hailstorm, rainfall from Thursday: What experts say | Hindustan Times&nbsp;&nbsp;Hindustan Times"
-    },
-    {
-      "category": "weather",
       "title": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGQxR3pmOW5lb1ZFQXJYbXZQTXljWWVwb1pPbW1jWTlKTEFiM05rNVl3ak51cEpSNHdRdDQ3QVM5M3o3bDkwa2VyczNxUktyTWd4X2hJZWlqU0RkQnlNZ2xNazZTWU11YVhDSUZyQTB6MFlYSTRzdUYyemNMMnA5RHc1aWJ1N1NOR0JTOGM1Y3FKMm5uUjM3OWtGai1GSGRNelc1QUtoZ2t5VEtfc0VTNWFqeUlmelczTE9kX2I2MkFfSldmS3UxdFlPbUp5WWJpaGlQQmZaUHVmQdIB3wFBVV95cUxOdFdzUTRlR3RSRWhfbjZJVzNHZ0ZmTEliWnpRLXowdl9KcWRmWU5NTGd1bkRMTmtmWFB1RjBwTXk3V19LQk9lcFVLdnVYOHJqVWpvNzhWc1VkLXN2aVRzaVJjNHN0el9vMmhHQ2g3Q0NZWWpSRGhOUFF5Y3hGV3d1NlpWZ1oxRW9Xbk13WmpEOUNreGd5Q0F6VUd3aUhGdHJndGtKdnFkck0tazk1WXY4THJsZTlzM0FiWU9lbW9UdlYzWXZ6QlJCZHl3VFBFcGw2bWJBUlhXS25Pc1FBTkE4?oc=5",
@@ -114,12 +98,28 @@
       "summary": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory&nbsp;&nbsp;The Economic Times"
     },
     {
+      "category": "weather",
+      "title": "IMD warns of fresh spell of hailstorm, rainfall from Thursday: What experts say | Hindustan Times",
+      "source": "Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGkxOXM5TnBqYklvMHctU01LSWRiUm1rTXlNYW9NVEVuTTZxVTAzbVl4alR1VDhfMGhfSS13Nmp2RWhFWDN1Mm1kVmMyQXk4cnk4dlBORTkyeUc4WnB1enlSR1NKWlFscWQ5WVlTZlBKMHdnSmM2RHdYTjI2ZHhjTnRHLTV4U01hamIwU2s1d2g0RG1FcUl3cnVCTGNpd2JiVVI5bXNJaFI3Vy1xYlFzN0F4dlZJLV9yZmcxYnlsdkhCd2E5eXdEVDktLW1HZUlLbEFXblFBWV_SAd4BQVVfeXFMUE1tRTcyVEtIaDNhcGlMaU9OSnczTno4NU5wVmNsVjRmMUttZ29vT184T0c2dDhTRkg3akZfTWltaDNCUWVSYjRvZkdXR1dHbXpIVEw3RVFLaE9oYV9uMVg4MExWRXJxMjJma0oxd3BneGsyMm8yazV2a1FybVpiVGloai11NG5TRVVWZzlYekNGUWJQRU5lMVdnSlhpdzQ1YnpUc2t6aERrWWNpMVpPOXdqdEVBSzJYeUJ6NDM3UkFDcEJ1NThNdHJkeElXdUY5M0VCQVdhOFJMNl9USU5R?oc=5",
+      "published": "Wed, 22 Mar 2023 07:00:00 GMT",
+      "summary": "IMD warns of fresh spell of hailstorm, rainfall from Thursday: What experts say | Hindustan Times&nbsp;&nbsp;Hindustan Times"
+    },
+    {
       "category": "politics",
-      "title": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUXg2VG1Td05RX1hhNXdOYnpIRXRLa2duNXJFNXBUVmZLVGlhTmFjNmxJenE2Q2JyWUlTa3d2ajk5RE5kTzJ3cDFqOGxvdmJqbHBvbTVIV2xKYTN6eU5JcTYwMmNCbDRRZUpmQkd0OENFRUJfUEZjNVdPUlNwZnlqSTFqcUpkam5QWDJ2Y0xHSFBnNlFIbWpremRSWWdFb20xLTFUbm16d2Y1cER4RjlsUkJ4THVESUU5N1BnTC1TOV9OdFpEQTlmUlRSTDM3TDhseWstX0wzbV9heVZHeXlYR19HbURkcnAx?oc=5",
-      "published": "Sun, 08 Mar 2026 16:20:13 GMT",
-      "summary": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran&nbsp;&nbsp;Deccan Herald"
+      "title": "India’s Budget Session resumes amid brewing political confrontation, fierce showdown likely",
+      "source": "Asia News Network",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnN6TENTaVYxVmcwZzktdEVIMEZjTG9ZeURDeDJHQjR2aklNMUdnbkZwSDNub29naGxoMm1ieURudzNkemR3QjQxbUlQbmltQk5jRkgwYm9YY2xVWlNyR3c2UkhhVVJjRGFSYmtxQ19MUXpPYUJacEhHdHNFU2lDbGpjRGxUZXJzb0VXbS1qUklTM25jbllILVF0YkJ6VHJZRUNzblczSGo5THV2c1hTVTJhQ001QQ?oc=5",
+      "published": "Mon, 09 Mar 2026 02:56:38 GMT",
+      "summary": "India’s Budget Session resumes amid brewing political confrontation, fierce showdown likely&nbsp;&nbsp;Asia News Network"
+    },
+    {
+      "category": "politics",
+      "title": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iV3IyMU9lWE9CSXY3VHh3bVhFdHp4STg1VGFteHgyUGxBQmIyNTNTclduRnA4eUYwWEt6SkVtRjhOazBkM2t1TER2UVJMR19JZ0pZUA?oc=5",
+      "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "summary": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -131,11 +131,19 @@
     },
     {
       "category": "politics",
-      "title": "What does BNP’s landslide mean for Bangladesh’s post-uprising order?",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTlzSkdyTjBvWmFvdGRCYzJ3QlhhMDBtMTJCd0R3aFo5UE5ac3YyS2prbTlqYTB1RDBaTlU2QUx5MHhNOVVhRHdZMjY0OThxWFo4aWR3QjJDVTA1TWoxZzIySDczc29lbnRWcTY5Mm1qcVE0dUM0M25jLXJMZDV1ejg1d0QyRlg5MXZHa3M1d1laZFppZnppajVzeVMzYkNtallsa3d0VUtGSlBXbVY40gG0AUFVX3lxTE5yOEFmVE1ZcmU4dDNKazNoREJoem5Kc0Jxa1o2R09qYWpmcVUwbWZCSUNMSi1BVW9GQ1pWdHkyUGh6TEd4cEtNQVVuTG54MVpTaTB6NmlPdUkzWGZKRzJlNy1tM28yN1g2aEQydTFPN2pXRTFoZGVyZ2lzSDFjX2hoUjRHYjJtMC1Tcm1lM0gxc1NjbG5XeTRLMFBvUXcwbTNZaUNtamRFUnhVcF9jaDlMbzNxVw?oc=5",
-      "published": "Fri, 13 Feb 2026 08:00:00 GMT",
-      "summary": "What does BNP’s landslide mean for Bangladesh’s post-uprising order?&nbsp;&nbsp;Al Jazeera"
+      "title": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran",
+      "source": "Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUXg2VG1Td05RX1hhNXdOYnpIRXRLa2duNXJFNXBUVmZLVGlhTmFjNmxJenE2Q2JyWUlTa3d2ajk5RE5kTzJ3cDFqOGxvdmJqbHBvbTVIV2xKYTN6eU5JcTYwMmNCbDRRZUpmQkd0OENFRUJfUEZjNVdPUlNwZnlqSTFqcUpkam5QWDJ2Y0xHSFBnNlFIbWpremRSWWdFb20xLTFUbm16d2Y1cER4RjlsUkJ4THVESUU5N1BnTC1TOV9OdFpEQTlmUlRSTDM3TDhseWstX0wzbV9heVZHeXlYR19HbURkcnAx?oc=5",
+      "published": "Sun, 08 Mar 2026 16:20:13 GMT",
+      "summary": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran&nbsp;&nbsp;Deccan Herald"
+    },
+    {
+      "category": "politics",
+      "title": "From Streets to Discord: How Nepal’s Gen Z Toppled a Government",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOEFwR1piOVlaM2M2YnpFQW9xM2RkaktIdkJWVEU2ZW43UUxjWHpzSzdib0JfTWpZV1Y1OEhUMzRFeVdZT2hEd2tiZDJLNjUzNFBMaXdsWnZKdUJKOENBZGh3aEU2eW5qV2xCeHprM1VIU1h6a1p3ekRudzhpQVptMlZn?oc=5",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "From Streets to Discord: How Nepal’s Gen Z Toppled a Government&nbsp;&nbsp;Carnegie Endowment for International Peace"
     },
     {
       "category": "politics",
@@ -144,22 +152,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUdIBuwFBVV95cUxQaGF4VFk5N0k0UFotLTNqMmdJU3otODBvODBleUc0NWNuaEZzaWlxb1BhU0JFeFJ0Z1VqWmpIMjRydHFJekxZNDRyOVlhZ21hemNuQldJVHFPb0UycFUxQkVwZkpwUzhFSlR1WnFSeVdNaVVYdUlLWDhHYmNOSEVVY0NEOGhqSG1NZHByYlQzanA4cTZvcF9waEEtVnY2YVoxZHNVNEcwX2VJTDg2aHRBbFlXUWtkSmJtejRv?oc=5",
       "published": "Sat, 14 Feb 2026 08:00:00 GMT",
       "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
-    },
-    {
-      "category": "politics",
-      "title": "Indian Parliament: Shaping Foreign Policy By K V Prasad",
-      "source": "India's World",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVgxc2psYkt0MVlQd1VlbHZmSVB1cF9UdVJfOUs3elBDaXREeUxoOWpyekZQUGNDTmZ1WXg3XzVlb0JGaW5HWVluREdUcVNONXZTWmtuclpwN2cwcWN4dWZTV1p1M2hMd3FwTFZScTN2Q0JyeXFwZ05FQXZDSGd5eTFDYks?oc=5",
-      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "summary": "Indian Parliament: Shaping Foreign Policy By K V Prasad&nbsp;&nbsp;India's World"
-    },
-    {
-      "category": "politics",
-      "title": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRmhlTUJtTHU0V2YyRVVIZGlPTm5vdlpfQzY5X3k5emc0M2w4MEc0OUJacXQ2RkFhMWhoajNMNW5VeXhCdnZseVJpWDRXbDd1ZHBtRExPckRzMkM5TUxoSGxpRmsyckpoa0N2cDJOZWhZdGI3clllZFA1cGF2ejFUWXBDVkNvc01IQXpoaW1qUUpDUENwX09CTU1XNjhhd0czTjZRRURzSjFBaWFJaUhzb3p2T0tTcHUyVTdrZUw0OFNBXzlscm84YXBkcHJmcTlDdDRwVnV3X2RfX3k0N3o0?oc=5",
-      "published": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "summary": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds&nbsp;&nbsp;Reuters"
     },
     {
       "category": "politics",
@@ -195,14 +187,6 @@
     },
     {
       "category": "politics",
-      "title": "Experts react: Modi loses ground in an electoral surprise. What will his third term look like now?",
-      "source": "Atlantic Council",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXRpQ09YRjdEeVZmTko4bnhsYzdreTZhNlh0NS12YjhZUmxQQndpcjlYQjl1amU3QWdyRlY3RzNKbkZxYTdxNVA5NUxPOFc0V296akFmNV9MMDNlM2VtUW9BcEw0dXhwanZ1dHFpQnhaZ0RlQnVHYklfMlg3U0ZqQ2lSTHF4elB5M1M1UHpSRTFwTVNDOVhsVVpSNER0dks0dUVCbVgwM0U?oc=5",
-      "published": "Tue, 04 Jun 2024 07:00:00 GMT",
-      "summary": "Experts react: Modi loses ground in an electoral surprise. What will his third term look like now?&nbsp;&nbsp;Atlantic Council"
-    },
-    {
-      "category": "politics",
       "title": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution",
       "source": "Health Policy Watch",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkFJWDg5aGZ2aTF3cmo1b1dDZ04yWmRaRmNkS0ppamtRRkp4Y3cwaGllVTI3Vks5aWRaM0RZQktQdUdtM3g4TXZWcG5ibHN2ZDVsMkloaTFsRTZER0hiMGszRy02NHNQTTlUMTBkTkNudi0tRlluUTlmU3ZwNUxXMjRkRm5sTjBodXhBelFhbGpuTmVfRTl2SU9kRUFrVWRZWnNZaHhsdzdQdFczY3FocnRNREhZTHkwOHBreFFzQ3ZzMF91dVRKRUpEZw?oc=5",
@@ -210,12 +194,12 @@
       "summary": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution&nbsp;&nbsp;Health Policy Watch"
     },
     {
-      "category": "economy",
-      "title": "India economic outlook, January 2026",
-      "source": "Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "India economic outlook, January 2026&nbsp;&nbsp;Deloitte"
+      "category": "politics",
+      "title": "India Under Modi: Shrinking Democracy, Growing Inequalities",
+      "source": "The India Forum",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTRad2FwVExZUG1ZaS12OW5uTjh6aV9OcVJneERrZWpxcVdXUUJCWDQxWWtDRW5nZ1RYS1NxUE9pT1ZqQmp4ZHpXa1R3UzdPM3BUQ3AzWGRQcFFESlc1SnNkWnZ2OGFlenJzNXRmS0s3cVJCUENqWVZoV0VEVzhZM2s5WFBCcFZuaVhUSnhBRVhnbkx4SjNVbXBuQQ?oc=5",
+      "published": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "summary": "India Under Modi: Shrinking Democracy, Growing Inequalities&nbsp;&nbsp;The India Forum"
     },
     {
       "category": "economy",
@@ -259,11 +243,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
+      "title": "RBI MPC: New GDP, inflation series in 2 days, announces Governor Sanjay Malhotra",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX2xHTHhZa2hUSG9RV2J5RGh2V0R2N0txNDA0VEh6NGRsMXE5dVBwbWJCLTlCZnl6VERpM0J2MHBVVlQzaU5XMVBQVFN5Uk93Q2N6OXhmN09QYWdsMndwV1VtaEZOYnlkVllLSEFCLTJ2NlEzYk9iT1ktY2p2MmlPRW1CclRfODQyOHVPSW9XZERMbFFtVlVqenk3eHlJaTgzNXEtRU92eHlaR01vWm1wcHBVRXV1c0Z2aGNwbnp2RTZ2ckZmYTF5aVVKTHc3bWdheEh1Ym5PQ2R5c2FGaUNpRkNUcUV6UdIB6wFBVV95cUxQeEFSajJMQzM1aFVFSGg2RW96UC1waDNTM29JcVJLbVVMNWRvS2hQalJHTWNJYXdhdVpoNG8yaTE2anNTMVZYNHdwSVE5VC1GOVBxcGhNd1UtQ2dtLVBkRlczU04yV2pBalJiWk15b1dWM083TDE3bm4wRmdJOE9TeEp4OVFUMC1Jb29JS216Yi1DX2dVZVN3NEdKeU9YWnRSdXVBOW8weU45WHJqcDlmUTc4TDUxZG1uVGUwMGF1V3FfTkxNWWtTRDRod29qVWJiZFRVNi05REsxUS00V0xBcDFIWHdxT1JUUU5J?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
+      "summary": "RBI MPC: New GDP, inflation series in 2 days, announces Governor Sanjay Malhotra&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
@@ -275,6 +259,14 @@
     },
     {
       "category": "economy",
+      "title": "India economic outlook, January 2026",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "India economic outlook, January 2026&nbsp;&nbsp;Deloitte"
+    },
+    {
+      "category": "economy",
       "title": "India's FY26 Growth Outlook Brightens: RBI Cuts Rates, Lifts GDP Forecast as Reforms Target Trade and Inflation",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMVYzZDdfcHc5YXVmZGd4dzdJM3lkVndGSTRrejE1RTkySU11dERtaWN4d0ZIMU1ncXczLU1BbE05bDZuZWR6c0tqOGdtT3FZT0tDaVpCdEIxNmxBWHhHUEtmSzIwOGR5QXB6eVJMTTRTdVYxeXI1eFlmcjZMOXgzUkR4X2puLUJJUlRDQ0k0SXRJQXdFQng1SFVIdDVjU056R0hNUFJGd2xwRXJPSzFlbVBLNnE5cGEyQjR5cnpSeUdOLVE2WWtQTFVBYV9VNUVEM0JNZzA0TEtjbGlPaUhTSGt5S1RBSm1FdmtOZUNaSTVyNlg5ZzlsVjVrdzF3QU14VnRnOXB3T201UVUyUFFYODF5QU14UDhEQWdZ0gGgAkFVX3lxTE5CYmZCeXF4d1pBd1hTMElJcGRHamVGdkpqZzlGZHNQajlaM19iQTJfUVB1RjY4QVdOdWhmWEZsY21BdGhPTGEwS1BXZnBKVTJzZThFRzFSUkFzNVlrR3N2WGthZ0tLVTBnU0V6V3ZHN0JiWnNrdlNJbldYQThqMjB1R21iTFJhcmlKcGlFQnNOalZiV29teGpSVVV3ZUlab2hLVmtzVEF6THlKNnBkd3JjbkVqdEtYU2kyYmF5UGJIOE5uSEN0VWVYQ1V3MnFSUklUU3ZZZ2ZnZzQ1NldEQW5SamNub3FEelpMZkFPRWVlUnI2eWJnbElMdW9JQU1ZVWpUZlJFOVRhWFVWSk1XWDZjd2lDaXBvc3JIQ1AwejNUYg?oc=5",
@@ -283,11 +275,11 @@
     },
     {
       "category": "economy",
-      "title": "India’s economy is likely to stand firm in an uncertain world",
-      "source": "Goldman Sachs",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUy1SS0JPZXpjelFJUHZaQ2dmU3FkQ051QnJ0c1ZPeE1BdDJyU19nNVZkTVJ5TGF2d3JISzhCbkV1cnkwV25ubjVxVDVQOFhGdXFqWWVsV2M1LVJJQVVVTmk4bE5sOTJWNDNlVDhzRVpqbUR5RC1XWXp1bklBNERTc0Ixb3NsVGNWWEV6Y0huTlVoU0FZam5SRTR4Y2tURW5TalBFNTQyaGFzMjA?oc=5",
-      "published": "Tue, 10 Dec 2024 08:00:00 GMT",
-      "summary": "India’s economy is likely to stand firm in an uncertain world&nbsp;&nbsp;Goldman Sachs"
+      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
@@ -299,11 +291,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI GDP Growth 2026: Central bank nudges forecast higher, upgrades early FY27 outlook",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd256aXg2Zjd1Ynh0UHNYMmdhX3RyMmRNemxsREh3RklfS2FBZGJZZ04tTjFkeGJOTldtUUUwMnZLTmU1cXV4TTFUdVNCTUcweEZaU3JWWFdFdVAtamYwekJXYnRkTHZwY1A3N0pqR1lTQ2tMMjB2NUZhTGdaeHRkZldMQlp0QjlEMnBMamdIM1NSZmsya2xFYlBqNk9EdkFwZWotUzJVUlNqQldVQ3lxa0xwQVB0MVJnaWs1LVRSOGJSMVlFZU0tNy1VSks3cTJfbEtKZVNIYXptcWpRTXl0R19ZdDZMYW1PY251bFZsQzZQV29Ta3RUV3RPWE80V2UyRjVwR0VCQ28zVGphX255M3luTXYxZ9IBmwJBVV95cUxOcHBJSXNadGNPX2V2RlpiclhPZWs3TWxFcUU0S1pyOXhvdTFORzB2TGRXSUNtMnNYS3kySElFTXdyODhxQ3o2alhtYUQyOW9DXzM1WDZ4SThFVFRtSWlFckg3U2RGcHdadXNNdHY3cFdvWDVsaG56bTZyRnhlRF81T244ckxZU3RJWk53MXc5RGpLR3VOSEJadFZic1FhTnQ4Yld4Z0JVY2dOaFk3b1RNOUlMUkpvcVozaWJwRzVSTFQ0OWpLSVZGdG5QZzJjUk9WV1IyMW5tUFN2Vjc2Sl9IX3F4a1IybUkwd2lYY3EwalJWN29WZjQ0MzR1c1p0dlBsWDFjVk9hY1lMMG9ENXBzZm1USHlzRFQyenZJ?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI GDP Growth 2026: Central bank nudges forecast higher, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
+      "title": "Growth-inflation dynamics favourable; RBI may trim interest rates by 100-125 bps in current cycle: Chhabra of 360 ONE",
+      "source": "Mint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVXYzcjJJUEt5QlJnVXkwUUZmR3lBQkUyUzZBRE9UajJRS09QZEVVVlRjOC0yOWVqSU85RXNYM1FIYlNVWlotMHI1OHpNcTdiNmhyRkgwVmp0OGsxbV9EY2N2LWZCMlVHcE1KZ0JMZFMySjJxam13b1NLSUF4NHpncjNUY3NuckxvcVVTWVg0RWd1a3Z1UVhWMFFnejRCS3JySmpvN0xkbWxIYTFZa3M2Ym1MS1lid1dXTTFDMzVOVTRObVBJQUZxZXVyVF96R2FpMVZTZ25lZ0hwbEdUUDNEOV91YU9OeUkydzAtaTdnTlhjTS0xNGFPZkVvbVl6LW1aOWdaRndhNThuZ9IBjwJBVV95cUxQc0lZLVpvWGNoN0dJUmdiU0k2TGRZc3pRY0tPb3pOek9BSm5vYV9oeVJZb21UeXBwNF9YRkF3eWJJZjZkdTdFbkQ3QkhqbFNiQ2ZkU2ZjNFBqZlIzaXpfbTROM19qdndKckV0TU5kdDdhQmpxRUpJRUoxMmRsc19sV0gzOFdxZ0FfT3pPZ3JtckVGMHlDTnA4N0FqcDVEcUp1WGwzbTJQallNYlYzeXdfbmhLUVJCUzdfT2RBYnZaSnJEa19IYmdZZWdJQXdZanA3c2lreG1wNXYyeUQ4bkRYTWJ4YmVvenVqaFQ1T3pEQUhJRlk2SnkxMU9LZ29yaEs0U3pJcVpoNXNsNXFLdFlF?oc=5",
+      "published": "Mon, 02 Jun 2025 07:00:00 GMT",
+      "summary": "Growth-inflation dynamics favourable; RBI may trim interest rates by 100-125 bps in current cycle: Chhabra of 360 ONE&nbsp;&nbsp;Mint"
     }
   ]
 }
