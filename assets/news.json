@@ -1,21 +1,13 @@
 {
-  "generated_at_utc": "2026-03-26T19:17:56.957035Z",
+  "generated_at_utc": "2026-03-27T03:16:38.538667Z",
   "items": [
     {
       "category": "govt",
-      "title": "Press Note Details: Press Information Bureau",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
-      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "govt",
       "title": "National Mission on Edible Oils",
-      "source": "PIB",
+      "source": "Press Information Bureau",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
       "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;Press Information Bureau"
     },
     {
       "category": "govt",
@@ -24,6 +16,22 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUFoQmpaOHB5dkdWLWVVOHBFUl9SLUZrOTNzcmF6blczNlpkd19Iak1oSkFpaXZrQWk4Rk1aV0xFbHF2TUpsU18wLWVzdE5VT0FSX2tOSGpGX0ZXdklnQ0w2c3Y0eU1IWUpEWWZZc2NMM1pUckRIUjBaa3pwU3lRckZOeGMxMGw5b25rMW1WSTJuUGNjcHhnR3N0VS1HNW9y?oc=5",
       "published": "Mon, 12 Jan 2026 08:00:00 GMT",
       "summary": "Bihar Government Launches Lady Rosetta Potato Cultivation with 75% Subsidy to Boost Farmers’ Income&nbsp;&nbsp;Indian Masterminds"
+    },
+    {
+      "category": "govt",
+      "title": "AI-powered advisory project to boost farmers’ income in ASR district of Andhra Pradesh",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY1hlTWJEU2JPWnNFSUNqQXhyMkdveGUyQXVvTXNvR1JEZTNFSmtnRk1ObmFwcDBTQ0xuMTFuNHFzb1dTUk5qSTJjRTBQbzE1dnZ0N001RzZpYk50cVpaZ0oxZUtJRGlpNkxMRWxITF9PUWl6VnB1ZV9MVFBBdG1meURpdmpmWmRPUUFNNHRwemxYd3p3UEU0VlR2ZGRZMFRsUll5cEVFclRWQWlNMkVDSmJYVUVOREFORzdTdzJKWXdtdEh2c3JXRW1zbVBfVGJ3bWZIU2RaMXBMZ1psaFRMZ3RJZkthQzgtOU8zSdIB8wFBVV95cUxNNUQ5TmU3cFNNa0p3TWE3MmtFQS1ROGpZZURDUktVV2picFE4V2VkSVhaN3BGcGRxUFY1ckZ2Y1R4b1l5aF91T2NhU2hxQjdEelktTFFZbXJsRWhPaGRybVI3U0paMElzZjlnaHhMMWVEQ09LY1hoVXB4UndiOFFEX1NnY2xySzhjSFZrVUFUb3VfeXU4MHc5U0FMeFlWRlh2SmtTM1Fhc1FRVWRhdndlOEY1TF9LME5WV3hzdGxrWVBBSDB5VU9FMUFHZDZhZDV4anA1NGpKWjRQcHc3amdDU3FndFZGVHZvejBMSEVfdkNsUWM?oc=5",
+      "published": "Sat, 30 Aug 2025 07:00:00 GMT",
+      "summary": "AI-powered advisory project to boost farmers’ income in ASR district of Andhra Pradesh&nbsp;&nbsp;The Hindu"
+    },
+    {
+      "category": "govt",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "Press Information Bureau",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;Press Information Bureau"
     },
     {
       "category": "govt",
@@ -59,19 +67,19 @@
     },
     {
       "category": "weather",
-      "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
-      "published": "Sat, 03 May 2025 07:00:00 GMT",
-      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "weather",
       "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdE9DU2ZjdDgwMkFtMlc3Z2Y2MEQ3ZG1aM1lKWUEyY0czTDA4V1ZubVM3LUg0SDdCeGJYSlY1a25IWGtKRFdFTHRVMWM5WGNCMDJBYXB2TkpwYms1MUZBZTF4ZUpWQkxuVTNxLWpWdTM2aGhSMEpPXzM0RG00dUtoVTlPSUp5TW1tdUdLbWlPYUV4V1J0MDZYd2tQM3F2SWU3MWdyNVhYUEZPamZ4bVlKa2pJT3JhYnpxZkE0SGs1MDhPR2V2NmlJRUlUbGZ1NkRoTldWaG5CWG9ZRE9vOFF4LXFrR3loVE83c0txZDB0alJEZWFGWkNkaVNNbkw4Z3RhaXNhNWgyaWNkLXczNWxLV1lkd3dUOGhOQ1dLT0JtSFFwX21EZFVPUWdFZ9IBsAJBVV95cUxNVHAzOXVyUnp3ZUZ2M3gzbkE0UmtTSncwdWd4YnVQbzI2Smw4QUVUQkxudjdjMUZVWUFrT3VuUFhnYS0yZUtvODR3QXFHR3JtR1Bia0JBZGhTNEVaN2Q4SE9NU2xSenhmVWpkZUt5Qi1nVFZsU1FkaU9NQmFKMWpCekV6WU9DWEROMFBueDc4MHdZMkpOQW9FVlZLVDBRaXdIRUYwUjlNblhyU0wwd3FSc3ViOGwzWVc4QzlRcTV4Rlpza01FNFZKbGwzZm5CV05mWjE3Z29od0N0WUtabE1KOEw0M1MxSjRFb2RBR2FtUV83RkQ2SVpSazdNOGVzUVNqWVBac3U3QlE0ZGtXMzBYTVNmQlJYS2R1VnVQWVB1N0hnNG5JNERldHhXSHl6S3kz?oc=5",
       "published": "Fri, 23 Jan 2026 08:00:00 GMT",
       "summary": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "weather",
+      "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
+      "published": "Sat, 03 May 2025 07:00:00 GMT",
+      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
     },
     {
       "category": "weather",
@@ -99,6 +107,14 @@
     },
     {
       "category": "weather",
+      "title": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYV90V1ZNXzlLajZNNkUxQkNVOFBxQXMwdDlGb29KUjhVSVVoYUdnNGFmd1dWb19rUEVmUmV3M2gxbTR1bnVBMVFmbWdIWjBkQ2V5VU9rdS1ZQzlsbEJGaHBPd1R0ZVN6MzM5WDRXQWQ2X0cydEE5U1p1eElsUWhUZTg1OU5nRnA4eWtldVNWZENKMi1BZzhVeGtTMGhEeTZGS284Y2toUUhnV0xiZzhPMVl3UkFZUVFjdVFZQmQ4RzJEdzdtUmhscUY1dXdMQW1yZU4xbWNyNWtmNmt4d3JMQng2Z25xYzlDR3pPVEZnNzgyVWpjUFNySGM3QlNkcEZ3MnIzb3ljOFHSAY4CQVVfeXFMT0d0YzY4b1V6R2JoSWRsSjRUQmp4Tmw3bUUxVWQtaVl2d2RJalg0NFRIRE9SbnZnbkk1V1p6cWJNRXJtb2lkVy1ZLXlnQ0Y4aVVXcWxzdFFYTlAxR3BrZndHYkJFR0dLQ1FIYUlJcm5ISEdhUVBjQnl6a3VMMDRVS21wbXBpeHZ3U2dlM3hBRjAtM25KY0VXYzh4Qzh2cUQ5b1lKS1pzQ0NOYUtPNVpYMl96NFFpSDhNVjhiN1lMcExkdlc1ckxhR2szZ055bGQ1YnN2UFRmVFNKVEhGWUVLMV9aV296emZaWEYtN3ZpYkpTVFZNQ0h1b1N0ZjB2YzhId2NlLTVxSkxRNWlrM0ZB?oc=5",
+      "published": "Sun, 22 Mar 2026 05:22:00 GMT",
+      "summary": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "weather",
       "title": "IMD warns of fresh spell of hailstorm, rainfall from Thursday: What experts say | Hindustan Times",
       "source": "Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGkxOXM5TnBqYklvMHctU01LSWRiUm1rTXlNYW9NVEVuTTZxVTAzbVl4alR1VDhfMGhfSS13Nmp2RWhFWDN1Mm1kVmMyQXk4cnk4dlBORTkyeUc4WnB1enlSR1NKWlFscWQ5WVlTZlBKMHdnSmM2RHdYTjI2ZHhjTnRHLTV4U01hamIwU2s1d2g0RG1FcUl3cnVCTGNpd2JiVVI5bXNJaFI3Vy1xYlFzN0F4dlZJLV9yZmcxYnlsdkhCd2E5eXdEVDktLW1HZUlLbEFXblFBWV_SAd4BQVVfeXFMUE1tRTcyVEtIaDNhcGlMaU9OSnczTno4NU5wVmNsVjRmMUttZ29vT184T0c2dDhTRkg3akZfTWltaDNCUWVSYjRvZkdXR1dHbXpIVEw3RVFLaE9oYV9uMVg4MExWRXJxMjJma0oxd3BneGsyMm8yazV2a1FybVpiVGloai11NG5TRVVWZzlYekNGUWJQRU5lMVdnSlhpdzQ1YnpUc2t6aERrWWNpMVpPOXdqdEVBSzJYeUJ6NDM3UkFDcEJ1NThNdHJkeElXdUY5M0VCQVdhOFJMNl9USU5R?oc=5",
@@ -122,20 +138,28 @@
       "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Mint"
     },
     {
-      "category": "weather",
-      "title": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYV90V1ZNXzlLajZNNkUxQkNVOFBxQXMwdDlGb29KUjhVSVVoYUdnNGFmd1dWb19rUEVmUmV3M2gxbTR1bnVBMVFmbWdIWjBkQ2V5VU9rdS1ZQzlsbEJGaHBPd1R0ZVN6MzM5WDRXQWQ2X0cydEE5U1p1eElsUWhUZTg1OU5nRnA4eWtldVNWZENKMi1BZzhVeGtTMGhEeTZGS284Y2toUUhnV0xiZzhPMVl3UkFZUVFjdVFZQmQ4RzJEdzdtUmhscUY1dXdMQW1yZU4xbWNyNWtmNmt4d3JMQng2Z25xYzlDR3pPVEZnNzgyVWpjUFNySGM3QlNkcEZ3MnIzb3ljOFHSAY4CQVVfeXFMT0d0YzY4b1V6R2JoSWRsSjRUQmp4Tmw3bUUxVWQtaVl2d2RJalg0NFRIRE9SbnZnbkk1V1p6cWJNRXJtb2lkVy1ZLXlnQ0Y4aVVXcWxzdFFYTlAxR3BrZndHYkJFR0dLQ1FIYUlJcm5ISEdhUVBjQnl6a3VMMDRVS21wbXBpeHZ3U2dlM3hBRjAtM25KY0VXYzh4Qzh2cUQ5b1lKS1pzQ0NOYUtPNVpYMl96NFFpSDhNVjhiN1lMcExkdlc1ckxhR2szZ055bGQ1YnN2UFRmVFNKVEhGWUVLMV9aV296emZaWEYtN3ZpYkpTVFZNQ0h1b1N0ZjB2YzhId2NlLTVxSkxRNWlrM0ZB?oc=5",
-      "published": "Sun, 22 Mar 2026 05:22:00 GMT",
-      "summary": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state&nbsp;&nbsp;The Times of India"
-    },
-    {
       "category": "politics",
       "title": "Facts and figures: Women’s leadership and political participation",
       "source": "UN Women",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "summary": "Facts and figures: Women’s leadership and political participation&nbsp;&nbsp;UN Women"
+    },
+    {
+      "category": "politics",
+      "title": "Nationalist Congress Party",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBydE5Xam54YVVNaHlNVGpHU2Y3d0xMelcyNmJCOUppdFJsb001YjZhMzYyRkNObTROd0M5U1JVUXd1M1BXQ0ZqVUJCZFZvSlpiYUgzbzNPWXdJYkdzOU9RdnA0T2ZuV2tQMWFR?oc=5",
+      "published": "Sun, 22 Mar 2026 05:00:00 GMT",
+      "summary": "Nationalist Congress Party&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
+      "title": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran",
+      "source": "Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUXg2VG1Td05RX1hhNXdOYnpIRXRLa2duNXJFNXBUVmZLVGlhTmFjNmxJenE2Q2JyWUlTa3d2ajk5RE5kTzJ3cDFqOGxvdmJqbHBvbTVIV2xKYTN6eU5JcTYwMmNCbDRRZUpmQkd0OENFRUJfUEZjNVdPUlNwZnlqSTFqcUpkam5QWDJ2Y0xHSFBnNlFIbWpremRSWWdFb20xLTFUbm16d2Y1cER4RjlsUkJ4THVESUU5N1BnTC1TOV9OdFpEQTlmUlRSTDM3TDhseWstX0wzbV9heVZHeXlYR19HbURkcnAx?oc=5",
+      "published": "Sun, 08 Mar 2026 08:00:00 GMT",
+      "summary": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran&nbsp;&nbsp;Deccan Herald"
     },
     {
       "category": "politics",
@@ -152,6 +176,14 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
       "published": "Mon, 22 Dec 2025 08:00:00 GMT",
       "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
+      "title": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjNxSzZpVmZPa24tTzRVYm9Kc0k2dW9SNVZHcnJVWEFUNXdLd2tvWnRFcW9kbVgwNGgxSTNYRHZrMDJ5bTBWaFNCcmxnVFVYTUJWeGxUbnAwYnVBRDRMQ0czRmgxd3hfb3VmNGtRcHdLVkxHT2dIYUxIWkxaOFpKSi1jTmJZNUtMZmdLeERicDRGbzNJT0puMHU4UE5oU0loNGxMQVc3WEZoenV1SmRseWFEcFhLbUFNTEZ3ajV0TXBONmJtRHhyNVlSOVNuOG1XNm82NDRtLU52TFM2cEg00gHkAUFVX3lxTE5Sa3dsVnE0eVcwWkhUdE5lLTh5cVJadjlUNzh2MnJ6OTZVNmdBaURRenJJMGtZYjZOMGs0SFZ2WlF0TlJrcGR6Uno3MUh0YXJGZzN6NWNhVVlqWk9adXBsa24tel9MZG83WUY5Zmh6cVVRVV9VeFZpTnFoMFVJNFlYYWs2NXpubGo5NWljcU5mbHVNdW5MdlhaUUlhVXZFRlRGNW84VnJ1MlhaR2tTa3czLV9LQUx0YWZTbURWM2trNi1NeW5Oa1lseEs2dmZiREJvRUpFQ3J2WXNRelRYZmFIRktqQg?oc=5",
+      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "summary": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "politics",
@@ -179,6 +211,14 @@
     },
     {
       "category": "politics",
+      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
+      "source": "Citizens for Justice and Peace | CJP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
+      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
+      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
+    },
+    {
+      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
@@ -192,38 +232,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0RuM0RHQUZGZFZwUHRUbEg3elpkTzdPVWFzWVQtd0NWREpmcnUwd1pJTVlCbFhmX2JoLW1lN1FmWU54czZGUkdYeWx0OTVCV1VTajd4XzhmOHlXdFc5MmY4T3FLd3FKOFRJeGFIdVQ2S1ZEcjRIWUZFYjBGVUNua3IxV3U1b1AzcHc?oc=5",
       "published": "Mon, 18 Dec 2023 08:00:00 GMT",
       "summary": "How Ideology Shapes Indian Politics&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
-      "title": "Ministry of Youth Affairs and Sports",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnVJcm93NHBDbWVwbjAxd3R5XzctMFZXTGpDdkFodVdLaWMzMU45Z1ViMDJFRjZWRjctOExWRlBpdkhhWlFwWHB4VGtyQ1Vkanc1RkRqY1B4d3ZLNEIwcnZSQ0tqWHJXM0RZWjAtTkt1dXg4N0xOakV0MEVZbHVBU3NSNURPY010anc?oc=5",
-      "published": "Thu, 21 Nov 2024 08:00:00 GMT",
-      "summary": "Ministry of Youth Affairs and Sports&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "politics",
-      "title": "Does representation of women in parliament promote economic growth? Considering evidence from Europe and Central Asia",
-      "source": "Frontiers",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2Z0ZEJybm1Wck9YRW9kTjI5TXY1Zm5nVFlVc09VSTZ0VU1xdU5TN09aT1RXNjVYSkVRdlc5OEFmX2dGMVBYdm9jSVlMdEJ4LTZyek5wcHhGVUFDYl95SHJvdE9USkFGRVFxQmJybEFrc2RXcVYyUlpMa3hKTF9GajFZRTZkS1V0NG5KR0JXMmswNGJ5dGhhQk5R?oc=5",
-      "published": "Tue, 25 Jun 2024 15:49:43 GMT",
-      "summary": "Does representation of women in parliament promote economic growth? Considering evidence from Europe and Central Asia&nbsp;&nbsp;Frontiers"
-    },
-    {
-      "category": "politics",
-      "title": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution",
-      "source": "Health Policy Watch",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkFJWDg5aGZ2aTF3cmo1b1dDZ04yWmRaRmNkS0ppamtRRkp4Y3cwaGllVTI3Vks5aWRaM0RZQktQdUdtM3g4TXZWcG5ibHN2ZDVsMkloaTFsRTZER0hiMGszRy02NHNQTTlUMTBkTkNudi0tRlluUTlmU3ZwNUxXMjRkRm5sTjBodXhBelFhbGpuTmVfRTl2SU9kRUFrVWRZWnNZaHhsdzdQdFczY3FocnRNREhZTHkwOHBreFFzQ3ZzMF91dVRKRUpEZw?oc=5",
-      "published": "Fri, 08 Sep 2023 07:00:00 GMT",
-      "summary": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution&nbsp;&nbsp;Health Policy Watch"
-    },
-    {
-      "category": "politics",
-      "title": "The States in Parliament",
-      "source": "Vidhi Centre for Legal Policy",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nQlJIWWNsNmd5YWRUS2M2U3B6eTVQVjg3cFVBc0dQUW9vU1RDaW9IczdBRVE1S2ZnQzc1TlFwTGo1NUY2eExZWTA4bHR1OE13U2JNQUV1WEREckQyaFRuazFiS21icE12RU4tMlB3cw?oc=5",
-      "published": "Wed, 04 Sep 2024 07:00:00 GMT",
-      "summary": "The States in Parliament&nbsp;&nbsp;Vidhi Centre for Legal Policy"
     },
     {
       "category": "economy",
