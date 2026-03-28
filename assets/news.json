@@ -1,29 +1,13 @@
 {
-  "generated_at_utc": "2026-03-28T07:06:52.716188Z",
+  "generated_at_utc": "2026-03-28T13:09:58.380760Z",
   "items": [
     {
       "category": "govt",
-      "title": "Press Note Details: Press Information Bureau",
-      "source": "Press Information Bureau",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
-      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;Press Information Bureau"
-    },
-    {
-      "category": "govt",
       "title": "National Mission on Edible Oils",
-      "source": "Press Information Bureau",
+      "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
       "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;Press Information Bureau"
-    },
-    {
-      "category": "govt",
-      "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
-      "source": "Krishi Jagran",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
-      "published": "Wed, 28 Jul 2021 07:00:00 GMT",
-      "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
     },
     {
       "category": "weather",
@@ -76,10 +60,10 @@
     {
       "category": "weather",
       "title": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India",
-      "source": "business-standard.com",
+      "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWlGTm9lVHhPNGpsaHRrYURVakljcXNlM3hvYmVFUlRlVGdUUVFCNHRLOHM0cFZIUXlGVWpjYTFWZ29nMmFmSDk4VmZRNEo2UDFiTTF0WE40NlVyR25LZGZkczJ1UVFyRmJKVlZhSkt5TXZRRUE1eHdGMHFNMFh4OW5DeTVPRlVNM1o1UUwxeWIwWGVzRDg0WDdyVnY5Ti1xVUFNMU8xUGFXeHFhU2RnZ1NhTHNpQm1lN1dxVzlxVV9UbklWOFVsQmthSW1TVlJPRkHSAdcBQVVfeXFMTXpuVW01N0hYbE5TaGlXNUN6T191N3N4a0RGOUpFanB3aVpMaFVDcFoxS1VHdXBVWW1YR3hKZEhLT2JobG5QNkV2UzNpTlp5OVBwbzdmcFlqWVdyZUY2UEN4aGdKNmxRNmgwR2FmUHA3X0JMcjBKcGNiNXkxRWFjWlpzbEZBaGVDLVJxblNsYllkMTZweE16bjB5V3dpZVZfaGJ5U2ZkYWRCamxMSFJoYUJzXzdfdFF3dWRWVnk0THZPMWpYOUNETDQySFpmWkhWVkVJQWQwUlU?oc=5",
       "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "summary": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India&nbsp;&nbsp;business-standard.com"
+      "summary": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "weather",
@@ -124,10 +108,10 @@
     {
       "category": "politics",
       "title": "After the revolution, Nepal’s foreign policy is anyone’s guess",
-      "source": "lowyinstitute.org",
+      "source": "Lowy Institute",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk5qYmtHaHlwVXptbFkzSEJXeTl5OGFfYlBRTlREY09oT2k1QjgyaTUtRjVDQWRwUXVRcWdGZXdScmRZUzlvY1JPa2lSTGZFOWxfNDlBTDRXa1IxLXhkZEdXbEItaFVoaEFEN0FyRV9vYkdqSFFTSWFLQXVJTV9uSE9abHhta0g4M2FmWC1kRjUtUHFMWHlsdklSUTJ3b2M2ZGc?oc=5",
       "published": "Wed, 25 Mar 2026 23:30:54 GMT",
-      "summary": "After the revolution, Nepal’s foreign policy is anyone’s guess&nbsp;&nbsp;lowyinstitute.org"
+      "summary": "After the revolution, Nepal’s foreign policy is anyone’s guess&nbsp;&nbsp;Lowy Institute"
     },
     {
       "category": "politics",
@@ -140,18 +124,26 @@
     {
       "category": "politics",
       "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
-      "source": "Britannica",
+      "source": "britannica.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;Britannica"
+      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;britannica.com"
     },
     {
       "category": "politics",
-      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
+      "title": "Call For Registrations | National Youth Parliament | 1st NLIU National Parliamentary And Constitutional...",
+      "source": "Live Law",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNblU4QVozb1Fvd3Boc2ZjN0Iwc3A1allqVHlhWXNFaERMdDBKQi11V2ktTW1mZ1pjWXFHbkdYR1hiaW1IT3I3Nk54cWlTWG10UERsWlRNNXdvU3c1QWRpc0pLTFh1aW9nZ0dGemU0UkRjZi1lZmpZYVVrZEJmb0Z2NFJ5TDE3alBmZ0ltUzIxUjN2ZzZ5SWwzUXBoakw4bUFoWDZXNW1vS3doTnFCdVNFelRWSW5US1JONTYtQUxpQjZxOXRsTnZVWTFPWlljNXJLSWhVdlNKWnhURjdzc2t0M29fYUN3cnlXdlHSAe8BQVVfeXFMUFgwckFYR2loNWo2TDVMUThXNU5RUXRXbV9kN1hHZm1VNkN1QlZXdmpMU1dIWFFYdnFXclNPTmdDV1R4R2habWxNVmNQVHZCLWZGN09MQm82QWdRYmtJcWx4SDhERVEzRWtjWlFid2Ztb0hXSGlhSmZvMDh4eXJMeERBbWsyMUhSTll1UHpvZ0tUU3ZQcjh1Q2w2RHlfTjhwMTBRUERCWmpxWHZaVnBqNUpGWmMyV2p4Zjd2Q0RXUVk4MmRGazctNDc4a1FEUXltRnZ6YzgxMUJiR2M1d0R1UGtxM2Q4Qk15UnhGT2F4b2s?oc=5",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "summary": "Call For Registrations | National Youth Parliament | 1st NLIU National Parliamentary And Constitutional...&nbsp;&nbsp;Live Law"
+    },
+    {
+      "category": "politics",
+      "title": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran",
+      "source": "deccanherald.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUXg2VG1Td05RX1hhNXdOYnpIRXRLa2duNXJFNXBUVmZLVGlhTmFjNmxJenE2Q2JyWUlTa3d2ajk5RE5kTzJ3cDFqOGxvdmJqbHBvbTVIV2xKYTN6eU5JcTYwMmNCbDRRZUpmQkd0OENFRUJfUEZjNVdPUlNwZnlqSTFqcUpkam5QWDJ2Y0xHSFBnNlFIbWpremRSWWdFb20xLTFUbm16d2Y1cER4RjlsUkJ4THVESUU5N1BnTC1TOV9OdFpEQTlmUlRSTDM3TDhseWstX0wzbV9heVZHeXlYR19HbURkcnAx?oc=5",
+      "published": "Sun, 08 Mar 2026 08:00:00 GMT",
+      "summary": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran&nbsp;&nbsp;deccanherald.com"
     },
     {
       "category": "politics",
@@ -163,19 +155,19 @@
     },
     {
       "category": "politics",
-      "title": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRmhlTUJtTHU0V2YyRVVIZGlPTm5vdlpfQzY5X3k5emc0M2w4MEc0OUJacXQ2RkFhMWhoajNMNW5VeXhCdnZseVJpWDRXbDd1ZHBtRExPckRzMkM5TUxoSGxpRmsyckpoa0N2cDJOZWhZdGI3clllZFA1cGF2ejFUWXBDVkNvc01IQXpoaW1qUUpDUENwX09CTU1XNjhhd0czTjZRRURzSjFBaWFJaUhzb3p2T0tTcHUyVTdrZUw0OFNBXzlscm84YXBkcHJmcTlDdDRwVnV3X2RfX3k0N3o0?oc=5",
-      "published": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "summary": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds&nbsp;&nbsp;Reuters"
+      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
+      "source": "Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
     },
     {
       "category": "politics",
-      "title": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdHVCTFl6VjREeElOSzZQUFIxdWJfMDNrbTQ2THpSeDN4dEd0RHFEdnNfNTVkWk8yai12Y2J1MENCZmdRSi1YSFE0Q29wV0N3bldkSnFiMlJhbUxUcGVCbFc3a3VhUQ?oc=5",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs&nbsp;&nbsp;Britannica"
+      "title": "Politics of absurdity is costing Parliament its dignity",
+      "source": "The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUdIBuwFBVV95cUxQaGF4VFk5N0k0UFotLTNqMmdJU3otODBvODBleUc0NWNuaEZzaWlxb1BhU0JFeFJ0Z1VqWmpIMjRydHFJekxZNDRyOVlhZ21hemNuQldJVHFPb0UycFUxQkVwZkpwUzhFSlR1WnFSeVdNaVVYdUlLWDhHYmNOSEVVY0NEOGhqSG1NZHByYlQzanA4cTZvcF9waEEtVnY2YVoxZHNVNEcwX2VJTDg2aHRBbFlXUWtkSmJtejRv?oc=5",
+      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
     },
     {
       "category": "politics",
@@ -187,6 +179,14 @@
     },
     {
       "category": "politics",
+      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
+      "source": "cjp.org.in",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
+      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
+      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;cjp.org.in"
+    },
+    {
+      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
@@ -195,27 +195,19 @@
     },
     {
       "category": "politics",
-      "title": "How Ideology Shapes Indian Politics",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0RuM0RHQUZGZFZwUHRUbEg3elpkTzdPVWFzWVQtd0NWREpmcnUwd1pJTVlCbFhmX2JoLW1lN1FmWU54czZGUkdYeWx0OTVCV1VTajd4XzhmOHlXdFc5MmY4T3FLd3FKOFRJeGFIdVQ2S1ZEcjRIWUZFYjBGVUNua3IxV3U1b1AzcHc?oc=5",
-      "published": "Mon, 18 Dec 2023 08:00:00 GMT",
-      "summary": "How Ideology Shapes Indian Politics&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
       "title": "Ministry of Youth Affairs and Sports",
-      "source": "Press Information Bureau",
+      "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnVJcm93NHBDbWVwbjAxd3R5XzctMFZXTGpDdkFodVdLaWMzMU45Z1ViMDJFRjZWRjctOExWRlBpdkhhWlFwWHB4VGtyQ1Vkanc1RkRqY1B4d3ZLNEIwcnZSQ0tqWHJXM0RZWjAtTkt1dXg4N0xOakV0MEVZbHVBU3NSNURPY010anc?oc=5",
       "published": "Thu, 21 Nov 2024 08:00:00 GMT",
-      "summary": "Ministry of Youth Affairs and Sports&nbsp;&nbsp;Press Information Bureau"
+      "summary": "Ministry of Youth Affairs and Sports&nbsp;&nbsp;PIB"
     },
     {
-      "category": "politics",
-      "title": "Does representation of women in parliament promote economic growth? Considering evidence from Europe and Central Asia",
-      "source": "Frontiers",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2Z0ZEJybm1Wck9YRW9kTjI5TXY1Zm5nVFlVc09VSTZ0VU1xdU5TN09aT1RXNjVYSkVRdlc5OEFmX2dGMVBYdm9jSVlMdEJ4LTZyek5wcHhGVUFDYl95SHJvdE9USkFGRVFxQmJybEFrc2RXcVYyUlpMa3hKTF9GajFZRTZkS1V0NG5KR0JXMmswNGJ5dGhhQk5R?oc=5",
-      "published": "Tue, 25 Jun 2024 15:49:43 GMT",
-      "summary": "Does representation of women in parliament promote economic growth? Considering evidence from Europe and Central Asia&nbsp;&nbsp;Frontiers"
+      "category": "economy",
+      "title": "Economic Survey 2025-26",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zbnVnTnBCZGgtMVNwWlN1X2lZRGFZTzBleWQ4V2pnZzZvc3duZkxHbmpyN2o5TVlrdFJzVDA5WjdnOWJrdHJWNmttVVJtVnBxdXQ0TWtrOTM0U2djcG1ENUxhOFhTWi1FTGR6VlJYSVJQX1BoWENKckFn?oc=5",
+      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "Economic Survey 2025-26&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
@@ -224,14 +216,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "India economic outlook, January 2026&nbsp;&nbsp;Deloitte"
-    },
-    {
-      "category": "economy",
-      "title": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18",
-      "source": "LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXA5UFFJZjZMTlNESnlzSDUxY0xWVWpJNmxoUGpLdXBRY1NCY2U4amNpZGhGTVQ3RUlRczBpVDNHQTlFdUVRUjluWkJwTFFYWlRtcDRRLVVBdFN5YVl4NV9RNUN3S1hmVzl2TXh3elMxRDlyNzZab2ZVWDZObkd5MTViYjNLVV80MnRrZWY5REZtbE0zOUxvRV9IVGs2d25CSDNWUmpGejdpQ3NCT2U3clk4cGE5dw?oc=5",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18&nbsp;&nbsp;LinkedIn"
     },
     {
       "category": "economy",
@@ -252,10 +236,10 @@
     {
       "category": "economy",
       "title": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%",
-      "source": "business-standard.com",
+      "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzJjWHBJVHpESUpXdW9DQXAtSENBdXJJMGU5LXNEUVlTWHNhaDlNb0txOW41RVZoa2NfbDVIX0RidGRTVTB3RVF3RlVzbGdLeXRmbzdpNFlwdnRmMkdMNnZmZUJydE5yTjlQRjNyd0NNZGpqNXBKeUd5VHpob2ROMlRyLTRRWkhTV1Z0NzlDckc2eXFEMkw4amZndE8waUNoejBtU0hxaEp0WnhHLWRNc1lkc3B2RDM0WXU3c9IBwgFBVV95cUxOX1BubW5SRVZ3aVU3elAyRlFQb1RBcHcyX3J3cTN1SEFhVWZaWlh0RmN5VlVwRzU5U2RDNG4yVFN5Q1BFY25Gb1JUT3pybFZueDR2NlhlZlNvT3lRMXNLUndHbzJscGxLcUNxX3VRaGdMb01OcXpoNEN0RmZwTjJOU1lBVEZiaGd5bFJXemFQOWItTjZXenJrWkJzcWhuSHM4MUNlbTBrSVJwYlNZMGJkVDZ1ZThqVXF4OXI1Qzdack02dw?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%&nbsp;&nbsp;business-standard.com"
+      "summary": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
@@ -276,10 +260,10 @@
     {
       "category": "economy",
       "title": "Stellar growth, low inflation raise questions over need for RBI rate cuts",
-      "source": "business-standard.com",
+      "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGpsaElOMUN6TzZqaEdMNjB4OFNhb2VSUjNBNUx6TmNSMTlITGtMSzJLSkktazZybjJGbW9SZ3paZWxNdW9BVVEtcXhTNzJWbEFST2R0bDN3OE1Nd1cxckM1ek1QMjBibkc3Vk9BVWdFOThkUjIzNEt2X1BGc2gyOWhVV0twXzlaclhEaktPWkdmU08zWW9OY0tSVGROTUIwc3lKaF9ZekVKZ1dtRE5yVGFKVG5kZ3lvYk5ZaVlaYmViSUpjdWI3bXhyUEtLYmxzclB1QkNR0gHbAUFVX3lxTE5BQWVXLVZoSUl2NGdWeDVUZ3VrSVhBRk5TX1dhX0lzblRtSWtZaXJjQTRGYVZXS0dTc0wwLUxES2hyc1k0SWdMV0QzdEN6NGRCX1ZiYWFBSkFFVkdpTG40U2lac09OU3UyWi1ySGQxWExYaWNmWV9GZVhfMWprdmxZcF9Zbm1wa01wd3ZackowTGNjNHVXdGNIcHc0cjRhOG1vY0xHYzVkZkpWUmdfTXlwTnVDNjNjR25XMUo5ODNfTFlCQ0JySEpHd2NmSFltd3U1RWVscUl1N1hxNA?oc=5",
       "published": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "summary": "Stellar growth, low inflation raise questions over need for RBI rate cuts&nbsp;&nbsp;business-standard.com"
+      "summary": "Stellar growth, low inflation raise questions over need for RBI rate cuts&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
