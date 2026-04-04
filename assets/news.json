@@ -1,14 +1,6 @@
 {
-  "generated_at_utc": "2026-04-04T02:46:10.881717Z",
+  "generated_at_utc": "2026-04-04T07:10:05.935384Z",
   "items": [
-    {
-      "category": "govt",
-      "title": "National Mission on Edible Oils",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
-    },
     {
       "category": "govt",
       "title": "AI-powered advisory project to boost farmers’ income in ASR district of Andhra Pradesh",
@@ -19,11 +11,19 @@
     },
     {
       "category": "weather",
-      "title": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Hary",
+      "title": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Haryana, and Rajasthan till March 21",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTzFTN0FzVm1OMlhuSkRyeU8yajZkRWhRU0ZEdkYzLU5JUF9kUFFhbGRqcGFLOWlfNHY4c19ORjdXWDctUHJZbXNIRjNTMmxreGktQXhMdXVfdy00NHA0OXc3S3djOGpTTGpvZGVWc1o2bjJfazBjczU1eFB6RTdxcFIweF8zeGpWd3RYT3lQTzVEem1PSnFOQWMxWlBkYzdrRnN6YnZ6UGZnd1FlVnJKU1h3U29Rc0lsZmNFSFBaQ0hXSU5HbkxBWEh2WkV2X1JpZGpMN3E4X1VvZkRMZ1FFT3l0Yzd6QWgxR1Bjb3ItVjlyQWZfdDF5WmozWnlmZUtHZ2Vhenh1eURpRzVYRzVva0hyb2htNjhPUmZUUk1MbER5aW1WVkRkWnRR0gGvAkFVX3lxTE9zR0FEQlRQNGFRZF9sTkZkZU5MS3JBemVZVTI4V1dlR0ZyNGVLWE9DTFpWRkRlVWdsakJwUkNRX3VBZGZPZjhRRWF2ZGYwUVc0a0txaFAtWGJJQ1RvX2pSU0hQQ1dZMHktS1VmQmxjQ1pjVXBqbTRiS0p3UlV4T280TkV2eWRVRGVVZ01PWkZ2SjgyaUgyelhVTWRobElZOWJVX3B4Z3hEX3NlbW55TThZbFZuYlJnM1ZYd3NacUVhekEwVWVqV0prbHZfVkdNYmlkcnhrb29KRjd5bnJId1F1dXV5QzA1YkQ4aE1FUUZvaUFpc0lDMFl2Mml3RGtCQVQwZW1QTzZPRzAxTE1iVUswMElEZGVpcmlRN0Y1MHF0dTBXTHhtenlXd1BGQzA1WQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTzFTN0FzVm1OMlhuSkRyeU8yajZkRWhRU0ZEdkYzLU5JUF9kUFFhbGRqcGFLOWlfNHY4c19ORjdXWDctUHJZbXNIRjNTMmxreGktQXhMdXVfdy00NHA0OXc3S3djOGpTTGpvZGVWc1o2bjJfazBjczU1eFB6RTdxcFIweF8zeGpWd3RYT3lQTzVEem1PSnFOQWMxWlBkYzdrRnN6YnZ6UGZnd1FlVnJKU1h3U29Rc0lsZmNFSFBaQ0hXSU5HbkxBWEh2WkV2X1JpZGpMN3E4X1VvZkRMZ1FFT3l0Yzd6QWgxR1Bjb3ItVjlyQWZfdDF5WmozWnlmZUtHZ2Vhenh1eURpRzVYRzVva0hyb2htNjhPUmZUUk1MbER5aW1WVkRkWnRR?oc=5",
       "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Hary&nbsp;&nbsp;The Economic Times"
+      "summary": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Haryana, and Rajasthan till March 21&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "weather",
+      "title": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUJHR1czRnRqdmV4bk8yYkFDYWlBR2RzWXdxUlRmTlhfRXlOY05GWGxrSk5vbWZCZEdIalVhZEpWQmIxNnY4MHk1RWV3MkQwSTdwVmVrblVKQjJCdU9jVmhpdnJYQTVDLU51WmJ2eGZULUFUc2traXUzRWRoZTNoc25oTVhBelZ3Y2FBNmlWZ1pyZjZBQm85WHpEUkE2bVdTSzVkdUx4clc0NjlXcFJDaFlYZ2R3cERIQ1Qybkxza0NGN1hFT2J6Rnc2OEtuY0lnc1Z5M284bUp0bVF1ZlF2Vk82SjlCMER2VVA2dWFjOFIzcmFHMUI5LW1R0gH_AUFVX3lxTE1IamZYYkM4QzlicVpKT2VyMUhHdjkta2lZN1h3QmV3dTJKcUFFSE9ZWnVYSi1TcTlia0hZQTROWlFLa1ZkQ0hrR2szUnhkNzk5ZUJSUmMtaTQtUTg0UVd6aEYwSl9aUzVSTmdZcGU1M0FTOWdobDRoeUZpOHJNNmVKcEtHQnpzTjJyc3FWaTJGNjJpeUpJX2ppQlE5YlFKczcwMUdDdldLM2Z4WlROYUN1eURVNm9BanFQbXVaODV2QUY3ZGdoZ2pKMzAyUXlucnZEZ3FHMmh2VWRUOFcxdmxaUzI5dXJObGo0VnVMNFBOY0pXWjBXdl8yZ2pyMHlDMA?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab&nbsp;&nbsp;CNBC TV18"
     },
     {
       "category": "weather",
@@ -44,18 +44,10 @@
     {
       "category": "weather",
       "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
       "published": "Sat, 03 May 2025 07:00:00 GMT",
-      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "weather",
-      "title": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUJHR1czRnRqdmV4bk8yYkFDYWlBR2RzWXdxUlRmTlhfRXlOY05GWGxrSk5vbWZCZEdIalVhZEpWQmIxNnY4MHk1RWV3MkQwSTdwVmVrblVKQjJCdU9jVmhpdnJYQTVDLU51WmJ2eGZULUFUc2traXUzRWRoZTNoc25oTVhBelZ3Y2FBNmlWZ1pyZjZBQm85WHpEUkE2bVdTSzVkdUx4clc0NjlXcFJDaFlYZ2R3cERIQ1Qybkxza0NGN1hFT2J6Rnc2OEtuY0lnc1Z5M284bUp0bVF1ZlF2Vk82SjlCMER2VVA2dWFjOFIzcmFHMUI5LW1R0gH_AUFVX3lxTE1IamZYYkM4QzlicVpKT2VyMUhHdjkta2lZN1h3QmV3dTJKcUFFSE9ZWnVYSi1TcTlia0hZQTROWlFLa1ZkQ0hrR2szUnhkNzk5ZUJSUmMtaTQtUTg0UVd6aEYwSl9aUzVSTmdZcGU1M0FTOWdobDRoeUZpOHJNNmVKcEtHQnpzTjJyc3FWaTJGNjJpeUpJX2ppQlE5YlFKczcwMUdDdldLM2Z4WlROYUN1eURVNm9BanFQbXVaODV2QUY3ZGdoZ2pKMzAyUXlucnZEZ3FHMmh2VWRUOFcxdmxaUzI5dXJObGo0VnVMNFBOY0pXWjBXdl8yZ2pyMHlDMA?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab&nbsp;&nbsp;CNBC TV18"
+      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;timesofindia.indiatimes.com"
     },
     {
       "category": "weather",
@@ -68,18 +60,10 @@
     {
       "category": "weather",
       "title": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan",
-      "source": "Republic World",
+      "source": "republicworld.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2RaMzVMTm1ZYVdtX0huU09OOVk5aVZUMHU2NzByTGZCUDVBWEFYck5LM2YwLXlJU1BvNlZId3cyMTZVMERXUWw3b2VXd04yaG95U0Vkc3I0NURvZlVPd2pQN3NQM1hlUE9fYjdpaFpBUzZORGdsS1BLcmFGVjA3eWFoRERhMnJEc3FIN0Znb2JTUHdhRVpOQTk3SEU4azZBMFJwbUl0RTl5VWY4S3dOZnlHVdIBuAFBVV95cUxOcGxjcjhEdTFKeFAxZUQzcFc1RTc2T3Exb2gxdWNqWkhLbllEX0hNYUpvY280RmV2RGRBdFpPVmlVeE1OdTRFZ0Z3X2JRYjV1dV81cld3Q1NMcjZEc3hXMGpxb25fYUdUam5zZm5GWU1Zb1ZzdDRfNDl2dmxja3R3cjFUZWFZWlY1WC0wVzliajQxNWtETWRjVGY0NGhPa1lrbnh5bzJucERhaEROZUZONXBtb0ttWmxB?oc=5",
       "published": "Mon, 30 Mar 2026 05:30:30 GMT",
-      "summary": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan&nbsp;&nbsp;Republic World"
-    },
-    {
-      "category": "weather",
-      "title": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details",
-      "source": "Krishi Jagran",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONFZHbmVLOHNYeGZwVm9oUVRHamNEa21ERU43RjJrMkwyV0ZqOF94U0s3ZlBma081V2VLNmNKdGVDX2FTblBlbFdPdS1HcF9QN2kzQmktVF9ZUTZsLVBjdURTa3E0YWRjdFlPOUhaWmhZbnc4a2VOdlVudTZ1QzJFU2NQSklKaGxKMHBfRmxpTDJHU3BULWdFLXR6UFlPc0lHbldlSVBDRzJSUTVLWER0SGJUUjlxcUZVLW9NTkVtdDZPbFp6Xzh0cGZfWk83YkY0RW5XdmZnQTFlcWZPcGx6ZXBLU0V0b0FpY0FvcHk2N0JuLVM4QkNoMjAtWTZLVjVRSGdyWS14VzNMMWlGbUJYbzVOdWdqZXZidXc?oc=5",
-      "published": "Thu, 09 Jan 2025 08:00:00 GMT",
-      "summary": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details&nbsp;&nbsp;Krishi Jagran"
+      "summary": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan&nbsp;&nbsp;republicworld.com"
     },
     {
       "category": "weather",
@@ -88,6 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTdBR0l5RXFRMUVKVkt0cDNYV3RJZmE3bnZQdUJnSFR6ODUxZjhobGkzQnBMSEVySXpweTkzekN4bmRneHQ1T3Y2NnhBRnNCclBVSXZCRUxld1RmZUhONjBQQ0JLMjFpNGNkR181bGdkMzcwanItTU5sMmFvTmctR3ozQk45S3F0bE8tTEFnNHcwUm01SDIxM29KLXVXdldXUkR1d3BBdXNkUFBRZklpMVM3UV84NTVkQzNj0gHAAUFVX3lxTE1rU2d6RFJyQXVLQ2RqRkpZX0Rkc3F4MVpfeTI0UXZqWTJ4WXhsbU51aG9Ib2k3a1g0NmJIbU5sVGxvYVB3Yk56TVV6S2NpMFZPREhCS0FHaW9UZGZUYXVYYjROMGxVWTFKX29fSHl6MS1Uck1rLWJRbGFfZ0o3TTVSeTM3LUJqeVg4bm1LSzcxNTFMM1FLaEZXZ0xqMVBNd3JUN2xMMTZuUEJtSk5aZFJRd0RHZ2J2QTlLbDlSVmJmRA?oc=5",
       "published": "Thu, 22 Jan 2026 08:00:00 GMT",
       "summary": "North India Likely To Witness Rain As IMD Issues Orange Alert For Friday&nbsp;&nbsp;News18"
+    },
+    {
+      "category": "weather",
+      "title": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details",
+      "source": "Krishi Jagran",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONFZHbmVLOHNYeGZwVm9oUVRHamNEa21ERU43RjJrMkwyV0ZqOF94U0s3ZlBma081V2VLNmNKdGVDX2FTblBlbFdPdS1HcF9QN2kzQmktVF9ZUTZsLVBjdURTa3E0YWRjdFlPOUhaWmhZbnc4a2VOdlVudTZ1QzJFU2NQSklKaGxKMHBfRmxpTDJHU3BULWdFLXR6UFlPc0lHbldlSVBDRzJSUTVLWER0SGJUUjlxcUZVLW9NTkVtdDZPbFp6Xzh0cGZfWk83YkY0RW5XdmZnQTFlcWZPcGx6ZXBLU0V0b0FpY0FvcHk2N0JuLVM4QkNoMjAtWTZLVjVRSGdyWS14VzNMMWlGbUJYbzVOdWdqZXZidXc?oc=5",
+      "published": "Thu, 09 Jan 2025 08:00:00 GMT",
+      "summary": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details&nbsp;&nbsp;Krishi Jagran"
     },
     {
       "category": "weather",
@@ -108,42 +100,10 @@
     {
       "category": "weather",
       "title": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYV90V1ZNXzlLajZNNkUxQkNVOFBxQXMwdDlGb29KUjhVSVVoYUdnNGFmd1dWb19rUEVmUmV3M2gxbTR1bnVBMVFmbWdIWjBkQ2V5VU9rdS1ZQzlsbEJGaHBPd1R0ZVN6MzM5WDRXQWQ2X0cydEE5U1p1eElsUWhUZTg1OU5nRnA4eWtldVNWZENKMi1BZzhVeGtTMGhEeTZGS284Y2toUUhnV0xiZzhPMVl3UkFZUVFjdVFZQmQ4RzJEdzdtUmhscUY1dXdMQW1yZU4xbWNyNWtmNmt4d3JMQng2Z25xYzlDR3pPVEZnNzgyVWpjUFNySGM3QlNkcEZ3MnIzb3ljOFHSAY4CQVVfeXFMT0d0YzY4b1V6R2JoSWRsSjRUQmp4Tmw3bUUxVWQtaVl2d2RJalg0NFRIRE9SbnZnbkk1V1p6cWJNRXJtb2lkVy1ZLXlnQ0Y4aVVXcWxzdFFYTlAxR3BrZndHYkJFR0dLQ1FIYUlJcm5ISEdhUVBjQnl6a3VMMDRVS21wbXBpeHZ3U2dlM3hBRjAtM25KY0VXYzh4Qzh2cUQ5b1lKS1pzQ0NOYUtPNVpYMl96NFFpSDhNVjhiN1lMcExkdlc1ckxhR2szZ055bGQ1YnN2UFRmVFNKVEhGWUVLMV9aV296emZaWEYtN3ZpYkpTVFZNQ0h1b1N0ZjB2YzhId2NlLTVxSkxRNWlrM0ZB?oc=5",
       "published": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "summary": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "politics",
-      "title": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdHVCTFl6VjREeElOSzZQUFIxdWJfMDNrbTQ2THpSeDN4dEd0RHFEdnNfNTVkWk8yai12Y2J1MENCZmdRSi1YSFE0Q29wV0N3bldkSnFiMlJhbUxUcGVCbFc3a3VhUQ?oc=5",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
-      "title": "Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkk3NVEwdThRYS0wa2hidVBYV2JGSEJwWHd1eFYxWHJWRGN6bG5mZE9JTTRFQTJ4dm1OZGJseEJ6TFhUWDlCa1lQUmEtQlJQb1U1WGZpVlRqaHdaREZjdXhGd1N3VlRIbFprN2JIWXBYTTRsT2xJTlRwcXFKTXp4ZHNVWHdQWEFFY3ZJTkkzeHk1b0d3dV9oamQ5ZVQxTkRhYVRfa0RnUTFSUkZmWlBHUC1B0gG3AUFVX3lxTE9wbWdmcGNGQzBRNjBzQ1ZKdXhPWHY3cFBHN19mQ2ZUYUNrajRZcThPbzRzaFRmbG1wbzJLSC1JNmUtTUNpTnhzYlVpX0hoLTlPZ1hGSTgyVHgzT0pRVE5xbnY1VWU5bkdFOHdWN2VRTGRxUnV2YUhMcl9GRWs2ZlhFUVlUVnAwZDJuV3pLSGhPVVJmTTdRZEV0emFxTTZHQ2E1SXZSUGRtRGc5blN5UFJrRHQ0bXdFWQ?oc=5",
-      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
-      "summary": "Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "category": "politics",
-      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
-      "title": "Politics of absurdity is costing Parliament its dignity",
-      "source": "The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUdIBuwFBVV95cUxQaGF4VFk5N0k0UFotLTNqMmdJU3otODBvODBleUc0NWNuaEZzaWlxb1BhU0JFeFJ0Z1VqWmpIMjRydHFJekxZNDRyOVlhZ21hemNuQldJVHFPb0UycFUxQkVwZkpwUzhFSlR1WnFSeVdNaVVYdUlLWDhHYmNOSEVVY0NEOGhqSG1NZHByYlQzanA4cTZvcF9waEEtVnY2YVoxZHNVNEcwX2VJTDg2aHRBbFlXUWtkSmJtejRv?oc=5",
-      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
-      "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
+      "summary": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state&nbsp;&nbsp;timesofindia.indiatimes.com"
     },
     {
       "category": "politics",
@@ -163,27 +123,19 @@
     },
     {
       "category": "politics",
+      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
+      "source": "Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
       "title": "Women in Politics, Status in India, Challenges, Measures",
       "source": "Vajiram & Ravi",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
       "published": "Mon, 05 Jan 2026 08:00:00 GMT",
       "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
-      "title": "Indian Parliament: Shaping Foreign Policy By K V Prasad",
-      "source": "India’s World Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVgxc2psYkt0MVlQd1VlbHZmSVB1cF9UdVJfOUs3elBDaXREeUxoOWpyekZQUGNDTmZ1WXg3XzVlb0JGaW5HWVluREdUcVNONXZTWmtuclpwN2cwcWN4dWZTV1p1M2hMd3FwTFZScTN2Q0JyeXFwZ05FQXZDSGd5eTFDYks?oc=5",
-      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "summary": "Indian Parliament: Shaping Foreign Policy By K V Prasad&nbsp;&nbsp;India’s World Magazine"
-    },
-    {
-      "category": "politics",
-      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
-      "source": "Citizens for Justice and Peace | CJP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
-      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
-      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
     },
     {
       "category": "politics",
@@ -203,11 +155,51 @@
     },
     {
       "category": "politics",
-      "title": "Why so few women are in political leadership, and five actions to boost women’s political participation",
-      "source": "UN Women",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHkxUUpBekVfcGtmSUowUzJ5eG1UMm9xZ2JzTDJuQ2VYbmNrd1BiNGp3bTEyOW1nWTYyMDJBeVp1cWZ6cHk2cHF5clBkUEJRd2tKZlBPS1pTaC1wZC1BQVNldnpUMlRfS2Iwb3BpMnhoOHI1WWNDS3lfRXFzM3FZeTY1dHlZbFdYUlpLQTZJc1hoN0xyQjBwUDFhcVN4R1czN1FTRnJWVENiaWg0U3Fn?oc=5",
-      "published": "Tue, 10 Sep 2024 07:00:00 GMT",
-      "summary": "Why so few women are in political leadership, and five actions to boost women’s political participation&nbsp;&nbsp;UN Women"
+      "title": "This Constitution does not permit war",
+      "source": "The Leaflet",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXQxR05yRjJVUlN1YjNwYVFUb01kaEEyeGZ0ckRlMENUSlR5VUltaEZBbFY4NndBdjF2RFI1SXZBeWh6NXF2b2ZNa2x5bm4yaWYycl9QVW84ZklBYXU0cGpHd3hudDRDX1JJZkZJMEYzNUpFbUlBazVTOG5IckRMclI1eEpHZUlH?oc=5",
+      "published": "Wed, 07 May 2025 07:00:00 GMT",
+      "summary": "This Constitution does not permit war&nbsp;&nbsp;The Leaflet"
+    },
+    {
+      "category": "politics",
+      "title": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution",
+      "source": "Health Policy Watch",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkFJWDg5aGZ2aTF3cmo1b1dDZ04yWmRaRmNkS0ppamtRRkp4Y3cwaGllVTI3Vks5aWRaM0RZQktQdUdtM3g4TXZWcG5ibHN2ZDVsMkloaTFsRTZER0hiMGszRy02NHNQTTlUMTBkTkNudi0tRlluUTlmU3ZwNUxXMjRkRm5sTjBodXhBelFhbGpuTmVfRTl2SU9kRUFrVWRZWnNZaHhsdzdQdFczY3FocnRNREhZTHkwOHBreFFzQ3ZzMF91dVRKRUpEZw?oc=5",
+      "published": "Fri, 08 Sep 2023 07:00:00 GMT",
+      "summary": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution&nbsp;&nbsp;Health Policy Watch"
+    },
+    {
+      "category": "politics",
+      "title": "Ministry of Youth Affairs and Sports",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnVJcm93NHBDbWVwbjAxd3R5XzctMFZXTGpDdkFodVdLaWMzMU45Z1ViMDJFRjZWRjctOExWRlBpdkhhWlFwWHB4VGtyQ1Vkanc1RkRqY1B4d3ZLNEIwcnZSQ0tqWHJXM0RZWjAtTkt1dXg4N0xOakV0MEVZbHVBU3NSNURPY010anc?oc=5",
+      "published": "Thu, 21 Nov 2024 08:00:00 GMT",
+      "summary": "Ministry of Youth Affairs and Sports&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "politics",
+      "title": "The States in Parliament",
+      "source": "vidhilegalpolicy.in",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nQlJIWWNsNmd5YWRUS2M2U3B6eTVQVjg3cFVBc0dQUW9vU1RDaW9IczdBRVE1S2ZnQzc1TlFwTGo1NUY2eExZWTA4bHR1OE13U2JNQUV1WEREckQyaFRuazFiS21icE12RU4tMlB3cw?oc=5",
+      "published": "Wed, 04 Sep 2024 07:00:00 GMT",
+      "summary": "The States in Parliament&nbsp;&nbsp;vidhilegalpolicy.in"
+    },
+    {
+      "category": "politics",
+      "title": "The Modi 3.0 coalition government: challenges and priorities",
+      "source": "The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWxHSFY3WVVQTmFRX3AxV2drcHpBTld2ZEo5N2FUUVR4dmlXMzlSSzI0ekhnelFxRUNYcFkzY3JVd0hRV1NJZHNZTW1nMFh3WXd2aUMwaXNPLTlBbkR4X1NXUFFzd25KSFR0U0E4OUIySUZIaUpWRmdNM0d1c3hJSk5CZEhTZXh1M3k1NFE0MFNwc1lOb0RxQ21pUTJUQUhsMXZBMmljZUg5cnNCMHBZUVFtYUxGOWtpQjBESQ?oc=5",
+      "published": "Tue, 18 Jun 2024 07:00:00 GMT",
+      "summary": "The Modi 3.0 coalition government: challenges and priorities&nbsp;&nbsp;The International Institute for Strategic Studies"
+    },
+    {
+      "category": "politics",
+      "title": "Does representation of women in parliament promote economic growth? Considering evidence from Europe and Central Asia",
+      "source": "Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2Z0ZEJybm1Wck9YRW9kTjI5TXY1Zm5nVFlVc09VSTZ0VU1xdU5TN09aT1RXNjVYSkVRdlc5OEFmX2dGMVBYdm9jSVlMdEJ4LTZyek5wcHhGVUFDYl95SHJvdE9USkFGRVFxQmJybEFrc2RXcVYyUlpMa3hKTF9GajFZRTZkS1V0NG5KR0JXMmswNGJ5dGhhQk5R?oc=5",
+      "published": "Tue, 25 Jun 2024 15:49:43 GMT",
+      "summary": "Does representation of women in parliament promote economic growth? Considering evidence from Europe and Central Asia&nbsp;&nbsp;Frontiers"
     },
     {
       "category": "economy",
@@ -220,10 +212,10 @@
     {
       "category": "economy",
       "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m&nbsp;&nbsp;The Times of India"
+      "summary": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m&nbsp;&nbsp;timesofindia.indiatimes.com"
     },
     {
       "category": "economy",
@@ -252,10 +244,10 @@
     {
       "category": "economy",
       "title": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUC0xUkducGlxaXBLSXhmbVAyNHg0ZFlBNXY4X3lXT2xmZlhpUW0zQjBIcDNJNjFXd2JzUTRLYmpLR3NpeHBFbFlBNWFON0hONXpGdmJEVkxNTTJzRGJ4UGg0b1BDbjJIZm9TT1AzZ0p4M2xILVVkeDhhLWRoOGdxOEwyNm40TEE4cTUtQUx3ZHFfeDhSTUVya1A1NVVZUFVjWkxVbGZqbmN1UXlGM1kzclNKRG13LU5Kejk0T3o2SlotblRHN2tBVFdWVzJTTmNSc1VjRHFlc0dLZTBzVnhmNXdFMl9oaldWazhyMG9yUmlobnVaaDdfVHVHMF91bmFlZm5aSl9NbzNNZmN3T0J3UHhPMlJRdTFVT0RGbmN5TF96XzJoaUtV0gGsAkFVX3lxTFB0ZzhXWDFOVFRhcXBQQy1fcGp3QklzVkFQc2ZyU0h2UndNV1RxM2t2cDcyQk51cHU3VEtKTlZGOW5qMXNUQlg0UkFqMEhrYm9rUEJDX3h1Z051T3J5OTlRN3BhelNHSFlVeW9aV1NCNjdGTThFcHZCc3dHY3dZZVFOSkJ3ejZCbUxPLXlrdlZSbmJLRDQ4bUQ4QjN5dm55YTlJcjNRQWhkSHJhMl8zWGI0UG1XWjZiNVNFX1FIanA0Ymw4OUdjTk9yNTdBV1J0VFJRTFpJbUMxd3dPVkpScFJfVVdtd3dvLVNWV28wcDlkX0NCYmRqNU05QU9mUjZuMVRxejU3RGQ2WTYzemJvbG02LWpmdnMwQ2E3dzJ1cVQxTGJtOUN1b3RJZ3JUSw?oc=5",
       "published": "Thu, 25 Dec 2025 08:00:00 GMT",
-      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;The Times of India"
+      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;timesofindia.indiatimes.com"
     },
     {
       "category": "economy",
@@ -276,10 +268,10 @@
     {
       "category": "economy",
       "title": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXdkaVpfbzFFVWtEYnpBTW00dTdBeTQ5YU9BRVk2SHhjNm1aMGM2eEE4WHdoV2hlOWh2M0VITGFqNnFpYmdjZkdkeUc5UXlBVEJjN2dlUmRZTDVWVjFUWU5jekloMkpFSG1wdkQ5ZHFXcC1wM0JyNzZLMVpPUFhwc0NMOWNVS1l5MGtjZWZtNC1FSDQ4WWQxZEIxZTQzdktDVkNaU0dqWnJyb3NseWFQU09jc3BBSlc2VGdUUnRlV0RjRi1vYVlpRm01RV81enpLQ0NMTHV3VF94cDZleHZUWVZZNjJmbHhYa3kyZkFOUEREbkR3Z1gwSnNhWDV1eWFEWEdxZTRycC10cDlzSEdvNTVCTTLSAZoCQVVfeXFMTS1kUmVVZEx2VUNod1lYVVhxZlhlVi1hM3BpYTVWXzNkRXBDOUtwcjQ3YzVCWEk4X1RPblFheEFxd0t2RWlLQnI3bmoyOFdiWnpmNkp1UlZaczlNZHA3cE9ORW94Nm5fSk5VQTJCbDFFWko1XzltaC04RTgza2FKWjdMaC1YZXhTcU5MY3l4UWVFWlFMYzdxdk9FSnE5RHpOODI1NkVWRGYtWkdrd3dVR2pFRlRiM25PVlFFUTVGNm5Ed3pqZzYxSTdCOG94emM4WG9hbG53WGx6Y0VtdzlRbG1xZjVVQ3JsNzczX0lxNXNnSTdtcVZjcjY5RjZFUVJPZjgzSWh5LXhNVjAwU2FHc09iTTItQ2FnSS1R?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "summary": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals&nbsp;&nbsp;The Times of India"
+      "summary": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals&nbsp;&nbsp;timesofindia.indiatimes.com"
     },
     {
       "category": "economy",
@@ -300,10 +292,10 @@
     {
       "category": "economy",
       "title": "GDP grows at 8.2%, fastest in 6 quarters: What the data really says about Indian economy - explained",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRVRWdDA4aE5EcV9pWEhkMDZVaXZpRDVOMEpfcUhmbXdLcjc0dm5xVFJGeXlGcWI5Uk5JNFJ3S1JrdUlFMW1TdldQZzZiM0xBUXVTMFR3TDRHb1BIYm9GMDBNOUQ3VnRHTUhzWmtMZHd2dlNfbDJ6b3NjVG5DN3BIaW5ETk1Na3M1N2ZXSTF6SjVHY3l2WTZ5eHpRNGgtWExBUi12LWZLVnhsWlJqMzk4cW1VVkRCZ0xoUXcxQndzR3ZiNGpqUnlBUUIzMmw1QWlWUG5TekdWNFpfeGFQc21kdEdpQjNFb2R1ZjZRS3lIVmd2cWYtQVFHMkF4bkRxN3k0d1pUcklydmQyaDdBX0HSAZMCQVVfeXFMUF94SGxHX3V4SjlhZ3J2Z3FGSUFQRnpaU2tIMEx2c2gyUkNVU3poc2h6RHoyVTlOT052cnEweE5ZcEkwMFF1YnA4MzhkZ0xEeG9ySVRndE1BR0VMYXZTaXoya0FSdERGcm93RVZfOWlCSkRGbXREaUtZN29JYWtlaFpuSTlwR0hONGVXZFRHUUMyMjJjZmJXU085emRSNjZVWUZibk9ERU5KWUJsWXVtcVZOUFVwV3VTaEJHMXgzTEhxVkRIVzVQX09TMDlkSWNQWHRBN2g0Y0JPM0FGaTZmR1RKRTU1TTNpSlB5YlJTaF9WdDlJX05HbnQ0bTNpdkZLNGcxSjlzVzFsQjRtWVRtZmJmWjg?oc=5",
       "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "GDP grows at 8.2%, fastest in 6 quarters: What the data really says about Indian economy - explained&nbsp;&nbsp;The Times of India"
+      "summary": "GDP grows at 8.2%, fastest in 6 quarters: What the data really says about Indian economy - explained&nbsp;&nbsp;timesofindia.indiatimes.com"
     }
   ]
 }
