@@ -1,6 +1,14 @@
 {
-  "generated_at_utc": "2026-04-03T18:58:10.104255Z",
+  "generated_at_utc": "2026-04-04T02:46:10.881717Z",
   "items": [
+    {
+      "category": "govt",
+      "title": "National Mission on Edible Oils",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+    },
     {
       "category": "govt",
       "title": "AI-powered advisory project to boost farmers’ income in ASR district of Andhra Pradesh",
@@ -67,19 +75,19 @@
     },
     {
       "category": "weather",
-      "title": "North India Likely To Witness Rain As IMD Issues Orange Alert For Friday",
-      "source": "News18",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTdBR0l5RXFRMUVKVkt0cDNYV3RJZmE3bnZQdUJnSFR6ODUxZjhobGkzQnBMSEVySXpweTkzekN4bmRneHQ1T3Y2NnhBRnNCclBVSXZCRUxld1RmZUhONjBQQ0JLMjFpNGNkR181bGdkMzcwanItTU5sMmFvTmctR3ozQk45S3F0bE8tTEFnNHcwUm01SDIxM29KLXVXdldXUkR1d3BBdXNkUFBRZklpMVM3UV84NTVkQzNj0gHAAUFVX3lxTE1rU2d6RFJyQXVLQ2RqRkpZX0Rkc3F4MVpfeTI0UXZqWTJ4WXhsbU51aG9Ib2k3a1g0NmJIbU5sVGxvYVB3Yk56TVV6S2NpMFZPREhCS0FHaW9UZGZUYXVYYjROMGxVWTFKX29fSHl6MS1Uck1rLWJRbGFfZ0o3TTVSeTM3LUJqeVg4bm1LSzcxNTFMM1FLaEZXZ0xqMVBNd3JUN2xMMTZuUEJtSk5aZFJRd0RHZ2J2QTlLbDlSVmJmRA?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "North India Likely To Witness Rain As IMD Issues Orange Alert For Friday&nbsp;&nbsp;News18"
-    },
-    {
-      "category": "weather",
       "title": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details",
       "source": "Krishi Jagran",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONFZHbmVLOHNYeGZwVm9oUVRHamNEa21ERU43RjJrMkwyV0ZqOF94U0s3ZlBma081V2VLNmNKdGVDX2FTblBlbFdPdS1HcF9QN2kzQmktVF9ZUTZsLVBjdURTa3E0YWRjdFlPOUhaWmhZbnc4a2VOdlVudTZ1QzJFU2NQSklKaGxKMHBfRmxpTDJHU3BULWdFLXR6UFlPc0lHbldlSVBDRzJSUTVLWER0SGJUUjlxcUZVLW9NTkVtdDZPbFp6Xzh0cGZfWk83YkY0RW5XdmZnQTFlcWZPcGx6ZXBLU0V0b0FpY0FvcHk2N0JuLVM4QkNoMjAtWTZLVjVRSGdyWS14VzNMMWlGbUJYbzVOdWdqZXZidXc?oc=5",
       "published": "Thu, 09 Jan 2025 08:00:00 GMT",
       "summary": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
+      "category": "weather",
+      "title": "North India Likely To Witness Rain As IMD Issues Orange Alert For Friday",
+      "source": "News18",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTdBR0l5RXFRMUVKVkt0cDNYV3RJZmE3bnZQdUJnSFR6ODUxZjhobGkzQnBMSEVySXpweTkzekN4bmRneHQ1T3Y2NnhBRnNCclBVSXZCRUxld1RmZUhONjBQQ0JLMjFpNGNkR181bGdkMzcwanItTU5sMmFvTmctR3ozQk45S3F0bE8tTEFnNHcwUm01SDIxM29KLXVXdldXUkR1d3BBdXNkUFBRZklpMVM3UV84NTVkQzNj0gHAAUFVX3lxTE1rU2d6RFJyQXVLQ2RqRkpZX0Rkc3F4MVpfeTI0UXZqWTJ4WXhsbU51aG9Ib2k3a1g0NmJIbU5sVGxvYVB3Yk56TVV6S2NpMFZPREhCS0FHaW9UZGZUYXVYYjROMGxVWTFKX29fSHl6MS1Uck1rLWJRbGFfZ0o3TTVSeTM3LUJqeVg4bm1LSzcxNTFMM1FLaEZXZ0xqMVBNd3JUN2xMMTZuUEJtSk5aZFJRd0RHZ2J2QTlLbDlSVmJmRA?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "North India Likely To Witness Rain As IMD Issues Orange Alert For Friday&nbsp;&nbsp;News18"
     },
     {
       "category": "weather",
@@ -107,6 +115,38 @@
     },
     {
       "category": "politics",
+      "title": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdHVCTFl6VjREeElOSzZQUFIxdWJfMDNrbTQ2THpSeDN4dEd0RHFEdnNfNTVkWk8yai12Y2J1MENCZmdRSi1YSFE0Q29wV0N3bldkSnFiMlJhbUxUcGVCbFc3a3VhUQ?oc=5",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
+      "title": "Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkk3NVEwdThRYS0wa2hidVBYV2JGSEJwWHd1eFYxWHJWRGN6bG5mZE9JTTRFQTJ4dm1OZGJseEJ6TFhUWDlCa1lQUmEtQlJQb1U1WGZpVlRqaHdaREZjdXhGd1N3VlRIbFprN2JIWXBYTTRsT2xJTlRwcXFKTXp4ZHNVWHdQWEFFY3ZJTkkzeHk1b0d3dV9oamQ5ZVQxTkRhYVRfa0RnUTFSUkZmWlBHUC1B0gG3AUFVX3lxTE9wbWdmcGNGQzBRNjBzQ1ZKdXhPWHY3cFBHN19mQ2ZUYUNrajRZcThPbzRzaFRmbG1wbzJLSC1JNmUtTUNpTnhzYlVpX0hoLTlPZ1hGSTgyVHgzT0pRVE5xbnY1VWU5bkdFOHdWN2VRTGRxUnV2YUhMcl9GRWs2ZlhFUVlUVnAwZDJuV3pLSGhPVVJmTTdRZEV0emFxTTZHQ2E1SXZSUGRtRGc5blN5UFJrRHQ0bXdFWQ?oc=5",
+      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "summary": "Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "category": "politics",
+      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
+      "source": "Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
+      "title": "Politics of absurdity is costing Parliament its dignity",
+      "source": "The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUdIBuwFBVV95cUxQaGF4VFk5N0k0UFotLTNqMmdJU3otODBvODBleUc0NWNuaEZzaWlxb1BhU0JFeFJ0Z1VqWmpIMjRydHFJekxZNDRyOVlhZ21hemNuQldJVHFPb0UycFUxQkVwZkpwUzhFSlR1WnFSeVdNaVVYdUlLWDhHYmNOSEVVY0NEOGhqSG1NZHByYlQzanA4cTZvcF9waEEtVnY2YVoxZHNVNEcwX2VJTDg2aHRBbFlXUWtkSmJtejRv?oc=5",
+      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
+    },
+    {
+      "category": "politics",
       "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
       "source": "Britannica",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
@@ -120,38 +160,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTlzSkdyTjBvWmFvdGRCYzJ3QlhhMDBtMTJCd0R3aFo5UE5ac3YyS2prbTlqYTB1RDBaTlU2QUx5MHhNOVVhRHdZMjY0OThxWFo4aWR3QjJDVTA1TWoxZzIySDczc29lbnRWcTY5Mm1qcVE0dUM0M25jLXJMZDV1ejg1d0QyRlg5MXZHa3M1d1laZFppZnppajVzeVMzYkNtallsa3d0VUtGSlBXbVY40gG0AUFVX3lxTE5yOEFmVE1ZcmU4dDNKazNoREJoem5Kc0Jxa1o2R09qYWpmcVUwbWZCSUNMSi1BVW9GQ1pWdHkyUGh6TEd4cEtNQVVuTG54MVpTaTB6NmlPdUkzWGZKRzJlNy1tM28yN1g2aEQydTFPN2pXRTFoZGVyZ2lzSDFjX2hoUjRHYjJtMC1Tcm1lM0gxc1NjbG5XeTRLMFBvUXcwbTNZaUNtamRFUnhVcF9jaDlMbzNxVw?oc=5",
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
       "summary": "What does BNP’s landslide mean for Bangladesh’s post-uprising order?&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "category": "politics",
-      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
-      "title": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjNxSzZpVmZPa24tTzRVYm9Kc0k2dW9SNVZHcnJVWEFUNXdLd2tvWnRFcW9kbVgwNGgxSTNYRHZrMDJ5bTBWaFNCcmxnVFVYTUJWeGxUbnAwYnVBRDRMQ0czRmgxd3hfb3VmNGtRcHdLVkxHT2dIYUxIWkxaOFpKSi1jTmJZNUtMZmdLeERicDRGbzNJT0puMHU4UE5oU0loNGxMQVc3WEZoenV1SmRseWFEcFhLbUFNTEZ3ajV0TXBONmJtRHhyNVlSOVNuOG1XNm82NDRtLU52TFM2cEg00gHkAUFVX3lxTE5Sa3dsVnE0eVcwWkhUdE5lLTh5cVJadjlUNzh2MnJ6OTZVNmdBaURRenJJMGtZYjZOMGs0SFZ2WlF0TlJrcGR6Uno3MUh0YXJGZzN6NWNhVVlqWk9adXBsa24tel9MZG83WUY5Zmh6cVVRVV9VeFZpTnFoMFVJNFlYYWs2NXpubGo5NWljcU5mbHVNdW5MdlhaUUlhVXZFRlRGNW84VnJ1MlhaR2tTa3czLV9LQUx0YWZTbURWM2trNi1NeW5Oa1lseEs2dmZiREJvRUpFQ3J2WXNRelRYZmFIRktqQg?oc=5",
-      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "summary": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "politics",
-      "title": "Politics of absurdity is costing Parliament its dignity",
-      "source": "The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUdIBuwFBVV95cUxQaGF4VFk5N0k0UFotLTNqMmdJU3otODBvODBleUc0NWNuaEZzaWlxb1BhU0JFeFJ0Z1VqWmpIMjRydHFJekxZNDRyOVlhZ21hemNuQldJVHFPb0UycFUxQkVwZkpwUzhFSlR1WnFSeVdNaVVYdUlLWDhHYmNOSEVVY0NEOGhqSG1NZHByYlQzanA4cTZvcF9waEEtVnY2YVoxZHNVNEcwX2VJTDg2aHRBbFlXUWtkSmJtejRv?oc=5",
-      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
-      "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
-    },
-    {
-      "category": "politics",
-      "title": "Salient Features of Indian Constitution, List, Complete Details",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenFQdTVMSUYtUXFhSGFETW1CaUdUVXZXYU41amhDZjNJWmlHVE91WDlybldGUzNGRnFSLVpCZ1NPdDFfVUtKUTM5NmRmcW42VkxKZmVuRlVsYkI5Rkt6UG1JS3FtTU40dm1qLXpnR3BPVUI5dm1EcHNhOFRTUXlJb0padmo5ZUdUVlJF?oc=5",
-      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
-      "summary": "Salient Features of Indian Constitution, List, Complete Details&nbsp;&nbsp;Vajiram & Ravi"
     },
     {
       "category": "politics",
@@ -171,6 +179,14 @@
     },
     {
       "category": "politics",
+      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
+      "source": "Citizens for Justice and Peace | CJP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
+      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
+      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
+    },
+    {
+      "category": "politics",
       "title": "India’s New Gender Quota Law Is a Win for Women—Mostly",
       "source": "Carnegie Endowment for International Peace",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEN1MUVjenRhSUIzZW0tQVFoR1ZqVzd4TUF2ZWY4b21NcWs1b2I0WXdJSF9FM3hPRFVOM0FMYjBseC0tM0hGRXJkOERuSUIwbV9nYzcxT2tNVmQtOTNURHY4SWh4S29RSmFBYkVqa0pJSUd0UFdYZ0lXN1Y3T3l1U2lYU21oY29pZHh3T3RiYVV1b0p3Tlhob3Y3dVo?oc=5",
@@ -184,14 +200,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
       "published": "Wed, 16 Nov 2022 08:00:00 GMT",
       "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
-    },
-    {
-      "category": "politics",
-      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
-      "source": "Citizens for Justice and Peace | CJP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
-      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
-      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
     },
     {
       "category": "politics",
