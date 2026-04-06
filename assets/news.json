@@ -1,6 +1,14 @@
 {
-  "generated_at_utc": "2026-04-06T07:55:21.560419Z",
+  "generated_at_utc": "2026-04-06T13:25:24.686410Z",
   "items": [
+    {
+      "category": "govt",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
+    },
     {
       "category": "govt",
       "title": "National Mission on Edible Oils",
@@ -10,12 +18,28 @@
       "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
     },
     {
+      "category": "govt",
+      "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
+      "source": "Krishi Jagran",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
+      "published": "Wed, 28 Jul 2021 07:00:00 GMT",
+      "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
       "category": "weather",
       "title": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Hary",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTzFTN0FzVm1OMlhuSkRyeU8yajZkRWhRU0ZEdkYzLU5JUF9kUFFhbGRqcGFLOWlfNHY4c19ORjdXWDctUHJZbXNIRjNTMmxreGktQXhMdXVfdy00NHA0OXc3S3djOGpTTGpvZGVWc1o2bjJfazBjczU1eFB6RTdxcFIweF8zeGpWd3RYT3lQTzVEem1PSnFOQWMxWlBkYzdrRnN6YnZ6UGZnd1FlVnJKU1h3U29Rc0lsZmNFSFBaQ0hXSU5HbkxBWEh2WkV2X1JpZGpMN3E4X1VvZkRMZ1FFT3l0Yzd6QWgxR1Bjb3ItVjlyQWZfdDF5WmozWnlmZUtHZ2Vhenh1eURpRzVYRzVva0hyb2htNjhPUmZUUk1MbER5aW1WVkRkWnRR0gGvAkFVX3lxTE9zR0FEQlRQNGFRZF9sTkZkZU5MS3JBemVZVTI4V1dlR0ZyNGVLWE9DTFpWRkRlVWdsakJwUkNRX3VBZGZPZjhRRWF2ZGYwUVc0a0txaFAtWGJJQ1RvX2pSU0hQQ1dZMHktS1VmQmxjQ1pjVXBqbTRiS0p3UlV4T280TkV2eWRVRGVVZ01PWkZ2SjgyaUgyelhVTWRobElZOWJVX3B4Z3hEX3NlbW55TThZbFZuYlJnM1ZYd3NacUVhekEwVWVqV0prbHZfVkdNYmlkcnhrb29KRjd5bnJId1F1dXV5QzA1YkQ4aE1FUUZvaUFpc0lDMFl2Mml3RGtCQVQwZW1QTzZPRzAxTE1iVUswMElEZGVpcmlRN0Y1MHF0dTBXTHhtenlXd1BGQzA1WQ?oc=5",
       "published": "Wed, 18 Mar 2026 07:00:00 GMT",
       "summary": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Hary&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "weather",
+      "title": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan",
+      "source": "Republic World",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2RaMzVMTm1ZYVdtX0huU09OOVk5aVZUMHU2NzByTGZCUDVBWEFYck5LM2YwLXlJU1BvNlZId3cyMTZVMERXUWw3b2VXd04yaG95U0Vkc3I0NURvZlVPd2pQN3NQM1hlUE9fYjdpaFpBUzZORGdsS1BLcmFGVjA3eWFoRERhMnJEc3FIN0Znb2JTUHdhRVpOQTk3SEU4azZBMFJwbUl0RTl5VWY4S3dOZnlHVdIBuAFBVV95cUxOcGxjcjhEdTFKeFAxZUQzcFc1RTc2T3Exb2gxdWNqWkhLbllEX0hNYUpvY280RmV2RGRBdFpPVmlVeE1OdTRFZ0Z3X2JRYjV1dV81cld3Q1NMcjZEc3hXMGpxb25fYUdUam5zZm5GWU1Zb1ZzdDRfNDl2dmxja3R3cjFUZWFZWlY1WC0wVzliajQxNWtETWRjVGY0NGhPa1lrbnh5bzJucERhaEROZUZONXBtb0ttWmxB?oc=5",
+      "published": "Mon, 30 Mar 2026 05:30:30 GMT",
+      "summary": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan&nbsp;&nbsp;Republic World"
     },
     {
       "category": "weather",
@@ -43,6 +67,14 @@
     },
     {
       "category": "weather",
+      "title": "Himachal Pradesh Joins Uttarakhand, Punjab, Uttar Pradesh, Madhya Pradesh, Rajasthan, and Other States in India as IMD Issues Urgent Warning For Snowstorms, Thunderstorms, and Travel Disruptions",
+      "source": "Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPb2tfajR1MzhzcklSaTZMLVJjRGp1T3FwdWNXVFBDbTVyNExDczh3NWxkVV94eG1VZ2hudkhBMDUwZVFKVUc2TV84Mk8tUjcwUjZIMzZoWmtCejJTZ3dYMkptckZORHJ0N0VkMTlQSU1wVDU5TTIwT2FOdTlRRlpHMzBCTUIyTXJULWFMUEZTc1FNWUhNMnVJbF8yaUJIcE5qeWFhd2VnWlBBWWtLTnh6WXJ0d3Bla2pwNTF0Nzh5ZGFaX0prN3NEeTRGV2pyZWt3SEJCVElvdDRhWlNsdGIxV2VmaTMzWkZmQlNlVVVnc3JOWjRSdXhXZms3Rkl2c0p6cmtZbGJBMHhpbFgzSnc3OFdpb3pmNzRKRDZLVFBOWXhYMHBIbHg3bnlSVndsMHk4a3JHZlZlbFRFZDI1MEU5R2xRejZxSktndEx2SXBHQzdWaFNycHJv?oc=5",
+      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
+      "summary": "Himachal Pradesh Joins Uttarakhand, Punjab, Uttar Pradesh, Madhya Pradesh, Rajasthan, and Other States in India as IMD Issues Urgent Warning For Snowstorms, Thunderstorms, and Travel Disruptions&nbsp;&nbsp;Travel And Tou…"
+    },
+    {
+      "category": "weather",
       "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdE9DU2ZjdDgwMkFtMlc3Z2Y2MEQ3ZG1aM1lKWUEyY0czTDA4V1ZubVM3LUg0SDdCeGJYSlY1a25IWGtKRFdFTHRVMWM5WGNCMDJBYXB2TkpwYms1MUZBZTF4ZUpWQkxuVTNxLWpWdTM2aGhSMEpPXzM0RG00dUtoVTlPSUp5TW1tdUdLbWlPYUV4V1J0MDZYd2tQM3F2SWU3MWdyNVhYUEZPamZ4bVlKa2pJT3JhYnpxZkE0SGs1MDhPR2V2NmlJRUlUbGZ1NkRoTldWaG5CWG9ZRE9vOFF4LXFrR3loVE83c0txZDB0alJEZWFGWkNkaVNNbkw4Z3RhaXNhNWgyaWNkLXczNWxLV1lkd3dUOGhOQ1dLT0JtSFFwX21EZFVPUWdFZ9IBsAJBVV95cUxNVHAzOXVyUnp3ZUZ2M3gzbkE0UmtTSncwdWd4YnVQbzI2Smw4QUVUQkxudjdjMUZVWUFrT3VuUFhnYS0yZUtvODR3QXFHR3JtR1Bia0JBZGhTNEVaN2Q4SE9NU2xSenhmVWpkZUt5Qi1nVFZsU1FkaU9NQmFKMWpCekV6WU9DWEROMFBueDc4MHdZMkpOQW9FVlZLVDBRaXdIRUYwUjlNblhyU0wwd3FSc3ViOGwzWVc4QzlRcTV4Rlpza01FNFZKbGwzZm5CV05mWjE3Z29od0N0WUtabE1KOEw0M1MxSjRFb2RBR2FtUV83RkQ2SVpSazdNOGVzUVNqWVBac3U3QlE0ZGtXMzBYTVNmQlJYS2R1VnVQWVB1N0hnNG5JNERldHhXSHl6S3kz?oc=5",
@@ -59,27 +91,11 @@
     },
     {
       "category": "weather",
-      "title": "Himachal Pradesh Joins Uttarakhand, Punjab, Uttar Pradesh, Madhya Pradesh, Rajasthan, and Other States in India as IMD Issues Urgent Warning For Snowstorms, Thunderstorms, and Travel Disruptions",
-      "source": "travelandtourworld.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPb2tfajR1MzhzcklSaTZMLVJjRGp1T3FwdWNXVFBDbTVyNExDczh3NWxkVV94eG1VZ2hudkhBMDUwZVFKVUc2TV84Mk8tUjcwUjZIMzZoWmtCejJTZ3dYMkptckZORHJ0N0VkMTlQSU1wVDU5TTIwT2FOdTlRRlpHMzBCTUIyTXJULWFMUEZTc1FNWUhNMnVJbF8yaUJIcE5qeWFhd2VnWlBBWWtLTnh6WXJ0d3Bla2pwNTF0Nzh5ZGFaX0prN3NEeTRGV2pyZWt3SEJCVElvdDRhWlNsdGIxV2VmaTMzWkZmQlNlVVVnc3JOWjRSdXhXZms3Rkl2c0p6cmtZbGJBMHhpbFgzSnc3OFdpb3pmNzRKRDZLVFBOWXhYMHBIbHg3bnlSVndsMHk4a3JHZlZlbFRFZDI1MEU5R2xRejZxSktndEx2SXBHQzdWaFNycHJv?oc=5",
-      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
-      "summary": "Himachal Pradesh Joins Uttarakhand, Punjab, Uttar Pradesh, Madhya Pradesh, Rajasthan, and Other States in India as IMD Issues Urgent Warning For Snowstorms, Thunderstorms, and Travel Disruptions&nbsp;&nbsp;travelandtourw…"
-    },
-    {
-      "category": "weather",
       "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
       "published": "Sat, 03 May 2025 07:00:00 GMT",
       "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "weather",
-      "title": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan",
-      "source": "Republic World",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2RaMzVMTm1ZYVdtX0huU09OOVk5aVZUMHU2NzByTGZCUDVBWEFYck5LM2YwLXlJU1BvNlZId3cyMTZVMERXUWw3b2VXd04yaG95U0Vkc3I0NURvZlVPd2pQN3NQM1hlUE9fYjdpaFpBUzZORGdsS1BLcmFGVjA3eWFoRERhMnJEc3FIN0Znb2JTUHdhRVpOQTk3SEU4azZBMFJwbUl0RTl5VWY4S3dOZnlHVdIBuAFBVV95cUxOcGxjcjhEdTFKeFAxZUQzcFc1RTc2T3Exb2gxdWNqWkhLbllEX0hNYUpvY280RmV2RGRBdFpPVmlVeE1OdTRFZ0Z3X2JRYjV1dV81cld3Q1NMcjZEc3hXMGpxb25fYUdUam5zZm5GWU1Zb1ZzdDRfNDl2dmxja3R3cjFUZWFZWlY1WC0wVzliajQxNWtETWRjVGY0NGhPa1lrbnh5bzJucERhaEROZUZONXBtb0ttWmxB?oc=5",
-      "published": "Mon, 30 Mar 2026 05:30:30 GMT",
-      "summary": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan&nbsp;&nbsp;Republic World"
     },
     {
       "category": "weather",
@@ -92,10 +108,10 @@
     {
       "category": "weather",
       "title": "Himachal Pradesh braces for cold wave, ‘yellow’ warning issued amid severe frost, dense fog",
-      "source": "financialexpress.com",
+      "source": "The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0lZbVgxaFpxWU90RU5NbUZkdnNsS0EzcUtZLVRxSU1lU3FIUnhZeUNtc25ZSTdpNHhkUjd6T3dqME9ZaXFnQ0xxR0k1YVdfYWNmNmpwWkVOWEhBNWJfaVJka3dwcG9aUlcwcm9NREgyNW9VbXJIRnpkVjczbmY5VGxfREdDc3QzX0tFbG1vZDhidzQ4bUNyc2RfNnE0QmRocnQ5SGNGSDJUTW9DX1dTS25YMU9WNEpYZzBsekNPOFkyd2lpODRVelVsLXNmcUhTdzhRZnNYc9IB3gFBVV95cUxPZ1Zkd0pldDRqZnB5M2ZoaFAtSFI3bno3WnFoVXFvOTBmN28xcF9wZDI1dTFwOEF3MC1VV1BQNko1b0V1dW9BODM2LTc3TklWdkdHNm5ncXNyakJMNW1QUEhqS0lsV0RkVFFld1ZZZHVyYXV4aWNXdWJiaXVzVV9OUjZTWFFOX2FnekU0T1J5UFR1Vm1kZnVwN0pQcXNTa2hfeWNnRzZMWlZQMlhNdzBVbFRwRWRIR05DTkdWT3FENjFOQXRaOGY3VExaa3p6YW5SNEdUU05WX2lTMGlrdnc?oc=5",
       "published": "Wed, 08 Jan 2025 08:00:00 GMT",
-      "summary": "Himachal Pradesh braces for cold wave, ‘yellow’ warning issued amid severe frost, dense fog&nbsp;&nbsp;financialexpress.com"
+      "summary": "Himachal Pradesh braces for cold wave, ‘yellow’ warning issued amid severe frost, dense fog&nbsp;&nbsp;The Financial Express"
     },
     {
       "category": "weather",
@@ -115,11 +131,19 @@
     },
     {
       "category": "politics",
-      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
+      "title": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
-      "published": "Fri, 03 Apr 2026 05:00:00 GMT",
-      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iV3IyMU9lWE9CSXY3VHh3bVhFdHp4STg1VGFteHgyUGxBQmIyNTNTclduRnA4eUYwWEt6SkVtRjhOazBkM2t1TER2UVJMR19JZ0pZUA?oc=5",
+      "published": "Sat, 04 Apr 2026 05:00:00 GMT",
+      "summary": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
+      "title": "Indian Parliament: Shaping Foreign Policy By K V Prasad",
+      "source": "India’s World Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVgxc2psYkt0MVlQd1VlbHZmSVB1cF9UdVJfOUs3elBDaXREeUxoOWpyekZQUGNDTmZ1WXg3XzVlb0JGaW5HWVluREdUcVNONXZTWmtuclpwN2cwcWN4dWZTV1p1M2hMd3FwTFZScTN2Q0JyeXFwZ05FQXZDSGd5eTFDYks?oc=5",
+      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "summary": "Indian Parliament: Shaping Foreign Policy By K V Prasad&nbsp;&nbsp;India’s World Magazine"
     },
     {
       "category": "politics",
@@ -131,27 +155,27 @@
     },
     {
       "category": "politics",
-      "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
-      "published": "Thu, 02 Apr 2026 05:00:00 GMT",
-      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
-      "title": "What does BNP’s landslide mean for Bangladesh’s post-uprising order?",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTlzSkdyTjBvWmFvdGRCYzJ3QlhhMDBtMTJCd0R3aFo5UE5ac3YyS2prbTlqYTB1RDBaTlU2QUx5MHhNOVVhRHdZMjY0OThxWFo4aWR3QjJDVTA1TWoxZzIySDczc29lbnRWcTY5Mm1qcVE0dUM0M25jLXJMZDV1ejg1d0QyRlg5MXZHa3M1d1laZFppZnppajVzeVMzYkNtallsa3d0VUtGSlBXbVY40gG0AUFVX3lxTE5yOEFmVE1ZcmU4dDNKazNoREJoem5Kc0Jxa1o2R09qYWpmcVUwbWZCSUNMSi1BVW9GQ1pWdHkyUGh6TEd4cEtNQVVuTG54MVpTaTB6NmlPdUkzWGZKRzJlNy1tM28yN1g2aEQydTFPN2pXRTFoZGVyZ2lzSDFjX2hoUjRHYjJtMC1Tcm1lM0gxc1NjbG5XeTRLMFBvUXcwbTNZaUNtamRFUnhVcF9jaDlMbzNxVw?oc=5",
-      "published": "Fri, 13 Feb 2026 08:00:00 GMT",
-      "summary": "What does BNP’s landslide mean for Bangladesh’s post-uprising order?&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "category": "politics",
       "title": "Functions of Parliament, Legislative, Financial and Other Functions",
       "source": "Vajiram & Ravi",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
       "published": "Mon, 22 Dec 2025 08:00:00 GMT",
       "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
+      "title": "Modi seeks parliament approval for sweeping reforms to aid growth in India",
+      "source": "The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUZadE5vem81d242UmxqZWVoUkdJUk1qWVRReXR1YlhTMlJId3Zya2JQWF9jQndKZzVCWmVKLUlsenJNS3F2R0lmWkVNMnpUQzZ4aXR4cWl3OEVDc0RQQllNUWdpekI3endXVVVJZHROMTJSdmJKY3NVbW9UazRqVzItQ0pRNlNTaWswVzh4SHRNWFo5aFdrRHpEelVjUEE?oc=5",
+      "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "summary": "Modi seeks parliament approval for sweeping reforms to aid growth in India&nbsp;&nbsp;The Japan Times"
+    },
+    {
+      "category": "politics",
+      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
+      "source": "Citizens for Justice and Peace | CJP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
+      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
+      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
     },
     {
       "category": "politics",
@@ -163,11 +187,19 @@
     },
     {
       "category": "politics",
-      "title": "Politics of absurdity is costing Parliament its dignity",
-      "source": "The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUQ?oc=5",
-      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
-      "summary": "Politics of absurdity is costing Parliament its dignity&nbsp;&nbsp;The Hans India"
+      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
+      "published": "Fri, 03 Apr 2026 05:00:00 GMT",
+      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
+      "title": "International students in UK higher education",
+      "source": "The House of Commons Library",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HNEFMcXdjUklPWnlxNzgzTUFhUGZQdVBqYlVXbWs1d040eWJLazA1bUJmTHJXTzRNNnNqM24xV3BNS0ZfLUtKTmtJUzlBZEcyWm1abktEWkwzeHB0NzZ1M3lwQnhBMmZsLVRoLVBaNTAycm8?oc=5",
+      "published": "Fri, 27 Jun 2025 07:00:00 GMT",
+      "summary": "International students in UK higher education&nbsp;&nbsp;The House of Commons Library"
     },
     {
       "category": "politics",
@@ -179,27 +211,11 @@
     },
     {
       "category": "politics",
-      "title": "Rishi Sunak",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13SG9xeGdwNDdoVlhBaFpTclpxUFl4bG4wYmNENUJmSEh0YVEwTU50UUNrMzJxYmtOeUVISU44LS0xSWtvOGl4T0NwY0RVTklqblZzRlk1aFpLbzJF?oc=5",
-      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "summary": "Rishi Sunak&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
-      "title": "Women in Politics, Status in India, Challenges, Measures",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
-      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
-      "source": "Citizens for Justice and Peace | CJP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
-      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
-      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
+      "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
+      "source": "orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
+      "published": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
     },
     {
       "category": "economy",
@@ -236,10 +252,10 @@
     {
       "category": "economy",
       "title": "Budget 2026 preview: The sharp slide in inflation, RBI target and big expectation ahead of Budget",
-      "source": "financialexpress.com",
+      "source": "The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOVBWVzFqSUZoWlNDRWMwbnNqRzVyZGhuN21wdDNHcEJHSVhwaERHTnNlTWdNWUdyUWN4al9tY1pYXzdPYVA1c0NNQmVyX2hYMzdFLWlCZ1YxZF9pX0RxTlJpNnAyYVRqS08wRjlqZWg3SkllVnVLdi1oU2NPY2Y2YmRtM1ZBb0dLV0FjSVRUaWdpNUk5Z2tuZTBEQV9XeTJfeGYzRENiVS1BeU5QN1d2R0VOclZJbzB0MFlXQ0JCUlNmeThxQ3UyQ0JXVjRBSGV6YkQwZmx6Vk5UazZtajRQOGlCcXlCeXZIX0ZN0gHyAUFVX3lxTE1FTXNYNjhJcWlndFQyWERrTVFuSnVwTVg3QnFBZVFLV1BqOThlbWstb1NPQkhZMmZBOVZ4ZG5XV05NTl9uTlRwcHhWakRnTXdibTFiSDBZZHdsZTFMOGZ4cjZRUVdjLWxCc1hVczVvUnBhZENJQ2Y4RTgxRlg2b09kQVVGZ080WmRlUkJ6bXdRS0pMOHh2ZVE1VGo2c2dEeFhlWVBlNm4weUt1OEF0WlF4T24zM0gtcGpOZXowN2xwT0ZFSTRIM0tOZVpOLWkybHpqNlpXYkVtSFVNTW4tWGdxSmZJX3liZVB3ZEVndUZnZHRB?oc=5",
       "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "Budget 2026 preview: The sharp slide in inflation, RBI target and big expectation ahead of Budget&nbsp;&nbsp;financialexpress.com"
+      "summary": "Budget 2026 preview: The sharp slide in inflation, RBI target and big expectation ahead of Budget&nbsp;&nbsp;The Financial Express"
     },
     {
       "category": "economy",
