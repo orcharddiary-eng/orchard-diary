@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-09T14:02:19.018719Z",
+  "generated_at_utc": "2026-04-09T19:18:44.378113Z",
   "items": [
     {
       "category": "pest",
@@ -11,11 +11,27 @@
     },
     {
       "category": "govt",
+      "title": "National Mission on Edible Oils",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
       "title": "Scheme/Policy for Welfare and Protection of Onion Farmers",
       "source": "Global Agriculture",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEhad1AyTXRJcHo3ZG1ZUG9Mc1VZQ3ZGOHRSNDJPOFMyb2Vram04YW5FMGVuU2hURTN2VWtOQTRhalVpeXVBcGRQYXlkdjd1UDg0VE9WdUlldG9YVGlfRWxjS1NZajNsZWhVTjVwYlRFekpKM0tIYkZaVWlHaE92UjlrZWR3NzFyRE5oWXpZMEFNaGhsZE0xMU80NVp1RjFMTHRRQ2JqZlYtUQ?oc=5",
       "published": "Sat, 14 Feb 2026 06:01:17 GMT",
       "summary": "Scheme/Policy for Welfare and Protection of Onion Farmers&nbsp;&nbsp;Global Agriculture"
+    },
+    {
+      "category": "govt",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
     },
     {
       "category": "weather",
@@ -115,11 +131,11 @@
     },
     {
       "category": "politics",
-      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
+      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
-      "published": "Fri, 03 Apr 2026 05:00:00 GMT",
-      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
+      "published": "Mon, 06 Apr 2026 05:00:00 GMT",
+      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -139,19 +155,11 @@
     },
     {
       "category": "politics",
-      "title": "Rishi Sunak",
+      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13SG9xeGdwNDdoVlhBaFpTclpxUFl4bG4wYmNENUJmSEh0YVEwTU50UUNrMzJxYmtOeUVISU44LS0xSWtvOGl4T0NwY0RVTklqblZzRlk1aFpLbzJF?oc=5",
-      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "summary": "Rishi Sunak&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
-      "title": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUXg2VG1Td05RX1hhNXdOYnpIRXRLa2duNXJFNXBUVmZLVGlhTmFjNmxJenE2Q2JyWUlTa3d2ajk5RE5kTzJ3cDFqOGxvdmJqbHBvbTVIV2xKYTN6eU5JcTYwMmNCbDRRZUpmQkd0OENFRUJfUEZjNVdPUlNwZnlqSTFqcUpkam5QWDJ2Y0xHSFBnNlFIbWpremRSWWdFb20xLTFUbm16d2Y1cER4RjlsUkJ4THVESUU5N1BnTC1TOV9OdFpEQTlmUlRSTDM3TDhseWstX0wzbV9heVZHeXlYR19HbURkcnAx?oc=5",
-      "published": "Sun, 08 Mar 2026 08:00:00 GMT",
-      "summary": "Congress to raise India's foreign policy 'deviations' in Parliament's Budget session after US-Israel attack on Iran&nbsp;&nbsp;Deccan Herald"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
+      "published": "Fri, 03 Apr 2026 05:00:00 GMT",
+      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -171,14 +179,6 @@
     },
     {
       "category": "politics",
-      "title": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjNxSzZpVmZPa24tTzRVYm9Kc0k2dW9SNVZHcnJVWEFUNXdLd2tvWnRFcW9kbVgwNGgxSTNYRHZrMDJ5bTBWaFNCcmxnVFVYTUJWeGxUbnAwYnVBRDRMQ0czRmgxd3hfb3VmNGtRcHdLVkxHT2dIYUxIWkxaOFpKSi1jTmJZNUtMZmdLeERicDRGbzNJT0puMHU4UE5oU0loNGxMQVc3WEZoenV1SmRseWFEcFhLbUFNTEZ3ajV0TXBONmJtRHhyNVlSOVNuOG1XNm82NDRtLU52TFM2cEg00gHkAUFVX3lxTE5Sa3dsVnE0eVcwWkhUdE5lLTh5cVJadjlUNzh2MnJ6OTZVNmdBaURRenJJMGtZYjZOMGs0SFZ2WlF0TlJrcGR6Uno3MUh0YXJGZzN6NWNhVVlqWk9adXBsa24tel9MZG83WUY5Zmh6cVVRVV9VeFZpTnFoMFVJNFlYYWs2NXpubGo5NWljcU5mbHVNdW5MdlhaUUlhVXZFRlRGNW84VnJ1MlhaR2tTa3czLV9LQUx0YWZTbURWM2trNi1NeW5Oa1lseEs2dmZiREJvRUpFQ3J2WXNRelRYZmFIRktqQg?oc=5",
-      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "summary": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "politics",
       "title": "Politics of absurdity is costing Parliament its dignity",
       "source": "The Hans India",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFWalJ2VkhfaWhscTFDX0JnOThabk5tZzBZTWlpT0FrNkNUcUJUbUIwV29yY0NIUzI2YjRZVEgyeDhLNTZJbXV3aTNweDlTVHE4MjU0Tmg2ZHVOQkdkVnFvbERqSWdWTnRzbndlTWpSR0lfS0ZBQ2prSjRSWGdtR1lnd2dLbFZIcFZCUE5zeXNIdHZTTDY5bTNsYTBQeXpzV2pxUkV1dS1lLU43eFEtLVFZNE9YUQ?oc=5",
@@ -187,11 +187,11 @@
     },
     {
       "category": "politics",
-      "title": "Salient Features of Indian Constitution, List, Complete Details",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenFQdTVMSUYtUXFhSGFETW1CaUdUVXZXYU41amhDZjNJWmlHVE91WDlybldGUzNGRnFSLVpCZ1NPdDFfVUtKUTM5NmRmcW42VkxKZmVuRlVsYkI5Rkt6UG1JS3FtTU40dm1qLXpnR3BPVUI5dm1EcHNhOFRTUXlJb0padmo5ZUdUVlJF?oc=5",
-      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
-      "summary": "Salient Features of Indian Constitution, List, Complete Details&nbsp;&nbsp;Vajiram & Ravi"
+      "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
+      "published": "Thu, 02 Apr 2026 05:00:00 GMT",
+      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -203,11 +203,27 @@
     },
     {
       "category": "politics",
-      "title": "Indian Parliament: Shaping Foreign Policy By K V Prasad",
-      "source": "India’s World Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVgxc2psYkt0MVlQd1VlbHZmSVB1cF9UdVJfOUs3elBDaXREeUxoOWpyekZQUGNDTmZ1WXg3XzVlb0JGaW5HWVluREdUcVNONXZTWmtuclpwN2cwcWN4dWZTV1p1M2hMd3FwTFZScTN2Q0JyeXFwZ05FQXZDSGd5eTFDYks?oc=5",
-      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
-      "summary": "Indian Parliament: Shaping Foreign Policy By K V Prasad&nbsp;&nbsp;India’s World Magazine"
+      "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
+      "source": "orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
+      "published": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
+    },
+    {
+      "category": "politics",
+      "title": "In India, Foreign Policy Is on the 2024 Ballot",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzRIN1BHLTJ2Ul9kdDcyWlJQZWF6NDZielAzN29fYU9oRnZRQ0J3emFYV3ZSR0dJVmhxY2xvcHoweHFGcGJtc2RSaTRyS00zSm1SclcyeTlMa0ZEbTBleERHUk9OX2NiRHQwNXlyQS1VT29VTm5FbmNxYW5aaWtVbFljVkZZZ2k2ZTJBb2pBSUhiS2NVTWs4?oc=5",
+      "published": "Fri, 12 Apr 2024 07:00:00 GMT",
+      "summary": "In India, Foreign Policy Is on the 2024 Ballot&nbsp;&nbsp;Carnegie Endowment for International Peace"
+    },
+    {
+      "category": "politics",
+      "title": "This Constitution does not permit war",
+      "source": "The Leaflet",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXQxR05yRjJVUlN1YjNwYVFUb01kaEEyeGZ0ckRlMENUSlR5VUltaEZBbFY4NndBdjF2RFI1SXZBeWh6NXF2b2ZNa2x5bm4yaWYycl9QVW84ZklBYXU0cGpHd3hudDRDX1JJZkZJMEYzNUpFbUlBazVTOG5IckRMclI1eEpHZUlH?oc=5",
+      "published": "Wed, 07 May 2025 07:00:00 GMT",
+      "summary": "This Constitution does not permit war&nbsp;&nbsp;The Leaflet"
     },
     {
       "category": "economy",
