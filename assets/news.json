@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-12T03:30:47.822298Z",
+  "generated_at_utc": "2026-04-12T07:24:30.753421Z",
   "items": [
     {
       "category": "pest",
@@ -11,19 +11,35 @@
     },
     {
       "category": "govt",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
+      "title": "National Mission on Edible Oils",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
+      "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
+      "source": "Krishi Jagran",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
+      "published": "Wed, 28 Jul 2021 07:00:00 GMT",
+      "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
+      "category": "govt",
       "title": "Govt. is Providing Subsidy For Hydroponics & Aeroponics Farming",
       "source": "Krishi Jagran",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd09GdzRmUXFJMDc2RVpFMjNpR1MwZ3ZnRzhkTTctMi11ZXN4TWg1ZEZpTmpLbmxSb3NwVXIwdkpXUjlzTG9nX3ZFZ1k2b2x6UTlVRFdRN1FIcFpsYVZORUl3czlTdnJGZm1mTDFHSE5BSUdhTl9mVVlIM3hOZmxDX2YtWVZXVW5TSmxVdGtOSVBQSmdCUWxVQnlFRnBQSzNaMldSN3Rwc9IBrwFBVV95cUxOR1lCMEhaNlpiVXpkR2JGWEpvNllieWpWMXBBc20yVGh0eFVkblNXUnJ2LWg5MWw5eUxTNExRZE5mOGNFR0hYOGJacmUwN29xdGxRM0E0cVNHc3ZJR0xxXy14N3NESW5XaXAxNkZacW5Jb09DcFlOU1hNRjViV1dCWkMyXzZlTEE2bVl1cnRNeTRWaDRCUW9tUV9uNktGYU5CQTRuUjFGYW5ENWxDS1V3?oc=5",
       "published": "Sun, 20 Mar 2022 07:00:00 GMT",
       "summary": "Govt. is Providing Subsidy For Hydroponics & Aeroponics Farming&nbsp;&nbsp;Krishi Jagran"
-    },
-    {
-      "category": "weather",
-      "title": "IMD alerts: Heavy rain and hail for North, East India; Delhi braces for 50 kmph gusts",
-      "source": "Mathrubhumi English",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDN2RzhZQ29Bc3JNTUpORlo5UmRVblF2bkxXZzhseVlyTlE2NUMxejFsV3FuaGpoUHBIb2x2eFFfbUV4bUQ4YnJRT3Rhek92R3hsalg4ZXZ3MkN3ZENiSF9SQzBmM19mZ1BpRVFWVXhCWE0xUU00NVpQeVZMMDAxTHZWT2l3ZVRDbTBFZWtKT1hPbjlwVHFWdUtZZEVfU1BDMjV5ekxYZWEtNm5kQlVzVlpNUC1jZVkyOG1ySTA0NDVkN0NFRVpMR2tR0gHPAUFVX3lxTFBLU0RTREdBMlVNdGJ3d281X3BlcU5VRkFYZjRkcTI0allmYmNrUDllMkdlbG9uSHV0SmF0NDZ1eDROQTBXRVk2aENoMmdSSldPT3g3VGZOZEVpU2UzQVp3OE9USnc2Y0Z4QVB0TzVpRWZaRFRpMjJxUnlsX2ktZGtwT3lObFRBT3UyemQyb0t3Uy1UTllRbXhZcmZkajJfU1BpQlNwbzFLY1lkV2NzeFpnOVl1YzdwLWp2czNGTzZ5M1F1dFJsaHI3enVWZ0tJWQ?oc=5",
-      "published": "Wed, 08 Apr 2026 12:08:09 GMT",
-      "summary": "IMD alerts: Heavy rain and hail for North, East India; Delhi braces for 50 kmph gusts&nbsp;&nbsp;Mathrubhumi English"
     },
     {
       "category": "weather",
@@ -40,6 +56,14 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2RaMzVMTm1ZYVdtX0huU09OOVk5aVZUMHU2NzByTGZCUDVBWEFYck5LM2YwLXlJU1BvNlZId3cyMTZVMERXUWw3b2VXd04yaG95U0Vkc3I0NURvZlVPd2pQN3NQM1hlUE9fYjdpaFpBUzZORGdsS1BLcmFGVjA3eWFoRERhMnJEc3FIN0Znb2JTUHdhRVpOQTk3SEU4azZBMFJwbUl0RTl5VWY4S3dOZnlHVdIBuAFBVV95cUxOcGxjcjhEdTFKeFAxZUQzcFc1RTc2T3Exb2gxdWNqWkhLbllEX0hNYUpvY280RmV2RGRBdFpPVmlVeE1OdTRFZ0Z3X2JRYjV1dV81cld3Q1NMcjZEc3hXMGpxb25fYUdUam5zZm5GWU1Zb1ZzdDRfNDl2dmxja3R3cjFUZWFZWlY1WC0wVzliajQxNWtETWRjVGY0NGhPa1lrbnh5bzJucERhaEROZUZONXBtb0ttWmxB?oc=5",
       "published": "Mon, 30 Mar 2026 07:00:00 GMT",
       "summary": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan&nbsp;&nbsp;Republic World"
+    },
+    {
+      "category": "weather",
+      "title": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYV90V1ZNXzlLajZNNkUxQkNVOFBxQXMwdDlGb29KUjhVSVVoYUdnNGFmd1dWb19rUEVmUmV3M2gxbTR1bnVBMVFmbWdIWjBkQ2V5VU9rdS1ZQzlsbEJGaHBPd1R0ZVN6MzM5WDRXQWQ2X0cydEE5U1p1eElsUWhUZTg1OU5nRnA4eWtldVNWZENKMi1BZzhVeGtTMGhEeTZGS284Y2toUUhnV0xiZzhPMVl3UkFZUVFjdVFZQmQ4RzJEdzdtUmhscUY1dXdMQW1yZU4xbWNyNWtmNmt4d3JMQng2Z25xYzlDR3pPVEZnNzgyVWpjUFNySGM3QlNkcEZ3MnIzb3ljOFHSAY4CQVVfeXFMT0d0YzY4b1V6R2JoSWRsSjRUQmp4Tmw3bUUxVWQtaVl2d2RJalg0NFRIRE9SbnZnbkk1V1p6cWJNRXJtb2lkVy1ZLXlnQ0Y4aVVXcWxzdFFYTlAxR3BrZndHYkJFR0dLQ1FIYUlJcm5ISEdhUVBjQnl6a3VMMDRVS21wbXBpeHZ3U2dlM3hBRjAtM25KY0VXYzh4Qzh2cUQ5b1lKS1pzQ0NOYUtPNVpYMl96NFFpSDhNVjhiN1lMcExkdlc1ckxhR2szZ055bGQ1YnN2UFRmVFNKVEhGWUVLMV9aV296emZaWEYtN3ZpYkpTVFZNQ0h1b1N0ZjB2YzhId2NlLTVxSkxRNWlrM0ZB?oc=5",
+      "published": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "summary": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state&nbsp;&nbsp;The Times of India"
     },
     {
       "category": "weather",
@@ -75,19 +99,19 @@
     },
     {
       "category": "weather",
-      "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
-      "published": "Sat, 03 May 2025 07:00:00 GMT",
-      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "weather",
       "title": "Northwest India to be hit by heavy rain, hailstorms on Saturday, mercury to dip",
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2xwRjJ5dDY5VVlBbC1CX01EQllkSXp0OEVCUnhBSkZJcVVfV2dMWVR4Y0J5YVVJcjhyalVKa2RPbTAzeXZWNVllcFlJbjNoWVhqR0x2VGRHWGdBaDM4OVRickFhOTVUd3UxNGdZZ3MyaEE2bWc5VndJYVFZWmQ0bUpnMW52a3ZOMXNYNDAyMzNoTUVKOENsdkNUTVBId0p3T250d0ZJWGtSOF9HMVMxS1FrT0pHVlZyTkFFY0tOSklWTWR1ZDZYazlWemt2VUlqRkRCRNIB2gFBVV95cUxOMy0xamExR3lCME96NFRNZWxiTVFLeHdtUDdHcFVsWXBsWC1OeVhmdVRpTGtYZnF5QndBOFA5cmxlVG0xcVNDb0lxZDRjdWtubDRMRDA5OXRHaTBodVVTa3ZBSmNNYTZQcm9POWxvNGl5SnB2amtlaU1fdkt4Q3hEb05xNHliVGFqTXhDQ1FjY1dpcWt3bXIwVjJrZ2tvRmJicE1ZUG9JNHNtOTd3cnMyMEViTGg0eFYwNnV4U3JYaWRYTzFoQ0dORjcweG5LdDNxVmNpV05EdWdkZw?oc=5",
       "published": "Fri, 03 Apr 2026 14:55:37 GMT",
       "summary": "Northwest India to be hit by heavy rain, hailstorms on Saturday, mercury to dip&nbsp;&nbsp;India Today"
+    },
+    {
+      "category": "weather",
+      "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
+      "published": "Sat, 03 May 2025 07:00:00 GMT",
+      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
     },
     {
       "category": "weather",
@@ -115,11 +139,11 @@
     },
     {
       "category": "politics",
-      "title": "Nationalist Congress Party",
+      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBydE5Xam54YVVNaHlNVGpHU2Y3d0xMelcyNmJCOUppdFJsb001YjZhMzYyRkNObTROd0M5U1JVUXd1M1BXQ0ZqVUJCZFZvSlpiYUgzbzNPWXdJYkdzOU9RdnA0T2ZuV2tQMWFR?oc=5",
-      "published": "Mon, 06 Apr 2026 05:00:00 GMT",
-      "summary": "Nationalist Congress Party&nbsp;&nbsp;Britannica"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
+      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -136,14 +160,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "summary": "Facts and figures: Women’s leadership and political participation&nbsp;&nbsp;UN Women"
-    },
-    {
-      "category": "politics",
-      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
-      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -168,14 +184,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTlzSkdyTjBvWmFvdGRCYzJ3QlhhMDBtMTJCd0R3aFo5UE5ac3YyS2prbTlqYTB1RDBaTlU2QUx5MHhNOVVhRHdZMjY0OThxWFo4aWR3QjJDVTA1TWoxZzIySDczc29lbnRWcTY5Mm1qcVE0dUM0M25jLXJMZDV1ejg1d0QyRlg5MXZHa3M1d1laZFppZnppajVzeVMzYkNtallsa3d0VUtGSlBXbVY40gG0AUFVX3lxTE5yOEFmVE1ZcmU4dDNKazNoREJoem5Kc0Jxa1o2R09qYWpmcVUwbWZCSUNMSi1BVW9GQ1pWdHkyUGh6TEd4cEtNQVVuTG54MVpTaTB6NmlPdUkzWGZKRzJlNy1tM28yN1g2aEQydTFPN2pXRTFoZGVyZ2lzSDFjX2hoUjRHYjJtMC1Tcm1lM0gxc1NjbG5XeTRLMFBvUXcwbTNZaUNtamRFUnhVcF9jaDlMbzNxVw?oc=5",
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
       "summary": "What does BNP’s landslide mean for Bangladesh’s post-uprising order?&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "category": "politics",
-      "title": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjNxSzZpVmZPa24tTzRVYm9Kc0k2dW9SNVZHcnJVWEFUNXdLd2tvWnRFcW9kbVgwNGgxSTNYRHZrMDJ5bTBWaFNCcmxnVFVYTUJWeGxUbnAwYnVBRDRMQ0czRmgxd3hfb3VmNGtRcHdLVkxHT2dIYUxIWkxaOFpKSi1jTmJZNUtMZmdLeERicDRGbzNJT0puMHU4UE5oU0loNGxMQVc3WEZoenV1SmRseWFEcFhLbUFNTEZ3ajV0TXBONmJtRHhyNVlSOVNuOG1XNm82NDRtLU52TFM2cEg00gHkAUFVX3lxTE5Sa3dsVnE0eVcwWkhUdE5lLTh5cVJadjlUNzh2MnJ6OTZVNmdBaURRenJJMGtZYjZOMGs0SFZ2WlF0TlJrcGR6Uno3MUh0YXJGZzN6NWNhVVlqWk9adXBsa24tel9MZG83WUY5Zmh6cVVRVV9VeFZpTnFoMFVJNFlYYWs2NXpubGo5NWljcU5mbHVNdW5MdlhaUUlhVXZFRlRGNW84VnJ1MlhaR2tTa3czLV9LQUx0YWZTbURWM2trNi1NeW5Oa1lseEs2dmZiREJvRUpFQ3J2WXNRelRYZmFIRktqQg?oc=5",
-      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "summary": "Parliament Budget Session | Lok Sabha debates President’s address | India- US deal&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "politics",
@@ -210,6 +218,22 @@
       "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
     },
     {
+      "category": "politics",
+      "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
+      "source": "orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
+      "published": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
+    },
+    {
+      "category": "politics",
+      "title": "India’s New Gender Quota Law Is a Win for Women—Mostly",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEN1MUVjenRhSUIzZW0tQVFoR1ZqVzd4TUF2ZWY4b21NcWs1b2I0WXdJSF9FM3hPRFVOM0FMYjBseC0tM0hGRXJkOERuSUIwbV9nYzcxT2tNVmQtOTNURHY4SWh4S29RSmFBYkVqa0pJSUd0UFdYZ0lXN1Y3T3l1U2lYU21oY29pZHh3T3RiYVV1b0p3Tlhob3Y3dVo?oc=5",
+      "published": "Tue, 26 Sep 2023 07:00:00 GMT",
+      "summary": "India’s New Gender Quota Law Is a Win for Women—Mostly&nbsp;&nbsp;Carnegie Endowment for International Peace"
+    },
+    {
       "category": "economy",
       "title": "Economic Survey 2025-26",
       "source": "PIB",
@@ -227,11 +251,11 @@
     },
     {
       "category": "economy",
-      "title": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the",
+      "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUC0xUkducGlxaXBLSXhmbVAyNHg0ZFlBNXY4X3lXT2xmZlhpUW0zQjBIcDNJNjFXd2JzUTRLYmpLR3NpeHBFbFlBNWFON0hONXpGdmJEVkxNTTJzRGJ4UGg0b1BDbjJIZm9TT1AzZ0p4M2xILVVkeDhhLWRoOGdxOEwyNm40TEE4cTUtQUx3ZHFfeDhSTUVya1A1NVVZUFVjWkxVbGZqbmN1UXlGM1kzclNKRG13LU5Kejk0T3o2SlotblRHN2tBVFdWVzJTTmNSc1VjRHFlc0dLZTBzVnhmNXdFMl9oaldWazhyMG9yUmlobnVaaDdfVHVHMF91bmFlZm5aSl9NbzNNZmN3T0J3UHhPMlJRdTFVT0RGbmN5TF96XzJoaUtV0gGsAkFVX3lxTFB0ZzhXWDFOVFRhcXBQQy1fcGp3QklzVkFQc2ZyU0h2UndNV1RxM2t2cDcyQk51cHU3VEtKTlZGOW5qMXNUQlg0UkFqMEhrYm9rUEJDX3h1Z051T3J5OTlRN3BhelNHSFlVeW9aV1NCNjdGTThFcHZCc3dHY3dZZVFOSkJ3ejZCbUxPLXlrdlZSbmJLRDQ4bUQ4QjN5dm55YTlJcjNRQWhkSHJhMl8zWGI0UG1XWjZiNVNFX1FIanA0Ymw4OUdjTk9yNTdBV1J0VFJRTFpJbUMxd3dPVkpScFJfVVdtd3dvLVNWV28wcDlkX0NCYmRqNU05QU9mUjZuMVRxejU3RGQ2WTYzemJvbG02LWpmdnMwQ2E3dzJ1cVQxTGJtOUN1b3RJZ3JUSw?oc=5",
-      "published": "Thu, 25 Dec 2025 08:00:00 GMT",
-      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;The Times of India"
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m&nbsp;&nbsp;The Times of India"
     },
     {
       "category": "economy",
@@ -259,11 +283,11 @@
     },
     {
       "category": "economy",
-      "title": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals",
+      "title": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXdkaVpfbzFFVWtEYnpBTW00dTdBeTQ5YU9BRVk2SHhjNm1aMGM2eEE4WHdoV2hlOWh2M0VITGFqNnFpYmdjZkdkeUc5UXlBVEJjN2dlUmRZTDVWVjFUWU5jekloMkpFSG1wdkQ5ZHFXcC1wM0JyNzZLMVpPUFhwc0NMOWNVS1l5MGtjZWZtNC1FSDQ4WWQxZEIxZTQzdktDVkNaU0dqWnJyb3NseWFQU09jc3BBSlc2VGdUUnRlV0RjRi1vYVlpRm01RV81enpLQ0NMTHV3VF94cDZleHZUWVZZNjJmbHhYa3kyZkFOUEREbkR3Z1gwSnNhWDV1eWFEWEdxZTRycC10cDlzSEdvNTVCTTLSAZoCQVVfeXFMTS1kUmVVZEx2VUNod1lYVVhxZlhlVi1hM3BpYTVWXzNkRXBDOUtwcjQ3YzVCWEk4X1RPblFheEFxd0t2RWlLQnI3bmoyOFdiWnpmNkp1UlZaczlNZHA3cE9ORW94Nm5fSk5VQTJCbDFFWko1XzltaC04RTgza2FKWjdMaC1YZXhTcU5MY3l4UWVFWlFMYzdxdk9FSnE5RHpOODI1NkVWRGYtWkdrd3dVR2pFRlRiM25PVlFFUTVGNm5Ed3pqZzYxSTdCOG94emM4WG9hbG53WGx6Y0VtdzlRbG1xZjVVQ3JsNzczX0lxNXNnSTdtcVZjcjY5RjZFUVJPZjgzSWh5LXhNVjAwU2FHc09iTTItQ2FnSS1R?oc=5",
-      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "summary": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals&nbsp;&nbsp;The Times of India"
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUC0xUkducGlxaXBLSXhmbVAyNHg0ZFlBNXY4X3lXT2xmZlhpUW0zQjBIcDNJNjFXd2JzUTRLYmpLR3NpeHBFbFlBNWFON0hONXpGdmJEVkxNTTJzRGJ4UGg0b1BDbjJIZm9TT1AzZ0p4M2xILVVkeDhhLWRoOGdxOEwyNm40TEE4cTUtQUx3ZHFfeDhSTUVya1A1NVVZUFVjWkxVbGZqbmN1UXlGM1kzclNKRG13LU5Kejk0T3o2SlotblRHN2tBVFdWVzJTTmNSc1VjRHFlc0dLZTBzVnhmNXdFMl9oaldWazhyMG9yUmlobnVaaDdfVHVHMF91bmFlZm5aSl9NbzNNZmN3T0J3UHhPMlJRdTFVT0RGbmN5TF96XzJoaUtV0gGsAkFVX3lxTFB0ZzhXWDFOVFRhcXBQQy1fcGp3QklzVkFQc2ZyU0h2UndNV1RxM2t2cDcyQk51cHU3VEtKTlZGOW5qMXNUQlg0UkFqMEhrYm9rUEJDX3h1Z051T3J5OTlRN3BhelNHSFlVeW9aV1NCNjdGTThFcHZCc3dHY3dZZVFOSkJ3ejZCbUxPLXlrdlZSbmJLRDQ4bUQ4QjN5dm55YTlJcjNRQWhkSHJhMl8zWGI0UG1XWjZiNVNFX1FIanA0Ymw4OUdjTk9yNTdBV1J0VFJRTFpJbUMxd3dPVkpScFJfVVdtd3dvLVNWV28wcDlkX0NCYmRqNU05QU9mUjZuMVRxejU3RGQ2WTYzemJvbG02LWpmdnMwQ2E3dzJ1cVQxTGJtOUN1b3RJZ3JUSw?oc=5",
+      "published": "Thu, 25 Dec 2025 08:00:00 GMT",
+      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;The Times of India"
     },
     {
       "category": "economy",
@@ -291,19 +315,19 @@
     },
     {
       "category": "economy",
+      "title": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXdkaVpfbzFFVWtEYnpBTW00dTdBeTQ5YU9BRVk2SHhjNm1aMGM2eEE4WHdoV2hlOWh2M0VITGFqNnFpYmdjZkdkeUc5UXlBVEJjN2dlUmRZTDVWVjFUWU5jekloMkpFSG1wdkQ5ZHFXcC1wM0JyNzZLMVpPUFhwc0NMOWNVS1l5MGtjZWZtNC1FSDQ4WWQxZEIxZTQzdktDVkNaU0dqWnJyb3NseWFQU09jc3BBSlc2VGdUUnRlV0RjRi1vYVlpRm01RV81enpLQ0NMTHV3VF94cDZleHZUWVZZNjJmbHhYa3kyZkFOUEREbkR3Z1gwSnNhWDV1eWFEWEdxZTRycC10cDlzSEdvNTVCTTLSAZoCQVVfeXFMTS1kUmVVZEx2VUNod1lYVVhxZlhlVi1hM3BpYTVWXzNkRXBDOUtwcjQ3YzVCWEk4X1RPblFheEFxd0t2RWlLQnI3bmoyOFdiWnpmNkp1UlZaczlNZHA3cE9ORW94Nm5fSk5VQTJCbDFFWko1XzltaC04RTgza2FKWjdMaC1YZXhTcU5MY3l4UWVFWlFMYzdxdk9FSnE5RHpOODI1NkVWRGYtWkdrd3dVR2pFRlRiM25PVlFFUTVGNm5Ed3pqZzYxSTdCOG94emM4WG9hbG53WGx6Y0VtdzlRbG1xZjVVQ3JsNzczX0lxNXNnSTdtcVZjcjY5RjZFUVJPZjgzSWh5LXhNVjAwU2FHc09iTTItQ2FnSS1R?oc=5",
+      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "summary": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "economy",
       "title": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVNfQXhabmVNamlOdFBJNVNhbEdDeFpIZVN6NEZXTXBYaVBiemtQUnptSFlZSjZTaUZpMHp1Mzd5RlZJblg1UnhnZnF6cHZRNFhob0FVVU01aUZwUmQ5UHJoQ0NMaHRON0Zvd3JTOGl3aDRLMlgwdWxIYnc2YWRKVjNBa3k2XzdrX1kyeUd5cmJZcEtncU9XV0FlS1N5TVY0a2RUS1cwX2hobVlMTUxOZjVpWUg4cVB6VkpERGsxV1N2Y2RFNjlTdHZhVHhrUi1PSVY2cDNoQnFxOW_SAeABQVVfeXFMUHBWSVNkRnQxM0huLTlLNlFHSXdfeFd0ak9GdEVlQlBNbVZDSGtlcDFTTDlTU0FHZmdLbG0wWTR1MmFnalN4YzFlT0g1ZGtBZVBkUlpOa3d5dTdMOW1CZTJTYTJBYjV1THdrem92RnhEZ3RvcV91eml6eFlqU2ZIcWktOThCVTdPRHBZeUpVU2hjV2RaaHJYTDMxelJvUUN2S1pHWWpRLVNvclp5LWVUT29OZHNWYVJCcHdWa3R3dmg5QVBsOUVraU5wVGlNT21kNWRkWEFTNTBiU1ZtdS1nYWo?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "RBI raises GDP growth estimate for FY26, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
-      "title": "GDP grows at 8.2%, fastest in 6 quarters: What the data really says about Indian economy - explained",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRVRWdDA4aE5EcV9pWEhkMDZVaXZpRDVOMEpfcUhmbXdLcjc0dm5xVFJGeXlGcWI5Uk5JNFJ3S1JrdUlFMW1TdldQZzZiM0xBUXVTMFR3TDRHb1BIYm9GMDBNOUQ3VnRHTUhzWmtMZHd2dlNfbDJ6b3NjVG5DN3BIaW5ETk1Na3M1N2ZXSTF6SjVHY3l2WTZ5eHpRNGgtWExBUi12LWZLVnhsWlJqMzk4cW1VVkRCZ0xoUXcxQndzR3ZiNGpqUnlBUUIzMmw1QWlWUG5TekdWNFpfeGFQc21kdEdpQjNFb2R1ZjZRS3lIVmd2cWYtQVFHMkF4bkRxN3k0d1pUcklydmQyaDdBX0HSAZMCQVVfeXFMUF94SGxHX3V4SjlhZ3J2Z3FGSUFQRnpaU2tIMEx2c2gyUkNVU3poc2h6RHoyVTlOT052cnEweE5ZcEkwMFF1YnA4MzhkZ0xEeG9ySVRndE1BR0VMYXZTaXoya0FSdERGcm93RVZfOWlCSkRGbXREaUtZN29JYWtlaFpuSTlwR0hONGVXZFRHUUMyMjJjZmJXU085emRSNjZVWUZibk9ERU5KWUJsWXVtcVZOUFVwV3VTaEJHMXgzTEhxVkRIVzVQX09TMDlkSWNQWHRBN2g0Y0JPM0FGaTZmR1RKRTU1TTNpSlB5YlJTaF9WdDlJX05HbnQ0bTNpdkZLNGcxSjlzVzFsQjRtWVRtZmJmWjg?oc=5",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "GDP grows at 8.2%, fastest in 6 quarters: What the data really says about Indian economy - explained&nbsp;&nbsp;The Times of India"
     }
   ]
 }
