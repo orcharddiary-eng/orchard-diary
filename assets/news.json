@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-16T14:03:33.597889Z",
+  "generated_at_utc": "2026-04-16T19:24:59.933706Z",
   "items": [
     {
       "category": "pest",
@@ -40,6 +40,14 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVml5eFpsVUM4cmFNWUppM1VCS1hGSGJmQVp5cGxGekQwRWxxTGVObEVQZkxVdFNLN3UwRUNnNTlZeTdRRzRlMDBLTnVZSXBYcXlhTXlBMy1nN291RG11Z3VGV3FTQUp3djF0cVlNS2ZCTm5fSTR3ci1zZk9EaEl6YlkxZTNFeTg2SldOV0J30gGWAUFVX3lxTFBUQ3h3aTNHeUdOQ1NPM3hZMlFNb1lvNnJaWTVONUdwMVBjZ1pLRDZpblcwaG5VTGtjY0k3UGItT0ItUElyVXpISDRQZl9sclYzMHQ3b3FrcTgyMWhvZ19mR2dfUi1ob3V0Z0d5UTZXUzBsS3NwVDFxd1l1SzF3WXMzV2pXMnhJb3VESmFtRXRvMTNuVUsydw?oc=5",
       "published": "Thu, 28 Sep 2023 07:00:00 GMT",
       "summary": "Government Offers 10 Lakhs Subsidy on Mushroom Farming&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
+      "category": "govt",
+      "title": "India Set to Witness Highest Ever Horticulture Crop Production at 329.86 Million Tonnes",
+      "source": "Krishi Jagran",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1BWWTVIUHFKR04tOVhBUjNQbHdmWDFTd3lZRWFpTFJOR0prRVlTdU4zODlZa0JJbDhLTXhUYkRfcWoxUm5udzB5cjhMUHRnd2UtUGZ6d05HbFNVdmZob05odUMyM2N0ME5tc0dVVURSZnhaYXAtQnJyNm9WckI3bHN3U294ZXgzaUdFVEh3bnhJd2RSeldpTmx5NWgzb0Nsck1xVU4zcU9pU29pSy1yNHhhRVkxSjVRd0Uza0xxZUttZ1oyOFhocEpR0gHSAUFVX3lxTE9lNEppSDdqYmVvTUJLcl9TRGdRdzBqLXZZV1c2TFZkTEJfRmp0UFdzVXdXZVVwd3lqLWlRMkh1N3M4NlVqWTRnX3VkV25jUnJfLWJNUGVoTFlkRWxSbjFhOUVIRURWUWU4VEZBR2M1bzZyNDRxZENDak52cmREUjY3aW40Mzh6Q29UTTQwSWlKYjNOeE1ZMkdkWFNHZEpFTzU0ZzBLTWxudk10M01JdTJZdU8tdGpyc3J1ZWFNMXRxN2ZYZy10ZVg2YlFEMnN6cGJsZw?oc=5",
+      "published": "Fri, 16 Jul 2021 07:00:00 GMT",
+      "summary": "India Set to Witness Highest Ever Horticulture Crop Production at 329.86 Million Tonnes&nbsp;&nbsp;Krishi Jagran"
     },
     {
       "category": "weather",
@@ -115,14 +123,6 @@
     },
     {
       "category": "weather",
-      "title": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details",
-      "source": "Krishi Jagran",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONFZHbmVLOHNYeGZwVm9oUVRHamNEa21ERU43RjJrMkwyV0ZqOF94U0s3ZlBma081V2VLNmNKdGVDX2FTblBlbFdPdS1HcF9QN2kzQmktVF9ZUTZsLVBjdURTa3E0YWRjdFlPOUhaWmhZbnc4a2VOdlVudTZ1QzJFU2NQSklKaGxKMHBfRmxpTDJHU3BULWdFLXR6UFlPc0lHbldlSVBDRzJSUTVLWER0SGJUUjlxcUZVLW9NTkVtdDZPbFp6Xzh0cGZfWk83YkY0RW5XdmZnQTFlcWZPcGx6ZXBLU0V0b0FpY0FvcHk2N0JuLVM4QkNoMjAtWTZLVjVRSGdyWS14VzNMMWlGbUJYbzVOdWdqZXZidXc?oc=5",
-      "published": "Thu, 09 Jan 2025 08:00:00 GMT",
-      "summary": "Weather Forecast: IMD Issues Alerts for Thunderstorms, Rain, and Cold Wave in Punjab, Haryana, Rajasthan, Assam, Uttar Pradesh, and Tamil Nadu; Check Details&nbsp;&nbsp;Krishi Jagran"
-    },
-    {
-      "category": "weather",
       "title": "IMD warns of stronger western disturbance hitting April 7–8",
       "source": "MSN",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN3RvYmYtbVktZHlBNDU5RHdLSkE4VWxaRjI0SmdlYjlDbFVjcHQ4Zm43UjR0Nk5uOVlhbUVrTl9zYXptR1lxcmlrdW9uV2NvaWU0TnFXMWxFMEtPYnpLME5EQnkwdE9iMmlueHNsTVBIWk5ocDZfV1M2TnlmWE50bTYtSEsycEZ0RlNCZnRycVM4bXV1aER6bW92VGRVUGN3S3U1Nk9FaUtIb1BPVUV1QXFlbGplMWJqUVlYUGl3bk1VSmFHbTNMcmFJRDJBdnRvTl9kemk2cVM3TzdYX0dKYVRIUy0?oc=5",
@@ -136,6 +136,14 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWlGTm9lVHhPNGpsaHRrYURVakljcXNlM3hvYmVFUlRlVGdUUVFCNHRLOHM0cFZIUXlGVWpjYTFWZ29nMmFmSDk4VmZRNEo2UDFiTTF0WE40NlVyR25LZGZkczJ1UVFyRmJKVlZhSkt5TXZRRUE1eHdGMHFNMFh4OW5DeTVPRlVNM1o1UUwxeWIwWGVzRDg0WDdyVnY5Ti1xVUFNMU8xUGFXeHFhU2RnZ1NhTHNpQm1lN1dxVzlxVV9UbklWOFVsQmthSW1TVlJPRkHSAdcBQVVfeXFMTXpuVW01N0hYbE5TaGlXNUN6T191N3N4a0RGOUpFanB3aVpMaFVDcFoxS1VHdXBVWW1YR3hKZEhLT2JobG5QNkV2UzNpTlp5OVBwbzdmcFlqWVdyZUY2UEN4aGdKNmxRNmgwR2FmUHA3X0JMcjBKcGNiNXkxRWFjWlpzbEZBaGVDLVJxblNsYllkMTZweE16bjB5V3dpZVZfaGJ5U2ZkYWRCamxMSFJoYUJzXzdfdFF3dWRWVnk0THZPMWpYOUNETDQySFpmWkhWVkVJQWQwUlU?oc=5",
       "published": "Tue, 27 Jan 2026 08:00:00 GMT",
       "summary": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India&nbsp;&nbsp;Business Standard"
+    },
+    {
+      "category": "weather",
+      "title": "Weather Today: IMD warns of rain, dense fog and cold wave in THESE states, orange alert issued for Himachal",
+      "source": "The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRUkxa2hiT1I4Z1BPVjBsWjU4cGVlUnBhcDBkTDJrUy1yaThYaHNseVVvY3JHNjJRUG5oWUxTdUhITlA0eXNMYXNtSkFWMWtYcmVHS3VUQUFsTUpmNERPNDdJX2NyY3JnSHdTNFduRXRGZGZId0hfcndJZkMxSWp2cXNKb042ZzN5WFB2Y05fVzQ1SlF6QlkyOHJIQkhhRVBHUzFXclBacGFUNG10SmxYMzQ4U19iZEI0ZzJjLUt2aEZRdkpMaERMSXVFdEtVUHJhRmNYTW9XSzhDU3NpR0NILXFzQUstVWJhN1R2ZXZR0gH0AUFVX3lxTE1zWXpUbHQ3Y19BRFNYNDkxSzRDQ3lVQVRIVFdLUERla2ROa0pfYmx2VTU2SV9wVS1TeDB6VE5jRjdvbmt4N1otblBFTW53STFiLWZDdU1WZGFJTncyR3duRjNGeVJLenF0RmRfQzBjVUt2aUFyUW5abklXTUQ0aVVsaHBfZWtrU1E2cHlOUldmNjQybUtQazluQlBCODVRdjNMZ1FFb3J4Q1k3R1d4UU5CSVpPZXlkeEY2bWdfMUw2REx0S0dkMU0zMjFNV2lXcE94Z3ZXeU4wMDlzcXZ1a1d1NjRDQWR3WDhoOUtkazdYaUhZQWQ?oc=5",
+      "published": "Sun, 22 Dec 2024 08:00:00 GMT",
+      "summary": "Weather Today: IMD warns of rain, dense fog and cold wave in THESE states, orange alert issued for Himachal&nbsp;&nbsp;The Financial Express"
     },
     {
       "category": "politics",
@@ -155,14 +163,6 @@
     },
     {
       "category": "politics",
-      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
-      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
       "title": "After the revolution, Nepal’s foreign policy is anyone’s guess",
       "source": "Lowy Institute",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk5qYmtHaHlwVXptbFkzSEJXeTl5OGFfYlBRTlREY09oT2k1QjgyaTUtRjVDQWRwUXVRcWdGZXdScmRZUzlvY1JPa2lSTGZFOWxfNDlBTDRXa1IxLXhkZEdXbEItaFVoaEFEN0FyRV9vYkdqSFFTSWFLQXVJTV9uSE9abHhta0g4M2FmWC1kRjUtUHFMWHlsdklSUTJ3b2M2ZGc?oc=5",
@@ -176,6 +176,14 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "summary": "Facts and figures: Women’s leadership and political participation&nbsp;&nbsp;UN Women"
+    },
+    {
+      "category": "politics",
+      "title": "Call For Registrations | National Youth Parliament | 1st NLIU National Parliamentary And Constitutional...",
+      "source": "Live Law",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNblU4QVozb1Fvd3Boc2ZjN0Iwc3A1allqVHlhWXNFaERMdDBKQi11V2ktTW1mZ1pjWXFHbkdYR1hiaW1IT3I3Nk54cWlTWG10UERsWlRNNXdvU3c1QWRpc0pLTFh1aW9nZ0dGemU0UkRjZi1lZmpZYVVrZEJmb0Z2NFJ5TDE3alBmZ0ltUzIxUjN2ZzZ5SWwzUXBoakw4bUFoWDZXNW1vS3doTnFCdVNFelRWSW5US1JONTYtQUxpQjZxOXRsTnZVWTFPWlljNXJLSWhVdlNKWnhURjdzc2t0M29fYUN3cnlXdlHSAe8BQVVfeXFMUFgwckFYR2loNWo2TDVMUThXNU5RUXRXbV9kN1hHZm1VNkN1QlZXdmpMU1dIWFFYdnFXclNPTmdDV1R4R2habWxNVmNQVHZCLWZGN09MQm82QWdRYmtJcWx4SDhERVEzRWtjWlFid2Ztb0hXSGlhSmZvMDh4eXJMeERBbWsyMUhSTll1UHpvZ0tUU3ZQcjh1Q2w2RHlfTjhwMTBRUERCWmpxWHZaVnBqNUpGWmMyV2p4Zjd2Q0RXUVk4MmRGazctNDc4a1FEUXltRnZ6YzgxMUJiR2M1d0R1UGtxM2Q4Qk15UnhGT2F4b2s?oc=5",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "summary": "Call For Registrations | National Youth Parliament | 1st NLIU National Parliamentary And Constitutional...&nbsp;&nbsp;Live Law"
     },
     {
       "category": "politics",
@@ -267,6 +275,14 @@
     },
     {
       "category": "economy",
+      "title": "Inflation is dead (for now): Why the RBI just slashed rates to 2%",
+      "source": "The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejQ3WURtR2RUdUpKODVoT0lvMU42Rjgxb1pWdm9mamd3SXNiTlFOME9SOWY1c0l0ZGlEci1Ja3M3aU5uWkYwcV9kdGpESUs1RExVb2g5dDAtU0RCNU0wdzlKeW04N3ZtSXJiend2b0pQdlZoSHRMcFE3ckgtdllpX1Z5aXFLN0YwTzFMVXNLTTdxelFpYXFySktCeFhETTV5ZWJMOFY0UGFmZHA5cnlzTE43YXh2aU9ZdjZMUUtBT1BGclFzdWlyd0h30gHQAUFVX3lxTFBjNmRSYVIzY2hCc21iQ0pCSXVNcVI1TlJyZGs1ay1lWGFwY1lNYkMtazJ6T2JVY2RSVXBwZ3puRUJDaHFxMHVKYjF4bWpzYXlLMVdiV3g4Ukl1ZlVRc3BRaHlZRS1zRzUzY0RGeWY4a241RlBhR3hRNUZyOTRRblpDNVJuU0RQRHVTS3lPdEpaTUp6aDZ3OXBuUEFOdGNObUM0NElaa0diU3M1TC1IT2NMcGlNTTNHSDZFNC1DYnhxeEVwY1JJX0U0WVZYRm1Gekc?oc=5",
+      "published": "Sat, 06 Dec 2025 08:00:00 GMT",
+      "summary": "Inflation is dead (for now): Why the RBI just slashed rates to 2%&nbsp;&nbsp;The Financial Express"
+    },
+    {
+      "category": "economy",
       "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
@@ -288,14 +304,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGhtS1lPb0pFODJBSlFUNDJlNFh5aTFyR2V4cjdublEwOGVOS1Y0MjhFLVR1Ym1mLVNlaFBNT1hJbFRBZktzWVpLZU9SRTVILVE0aHRqekZJZ1VMME12M3dfZmlTQUtncmZ4YWFpOEdGOGswVkJMVUdnLXVzUTVoWGhhWmlaakJYR29sT3duMGFBZmxkQkRpajV0VldkZGFraUlicm5zbFlId9IBsAFBVV95cUxOWlB2eWdiWFNxR0N6OFdPWmhwM0c5WlFtTkFOMXpxVHJXaEdkV210TDd3SnFockc4YlRNSWtlbHVVQWdzRmszMTFJZFhRYkNpQlZJcmVyUmlEU3NFSnpqRkJJWlhkM3I2dGdrMThIREt5Q0xjRFZSSjhKSmNMVUJOWFJzNXJjenFHZExDclBOZTVsQ0NfOTI3X21wQmZ0YkZMOTh2UUlKUDBybVB6YlRKcw?oc=5",
       "published": "Fri, 05 Dec 2025 08:00:00 GMT",
       "summary": "Stock Market Today Live Updates: Stock markets rally as RBI cuts interest rate; Sensex jumps 447 points&nbsp;&nbsp;BusinessLine"
-    },
-    {
-      "category": "economy",
-      "title": "India's FY26 Growth Outlook Brightens: RBI Cuts Rates, Lifts GDP Forecast as Reforms Target Trade and Inflation",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMVYzZDdfcHc5YXVmZGd4dzdJM3lkVndGSTRrejE1RTkySU11dERtaWN4d0ZIMU1ncXczLU1BbE05bDZuZWR6c0tqOGdtT3FZT0tDaVpCdEIxNmxBWHhHUEtmSzIwOGR5QXB6eVJMTTRTdVYxeXI1eFlmcjZMOXgzUkR4X2puLUJJUlRDQ0k0SXRJQXdFQng1SFVIdDVjU056R0hNUFJGd2xwRXJPSzFlbVBLNnE5cGEyQjR5cnpSeUdOLVE2WWtQTFVBYV9VNUVEM0JNZzA0TEtjbGlPaUhTSGt5S1RBSm1FdmtOZUNaSTVyNlg5ZzlsVjVrdzF3QU14VnRnOXB3T201UVUyUFFYODF5QU14UDhEQWdZ0gGgAkFVX3lxTE5CYmZCeXF4d1pBd1hTMElJcGRHamVGdkpqZzlGZHNQajlaM19iQTJfUVB1RjY4QVdOdWhmWEZsY21BdGhPTGEwS1BXZnBKVTJzZThFRzFSUkFzNVlrR3N2WGthZ0tLVTBnU0V6V3ZHN0JiWnNrdlNJbldYQThqMjB1R21iTFJhcmlKcGlFQnNOalZiV29teGpSVVV3ZUlab2hLVmtzVEF6THlKNnBkd3JjbkVqdEtYU2kyYmF5UGJIOE5uSEN0VWVYQ1V3MnFSUklUU3ZZZ2ZnZzQ1NldEQW5SamNub3FEelpMZkFPRWVlUnI2eWJnbElMdW9JQU1ZVWpUZlJFOVRhWFVWSk1XWDZjd2lDaXBvc3JIQ1AwejNUYg?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "India's FY26 Growth Outlook Brightens: RBI Cuts Rates, Lifts GDP Forecast as Reforms Target Trade and Inflation&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
