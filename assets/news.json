@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-02T03:33:20.410206Z",
+  "generated_at_utc": "2026-05-02T07:53:02.845495Z",
   "items": [
     {
       "category": "pest",
@@ -11,11 +11,27 @@
     },
     {
       "category": "govt",
+      "title": "Press Note Details",
+      "source": "Press Information Bureau",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details&nbsp;&nbsp;Press Information Bureau"
+    },
+    {
+      "category": "govt",
       "title": "Government Implements Transport Subsidy Under Market Intervention Scheme to Support Tomato Farmers",
       "source": "Global Agriculture",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFRHczdTOXBCeFRXMS1wd01JSUQzOHBDS0p1NXFJSW9TTlJhaVI0WnNYWWNOZkR6bkNJYzY5UXRjczh1dE94Vm9wZEZSUlgzbHN6eG1BNmxucDNhSjVDcldpTlJvV0pmQ0x4M056N3dnZnhIdm5RelozV3pUYTl5TkN1cEhWMUlJZ2lHLVEtRGpRMWozclpNRXAtWDJGWGNwZ1YxWGM0UXFWY04zMGN2cm1TY3VMaDlJMEFMX1RDcEFDZF9uOE5nbnZUQWRmUDI2VzJZSlgzZkd6RGRKdXR1Sg?oc=5",
       "published": "Sun, 29 Jun 2025 15:47:40 GMT",
       "summary": "Government Implements Transport Subsidy Under Market Intervention Scheme to Support Tomato Farmers&nbsp;&nbsp;Global Agriculture"
+    },
+    {
+      "category": "govt",
+      "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
+      "source": "Krishi Jagran",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
+      "published": "Wed, 28 Jul 2021 07:00:00 GMT",
+      "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
     },
     {
       "category": "govt",
@@ -155,11 +171,11 @@
     },
     {
       "category": "politics",
-      "title": "Rahul Gandhi | Biography, Congress, Education, Parliamentary Membership, & Facts",
+      "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYWElUNFVxb1ZTaW9KcUlvMmtjYkc4Z3k1dTNyTzVlRjQyYkVPVWxfSXhjREszQ1AyckdQVjlFaWRuSnpfZzlHanRKdEpaSEFiQUpoZzlWSXF5U1hUZWc?oc=5",
-      "published": "Wed, 29 Apr 2026 05:00:00 GMT",
-      "summary": "Rahul Gandhi | Biography, Congress, Education, Parliamentary Membership, & Facts&nbsp;&nbsp;Britannica"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
+      "published": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -168,6 +184,14 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk5qYmtHaHlwVXptbFkzSEJXeTl5OGFfYlBRTlREY09oT2k1QjgyaTUtRjVDQWRwUXVRcWdGZXdScmRZUzlvY1JPa2lSTGZFOWxfNDlBTDRXa1IxLXhkZEdXbEItaFVoaEFEN0FyRV9vYkdqSFFTSWFLQXVJTV9uSE9abHhta0g4M2FmWC1kRjUtUHFMWHlsdklSUTJ3b2M2ZGc?oc=5",
       "published": "Thu, 26 Mar 2026 07:00:00 GMT",
       "summary": "After the revolution, Nepal’s foreign policy is anyone’s guess&nbsp;&nbsp;Lowy Institute"
+    },
+    {
+      "category": "politics",
+      "title": "Modi’s visit to Israel and India’s shift away from anti-colonial foreign policy",
+      "source": "Peoples Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVc4MXNsRVZ1bzdoTXVnb2lDc3FtYnpnazM5N01VX1gtZWZXTDVlQTRGR21sQWZjQ0lmQ3Zpa015VkQ0UXBmQzdEUjlSVnVXMWdJNDRfMl9QVGY2TzlMcTlPV3dMNFdjeThpaDJaOVBDR3AtT25PTmdSeXFpV2MxUGpPenVPUWZnV3Y3aGdPOVctVEt0U3F3a24zVENidC1hRmxtVDJaZVJERDZwQWNsVkM0WHpkWFdt?oc=5",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Modi’s visit to Israel and India’s shift away from anti-colonial foreign policy&nbsp;&nbsp;Peoples Dispatch"
     },
     {
       "category": "politics",
@@ -210,14 +234,6 @@
       "summary": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)&nbsp;&nbsp;bjp.org"
     },
     {
-      "category": "politics",
-      "title": "The Tenth Jawahar Lal Nehru Memorial Lecture on \"Nehru and Parliamentary Democracy\" Delivered by the Hon'ble President of India Shri Pranab Mukherjee at Jawahar Lal Nehru University, New Delhi",
-      "source": "presidentofindia.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3JzTHE2WnQxb19xNmZDVXRua3A0S0RYR1QzaXRhMU9Fc1JHV0hOVTRON1ZaaE9MUE5nOFdMaDZQUnNjR2VpZW9fLXBWZFZMUGxQT2R1bnIxUlVUMVRhdVFYNXZBMjRJbTZiTVdFM0d6ZnRlNTJCLVRQNTJhVkcxVGJ1WDNNcUZMOTVwNnRkOFhmQzBHNXV1UE56d0gzVnlFcXU3Sk9GTmY4dTBPVW1Pa1dpWm9GMmJkQzZ4eTQ5LVU1c0ZY?oc=5",
-      "published": "Sat, 16 Nov 2024 04:21:55 GMT",
-      "summary": "The Tenth Jawahar Lal Nehru Memorial Lecture on \"Nehru and Parliamentary Democracy\" Delivered by the Hon'ble President of India Shri Pranab Mukherjee at Jawahar Lal Nehru University, New Delhi&nbsp;&nbsp;presidentofindia…"
-    },
-    {
       "category": "economy",
       "title": "Economic Survey 2025-26",
       "source": "Press Information Bureau",
@@ -235,11 +251,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI keeps rates steady, positive on growth and inflation",
+      "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2tJVWx5aTJWV003dDVURVQwbndnNDQ5S0dER21jUk5jeElGWFdtZ0xscWRGRlltd3BmaWhKVHZFWk1RRjZ4YndRNzZhaHdBQjRhdXA5UHFMNFRRc1hkOXJtU21SUDdlb0luU2ZxNUQ4cl82U3pRTVRnVms0V3lJVURfMFRmT0dVOVRTR2I1NFNoVDBwNHZIeDd3T2hjOWNhNS1YTFV5MUtLS2JSVUhvbmx0bFRwVml4UVZpQkdtWVc5eWdVOXFwR05XU2hCSklENTk4bHFpaGPSAd4BQVVfeXFMUENTS0JlT2R5ZGhUTENHWVRPQUduVklHUHByVzRNVzB0TDZvNVI2VUtYeGFuY3JlTnFTX2FERUhMc25kS01vb1NXWl9NVkRnb2FES2FnMkZrSVp6N2Vvb3pSYlJoVHpWdTRsS1gtS0VLTjFUbFFJd0dTOG9mX1pmdlk3dXRrSFJTeGVha3BlOXAtQkhFOFduNHRIenRRSE84QlF6a2czWlItTDdYRVFJQVBiOVdNRG1kU1lncHJaeTBoaThCTkdtUlg2OFdpTEZhMXVjTVJHWl9Ea1FfMVdR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI keeps rates steady, positive on growth and inflation&nbsp;&nbsp;The Times of India"
+      "summary": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m&nbsp;&nbsp;The Times of India"
     },
     {
       "category": "economy",
@@ -251,35 +267,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "economy",
       "title": "Inflation is dead (for now): Why the RBI just slashed rates to 2%",
       "source": "financialexpress.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejQ3WURtR2RUdUpKODVoT0lvMU42Rjgxb1pWdm9mamd3SXNiTlFOME9SOWY1c0l0ZGlEci1Ja3M3aU5uWkYwcV9kdGpESUs1RExVb2g5dDAtU0RCNU0wdzlKeW04N3ZtSXJiend2b0pQdlZoSHRMcFE3ckgtdllpX1Z5aXFLN0YwTzFMVXNLTTdxelFpYXFySktCeFhETTV5ZWJMOFY0UGFmZHA5cnlzTE43YXh2aU9ZdjZMUUtBT1BGclFzdWlyd0h30gHQAUFVX3lxTFBjNmRSYVIzY2hCc21iQ0pCSXVNcVI1TlJyZGs1ay1lWGFwY1lNYkMtazJ6T2JVY2RSVXBwZ3puRUJDaHFxMHVKYjF4bWpzYXlLMVdiV3g4Ukl1ZlVRc3BRaHlZRS1zRzUzY0RGeWY4a241RlBhR3hRNUZyOTRRblpDNVJuU0RQRHVTS3lPdEpaTUp6aDZ3OXBuUEFOdGNObUM0NElaa0diU3M1TC1IT2NMcGlNTTNHSDZFNC1DYnhxeEVwY1JJX0U0WVZYRm1Gekc?oc=5",
       "published": "Sat, 06 Dec 2025 08:00:00 GMT",
       "summary": "Inflation is dead (for now): Why the RBI just slashed rates to 2%&nbsp;&nbsp;financialexpress.com"
-    },
-    {
-      "category": "economy",
-      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
-      "title": "Stellar growth, low inflation raise questions over need for RBI rate cuts",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGpsaElOMUN6TzZqaEdMNjB4OFNhb2VSUjNBNUx6TmNSMTlITGtMSzJLSkktazZybjJGbW9SZ3paZWxNdW9BVVEtcXhTNzJWbEFST2R0bDN3OE1Nd1cxckM1ek1QMjBibkc3Vk9BVWdFOThkUjIzNEt2X1BGc2gyOWhVV0twXzlaclhEaktPWkdmU08zWW9OY0tSVGROTUIwc3lKaF9ZekVKZ1dtRE5yVGFKVG5kZ3lvYk5ZaVlaYmViSUpjdWI3bXhyUEtLYmxzclB1QkNR0gHbAUFVX3lxTE5BQWVXLVZoSUl2NGdWeDVUZ3VrSVhBRk5TX1dhX0lzblRtSWtZaXJjQTRGYVZXS0dTc0wwLUxES2hyc1k0SWdMV0QzdEN6NGRCX1ZiYWFBSkFFVkdpTG40U2lac09OU3UyWi1ySGQxWExYaWNmWV9GZVhfMWprdmxZcF9Zbm1wa01wd3ZackowTGNjNHVXdGNIcHc0cjRhOG1vY0xHYzVkZkpWUmdfTXlwTnVDNjNjR25XMUo5ODNfTFlCQ0JySEpHd2NmSFltd3U1RWVscUl1N1hxNA?oc=5",
-      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "summary": "Stellar growth, low inflation raise questions over need for RBI rate cuts&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
@@ -291,6 +283,22 @@
     },
     {
       "category": "economy",
+      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "economy",
+      "title": "India's FY26 Growth Outlook Brightens: RBI Cuts Rates, Lifts GDP Forecast as Reforms Target Trade and Inflation",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMVYzZDdfcHc5YXVmZGd4dzdJM3lkVndGSTRrejE1RTkySU11dERtaWN4d0ZIMU1ncXczLU1BbE05bDZuZWR6c0tqOGdtT3FZT0tDaVpCdEIxNmxBWHhHUEtmSzIwOGR5QXB6eVJMTTRTdVYxeXI1eFlmcjZMOXgzUkR4X2puLUJJUlRDQ0k0SXRJQXdFQng1SFVIdDVjU056R0hNUFJGd2xwRXJPSzFlbVBLNnE5cGEyQjR5cnpSeUdOLVE2WWtQTFVBYV9VNUVEM0JNZzA0TEtjbGlPaUhTSGt5S1RBSm1FdmtOZUNaSTVyNlg5ZzlsVjVrdzF3QU14VnRnOXB3T201UVUyUFFYODF5QU14UDhEQWdZ0gGgAkFVX3lxTE5CYmZCeXF4d1pBd1hTMElJcGRHamVGdkpqZzlGZHNQajlaM19iQTJfUVB1RjY4QVdOdWhmWEZsY21BdGhPTGEwS1BXZnBKVTJzZThFRzFSUkFzNVlrR3N2WGthZ0tLVTBnU0V6V3ZHN0JiWnNrdlNJbldYQThqMjB1R21iTFJhcmlKcGlFQnNOalZiV29teGpSVVV3ZUlab2hLVmtzVEF6THlKNnBkd3JjbkVqdEtYU2kyYmF5UGJIOE5uSEN0VWVYQ1V3MnFSUklUU3ZZZ2ZnZzQ1NldEQW5SamNub3FEelpMZkFPRWVlUnI2eWJnbElMdW9JQU1ZVWpUZlJFOVRhWFVWSk1XWDZjd2lDaXBvc3JIQ1AwejNUYg?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "summary": "India's FY26 Growth Outlook Brightens: RBI Cuts Rates, Lifts GDP Forecast as Reforms Target Trade and Inflation&nbsp;&nbsp;Business Standard"
+    },
+    {
+      "category": "economy",
       "title": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbE1RaER4Q01VMWZ3eDh4dHVjaHZIZUVtaVhRRTNQRlN6VG9kaFpLYjFIa0plWUpaZlhjOTZNVFNtOEswSW9WQV9ITlFHYTRlUlpWemZpS1pLa19QU19JOG5hRXhFNWVXMVpfdExfbE84cExrUjRjejBJVGpZVmhNRnpGV3B0R0ZwaDRZSy1IVTlUbFA5cG1kbnMzbWFzN0JLVGtNX1pHRXMxTE55TTF4OUx0RTZLVVR3VGVkbnZkYzlKU3pIVl9wWjl1bmJiZU9rQlZlRTRnVTJYWTMta2h2bV9Eb0JHV3ZkN1RWTWpvamNmbEpuWTEyd3lBMndKd2dmS2RBTEpXWDVEdkFjNTVJMm9TcjR1amxIdEZfM1dqWk5xS3pZc0x4N2ZrSdIBsAJBVV95cUxQaWgzSENsenZHNVBUQXpOenlYS2RkSTBzU1JYdzJJYW5DQkFVTVZSd0Qtc0Z0SDFmc2xYNURRTkVpSDFFS0NTWlI0RlNpVFhndmtJdGFoRVNrTlF6ZFQ0aFlmMnUzNXVBN3FoNThXWkJZMEdYQVZpa1lKSGs5QTdZZXpURC1KeWcwTmppSXZKNGZFalNZeTJRMWhlMXZXUzVTQmpySnloRWNFZ0MyU005Yi1MZzlpWFQ5WmlZUGZiRnBjS1Vfa3JVS1MxZ2NPczJ6T1VOckJxMnpCYXBZX2VteWppMktWX0ZtSU0yQ0RyUmZmenczU3k0cWljanY5M0l3MXYtcU9lNFRfSkRvSG1hbE9GVkR4NlgwVkRnbEhJWXN4ZFBYTGhsMXNNQWo2TDZi?oc=5",
@@ -299,11 +307,11 @@
     },
     {
       "category": "economy",
-      "title": "Economic Survey 2026: India's real GDP for FY27 projected at 6.8% to 7.2%",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2w1U2Q2Nlk3MllKckFCalNtNkhWY2N6cUVZcEFVTVQ1Nk9HSk9lMlpoLWo2RW5EODU4Y1hjdC01ek4teXo4ZjlwUTJDRXA2NXVISnhIN1NOTGFzd1Rsc05LYkdadGNIT1RfbHhPWk9rTGk5bnVCQ2tYbHZRUHRVMGdKX0xmdE5FMnRWNl9Sc08ydEhHdmxCQzI3LWkxZGJNTVpscnNFaU1CZHBLS21qNmg2dDhiYnVsNVViWjc4Q0wzUjJaZWlDMVlqZXktY21kRlVJaTExVFpBZ0swcDR0d9IB5gFBVV95cUxPZlVMWk9HOHJwcVNGTnhEalk4VEZYWXcyRVZKdTJMeDhhVFdWazZ6SGdLaU42V3RNcmQ1VkhWbHJpR3kxOHdmSDFEbVZqdElJV3J2SGRHUkF5b0dvcEdPdmtUcU9jUUJzM2dIN3pBWmZHSWQ1eF9KVHlicjJYV0taYi0zdTdOaHJneExxS3VrM0wzLVdmQy1tUmZxWkpDTVJMMkZJb1gzWkxZdGh4RzU3S3lUUzlKQlg5akpHczROZEdjSng1X1lZWHhlOHNVLUpPWGk2bEg2T1RFSzJBczlJYWlyUzRIZw?oc=5",
-      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "Economic Survey 2026: India's real GDP for FY27 projected at 6.8% to 7.2%&nbsp;&nbsp;The Economic Times"
+      "title": "Stellar growth, low inflation raise questions over need for RBI rate cuts",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGpsaElOMUN6TzZqaEdMNjB4OFNhb2VSUjNBNUx6TmNSMTlITGtMSzJLSkktazZybjJGbW9SZ3paZWxNdW9BVVEtcXhTNzJWbEFST2R0bDN3OE1Nd1cxckM1ek1QMjBibkc3Vk9BVWdFOThkUjIzNEt2X1BGc2gyOWhVV0twXzlaclhEaktPWkdmU08zWW9OY0tSVGROTUIwc3lKaF9ZekVKZ1dtRE5yVGFKVG5kZ3lvYk5ZaVlaYmViSUpjdWI3bXhyUEtLYmxzclB1QkNR0gHbAUFVX3lxTE5BQWVXLVZoSUl2NGdWeDVUZ3VrSVhBRk5TX1dhX0lzblRtSWtZaXJjQTRGYVZXS0dTc0wwLUxES2hyc1k0SWdMV0QzdEN6NGRCX1ZiYWFBSkFFVkdpTG40U2lac09OU3UyWi1ySGQxWExYaWNmWV9GZVhfMWprdmxZcF9Zbm1wa01wd3ZackowTGNjNHVXdGNIcHc0cjRhOG1vY0xHYzVkZkpWUmdfTXlwTnVDNjNjR25XMUo5ODNfTFlCQ0JySEpHd2NmSFltd3U1RWVscUl1N1hxNA?oc=5",
+      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "summary": "Stellar growth, low inflation raise questions over need for RBI rate cuts&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
@@ -312,6 +320,14 @@
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXdkaVpfbzFFVWtEYnpBTW00dTdBeTQ5YU9BRVk2SHhjNm1aMGM2eEE4WHdoV2hlOWh2M0VITGFqNnFpYmdjZkdkeUc5UXlBVEJjN2dlUmRZTDVWVjFUWU5jekloMkpFSG1wdkQ5ZHFXcC1wM0JyNzZLMVpPUFhwc0NMOWNVS1l5MGtjZWZtNC1FSDQ4WWQxZEIxZTQzdktDVkNaU0dqWnJyb3NseWFQU09jc3BBSlc2VGdUUnRlV0RjRi1vYVlpRm01RV81enpLQ0NMTHV3VF94cDZleHZUWVZZNjJmbHhYa3kyZkFOUEREbkR3Z1gwSnNhWDV1eWFEWEdxZTRycC10cDlzSEdvNTVCTTLSAZoCQVVfeXFMTS1kUmVVZEx2VUNod1lYVVhxZlhlVi1hM3BpYTVWXzNkRXBDOUtwcjQ3YzVCWEk4X1RPblFheEFxd0t2RWlLQnI3bmoyOFdiWnpmNkp1UlZaczlNZHA3cE9ORW94Nm5fSk5VQTJCbDFFWko1XzltaC04RTgza2FKWjdMaC1YZXhTcU5MY3l4UWVFWlFMYzdxdk9FSnE5RHpOODI1NkVWRGYtWkdrd3dVR2pFRlRiM25PVlFFUTVGNm5Ed3pqZzYxSTdCOG94emM4WG9hbG53WGx6Y0VtdzlRbG1xZjVVQ3JsNzczX0lxNXNnSTdtcVZjcjY5RjZFUVJPZjgzSWh5LXhNVjAwU2FHc09iTTItQ2FnSS1R?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
       "summary": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "economy",
+      "title": "Economic Survey 2026: India's real GDP for FY27 projected at 6.8% to 7.2%",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2w1U2Q2Nlk3MllKckFCalNtNkhWY2N6cUVZcEFVTVQ1Nk9HSk9lMlpoLWo2RW5EODU4Y1hjdC01ek4teXo4ZjlwUTJDRXA2NXVISnhIN1NOTGFzd1Rsc05LYkdadGNIT1RfbHhPWk9rTGk5bnVCQ2tYbHZRUHRVMGdKX0xmdE5FMnRWNl9Sc08ydEhHdmxCQzI3LWkxZGJNTVpscnNFaU1CZHBLS21qNmg2dDhiYnVsNVViWjc4Q0wzUjJaZWlDMVlqZXktY21kRlVJaTExVFpBZ0swcDR0d9IB5gFBVV95cUxPZlVMWk9HOHJwcVNGTnhEalk4VEZYWXcyRVZKdTJMeDhhVFdWazZ6SGdLaU42V3RNcmQ1VkhWbHJpR3kxOHdmSDFEbVZqdElJV3J2SGRHUkF5b0dvcEdPdmtUcU9jUUJzM2dIN3pBWmZHSWQ1eF9KVHlicjJYV0taYi0zdTdOaHJneExxS3VrM0wzLVdmQy1tUmZxWkpDTVJMMkZJb1gzWkxZdGh4RzU3S3lUUzlKQlg5akpHczROZEdjSng1X1lZWHhlOHNVLUpPWGk2bEg2T1RFSzJBczlJYWlyUzRIZw?oc=5",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "Economic Survey 2026: India's real GDP for FY27 projected at 6.8% to 7.2%&nbsp;&nbsp;The Economic Times"
     }
   ]
 }
