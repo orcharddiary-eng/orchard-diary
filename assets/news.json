@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-11T15:27:15.970164Z",
+  "generated_at_utc": "2026-05-11T19:56:50.053570Z",
   "items": [
     {
       "category": "pest",
@@ -75,14 +75,6 @@
     },
     {
       "category": "weather",
-      "title": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himacha",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdlhsdXRBWURnb05HT3hWUzJLMnY2b2lVWmpVS3dSekkwc0VuNzk1dzBwRmh2VnhpOHBYY0M0RDQ5ZHgyWkJIaW1OUnBxOHd6dTEwemY4bEJaV2lLUlNrUVNJLXFscWpGaFNCeW82cUVCZGNsR3RPMjFxVUViR2ZjOTNwdS02MTZ6N3hhWEVaQ3g0Nkw2RXNNU0ZYVS1MSU92cFdXSzNnY2tlaUFpeTNjMVBndDV3d3lPN3pLU1pPaGRSZUdwblVwREo1S1FlOTNVNHNwUmVfVzZILW1wLWpnLVZGVW1CVkRhNHpZc0ZJUkxQZUtJa1ZvYzVqRVVvWWpDclducGozbzQ5UHk4bVNsVm5WS01vUzhLWEFpNGxMRm4taUFNVnBzYWgxdTNYX0NRem5CWFhRNW55QnPSAcACQVVfeXFMTnpkOU9lZmZUTklVd25EN1AzUEtfWmxobmRfdHhydFhlV0VKSVp3WlpJQ2JfRWZ4eWsyRGljNUdZLV9ESnJFNFVMNDBvZXNkcTBBbDVZMzh2WU0wMVVZNTg2SW8zbUFoVHEyUDJSeTVpWU8wN3hlbnBnM0pGQjhhdWFVd3UyaTlFNWl6QVBfVVl5LWxZc2EwRVQwcm9odl81MEFmMC1abThpN0s3dzJ3cjJQNHVmeEtGV1BPaWxjbUhjOHZRZmR1Y294N1h4NnpjV3FVUmNma2ZKbE01XzQ4M2k2OUt2TkQtZmV4T2VFbGpMeGQ4SWFGdTBhQnJEZFBrdUVzNDA3aDBOSjhWYndxUE8yWnFTeEVENzZrLXZpb1ZnZWxldnhfdVBMVDM1XzNxZlNoVEdCeG5aMkNaUElZMlA?oc=5",
-      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himacha&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "weather",
       "title": "Northwest India to be hit by heavy rain, hailstorms on Saturday, mercury to dip",
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2xwRjJ5dDY5VVlBbC1CX01EQllkSXp0OEVCUnhBSkZJcVVfV2dMWVR4Y0J5YVVJcjhyalVKa2RPbTAzeXZWNVllcFlJbjNoWVhqR0x2VGRHWGdBaDM4OVRickFhOTVUd3UxNGdZZ3MyaEE2bWc5VndJYVFZWmQ0bUpnMW52a3ZOMXNYNDAyMzNoTUVKOENsdkNUTVBId0p3T250d0ZJWGtSOF9HMVMxS1FrT0pHVlZyTkFFY0tOSklWTWR1ZDZYazlWemt2VUlqRkRCRNIB2gFBVV95cUxOMy0xamExR3lCME96NFRNZWxiTVFLeHdtUDdHcFVsWXBsWC1OeVhmdVRpTGtYZnF5QndBOFA5cmxlVG0xcVNDb0lxZDRjdWtubDRMRDA5OXRHaTBodVVTa3ZBSmNNYTZQcm9POWxvNGl5SnB2amtlaU1fdkt4Q3hEb05xNHliVGFqTXhDQ1FjY1dpcWt3bXIwVjJrZ2tvRmJicE1ZUG9JNHNtOTd3cnMyMEViTGg0eFYwNnV4U3JYaWRYTzFoQ0dORjcweG5LdDNxVmNpV05EdWdkZw?oc=5",
@@ -122,20 +114,28 @@
       "summary": "IMD predicts rain, thunderstorms and hail across several states; Northeastern states, Bengaluru record he&nbsp;&nbsp;The Times of India"
     },
     {
+      "category": "weather",
+      "title": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himacha",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdlhsdXRBWURnb05HT3hWUzJLMnY2b2lVWmpVS3dSekkwc0VuNzk1dzBwRmh2VnhpOHBYY0M0RDQ5ZHgyWkJIaW1OUnBxOHd6dTEwemY4bEJaV2lLUlNrUVNJLXFscWpGaFNCeW82cUVCZGNsR3RPMjFxVUViR2ZjOTNwdS02MTZ6N3hhWEVaQ3g0Nkw2RXNNU0ZYVS1MSU92cFdXSzNnY2tlaUFpeTNjMVBndDV3d3lPN3pLU1pPaGRSZUdwblVwREo1S1FlOTNVNHNwUmVfVzZILW1wLWpnLVZGVW1CVkRhNHpZc0ZJUkxQZUtJa1ZvYzVqRVVvWWpDclducGozbzQ5UHk4bVNsVm5WS01vUzhLWEFpNGxMRm4taUFNVnBzYWgxdTNYX0NRem5CWFhRNW55QnPSAcACQVVfeXFMTnpkOU9lZmZUTklVd25EN1AzUEtfWmxobmRfdHhydFhlV0VKSVp3WlpJQ2JfRWZ4eWsyRGljNUdZLV9ESnJFNFVMNDBvZXNkcTBBbDVZMzh2WU0wMVVZNTg2SW8zbUFoVHEyUDJSeTVpWU8wN3hlbnBnM0pGQjhhdWFVd3UyaTlFNWl6QVBfVVl5LWxZc2EwRVQwcm9odl81MEFmMC1abThpN0s3dzJ3cjJQNHVmeEtGV1BPaWxjbUhjOHZRZmR1Y294N1h4NnpjV3FVUmNma2ZKbE01XzQ4M2k2OUt2TkQtZmV4T2VFbGpMeGQ4SWFGdTBhQnJEZFBrdUVzNDA3aDBOSjhWYndxUE8yWnFTeEVENzZrLXZpb1ZnZWxldnhfdVBMVDM1XzNxZlNoVEdCeG5aMkNaUElZMlA?oc=5",
+      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himacha&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "politics",
+      "title": "Rishi Sunak",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13SG9xeGdwNDdoVlhBaFpTclpxUFl4bG4wYmNENUJmSEh0YVEwTU50UUNrMzJxYmtOeUVISU44LS0xSWtvOGl4T0NwY0RVTklqblZzRlk1aFpLbzJF?oc=5",
+      "published": "Fri, 08 May 2026 05:00:00 GMT",
+      "summary": "Rishi Sunak&nbsp;&nbsp;Britannica"
+    },
+    {
       "category": "politics",
       "title": "Modi Government Suffers Setback as Constitutional Amendment Defeated in Parliament",
       "source": "The Diplomat – Asia-Pacific",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHFVSjlvMmVOQjFyZnF0Tzhkc2tzQWZ5TlBqX1l2SnNuUm5JQ2hSNHlsdEhtZ2pnS3ZBVy1CWElqRHhyalZ6aEJRSGU2dGJkalJqU1FYRFBMX1NIMFFsS3hyX1BYZEMxVVd6eEtURUo2YzdwT3Uzc3BGVURwUEN5dklVVXZWeTRzWjFYeTI1U1AxcWFBNE53Z2NrSGExOUgzSHU2RnNOZW1rallpM0x2TjRwQk5ZUQ?oc=5",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
       "summary": "Modi Government Suffers Setback as Constitutional Amendment Defeated in Parliament&nbsp;&nbsp;The Diplomat – Asia-Pacific"
-    },
-    {
-      "category": "politics",
-      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
-      "published": "Mon, 04 May 2026 05:00:00 GMT",
-      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -155,11 +155,11 @@
     },
     {
       "category": "politics",
-      "title": "Salient Features of Indian Constitution, List, Complete Details",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenFQdTVMSUYtUXFhSGFETW1CaUdUVXZXYU41amhDZjNJWmlHVE91WDlybldGUzNGRnFSLVpCZ1NPdDFfVUtKUTM5NmRmcW42VkxKZmVuRlVsYkI5Rkt6UG1JS3FtTU40dm1qLXpnR3BPVUI5dm1EcHNhOFRTUXlJb0padmo5ZUdUVlJF?oc=5",
-      "published": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "summary": "Salient Features of Indian Constitution, List, Complete Details&nbsp;&nbsp;Vajiram & Ravi"
+      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
+      "published": "Mon, 04 May 2026 05:00:00 GMT",
+      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -179,19 +179,11 @@
     },
     {
       "category": "politics",
-      "title": "Narendra Modi: Why foreign policy must be debated in Parliament first",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmxpVGdFZWQ2b25iSkttUHB0Q2hDZlNtQVJDLTljUEpiSEVDeWlRWDBxZTZzZFhLc0dvendOaUw2SlZYcVJINE5Wb3RWMXFwdGNPSDJIS2tfYmEwaW9oM1FFbXRTN2czMWhjVkpVZ1M1NTI2T25DcFZuLXlkeUpGQ29JZ2dadmVGMnZYeGozT1hPLURGUEhzbFVBd1ZyMnpJOGtLOHBueTdhQQ?oc=5",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "Narendra Modi: Why foreign policy must be debated in Parliament first&nbsp;&nbsp;Deccan Herald"
-    },
-    {
-      "category": "politics",
-      "title": "Shouting in Parliament won’t solve India’s energy crisis",
-      "source": "The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2p0RjdaS19Cck5fQmx1NnNtMUhJdTNlVWlrWVlieG5raXBSLWVLOHhTOThCcU1BbkFWc0JPUVU1SGttbU5Hc0x0ZllUYTdmSkdVT3g4MnVpTUxQZXdiV2stM1Q2ZzNNRWhNc3l5TFZ4VXR6Q1hpZDh4Yjk4UFREOTNYN2VualhpY0M2Z05OTC1iSlE3X2NWNU1sR1BQQ28yVjJWMzNFM0RfNnFQR3lkWFNNTFnSAboBQVVfeXFMUGNoS3hOckdnTzAwTFNCc1oybnVGUjdXSV9LdXpIWThNTXgyRmJLUzZHLVhpZXNXT3p0R3BCYjd1VWFOSGNCaWRKMWZ3SkNiYTZvTVVfdWhMRDQ4X21uSWhZaEFhRGVsRW4zWkhyLXFxTmVlVkZZUXpkQmwwMzhsSlprNjBlYUM3c1RsMjJIZnRmT2RKc2J4RjU3bmlrVWdJdnFVX0IzbUZDVVhva0FNbUFJLVN3UmpKQmV3?oc=5",
-      "published": "Sat, 14 Mar 2026 07:00:00 GMT",
-      "summary": "Shouting in Parliament won’t solve India’s energy crisis&nbsp;&nbsp;The Hans India"
+      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
+      "source": "Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
     },
     {
       "category": "politics",
@@ -203,19 +195,27 @@
     },
     {
       "category": "politics",
-      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
       "title": "Women in Politics, Status in India, Challenges, Measures",
       "source": "Vajiram & Ravi",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
       "published": "Mon, 05 Jan 2026 08:00:00 GMT",
       "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
+      "title": "Indian Parliament: Shaping Foreign Policy By K V Prasad",
+      "source": "India’s World Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVgxc2psYkt0MVlQd1VlbHZmSVB1cF9UdVJfOUs3elBDaXREeUxoOWpyekZQUGNDTmZ1WXg3XzVlb0JGaW5HWVluREdUcVNONXZTWmtuclpwN2cwcWN4dWZTV1p1M2hMd3FwTFZScTN2Q0JyeXFwZ05FQXZDSGd5eTFDYks?oc=5",
+      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "summary": "Indian Parliament: Shaping Foreign Policy By K V Prasad&nbsp;&nbsp;India’s World Magazine"
+    },
+    {
+      "category": "politics",
+      "title": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)",
+      "source": "bjp.org",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdKcXk2ZGFyaXMtX092VFA3RUZ4bWtGOHNHREFiZ18zRDhuVVBlcHU0ajdicFRKdmVsVlpFRGNWOTJzYnFmZF9GaEY3bU1YejFhVWN3enlRVml6dUpHNkFaTXBicEVOYlFCSXphcUN3akJraGp5UF82UnBqT1ZDMVZWQ2tQbHA2WEJCR25sY242bmRZN09KYUpUc1pFSWppNHpQTk82NWpzdm1zeWN6LWJKQjZ1TzNv?oc=5",
+      "published": "Fri, 15 Apr 2022 13:09:18 GMT",
+      "summary": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)&nbsp;&nbsp;bjp.org"
     },
     {
       "category": "economy",
@@ -291,6 +291,14 @@
     },
     {
       "category": "economy",
+      "title": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Q09uOTR4bF9fZVB0a25vZ1RhcTdCVmM2NnJEaUdVaV9aVk53NFM4VTd6MEZwNG90dDlPSUdLNHE1WS0zelJTU2l0ZUQ4cDY2aHptRldaYl9MWDRnMVVpVS1oT2I3c254?oc=5",
+      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "summary": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "economy",
       "title": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXdkaVpfbzFFVWtEYnpBTW00dTdBeTQ5YU9BRVk2SHhjNm1aMGM2eEE4WHdoV2hlOWh2M0VITGFqNnFpYmdjZkdkeUc5UXlBVEJjN2dlUmRZTDVWVjFUWU5jekloMkpFSG1wdkQ5ZHFXcC1wM0JyNzZLMVpPUFhwc0NMOWNVS1l5MGtjZWZtNC1FSDQ4WWQxZEIxZTQzdktDVkNaU0dqWnJyb3NseWFQU09jc3BBSlc2VGdUUnRlV0RjRi1vYVlpRm01RV81enpLQ0NMTHV3VF94cDZleHZUWVZZNjJmbHhYa3kyZkFOUEREbkR3Z1gwSnNhWDV1eWFEWEdxZTRycC10cDlzSEdvNTVCTTLSAZoCQVVfeXFMTS1kUmVVZEx2VUNod1lYVVhxZlhlVi1hM3BpYTVWXzNkRXBDOUtwcjQ3YzVCWEk4X1RPblFheEFxd0t2RWlLQnI3bmoyOFdiWnpmNkp1UlZaczlNZHA3cE9ORW94Nm5fSk5VQTJCbDFFWko1XzltaC04RTgza2FKWjdMaC1YZXhTcU5MY3l4UWVFWlFMYzdxdk9FSnE5RHpOODI1NkVWRGYtWkdrd3dVR2pFRlRiM25PVlFFUTVGNm5Ed3pqZzYxSTdCOG94emM4WG9hbG53WGx6Y0VtdzlRbG1xZjVVQ3JsNzczX0lxNXNnSTdtcVZjcjY5RjZFUVJPZjgzSWh5LXhNVjAwU2FHc09iTTItQ2FnSS1R?oc=5",
@@ -304,14 +312,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeVE3VjRiVEFoc1ZMMVE3MjdiMDUwUEJ1UHlRejZyWFRBNGQ4UkUtOXpPNWVYR0l5TDdIVkpfempla3ZhQlY1bW9SMnl6bnFQOWFLQU1qMFR3ZUxsd0JLOTNCeEFnTnQ0QmpVSUo3dHNvTmRkZ0VZQWxDc3NQT0oxV0I1NmpUdGVkRUt1UlNEWnJOelp0VkdsSnlfUmJkYjI4SFdXa1YxNGluN1pYNE1GUGFUVXpzZFZwZjNVM0U1UjVIcG1UQ0Ntd2VtdWN4VW9ldjJhS1BSUldlMkhBU3BIVU11cWdKSldDRVNfWFp4ONIB9AFBVV95cUxPeXptNE1rS1YzWDA2MVBaaGpsOUNHUlRFVHVNdUVfc25LREJ5MlNoWERUVzJkLWxVUTJsdWxORUhzZEFjcTdkREZGSC1OYktxa2JYWjJVdnBJMVVWSTRLR19zNW91UzdVdTRZWFk1U05oUXVjV1BUSVY0RklGc1BDVE1NZUR0Z1l2amRZcjc2dEJqMmdaQjJwbGxlRHo4WGhUOTVUNlFFV3pVZF85TnlLX0VoZjYzRk1FamRTN19HN0o1cmttWkc0YmdlOVg5OXFQODlMcjJHd0ZWUURGWGJiay12aFlfOGhnR1Z0b3AxRmRFcE9k?oc=5",
       "published": "Fri, 05 Dec 2025 08:00:00 GMT",
       "summary": "RBI slashes repo rate by 25 bps. Analysts break down what this may mean for investors&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
-      "title": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUC0xUkducGlxaXBLSXhmbVAyNHg0ZFlBNXY4X3lXT2xmZlhpUW0zQjBIcDNJNjFXd2JzUTRLYmpLR3NpeHBFbFlBNWFON0hONXpGdmJEVkxNTTJzRGJ4UGg0b1BDbjJIZm9TT1AzZ0p4M2xILVVkeDhhLWRoOGdxOEwyNm40TEE4cTUtQUx3ZHFfeDhSTUVya1A1NVVZUFVjWkxVbGZqbmN1UXlGM1kzclNKRG13LU5Kejk0T3o2SlotblRHN2tBVFdWVzJTTmNSc1VjRHFlc0dLZTBzVnhmNXdFMl9oaldWazhyMG9yUmlobnVaaDdfVHVHMF91bmFlZm5aSl9NbzNNZmN3T0J3UHhPMlJRdTFVT0RGbmN5TF96XzJoaUtV0gGsAkFVX3lxTFB0ZzhXWDFOVFRhcXBQQy1fcGp3QklzVkFQc2ZyU0h2UndNV1RxM2t2cDcyQk51cHU3VEtKTlZGOW5qMXNUQlg0UkFqMEhrYm9rUEJDX3h1Z051T3J5OTlRN3BhelNHSFlVeW9aV1NCNjdGTThFcHZCc3dHY3dZZVFOSkJ3ejZCbUxPLXlrdlZSbmJLRDQ4bUQ4QjN5dm55YTlJcjNRQWhkSHJhMl8zWGI0UG1XWjZiNVNFX1FIanA0Ymw4OUdjTk9yNTdBV1J0VFJRTFpJbUMxd3dPVkpScFJfVVdtd3dvLVNWV28wcDlkX0NCYmRqNU05QU9mUjZuMVRxejU3RGQ2WTYzemJvbG02LWpmdnMwQ2E3dzJ1cVQxTGJtOUN1b3RJZ3JUSw?oc=5",
-      "published": "Thu, 25 Dec 2025 08:00:00 GMT",
-      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;The Times of India"
     }
   ]
 }
