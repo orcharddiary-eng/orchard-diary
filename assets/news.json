@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-11T04:07:43.026808Z",
+  "generated_at_utc": "2026-05-11T09:53:29.464347Z",
   "items": [
     {
       "category": "pest",
@@ -20,10 +20,10 @@
     {
       "category": "govt",
       "title": "Press Note Details",
-      "source": "Press Information Bureau",
+      "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
       "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details&nbsp;&nbsp;Press Information Bureau"
+      "summary": "Press Note Details&nbsp;&nbsp;PIB"
     },
     {
       "category": "weather",
@@ -155,6 +155,14 @@
     },
     {
       "category": "politics",
+      "title": "Salient Features of Indian Constitution, List, Complete Details",
+      "source": "Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenFQdTVMSUYtUXFhSGFETW1CaUdUVXZXYU41amhDZjNJWmlHVE91WDlybldGUzNGRnFSLVpCZ1NPdDFfVUtKUTM5NmRmcW42VkxKZmVuRlVsYkI5Rkt6UG1JS3FtTU40dm1qLXpnR3BPVUI5dm1EcHNhOFRTUXlJb0padmo5ZUdUVlJF?oc=5",
+      "published": "Sat, 18 Apr 2026 07:00:00 GMT",
+      "summary": "Salient Features of Indian Constitution, List, Complete Details&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
       "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
       "source": "Britannica",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
@@ -179,14 +187,6 @@
     },
     {
       "category": "politics",
-      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
       "title": "Every political party is in opposition now",
       "source": "The Spinoff",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWk5LclF1aU5IZVJqTmZDTC00NmhWbElaVmxZN1pvQnRxTmlwdFM3ZS12SGFsQ0JZOWNMOFhJVzIwY1hVdHJqQU05VnpoSWtEWXgxNjJ1VW45Tm8yVzRLWFpLX3JKR0NNdFl6anVBOVcwOGZxOFZ4Y0ZzaGpobXktdTdMampUVnRSNlAyc1RHaHU?oc=5",
@@ -195,11 +195,11 @@
     },
     {
       "category": "politics",
-      "title": "Women in Politics, Status in India, Challenges, Measures",
+      "title": "Functions of Parliament, Legislative, Financial and Other Functions",
       "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
     },
     {
       "category": "politics",
@@ -211,19 +211,19 @@
     },
     {
       "category": "politics",
-      "title": "Why an Indian bill removing jailed leaders from office has sparked outrage",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTdCcDZoQjNFT09haXcxSmpCb0dRQWg5TGd6NFAzOTVPWEdFZnB1Qk1uZUFiRWtqUzRGTXZWalhucHNQTWZpRHFZWHpncTZKV2drOTFMdWxtbGxtYkZuY1JhRjhwRFBBMGpoN1A3UmRnQ0pHTnJUNTFqUmw1TzB4bGVVRmhCcGlMNnBJdkhCWVVWcTdEUEFrNlByeG5zbFRtS0FIMEpBUDFYZW9RcmVMdG1QUdIBuAFBVV95cUxNeWR1YXFyZ1BqRVZMUmZQS2xrZUw5T29ETERKeUd1N2Rab3I2VHpYaWI3SWdmdWdkeU5ia29aZ0w2UzdZRXV6M0pXZk0zMGl5QTFiakZNSGxOTVVaNDQxMlBHeS0tTzBTSl91OFVERUlfdmNfTXNjTzMyVkNZMGd3VE1UdU1JWTVTTU9MMHBVdTRKci1pdGZQVXczYXQyRlY3ejdiWmhURlVrOGtCZHoxZEwzWk9lS0pf?oc=5",
-      "published": "Sat, 23 Aug 2025 07:00:00 GMT",
-      "summary": "Why an Indian bill removing jailed leaders from office has sparked outrage&nbsp;&nbsp;Al Jazeera"
+      "title": "Women in Politics, Status in India, Challenges, Measures",
+      "source": "Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
+      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
     },
     {
       "category": "economy",
       "title": "Economic Survey 2025-26",
-      "source": "Press Information Bureau",
+      "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zbnVnTnBCZGgtMVNwWlN1X2lZRGFZTzBleWQ4V2pnZzZvc3duZkxHbmpyN2o5TVlrdFJzVDA5WjdnOWJrdHJWNmttVVJtVnBxdXQ0TWtrOTM0U2djcG1ENUxhOFhTWi1FTGR6VlJYSVJQX1BoWENKckFn?oc=5",
       "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "Economic Survey 2025-26&nbsp;&nbsp;Press Information Bureau"
+      "summary": "Economic Survey 2025-26&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
@@ -284,10 +284,10 @@
     {
       "category": "economy",
       "title": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens",
-      "source": "Press Information Bureau",
+      "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Q09uOTR4bF9fZVB0a25vZ1RhcTdCVmM2NnJEaUdVaV9aVk53NFM4VTd6MEZwNG90dDlPSUdLNHE1WS0zelJTU2l0ZUQ4cDY2aHptRldaYl9MWDRnMVVpVS1oT2I3c254?oc=5",
       "published": "Wed, 01 Oct 2025 07:00:00 GMT",
-      "summary": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens&nbsp;&nbsp;Press Information Bureau"
+      "summary": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
