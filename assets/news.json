@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-14T08:45:36.943879Z",
+  "generated_at_utc": "2026-05-14T14:29:49.423080Z",
   "items": [
     {
       "category": "pest",
@@ -16,6 +16,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEdoeWJoWUNuc2pkRUpQQmlfcUJOaTRuSVlYandDdzAzYXNRQ2VxWWJnQWxoZEloUF9oS09aMmVvTGxpLVkyZHdHb096NloxTWlKN2FzNWZuNUtoMDRYWVlQazFhcHdJbE5LTUxjWEpna3VHRTI1SGw0T2kzbFc3Z01fUEU5NzdLTHpQTE5qMEpSQ1YtM1k1ZlVsYzRoNy04SDZhOW5LOWs?oc=5",
       "published": "Thu, 24 Jul 2025 22:42:44 GMT",
       "summary": "Enhancing urban and suburban landscapes to protect pollinators&nbsp;&nbsp;OSU Extension Service"
+    },
+    {
+      "category": "govt",
+      "title": "Press Note Details",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details&nbsp;&nbsp;PIB"
     },
     {
       "category": "govt",
@@ -171,14 +179,6 @@
     },
     {
       "category": "politics",
-      "title": "Narendra Modi: Why foreign policy must be debated in Parliament first",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmxpVGdFZWQ2b25iSkttUHB0Q2hDZlNtQVJDLTljUEpiSEVDeWlRWDBxZTZzZFhLc0dvendOaUw2SlZYcVJINE5Wb3RWMXFwdGNPSDJIS2tfYmEwaW9oM1FFbXRTN2czMWhjVkpVZ1M1NTI2T25DcFZuLXlkeUpGQ29JZ2dadmVGMnZYeGozT1hPLURGUEhzbFVBd1ZyMnpJOGtLOHBueTdhQQ?oc=5",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "Narendra Modi: Why foreign policy must be debated in Parliament first&nbsp;&nbsp;Deccan Herald"
-    },
-    {
-      "category": "politics",
       "title": "Functions of Parliament, Legislative, Financial and Other Functions",
       "source": "Vajiram & Ravi",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
@@ -211,11 +211,19 @@
     },
     {
       "category": "politics",
-      "title": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution",
-      "source": "Health Policy Watch",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkFJWDg5aGZ2aTF3cmo1b1dDZ04yWmRaRmNkS0ppamtRRkp4Y3cwaGllVTI3Vks5aWRaM0RZQktQdUdtM3g4TXZWcG5ibHN2ZDVsMkloaTFsRTZER0hiMGszRy02NHNQTTlUMTBkTkNudi0tRlluUTlmU3ZwNUxXMjRkRm5sTjBodXhBelFhbGpuTmVfRTl2SU9kRUFrVWRZWnNZaHhsdzdQdFczY3FocnRNREhZTHkwOHBreFFzQ3ZzMF91dVRKRUpEZw?oc=5",
-      "published": "Fri, 08 Sep 2023 07:00:00 GMT",
-      "summary": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution&nbsp;&nbsp;Health Policy Watch"
+      "title": "Delimitation: Will north India's gain be south India's loss?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "summary": "Delimitation: Will north India's gain be south India's loss?&nbsp;&nbsp;BBC"
+    },
+    {
+      "category": "politics",
+      "title": "Political Resolution",
+      "source": "inc.in",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42S2RuU1lGQ1BBUjc5UmdxaFM2d19PQ2huUXBnWk9RM3BOYU9vUExzajVnUDFKNllGSnF1N0h6bkVKRnFGUXFDVjlUMG80RUNQb0I1OXBjazhMelVPcnowN1hodk9IUENWZHVn?oc=5",
+      "published": "Wed, 10 Jul 2024 12:00:58 GMT",
+      "summary": "Political Resolution&nbsp;&nbsp;inc.in"
     },
     {
       "category": "economy",
