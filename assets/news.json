@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-22T04:16:03.935330Z",
+  "generated_at_utc": "2026-05-22T09:40:10.574716Z",
   "items": [
     {
       "category": "pest",
@@ -19,11 +19,11 @@
     },
     {
       "category": "govt",
-      "title": "National Mission on Edible Oils",
+      "title": "Press Note Details",
       "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details&nbsp;&nbsp;PIB"
     },
     {
       "category": "govt",
@@ -32,6 +32,30 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1ZId2x5NHM3eG02MllEeFMyQTJFWGhHNUFZTndlWEJ3elBMaTFfZkZ4U3JkamV4di1CazNhT3c5SXBaZWhsdmUtZHFtMFVwRXBhZ25kN3NNMzU5dXQtNGxfZTlpMHRuWUhiWmZ1aHhqRnlxS2kzNmdpUndkZ2ZHV0ZxWmlRZGhvYkRqMzV6X0FHTnBIRVdmWEhDX1Q2eGt3Q3o5VTFqdHdHREMxTDVlRWNzSzRFSkRvbHJteS1NdklIMHctWnBmT253alVWak04ZlBRaU1Oby0tNTNudXIwNWV1aGxJUm81eFVzWTFOdE13X2tsV0E?oc=5",
       "published": "Fri, 06 Mar 2026 08:00:00 GMT",
       "summary": "Karnataka Budget 2026 | Krishi Vistara, AI-based Farmer Call Centre and Raitha Malls planned to boost agriculture&nbsp;&nbsp;Deccan Herald"
+    },
+    {
+      "category": "govt",
+      "title": "National Mission on Edible Oils",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
+      "title": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation",
+      "source": "Krishi Jagran",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFV0cDFzVm41djJyZmktU2p6X1dSNTV2ODQ3NmFrUnlSUDVNX0M1Wnc4QklaSkFNRnVXQUhiU1Z2M2lNMWZJNXR5bjJiU0pzTkFkdERpMGJGaXhxeHl6SHB5OW9kaXZrbmQ2TThObHQ2bXZjX0daVzhlRVBqQlBORlZYdDhYT1MwdTNSWVFZcUF6LVRoamVjU2t1N0g4bVFFcHcwSmdfT2kxcDVlT1lUaWxMaldpUDB60gHAAUFVX3lxTFAtbHZSaXlFal9EdW5nLVZlTUkwWDMwSy1XZ01JZkg5d1p3OEJkejRpbUNVMExZRk9XS1RNbXVmUDlxZU9DeXkyejRUaHNWR09vMGpBNG15SHBzX3VfX25rb2NfTkJLeTNMZFFhUWtSQnJLcTV4VloyMVg1cUExYlpJSURwV1ZZRWt4VGVkNUFuZWhDNjlhZlA5RmhHbTdpVGxaTjBXSW5zZFFiejhITnJCbzlWS1B6MnhJTU1CbGZxQg?oc=5",
+      "published": "Wed, 28 Jul 2021 07:00:00 GMT",
+      "summary": "Government is Offering 50% Subsidy to Farmers for Dragon Fruit Cultivation&nbsp;&nbsp;Krishi Jagran"
+    },
+    {
+      "category": "weather",
+      "title": "Weather today: Jammu-Kashmir, Himachal, Uttarakhand, Bihar on IMD's orange alert for thunderstorm and hailstorm",
+      "source": "Mint",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMjZ1ZllldEpVdzNnSFN5cjBCYzFNVXhEemExSzUtSEVKd3oxSkk0eWRFN3Z4Y2RmeEVsUEN1aEd3NFpQeC1RVUFORVpqOFZvTTI4aGNIU29ZVThTZDdqNGJaSC1kaThLcER4QUV6MVd0bGVfUGtqSkdQYnlvTVg1TFVmVzRxeGFqczY4WldEWlJMY09oOXdMVkpZZG8zVWhsQ29zbzZhaXBpT2UzeFRLYXZWcEpPbDdXX2xuWmpRZndyVlhjZW4wMnRXb2cxYUtzX2tEZnVvVUZSM3JmZ3VYbW9maGRweFBUUGNKSk1YcndJalhO0gH6AUFVX3lxTE05QlpManRJQ0xPZXZRNXpKa3ZObDMyMG1RT3ZEQ0RaeWd0Rmg1TXFkMjdsS1dXU2Q5d0wwbnczNnE0c2tnTF96a2x1R1c2d05fRDItMnJYZWxKNW9VS0hrbDV4MFF1UG1taE85cEpfS2xEdjJuSy1YOGtmZXd2YURPVWt3dmN0YVFiaUZQZjc1M0RQV3dvU3E2a0k5WUlXQmRvcVJhWHVDQmQ3dkY1dzJ1endSS2dyTE43cVVvQzJ6Y3RzTldLM205WVlmbDZIbE44UjJNbzIyZU1zUk84YkxNQ29la0swZW81UFROX0UyQXI1WVY5YVk1Y1E?oc=5",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Weather today: Jammu-Kashmir, Himachal, Uttarakhand, Bihar on IMD's orange alert for thunderstorm and hailstorm&nbsp;&nbsp;Mint"
     },
     {
       "category": "weather",
@@ -51,14 +75,6 @@
     },
     {
       "category": "weather",
-      "title": "Bengaluru on 3-day rain alert: Is interplay of two anti-cyclone systems behind the weather?",
-      "source": "Mint",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQmJzZDZHemtBZWY0dGxlOEpXRzkzTTdDcGNnU0QyN2xxdVAxTlRSbGVaNGZoRDY5eTZsbHJEWl9xWWE3WTZWR1FVdzJfNnJwTlN6cnBVTnRuaU05Z1JzU0JjUm5QdXNSR2Q1RTFpX3htMHNkZkdyTTJfUlZoYTVfRUt5b2tRV3k3aVA2aS0tbmI3Q3JVMFVoTU1kNkE5NzFyNFZNdFdtbExKeERqUE1sVUJiNUppS2pfNG1rZlk2WTIxUE5ib3p3Sm83WDNxNTIydDVFOWdhWjJlWGt3X2fSAeMBQVVfeXFMUGVQWm02elRIZDdmV09vZGIzTkNIVm9LXzB3ek9zRFBvdWhQQmtwaC10MFNLTEpTekFDRnUwWkVsS0pjQ2ZFU0llLVFHNjNHbktqdW90VDhYWEg1cFFFalJISmZxTV9YaWdIN2Q2N0lxdXdEVHRlbGVBZHc0MkdERkJHSlR5dDJhMnhiVi1kRHFPbTdFQTBwdFBLNndKcS1PMHZFU0V6U3g5Xzh4b2xoR3hMQ2FHYXhfLVBjOG1NRU8yNTVFUUlwTkVFb0F1ckM3S3AyaGQzU3JHNDFOWEJZU0E2VVE?oc=5",
-      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "Bengaluru on 3-day rain alert: Is interplay of two anti-cyclone systems behind the weather?&nbsp;&nbsp;Mint"
-    },
-    {
-      "category": "weather",
       "title": "Gurgaon Records 0.4°C, Vehicles Coated in Frost; Delhi-NCR May See Light Drizzle, Check IMD Weather Forecast",
       "source": "Oneindia",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdXRrR1pTOVhPUnpzenJ2OWFCQnUzQ1FWTzhHMXdGUnliamhXOWRDY2lOR3Y4V3owQnY4d2J1WGdXWVZBWHpDSXpuVWRqR0paRUNQY2dFa2d3UXhOMVdiak1aZUtqZjlaWTBQb01YMm16OGx6V2lOdWRnRU5FNklSQjlpRGdESnhpSEg0ZXNpWjJDd1ZPSkVRYW5PRTd3QVJXQllSaW5PMXBSUFFadUdCMEswZVM4Z2hKbzBaUk5fNW9weUM0UnB5NmpaQkpuUV8xTWlvLWNUTQ?oc=5",
@@ -72,6 +88,14 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRfUndJX25pUnZoLUluOGVFYkc1Nzd2UXFtWjJ4OEh6Tlp4TWZBMVl4YVFieXdqWmE0bDN1RzFuZEdmcEVTX2pUUXdwU2dBVHZJTGpCWFVyLXpxLS1maW85TURxTHVNdW1YcGtiVjQtZE9NNHFPZTFRMm5vX19vbDdKbjNYTGExbC1wM0xuc2NSZDZqV1o0SWVQN2p0UGdlV3ZYak1BaG9wMmk0eHBxX2pPMEZGcmFDNV9CVlFzTzA3NV8xTFBYeGU0LWtZb01fcUh2cnduZXRmS2d1QnI4NTVGMVI4Z9IB6wFBVV95cUxOWV9veWJUUWlnaWtURlRESFljYXI1LTlGLV82amFOODN6MjlrMkJZV0pYZVR4c3hWQ3MxLWplWTlwRlNNODFETl9fRngxdFBTVGNDT2I4aGlnRS1RbXljZlV1a3JVTGE0Rk9LanM2d1dMcWM1NDRsS1VPR0xfMVFDc2U1SUZrRzQ1dnhjYlVPVlJScTFNSFRmVWFDYmtCamdKZTNBejRpY2VIVHJ3c21WZ0dEWXdyeG84ZnZkWXlNR2JmZU93TDFWQkgzY0JPMXJoS3FHaWtqYk1NWVhwRjFXNXpOakpGa0wwLTJJ?oc=5",
       "published": "Thu, 22 Jan 2026 08:00:00 GMT",
       "summary": "Weather alert: IMD issues snow, hailstorm warnings in Jammu, across North India; is your city on the list?&nbsp;&nbsp;theweek.in"
+    },
+    {
+      "category": "weather",
+      "title": "Bengaluru on 3-day rain alert: Is interplay of two anti-cyclone systems behind the weather?",
+      "source": "Mint",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQmJzZDZHemtBZWY0dGxlOEpXRzkzTTdDcGNnU0QyN2xxdVAxTlRSbGVaNGZoRDY5eTZsbHJEWl9xWWE3WTZWR1FVdzJfNnJwTlN6cnBVTnRuaU05Z1JzU0JjUm5QdXNSR2Q1RTFpX3htMHNkZkdyTTJfUlZoYTVfRUt5b2tRV3k3aVA2aS0tbmI3Q3JVMFVoTU1kNkE5NzFyNFZNdFdtbExKeERqUE1sVUJiNUppS2pfNG1rZlk2WTIxUE5ib3p3Sm83WDNxNTIydDVFOWdhWjJlWGt3X2fSAeMBQVVfeXFMUGVQWm02elRIZDdmV09vZGIzTkNIVm9LXzB3ek9zRFBvdWhQQmtwaC10MFNLTEpTekFDRnUwWkVsS0pjQ2ZFU0llLVFHNjNHbktqdW90VDhYWEg1cFFFalJISmZxTV9YaWdIN2Q2N0lxdXdEVHRlbGVBZHc0MkdERkJHSlR5dDJhMnhiVi1kRHFPbTdFQTBwdFBLNndKcS1PMHZFU0V6U3g5Xzh4b2xoR3hMQ2FHYXhfLVBjOG1NRU8yNTVFUUlwTkVFb0F1ckM3S3AyaGQzU3JHNDFOWEJZU0E2VVE?oc=5",
+      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "Bengaluru on 3-day rain alert: Is interplay of two anti-cyclone systems behind the weather?&nbsp;&nbsp;Mint"
     },
     {
       "category": "weather",
@@ -110,16 +134,8 @@
       "title": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...",
       "source": "Bhaskar English",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjNCaXFFRFh5WVdxUWR3MElwYUxZRDNJejVna1IwWDdjc1pnbmcyM2s5RG90Q2NsM0o3cmppVlE1cndjalBKb1RFWUh3aHI4cG41cW9TdXA4Z1N1Vk95ODRJMGxrMWozbkZHem82eUpOVHlCRGwyWTl4b3MzUmFuak1zYndvcVQ4TW00ak1pWVFrSkU0aURCVWpwbjhsbFRCOXlEejNUTEJBOEt2MjJjc1FsWVNySUlSOGMwc0N0RV81RDNUS3AyQjFaM1JaXzBZSkkw0gHYAUFVX3lxTE1RWlU4eFRSZWhnZ1dobTBzajhtRUhFSlZUZFNWb01lVW5fWDFfUDVDQXk1Ni1ac3lDM2N4YVR4c3BoVHozd0N2SE9QM0VBTGZWN1lteVQ5TjhWZ2phQU9pUG1CcmJnTFFzbmxvWkRDYnhjOXZ1dUZUYUw1S0hIeVM3eHZZbi1pcTFVNUxWZ0tPMmI3ZDNJT094c0NaRDgzODVjQWhHdmY4TDlDcER5b3pXX2Qyc0laZS1wR2NSRDZBcms4cENXV0JfcTdzT0NOOXNmRmVreXl3TQ?oc=5",
-      "published": "Fri, 20 Mar 2026 02:51:24 GMT",
+      "published": "Sat, 21 Mar 2026 07:00:00 GMT",
       "summary": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...&nbsp;&nbsp;Bhaskar English"
-    },
-    {
-      "category": "weather",
-      "title": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himacha",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdlhsdXRBWURnb05HT3hWUzJLMnY2b2lVWmpVS3dSekkwc0VuNzk1dzBwRmh2VnhpOHBYY0M0RDQ5ZHgyWkJIaW1OUnBxOHd6dTEwemY4bEJaV2lLUlNrUVNJLXFscWpGaFNCeW82cUVCZGNsR3RPMjFxVUViR2ZjOTNwdS02MTZ6N3hhWEVaQ3g0Nkw2RXNNU0ZYVS1MSU92cFdXSzNnY2tlaUFpeTNjMVBndDV3d3lPN3pLU1pPaGRSZUdwblVwREo1S1FlOTNVNHNwUmVfVzZILW1wLWpnLVZGVW1CVkRhNHpZc0ZJUkxQZUtJa1ZvYzVqRVVvWWpDclducGozbzQ5UHk4bVNsVm5WS01vUzhLWEFpNGxMRm4taUFNVnBzYWgxdTNYX0NRem5CWFhRNW55QnPSAcACQVVfeXFMTnpkOU9lZmZUTklVd25EN1AzUEtfWmxobmRfdHhydFhlV0VKSVp3WlpJQ2JfRWZ4eWsyRGljNUdZLV9ESnJFNFVMNDBvZXNkcTBBbDVZMzh2WU0wMVVZNTg2SW8zbUFoVHEyUDJSeTVpWU8wN3hlbnBnM0pGQjhhdWFVd3UyaTlFNWl6QVBfVVl5LWxZc2EwRVQwcm9odl81MEFmMC1abThpN0s3dzJ3cjJQNHVmeEtGV1BPaWxjbUhjOHZRZmR1Y294N1h4NnpjV3FVUmNma2ZKbE01XzQ4M2k2OUt2TkQtZmV4T2VFbGpMeGQ4SWFGdTBhQnJEZFBrdUVzNDA3aDBOSjhWYndxUE8yWnFTeEVENzZrLXZpb1ZnZWxldnhfdVBMVDM1XzNxZlNoVEdCeG5aMkNaUElZMlA?oc=5",
-      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himacha&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "weather",
@@ -171,11 +187,19 @@
     },
     {
       "category": "politics",
-      "title": "Every political party is in opposition now",
-      "source": "The Spinoff",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWk5LclF1aU5IZVJqTmZDTC00NmhWbElaVmxZN1pvQnRxTmlwdFM3ZS12SGFsQ0JZOWNMOFhJVzIwY1hVdHJqQU05VnpoSWtEWXgxNjJ1VW45Tm8yVzRLWFpLX3JKR0NNdFl6anVBOVcwOGZxOFZ4Y0ZzaGpobXktdTdMampUVnRSNlAyc1RHaHU?oc=5",
-      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
-      "summary": "Every political party is in opposition now&nbsp;&nbsp;The Spinoff"
+      "title": "Despite change to lobbying rules, foreign governments and groups still funding MP travel",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PUzltc2xqeUhWV3hxWVZHc3I3a0dmZ3VZLTltTDN6dnpjc3c0U1BSX3JUMlFKcm1hY2w2eXpKdy1XQzVwaWxlV0JSb1hWWjJwZTh6cU0wc3ZrWVVYU1dtdHN6bHFPZTFYR1JRdXBKWVZ5LXVDOUEyc2NuOGE?oc=5",
+      "published": "Wed, 20 May 2026 08:00:00 GMT",
+      "summary": "Despite change to lobbying rules, foreign governments and groups still funding MP travel&nbsp;&nbsp;CBC"
+    },
+    {
+      "category": "politics",
+      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
+      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -195,6 +219,14 @@
     },
     {
       "category": "politics",
+      "title": "Distinguished Lectures Details",
+      "source": "Ministry of External Affairs",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MN2kwdUJCQXV6OVNOX2ZUTXZzUU1pbllwZWdwazQxcVBEWW9nLW1ZcHBTd05fVmd3SHU3QVlucWFVVzRGYUtnREtpeU9BRWs3MWxMNGdhNEVZRVJRMllQczU2bjF4SlJwcjd1SA?oc=5",
+      "published": "Wed, 31 Aug 2022 07:00:00 GMT",
+      "summary": "Distinguished Lectures Details&nbsp;&nbsp;Ministry of External Affairs"
+    },
+    {
+      "category": "politics",
       "title": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)",
       "source": "bjp.org",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdKcXk2ZGFyaXMtX092VFA3RUZ4bWtGOHNHREFiZ18zRDhuVVBlcHU0ajdicFRKdmVsVlpFRGNWOTJzYnFmZF9GaEY3bU1YejFhVWN3enlRVml6dUpHNkFaTXBicEVOYlFCSXphcUN3akJraGp5UF82UnBqT1ZDMVZWQ2tQbHA2WEJCR25sY242bmRZN09KYUpUc1pFSWppNHpQTk82NWpzdm1zeWN6LWJKQjZ1TzNv?oc=5",
@@ -208,22 +240,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkFJWDg5aGZ2aTF3cmo1b1dDZ04yWmRaRmNkS0ppamtRRkp4Y3cwaGllVTI3Vks5aWRaM0RZQktQdUdtM3g4TXZWcG5ibHN2ZDVsMkloaTFsRTZER0hiMGszRy02NHNQTTlUMTBkTkNudi0tRlluUTlmU3ZwNUxXMjRkRm5sTjBodXhBelFhbGpuTmVfRTl2SU9kRUFrVWRZWnNZaHhsdzdQdFczY3FocnRNREhZTHkwOHBreFFzQ3ZzMF91dVRKRUpEZw?oc=5",
       "published": "Fri, 08 Sep 2023 07:00:00 GMT",
       "summary": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution&nbsp;&nbsp;Health Policy Watch"
-    },
-    {
-      "category": "politics",
-      "title": "Delimitation: Will north India's gain be south India's loss?",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5",
-      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "summary": "Delimitation: Will north India's gain be south India's loss?&nbsp;&nbsp;BBC"
-    },
-    {
-      "category": "politics",
-      "title": "UK and India collaboration: Roadmap to 2030",
-      "source": "House of Lords Library",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmlVX3JpSUY4NDFNZUhQeHlwUktxdEgyVmUwSC1obmptaVZPMnRRRmtKcmJNZ1VuY2V6MTJZRHgzb3c2OV85RU04NWNyUjRMUThkS3NCaHJ2d2pNQTN3RTdXZkstSWUwNmxYN0t4R0FhVGQ0a0JQWnJjczVmdElZNlFPRDc?oc=5",
-      "published": "Thu, 12 Jan 2023 08:00:00 GMT",
-      "summary": "UK and India collaboration: Roadmap to 2030&nbsp;&nbsp;House of Lords Library"
     },
     {
       "category": "economy",
@@ -291,11 +307,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI slashes repo rate by 25 bps. Analysts break down what this may mean for investors",
+      "title": "Budget 2026: The next phase of India’s growth depends on resolving a critical imbalance",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeVE3VjRiVEFoc1ZMMVE3MjdiMDUwUEJ1UHlRejZyWFRBNGQ4UkUtOXpPNWVYR0l5TDdIVkpfempla3ZhQlY1bW9SMnl6bnFQOWFLQU1qMFR3ZUxsd0JLOTNCeEFnTnQ0QmpVSUo3dHNvTmRkZ0VZQWxDc3NQT0oxV0I1NmpUdGVkRUt1UlNEWnJOelp0VkdsSnlfUmJkYjI4SFdXa1YxNGluN1pYNE1GUGFUVXpzZFZwZjNVM0U1UjVIcG1UQ0Ntd2VtdWN4VW9ldjJhS1BSUldlMkhBU3BIVU11cWdKSldDRVNfWFp4ONIB9AFBVV95cUxPeXptNE1rS1YzWDA2MVBaaGpsOUNHUlRFVHVNdUVfc25LREJ5MlNoWERUVzJkLWxVUTJsdWxORUhzZEFjcTdkREZGSC1OYktxa2JYWjJVdnBJMVVWSTRLR19zNW91UzdVdTRZWFk1U05oUXVjV1BUSVY0RklGc1BDVE1NZUR0Z1l2amRZcjc2dEJqMmdaQjJwbGxlRHo4WGhUOTVUNlFFV3pVZF85TnlLX0VoZjYzRk1FamRTN19HN0o1cmttWkc0YmdlOVg5OXFQODlMcjJHd0ZWUURGWGJiay12aFlfOGhnR1Z0b3AxRmRFcE9k?oc=5",
-      "published": "Fri, 05 Dec 2025 08:00:00 GMT",
-      "summary": "RBI slashes repo rate by 25 bps. Analysts break down what this may mean for investors&nbsp;&nbsp;The Economic Times"
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaTg4emtUQTRkc28yZjI4MTlpT21FQ3BiVmg3ZFFLcjdWWmFNLVZpQmdLVXloOEZDRXFwd3ZpX1F4VUVjai1lWTVydzBzYXRjdlBiWFkzN2tIOHl6UWRDcklkMUctNTNhV05qcGY0T2x1dU5qNTVkNHpKMzVDMVFuaEw5cG9tbkVZNXFONzZzYTBuSm1SVXo2WEpKMDN1RDlUR3NMbFF3MUljN3Myd1VTOFBYZnRUUUh3OUs2c3ctM3NEdFRSVFVpYUVFOEU2dGtZekE5RkJnenpHeFdTMjF5eFhZSXpxVHdYZEhMUnRBODBWVnJPU3o0S0Q3Nk1xZERoTmRBZmNISVV0aHRTbDZWNzBnZFRRREl4M3J5dXlTR0VkRlpRRkRZUmM2U2Z3TDhOSnVxUE1Da0ZmM1BHRjhr0gHEAkFVX3lxTE1FR1FwMFJuQVRWYWRTSERRTzR0ZjRlR01sRGFsSDhVZVFmMEg0SG9tQXNva1hCTkpScU55QTlkRFBZSkVvSEdzMTNrMFc0UWNuSG85cFNrQ3hROTBnZ3dBdlgxaGNkaUdtQ0s0a2oxWkwtZk1xeERfX1VweG9BeXBIODl2b0QwM0tSUXJfOVFSbnNtRG1MbmpIa0VwUVpIVTg1R2xoeXRPNlk5cVZkMXJpeDRSaGdaYnZ6aE01ZDlkQUx5WjhZUllMQ0V2akxTS21mdGN5dDhpNTNlWUtVWHJORjNSRkg3aHdCWmRhTzROVTIycUdKYjdRZXViZG5jQmVtaE1CSXpKbGlYdVJ2dHZXeGtvZzB6d2VqbS1jSHlqTVZyeEhmOEUtc2tsVEJkUFlZSFRpNmJZNHFnbzFZalNaNHRjRg?oc=5",
+      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "summary": "Budget 2026: The next phase of India’s growth depends on resolving a critical imbalance&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
@@ -307,19 +323,19 @@
     },
     {
       "category": "economy",
-      "title": "GDP growth outlook raised to 7.4%, repo rate stays at 5.25%",
+      "title": "RBI keeps rates steady, positive on growth and inflation",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRnRzRzZnSEJlZHJNbEh3STc5bFZaMHMwOGd3cHRDSGo3NERKTkVpR29xUWJmWDcyVVRtbmZRWmpXVVJNS0lTeHVQcldwempWTG1YQ0JDaFBIcUtXV0pVV1NONHI4Tjh4QjJ3dUw0YVg5XzB4V1VTQ01VeGFRNEtQT05YRm1ydjhsVnozYzAzMFkySWU0QUJFbEFveFpRMFhoZmZueWJOdXRoS3NaMmpkYjFpQjlGdjE5T2NMNEQ3dnZOdXdSV1FFMFVXcVdjQm56RWY1QWlfXzM1d9IB3wFBVV95cUxPVU04S29BYUJNMWRvS2RhTlhFWUNVenRVRjZtdkk1ajZmMnVteG02elgzYmZCUTlRSnNKYUJtU3AwT2FOVU1LY1FZX292TmxtdTkyU1FFOVJvb1hXREdSVXFtb1pOTFExVzJwcjk4Z2swVDcxNEdlaGlZcVZNLUF5VEVJX093TjdhY0RmN3FLMEFBQ3dSRXl0UEpscGlpd1FwM29xWEstdGlPNjJYUGNXN1NmYkc1MmNfNmJTcHo0X05neHpVZ3VNc0s0R1VBQU1NUXFIa05OQXFSTWdpYmQw?oc=5",
-      "published": "Sat, 07 Feb 2026 08:00:00 GMT",
-      "summary": "GDP growth outlook raised to 7.4%, repo rate stays at 5.25%&nbsp;&nbsp;The Times of India"
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2tJVWx5aTJWV003dDVURVQwbndnNDQ5S0dER21jUk5jeElGWFdtZ0xscWRGRlltd3BmaWhKVHZFWk1RRjZ4YndRNzZhaHdBQjRhdXA5UHFMNFRRc1hkOXJtU21SUDdlb0luU2ZxNUQ4cl82U3pRTVRnVms0V3lJVURfMFRmT0dVOVRTR2I1NFNoVDBwNHZIeDd3T2hjOWNhNS1YTFV5MUtLS2JSVUhvbmx0bFRwVml4UVZpQkdtWVc5eWdVOXFwR05XU2hCSklENTk4bHFpaGPSAd4BQVVfeXFMUENTS0JlT2R5ZGhUTENHWVRPQUduVklHUHByVzRNVzB0TDZvNVI2VUtYeGFuY3JlTnFTX2FERUhMc25kS01vb1NXWl9NVkRnb2FES2FnMkZrSVp6N2Vvb3pSYlJoVHpWdTRsS1gtS0VLTjFUbFFJd0dTOG9mX1pmdlk3dXRrSFJTeGVha3BlOXAtQkhFOFduNHRIenRRSE84QlF6a2czWlItTDdYRVFJQVBiOVdNRG1kU1lncHJaeTBoaThCTkdtUlg2OFdpTEZhMXVjTVJHWl9Ea1FfMVdR?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI keeps rates steady, positive on growth and inflation&nbsp;&nbsp;The Times of India"
     },
     {
       "category": "economy",
-      "title": "Budget 2026: The next phase of India’s growth depends on resolving a critical imbalance",
+      "title": "RBI GDP Growth 2026: Central bank nudges forecast higher, upgrades early FY27 outlook",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaTg4emtUQTRkc28yZjI4MTlpT21FQ3BiVmg3ZFFLcjdWWmFNLVZpQmdLVXloOEZDRXFwd3ZpX1F4VUVjai1lWTVydzBzYXRjdlBiWFkzN2tIOHl6UWRDcklkMUctNTNhV05qcGY0T2x1dU5qNTVkNHpKMzVDMVFuaEw5cG9tbkVZNXFONzZzYTBuSm1SVXo2WEpKMDN1RDlUR3NMbFF3MUljN3Myd1VTOFBYZnRUUUh3OUs2c3ctM3NEdFRSVFVpYUVFOEU2dGtZekE5RkJnenpHeFdTMjF5eFhZSXpxVHdYZEhMUnRBODBWVnJPU3o0S0Q3Nk1xZERoTmRBZmNISVV0aHRTbDZWNzBnZFRRREl4M3J5dXlTR0VkRlpRRkRZUmM2U2Z3TDhOSnVxUE1Da0ZmM1BHRjhr0gHEAkFVX3lxTE1FR1FwMFJuQVRWYWRTSERRTzR0ZjRlR01sRGFsSDhVZVFmMEg0SG9tQXNva1hCTkpScU55QTlkRFBZSkVvSEdzMTNrMFc0UWNuSG85cFNrQ3hROTBnZ3dBdlgxaGNkaUdtQ0s0a2oxWkwtZk1xeERfX1VweG9BeXBIODl2b0QwM0tSUXJfOVFSbnNtRG1MbmpIa0VwUVpIVTg1R2xoeXRPNlk5cVZkMXJpeDRSaGdaYnZ6aE01ZDlkQUx5WjhZUllMQ0V2akxTS21mdGN5dDhpNTNlWUtVWHJORjNSRkg3aHdCWmRhTzROVTIycUdKYjdRZXViZG5jQmVtaE1CSXpKbGlYdVJ2dHZXeGtvZzB6d2VqbS1jSHlqTVZyeEhmOEUtc2tsVEJkUFlZSFRpNmJZNHFnbzFZalNaNHRjRg?oc=5",
-      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "summary": "Budget 2026: The next phase of India’s growth depends on resolving a critical imbalance&nbsp;&nbsp;The Economic Times"
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd256aXg2Zjd1Ynh0UHNYMmdhX3RyMmRNemxsREh3RklfS2FBZGJZZ04tTjFkeGJOTldtUUUwMnZLTmU1cXV4TTFUdVNCTUcweEZaU3JWWFdFdVAtamYwekJXYnRkTHZwY1A3N0pqR1lTQ2tMMjB2NUZhTGdaeHRkZldMQlp0QjlEMnBMamdIM1NSZmsya2xFYlBqNk9EdkFwZWotUzJVUlNqQldVQ3lxa0xwQVB0MVJnaWs1LVRSOGJSMVlFZU0tNy1VSks3cTJfbEtKZVNIYXptcWpRTXl0R19ZdDZMYW1PY251bFZsQzZQV29Ta3RUV3RPWE80V2UyRjVwR0VCQ28zVGphX255M3luTXYxZ9IBmwJBVV95cUxOcHBJSXNadGNPX2V2RlpiclhPZWs3TWxFcUU0S1pyOXhvdTFORzB2TGRXSUNtMnNYS3kySElFTXdyODhxQ3o2alhtYUQyOW9DXzM1WDZ4SThFVFRtSWlFckg3U2RGcHdadXNNdHY3cFdvWDVsaG56bTZyRnhlRF81T244ckxZU3RJWk53MXc5RGpLR3VOSEJadFZic1FhTnQ4Yld4Z0JVY2dOaFk3b1RNOUlMUkpvcVozaWJwRzVSTFQ0OWpLSVZGdG5QZzJjUk9WV1IyMW5tUFN2Vjc2Sl9IX3F4a1IybUkwd2lYY3EwalJWN29WZjQ0MzR1c1p0dlBsWDFjVk9hY1lMMG9ENXBzZm1USHlzRFQyenZJ?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI GDP Growth 2026: Central bank nudges forecast higher, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
     }
   ]
 }
