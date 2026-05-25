@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-25T15:21:13.849065Z",
+  "generated_at_utc": "2026-05-25T19:50:18.269666Z",
   "items": [
     {
       "category": "pest",
@@ -19,27 +19,11 @@
     },
     {
       "category": "govt",
-      "title": "National Mission on Edible Oils",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "govt",
       "title": "Karnataka Budget 2026 | Krishi Vistara, AI-based Farmer Call Centre and Raitha Malls planned to boost agriculture",
       "source": "Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1ZId2x5NHM3eG02MllEeFMyQTJFWGhHNUFZTndlWEJ3elBMaTFfZkZ4U3JkamV4di1CazNhT3c5SXBaZWhsdmUtZHFtMFVwRXBhZ25kN3NNMzU5dXQtNGxfZTlpMHRuWUhiWmZ1aHhqRnlxS2kzNmdpUndkZ2ZHV0ZxWmlRZGhvYkRqMzV6X0FHTnBIRVdmWEhDX1Q2eGt3Q3o5VTFqdHdHREMxTDVlRWNzSzRFSkRvbHJteS1NdklIMHctWnBmT253alVWak04ZlBRaU1Oby0tNTNudXIwNWV1aGxJUm81eFVzWTFOdE13X2tsV0E?oc=5",
       "published": "Fri, 06 Mar 2026 08:00:00 GMT",
       "summary": "Karnataka Budget 2026 | Krishi Vistara, AI-based Farmer Call Centre and Raitha Malls planned to boost agriculture&nbsp;&nbsp;Deccan Herald"
-    },
-    {
-      "category": "govt",
-      "title": "Press Note Details",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
-      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details&nbsp;&nbsp;PIB"
     },
     {
       "category": "weather",
@@ -115,19 +99,19 @@
     },
     {
       "category": "weather",
-      "title": "IMD issues orange alert across multiple states, warns of hailstorms and strong winds",
-      "source": "Babushahi.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2JRZmlqMEFzdkVsckk3MEZPOEJ0VkhmTVl4Vkg3a3lteDB4a2ViVGx5QllBWFVqRWlLM3l2c09GNXYtam0tcFQ3Q2xMWHBWLWdnYzAzRzgteFItWG9MMm5VS05PSTlrV0gtNDJCbnA1dEg3Uks5TWdBeVlPbWZjQTFLckFERjAwcUc1VVN4S0JzMkRDYjBCVmo1NW9rUUFMSENFVnczUjk4aEJ2NUJqVDZXQVRJN3FKM0tyX2hxcXYwenJlclczQTZobmUyMk9wajNZMFpVRlhsRDA?oc=5",
-      "published": "Sat, 04 Apr 2026 07:00:00 GMT",
-      "summary": "IMD issues orange alert across multiple states, warns of hailstorms and strong winds&nbsp;&nbsp;Babushahi.com"
-    },
-    {
-      "category": "weather",
       "title": "Delhi on yellow alert! IMD predicts rainfall in these 9 states, replacing heatwave alerts",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLW0yUU9uXzlQUW5wcDk2SGEwSXZyZFNJOXBuSzVueWhHTm1lSnZCWGZOUnA3Tm9UOGwtMDhjS3ctaVNzOWZFZTlkM3UyNnh0NUNMQi1HTHdlcmlrYVhQRVdsR2xlZEJmWVJLTWl3ekhpNlp5ZW5CRldUVDlmUGlkTWZTZnRMdmEtdWtNVjBaUlYydnVZdTBaVzJlQjBXaW4yQ0hXbzNkVGxPX0VKUi15ZUl0ZG9uc0c0Mm1ZcjV5SWtpT2hITlBoaVRSbDNmd3lmYzBnZi1JalFzVnVOTE11b2hvWkplTXNmS2tYeEw0c1jSAfYBQVVfeXFMT1l5OXY1SFVSd2RJZ1hVdWhaLTV5NExLdk0yYWgwX2tvSE1VaWtZRzV0ZmdkZklNVHlZaXdaMmxpT2w5REtTM1VDUE96cXh2a1d5dFFvU1J0YVA1THhLaWpNbkFNRjRmVmIxbWc1OTlFRGMyMzMzdE83VEcxQkEtemM2ZUdNNklyQWNtWnJZQ1hCVmFoWHhuOGJhUTZfbGVGemNuRDRFN2xPdE9USlpfQlp0MGFNeGxWSzdobXBaYVFQZ2JYWk43djU1LUgtWVRlYWE5NUVTc3VLbnVlOElmYWFsMkttNkVHZ3FtVDBQRFVvaldwS0R3?oc=5",
       "published": "Fri, 11 Apr 2025 07:00:00 GMT",
       "summary": "Delhi on yellow alert! IMD predicts rainfall in these 9 states, replacing heatwave alerts&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "weather",
+      "title": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGQxR3pmOW5lb1ZFQXJYbXZQTXljWWVwb1pPbW1jWTlKTEFiM05rNVl3ak51cEpSNHdRdDQ3QVM5M3o3bDkwa2VyczNxUktyTWd4X2hJZWlqU0RkQnlNZ2xNazZTWU11YVhDSUZyQTB6MFlYSTRzdUYyemNMMnA5RHc1aWJ1N1NOR0JTOGM1Y3FKMm5uUjM3OWtGai1GSGRNelc1QUtoZ2t5VEtfc0VTNWFqeUlmelczTE9kX2I2MkFfSldmS3UxdFlPbUp5WWJpaGlQQmZaUHVmQdIB3wFBVV95cUxOdFdzUTRlR3RSRWhfbjZJVzNHZ0ZmTEliWnpRLXowdl9KcWRmWU5NTGd1bkRMTmtmWFB1RjBwTXk3V19LQk9lcFVLdnVYOHJqVWpvNzhWc1VkLXN2aVRzaVJjNHN0el9vMmhHQ2g3Q0NZWWpSRGhOUFF5Y3hGV3d1NlpWZ1oxRW9Xbk13WmpEOUNreGd5Q0F6VUd3aUhGdHJndGtKdnFkck0tazk1WXY4THJsZTlzM0FiWU9lbW9UdlYzWXZ6QlJCZHl3VFBFcGw2bWJBUlhXS25Pc1FBTkE4?oc=5",
+      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
+      "summary": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "weather",
@@ -155,14 +139,6 @@
     },
     {
       "category": "politics",
-      "title": "After Modi: Political Leadership and the Future of Indian Foreign Policy",
-      "source": "The National Bureau of Asian Research (NBR)",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVlZSW1weEttZ3FvbTc0SW5uQ3NPVlotVnNMYTZfWTIxbzFqR1BycC03MnN5c25uamdneEZFNGVzb0RWWElkYWFBWHRuczNoZW1ocW9qVE9WajlMbDNFNTdtcEx0V3U0OU10c1ZEU1NwZVhJZi1tSklmczNjVHFHNktXcElXMmxCaDZ5UE9Hc1VfVThYbFFPa1VlS2xBcGh3eUszR2hTWQ?oc=5",
-      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "summary": "After Modi: Political Leadership and the Future of Indian Foreign Policy&nbsp;&nbsp;The National Bureau of Asian Research (NBR)"
-    },
-    {
-      "category": "politics",
       "title": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes",
       "source": "Frontline Magazine",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFlCWEVIUFNCTDBfVmdfQ2ZZYjI3aVhsNVc4c29GaXVXZ2I2dUY4Mms1bFFURHlKcU1NUG9TMlE3aTlnaFJBRlg5U0hMQ1FHdWxzdEhLS1pNQ3RqUnRGWnp1OWxQSEJVY0xCaHNEVTR2bEY2NlFTMUdNaWJoM2dpWHJiaFJQVzhUWkpnS2NvWXZ3bFFjWTdRSHVn0gGgAUFVX3lxTE5zeWxqSEtzcVRZMUd1YmJ0MmNYY0tTZVpXbnRaQ1dPbzE5UXRKUkZIejdxUVQzRzhJb2dvbmZvQmlUcjdDNWs5UWhrYk9YQXpialNlRUNLVVAxSXNKUVlwaDZFbDY0NlEyclZ4OVRkenBxaWVJdlhSSmNQMUlFVGtxVjE4OFUtZVphZGU5ZDdZZnZvaXVibm5Kb0tIT3BZYXI?oc=5",
@@ -179,19 +155,19 @@
     },
     {
       "category": "politics",
-      "title": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDczItVklLOHZTYnExbGVjRTUyUW5fb25remJ4OFFWblVqcWxqZ1BDYlh2X1NqM0lDNjNHQVkyUEJUWWNhZERzei1mXzdMWjNfN0tySTZBUzNNemZDcUNv?oc=5",
-      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "summary": "Janata Dal (United) | Political Party, India, Bihar, History, Leaders, & Facts&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
       "title": "Functions of Parliament, Legislative, Financial and Other Functions",
       "source": "Vajiram & Ravi",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
       "published": "Mon, 22 Dec 2025 08:00:00 GMT",
       "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
+      "title": "Delimitation After Defeat: India’s Unfinished Debate Over Representation",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNandCOXhmLVFqQUJZUzZYUHFBck1kdzU4Y0pkbkpGTmhydTNzUkJPcC1MUm9iVGZCaEl5XzFvTUpXUEg5cWc3V21UYkxlQWtSblJ4ekRVOEdsMHZ2cmpUY3dRWmYxVE1oNjA0OTlaQm5neGJERWlwTGQ3amw3a3I1WXp5a0NtZ2RSTHRYLVNibzJMX2JSXzNKTUU3VTliSEg4a21ha0Z1UUdzOWF6NTVibUs5NUxaWlJxbUdaMkhjazAzUFE?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Delimitation After Defeat: India’s Unfinished Debate Over Representation&nbsp;&nbsp;Carnegie Endowment for International Peace"
     },
     {
       "category": "politics",
@@ -211,14 +187,6 @@
     },
     {
       "category": "politics",
-      "title": "Delimitation: Will north India's gain be south India's loss?",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5",
-      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "summary": "Delimitation: Will north India's gain be south India's loss?&nbsp;&nbsp;BBC"
-    },
-    {
-      "category": "politics",
       "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
       "source": "Citizens for Justice and Peace | CJP",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
@@ -232,6 +200,22 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkFJWDg5aGZ2aTF3cmo1b1dDZ04yWmRaRmNkS0ppamtRRkp4Y3cwaGllVTI3Vks5aWRaM0RZQktQdUdtM3g4TXZWcG5ibHN2ZDVsMkloaTFsRTZER0hiMGszRy02NHNQTTlUMTBkTkNudi0tRlluUTlmU3ZwNUxXMjRkRm5sTjBodXhBelFhbGpuTmVfRTl2SU9kRUFrVWRZWnNZaHhsdzdQdFczY3FocnRNREhZTHkwOHBreFFzQ3ZzMF91dVRKRUpEZw?oc=5",
       "published": "Fri, 08 Sep 2023 07:00:00 GMT",
       "summary": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution&nbsp;&nbsp;Health Policy Watch"
+    },
+    {
+      "category": "politics",
+      "title": "Political Representation of Women",
+      "source": "Drishti IAS",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1VaaGtvc05rbnRVand0QVlTTHd3Ul9xTF9TR2pscGFiTFZobkJVOThuVlpGbkF4dGxCVDRJR180dk1vRV9Qd1JnOFVfXzBEWGNzTGtPRHBRbEZnQ0ZDc19TUDVYNnVheFJLNzdFakprN1k3VDkyYVcyNi0xOUhMUTA1N2NyTG9BZW5jbWdwQTRyc3UzelFobmNB?oc=5",
+      "published": "Fri, 19 Jul 2024 07:00:00 GMT",
+      "summary": "Political Representation of Women&nbsp;&nbsp;Drishti IAS"
+    },
+    {
+      "category": "politics",
+      "title": "Delimitation: Will north India's gain be south India's loss?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "summary": "Delimitation: Will north India's gain be south India's loss?&nbsp;&nbsp;BBC"
     },
     {
       "category": "economy",
@@ -283,14 +267,6 @@
     },
     {
       "category": "economy",
-      "title": "Market expects one more rate cut as inflation stays benign",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMVkwUXYwVEMwNHJqSUpqcU5kOHlHYkJia1F1SHEzMmRYQi02a2JVSjZNSDV2dFY2UFdTMmVoTFExaWRwb1hubnpFQjZKOVhuSFNja0UteFBYcURvMEhGNzJrU2Y1dl93WUdtMWJpWWxrMTRqUXlkQkIxT0hTVGpsUHNiQkU5WUxsRVV6ZGw4OFVKanU1RXN3V2JnYjA3QjRQX2EyWVZoNjd2ZGVHMDlxYVpYSHlGNTQ4ODNROFdySm5YT2M0Yy05aWk0MUzSAdIBQVVfeXFMTkZ0WjRkellpSU1Gb3R0LTQzYjFaOHpJcUQyRHpiakZBZ3Y3cmZMeGpodl9aWW82cDBXUmE2UTljOUlDa3FDcVdpd3lhclFTX0hCYl9XS2NYS05iUzIwdEQyejVPWWtYY3hGTldmV3ZJcjlhNDZMSWtTQy1OYUppdnAyN2pFMHFtQzl5MTIxSzlNcTJaX3M2eEtQRFFVcWxVLVl2dzRaMHZrUnRZcmFVWFlfLVZ4VFJmODBQdmZiWHpBd09tVS1xSnhDQ01uMHN4clJn?oc=5",
-      "published": "Tue, 09 Dec 2025 08:00:00 GMT",
-      "summary": "Market expects one more rate cut as inflation stays benign&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
       "title": "GDP growth outlook raised to 7.4%, repo rate stays at 5.25%",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRnRzRzZnSEJlZHJNbEh3STc5bFZaMHMwOGd3cHRDSGo3NERKTkVpR29xUWJmWDcyVVRtbmZRWmpXVVJNS0lTeHVQcldwempWTG1YQ0JDaFBIcUtXV0pVV1NONHI4Tjh4QjJ3dUw0YVg5XzB4V1VTQ01VeGFRNEtQT05YRm1ydjhsVnozYzAzMFkySWU0QUJFbEFveFpRMFhoZmZueWJOdXRoS3NaMmpkYjFpQjlGdjE5T2NMNEQ3dnZOdXdSV1FFMFVXcVdjQm56RWY1QWlfXzM1d9IB3wFBVV95cUxPVU04S29BYUJNMWRvS2RhTlhFWUNVenRVRjZtdkk1ajZmMnVteG02elgzYmZCUTlRSnNKYUJtU3AwT2FOVU1LY1FZX292TmxtdTkyU1FFOVJvb1hXREdSVXFtb1pOTFExVzJwcjk4Z2swVDcxNEdlaGlZcVZNLUF5VEVJX093TjdhY0RmN3FLMEFBQ3dSRXl0UEpscGlpd1FwM29xWEstdGlPNjJYUGNXN1NmYkc1MmNfNmJTcHo0X05neHpVZ3VNc0s0R1VBQU1NUXFIa05OQXFSTWdpYmQw?oc=5",
@@ -328,6 +304,14 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2tJVWx5aTJWV003dDVURVQwbndnNDQ5S0dER21jUk5jeElGWFdtZ0xscWRGRlltd3BmaWhKVHZFWk1RRjZ4YndRNzZhaHdBQjRhdXA5UHFMNFRRc1hkOXJtU21SUDdlb0luU2ZxNUQ4cl82U3pRTVRnVms0V3lJVURfMFRmT0dVOVRTR2I1NFNoVDBwNHZIeDd3T2hjOWNhNS1YTFV5MUtLS2JSVUhvbmx0bFRwVml4UVZpQkdtWVc5eWdVOXFwR05XU2hCSklENTk4bHFpaGPSAd4BQVVfeXFMUENTS0JlT2R5ZGhUTENHWVRPQUduVklHUHByVzRNVzB0TDZvNVI2VUtYeGFuY3JlTnFTX2FERUhMc25kS01vb1NXWl9NVkRnb2FES2FnMkZrSVp6N2Vvb3pSYlJoVHpWdTRsS1gtS0VLTjFUbFFJd0dTOG9mX1pmdlk3dXRrSFJTeGVha3BlOXAtQkhFOFduNHRIenRRSE84QlF6a2czWlItTDdYRVFJQVBiOVdNRG1kU1lncHJaeTBoaThCTkdtUlg2OFdpTEZhMXVjTVJHWl9Ea1FfMVdR?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "RBI keeps rates steady, positive on growth and inflation&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "economy",
+      "title": "Budget 2026: The next phase of India’s growth depends on resolving a critical imbalance",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaTg4emtUQTRkc28yZjI4MTlpT21FQ3BiVmg3ZFFLcjdWWmFNLVZpQmdLVXloOEZDRXFwd3ZpX1F4VUVjai1lWTVydzBzYXRjdlBiWFkzN2tIOHl6UWRDcklkMUctNTNhV05qcGY0T2x1dU5qNTVkNHpKMzVDMVFuaEw5cG9tbkVZNXFONzZzYTBuSm1SVXo2WEpKMDN1RDlUR3NMbFF3MUljN3Myd1VTOFBYZnRUUUh3OUs2c3ctM3NEdFRSVFVpYUVFOEU2dGtZekE5RkJnenpHeFdTMjF5eFhZSXpxVHdYZEhMUnRBODBWVnJPU3o0S0Q3Nk1xZERoTmRBZmNISVV0aHRTbDZWNzBnZFRRREl4M3J5dXlTR0VkRlpRRkRZUmM2U2Z3TDhOSnVxUE1Da0ZmM1BHRjhr0gHEAkFVX3lxTE1FR1FwMFJuQVRWYWRTSERRTzR0ZjRlR01sRGFsSDhVZVFmMEg0SG9tQXNva1hCTkpScU55QTlkRFBZSkVvSEdzMTNrMFc0UWNuSG85cFNrQ3hROTBnZ3dBdlgxaGNkaUdtQ0s0a2oxWkwtZk1xeERfX1VweG9BeXBIODl2b0QwM0tSUXJfOVFSbnNtRG1MbmpIa0VwUVpIVTg1R2xoeXRPNlk5cVZkMXJpeDRSaGdaYnZ6aE01ZDlkQUx5WjhZUllMQ0V2akxTS21mdGN5dDhpNTNlWUtVWHJORjNSRkg3aHdCWmRhTzROVTIycUdKYjdRZXViZG5jQmVtaE1CSXpKbGlYdVJ2dHZXeGtvZzB6d2VqbS1jSHlqTVZyeEhmOEUtc2tsVEJkUFlZSFRpNmJZNHFnbzFZalNaNHRjRg?oc=5",
+      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "summary": "Budget 2026: The next phase of India’s growth depends on resolving a critical imbalance&nbsp;&nbsp;The Economic Times"
     }
   ]
 }
