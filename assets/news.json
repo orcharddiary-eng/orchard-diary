@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-26T10:10:02.185769Z",
+  "generated_at_utc": "2026-05-26T15:56:46.234530Z",
   "items": [
     {
       "category": "pest",
@@ -19,11 +19,27 @@
     },
     {
       "category": "govt",
+      "title": "National Mission on Edible Oils",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "govt",
       "title": "Karnataka Budget 2026 | Krishi Vistara, AI-based Farmer Call Centre and Raitha Malls planned to boost agriculture",
       "source": "Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1ZId2x5NHM3eG02MllEeFMyQTJFWGhHNUFZTndlWEJ3elBMaTFfZkZ4U3JkamV4di1CazNhT3c5SXBaZWhsdmUtZHFtMFVwRXBhZ25kN3NNMzU5dXQtNGxfZTlpMHRuWUhiWmZ1aHhqRnlxS2kzNmdpUndkZ2ZHV0ZxWmlRZGhvYkRqMzV6X0FHTnBIRVdmWEhDX1Q2eGt3Q3o5VTFqdHdHREMxTDVlRWNzSzRFSkRvbHJteS1NdklIMHctWnBmT253alVWak04ZlBRaU1Oby0tNTNudXIwNWV1aGxJUm81eFVzWTFOdE13X2tsV0E?oc=5",
       "published": "Fri, 06 Mar 2026 08:00:00 GMT",
       "summary": "Karnataka Budget 2026 | Krishi Vistara, AI-based Farmer Call Centre and Raitha Malls planned to boost agriculture&nbsp;&nbsp;Deccan Herald"
+    },
+    {
+      "category": "govt",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
+      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
     },
     {
       "category": "weather",
@@ -107,19 +123,19 @@
     },
     {
       "category": "weather",
-      "title": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGQxR3pmOW5lb1ZFQXJYbXZQTXljWWVwb1pPbW1jWTlKTEFiM05rNVl3ak51cEpSNHdRdDQ3QVM5M3o3bDkwa2VyczNxUktyTWd4X2hJZWlqU0RkQnlNZ2xNazZTWU11YVhDSUZyQTB6MFlYSTRzdUYyemNMMnA5RHc1aWJ1N1NOR0JTOGM1Y3FKMm5uUjM3OWtGai1GSGRNelc1QUtoZ2t5VEtfc0VTNWFqeUlmelczTE9kX2I2MkFfSldmS3UxdFlPbUp5WWJpaGlQQmZaUHVmQdIB3wFBVV95cUxOdFdzUTRlR3RSRWhfbjZJVzNHZ0ZmTEliWnpRLXowdl9KcWRmWU5NTGd1bkRMTmtmWFB1RjBwTXk3V19LQk9lcFVLdnVYOHJqVWpvNzhWc1VkLXN2aVRzaVJjNHN0el9vMmhHQ2g3Q0NZWWpSRGhOUFF5Y3hGV3d1NlpWZ1oxRW9Xbk13WmpEOUNreGd5Q0F6VUd3aUhGdHJndGtKdnFkck0tazk1WXY4THJsZTlzM0FiWU9lbW9UdlYzWXZ6QlJCZHl3VFBFcGw2bWJBUlhXS25Pc1FBTkE4?oc=5",
-      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
-      "summary": "IMD issues extreme rainfall and severe cold warning for these states. Check advisory&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "weather",
       "title": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYV90V1ZNXzlLajZNNkUxQkNVOFBxQXMwdDlGb29KUjhVSVVoYUdnNGFmd1dWb19rUEVmUmV3M2gxbTR1bnVBMVFmbWdIWjBkQ2V5VU9rdS1ZQzlsbEJGaHBPd1R0ZVN6MzM5WDRXQWQ2X0cydEE5U1p1eElsUWhUZTg1OU5nRnA4eWtldVNWZENKMi1BZzhVeGtTMGhEeTZGS284Y2toUUhnV0xiZzhPMVl3UkFZUVFjdVFZQmQ4RzJEdzdtUmhscUY1dXdMQW1yZU4xbWNyNWtmNmt4d3JMQng2Z25xYzlDR3pPVEZnNzgyVWpjUFNySGM3QlNkcEZ3MnIzb3ljOFHSAY4CQVVfeXFMT0d0YzY4b1V6R2JoSWRsSjRUQmp4Tmw3bUUxVWQtaVl2d2RJalg0NFRIRE9SbnZnbkk1V1p6cWJNRXJtb2lkVy1ZLXlnQ0Y4aVVXcWxzdFFYTlAxR3BrZndHYkJFR0dLQ1FIYUlJcm5ISEdhUVBjQnl6a3VMMDRVS21wbXBpeHZ3U2dlM3hBRjAtM25KY0VXYzh4Qzh2cUQ5b1lKS1pzQ0NOYUtPNVpYMl96NFFpSDhNVjhiN1lMcExkdlc1ckxhR2szZ055bGQ1YnN2UFRmVFNKVEhGWUVLMV9aV296emZaWEYtN3ZpYkpTVFZNQ0h1b1N0ZjB2YzhId2NlLTVxSkxRNWlrM0ZB?oc=5",
       "published": "Sun, 22 Mar 2026 07:00:00 GMT",
       "summary": "IMD issues thunderstorm alerts across India; heavy rain, hailstorms strong winds likely in multiple state&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "weather",
+      "title": "Weather today: More rain predicted till 5 April due to ‘active Western disturbance’ — See full IMD forecast",
+      "source": "Mint",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYlVfRVhacTFrRWxsek5OdC1MZzhTZEVKclAzelNHdDNFb1BnNk52MjZHTDJqQkdmOFpFbTV6d3A5M0NCSDl0UVd2NDAwQjlhbVZsQnhzaXM0VzYyWUtZQlllSDY3djg5a0ZwT0JyUGVwYVhPV3JWR1c5NzRfZmp0RDhDVkpOS0h2ak1vdGNrZ3NWcFFTTXoxanZoa2dXakVxYl9WYlhwRDE3eVVyQkc0WFNSZDd4eFI0SlpHZnlnZjAzZi1FNVM0elQ1NUpUWEVrVEVuNlNKWHBGMmZpUWlQVnlsc2F6YjQzamREM29vUWHSAfYBQVVfeXFMTUY1c2xBdWlvTl90bExvSkx5UXFoWjd3TlNNV0cwUDR0aVpBT3Y3cFMyTElzc2YtTzdla2NxRjFuRkJqakVRYllQak5EcWJaRTdpVmJQeGgtZmIwcFc2SjdXTXFvXzdBYlUzcEFxRHBRbWg2RnRTMmpiYzdWZUxQZjNqOXVmbi04NHp1a3ZyOEJDanFKanM5WE44VDBwSXhoY0dHYW5GRXpMMWlhT2ttLWZDd3NrWWNRTUE5YmFCbE4yY0lRT2NrWnFrMkQ1anpHTE4xaHJ3U3FzUkNENzJIXzBaUzFQVVBTenNCbzhMSlB6elg2cE5R?oc=5",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "summary": "Weather today: More rain predicted till 5 April due to ‘active Western disturbance’ — See full IMD forecast&nbsp;&nbsp;Mint"
     },
     {
       "category": "politics",
@@ -171,11 +187,27 @@
     },
     {
       "category": "politics",
+      "title": "Delimitation After Defeat: India’s Unfinished Debate Over Representation",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNandCOXhmLVFqQUJZUzZYUHFBck1kdzU4Y0pkbkpGTmhydTNzUkJPcC1MUm9iVGZCaEl5XzFvTUpXUEg5cWc3V21UYkxlQWtSblJ4ekRVOEdsMHZ2cmpUY3dRWmYxVE1oNjA0OTlaQm5neGJERWlwTGQ3amw3a3I1WXp5a0NtZ2RSTHRYLVNibzJMX2JSXzNKTUU3VTliSEg4a21ha0Z1UUdzOWF6NTVibUs5NUxaWlJxbUdaMkhjazAzUFE?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Delimitation After Defeat: India’s Unfinished Debate Over Representation&nbsp;&nbsp;Carnegie Endowment for International Peace"
+    },
+    {
+      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
       "published": "Wed, 16 Nov 2022 08:00:00 GMT",
       "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
+    },
+    {
+      "category": "politics",
+      "title": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)",
+      "source": "bjp.org",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdKcXk2ZGFyaXMtX092VFA3RUZ4bWtGOHNHREFiZ18zRDhuVVBlcHU0ajdicFRKdmVsVlpFRGNWOTJzYnFmZF9GaEY3bU1YejFhVWN3enlRVml6dUpHNkFaTXBicEVOYlFCSXphcUN3akJraGp5UF82UnBqT1ZDMVZWQ2tQbHA2WEJCR25sY242bmRZN09KYUpUc1pFSWppNHpQTk82NWpzdm1zeWN6LWJKQjZ1TzNv?oc=5",
+      "published": "Fri, 15 Apr 2022 13:09:18 GMT",
+      "summary": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)&nbsp;&nbsp;bjp.org"
     },
     {
       "category": "politics",
@@ -187,14 +219,6 @@
     },
     {
       "category": "politics",
-      "title": "The Resilience of India’s Fourth Party System",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamtkTFRkZE8xdGlneTFJdUUxR2J6OTJDUXpNWEFVMzdpdjY3WGxvUnRWN3hwU2RvOHNqdXdjclg4UzJ2QngzRDkzYnVfX3lpT3B4akVYb2VfQzZNQlpnQzh0cGE5dGFoeVBBQzk1eHlLT1NrMjV0V2hpaUdTc1htQl8xU21pY1U?oc=5",
-      "published": "Thu, 26 Sep 2024 07:00:00 GMT",
-      "summary": "The Resilience of India’s Fourth Party System&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
       "title": "Small Group of Indian Politicians Show Rare Bipartisan Unity to Fight a Common Enemy – Air Pollution",
       "source": "Health Policy Watch",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkFJWDg5aGZ2aTF3cmo1b1dDZ04yWmRaRmNkS0ppamtRRkp4Y3cwaGllVTI3Vks5aWRaM0RZQktQdUdtM3g4TXZWcG5ibHN2ZDVsMkloaTFsRTZER0hiMGszRy02NHNQTTlUMTBkTkNudi0tRlluUTlmU3ZwNUxXMjRkRm5sTjBodXhBelFhbGpuTmVfRTl2SU9kRUFrVWRZWnNZaHhsdzdQdFczY3FocnRNREhZTHkwOHBreFFzQ3ZzMF91dVRKRUpEZw?oc=5",
@@ -203,19 +227,11 @@
     },
     {
       "category": "politics",
-      "title": "UK and India collaboration: Roadmap to 2030",
-      "source": "House of Lords Library",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmlVX3JpSUY4NDFNZUhQeHlwUktxdEgyVmUwSC1obmptaVZPMnRRRmtKcmJNZ1VuY2V6MTJZRHgzb3c2OV85RU04NWNyUjRMUThkS3NCaHJ2d2pNQTN3RTdXZkstSWUwNmxYN0t4R0FhVGQ0a0JQWnJjczVmdElZNlFPRDc?oc=5",
-      "published": "Thu, 12 Jan 2023 08:00:00 GMT",
-      "summary": "UK and India collaboration: Roadmap to 2030&nbsp;&nbsp;House of Lords Library"
-    },
-    {
-      "category": "politics",
-      "title": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)",
-      "source": "bjp.org",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdKcXk2ZGFyaXMtX092VFA3RUZ4bWtGOHNHREFiZ18zRDhuVVBlcHU0ajdicFRKdmVsVlpFRGNWOTJzYnFmZF9GaEY3bU1YejFhVWN3enlRVml6dUpHNkFaTXBicEVOYlFCSXphcUN3akJraGp5UF82UnBqT1ZDMVZWQ2tQbHA2WEJCR25sY242bmRZN09KYUpUc1pFSWppNHpQTk82NWpzdm1zeWN6LWJKQjZ1TzNv?oc=5",
-      "published": "Fri, 15 Apr 2022 13:09:18 GMT",
-      "summary": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)&nbsp;&nbsp;bjp.org"
+      "title": "Delimitation: Will north India's gain be south India's loss?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "summary": "Delimitation: Will north India's gain be south India's loss?&nbsp;&nbsp;BBC"
     },
     {
       "category": "economy",
@@ -248,14 +264,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzJjWHBJVHpESUpXdW9DQXAtSENBdXJJMGU5LXNEUVlTWHNhaDlNb0txOW41RVZoa2NfbDVIX0RidGRTVTB3RVF3RlVzbGdLeXRmbzdpNFlwdnRmMkdMNnZmZUJydE5yTjlQRjNyd0NNZGpqNXBKeUd5VHpob2ROMlRyLTRRWkhTV1Z0NzlDckc2eXFEMkw4amZndE8waUNoejBtU0hxaEp0WnhHLWRNc1lkc3B2RDM0WXU3c9IBwgFBVV95cUxOX1BubW5SRVZ3aVU3elAyRlFQb1RBcHcyX3J3cTN1SEFhVWZaWlh0RmN5VlVwRzU5U2RDNG4yVFN5Q1BFY25Gb1JUT3pybFZueDR2NlhlZlNvT3lRMXNLUndHbzJscGxLcUNxX3VRaGdMb01OcXpoNEN0RmZwTjJOU1lBVEZiaGd5bFJXemFQOWItTjZXenJrWkJzcWhuSHM4MUNlbTBrSVJwYlNZMGJkVDZ1ZThqVXF4OXI1Qzdack02dw?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "category": "economy",
-      "title": "Press Note Details: Press Information Bureau",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFBjUHNNT3FFLXFGam1uaHM0RkdyVlFfb2xZa0VmbmRMZkR2bVdNTDJrbWxkYTBMQzBfMmpuY2NBdl9PdmZTV000M1hBSUVLa0d4WXJGRU1ibGxXZXQ4Z1hJakp1a2E5aXAtdjgtSUEzVWtNTTg2UXZQWW5veFg3bEJmVFN5d3BzVFE?oc=5",
-      "published": "Mon, 29 Dec 2025 08:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
@@ -304,6 +312,14 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdktKTkVfR0JmYXgzRl9JSm9MQUNhYUxMcjV5Vk41ZjBtLWZxREFiaE5tOTM2U2htc1pkX05zMkZtRzNuV29Oc3JtSm00WWc4QWhwUDRWWDFQSGhNNlFpZklSZVJGUjlOUEtmM0ZLMmY4Q3E0dThsWnBsY1J2bFlXVkZNeDhGOEZ6bjRnVTMwSzJTVnB4U3VyQVRwOUZQVXpwc3N5blgwNWl5cXFxQmlNdEZEYlFNcjEtVXVsWEFOVDJoaWFZWTRrZWZJdXBveHAtTEMwM05aTHRVNThtVjZwWC1nYzhud9IB6wFBVV95cUxPVTl2MFZVWFNSVHp2T2wxaWduZDlXU2ZXc25fVVRWNGRoQmo4Y2I3RVlhOVpfRy10MGozNGtsVkhzUkltVlFENFhiSVc2cEpHbXBtem5IWFJtdW80X0FUSkFrSGM3cjg3UzNWOWVucFAxZXprQzI0ZEJBbERCZEV5SnBaRl9QWUp5YWdQZEp5aExiV3JxMm5uRTUzZ0Z5Ti1ONkI0dXkwWkdrSTRIZGFmRnpmdnJRX0daVXR3ZXRubWhQUTBrQ2ZNSEgzdHl3TmZleFlWS0QyemYySDdMd0F6Q3FnSTBzcVBJaHpV?oc=5",
       "published": "Sat, 31 Jan 2026 08:00:00 GMT",
       "summary": "Budget for power shift: Key numbers to be watched&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "economy",
+      "title": "Stellar growth, low inflation raise questions over need for RBI rate cuts",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGpsaElOMUN6TzZqaEdMNjB4OFNhb2VSUjNBNUx6TmNSMTlITGtMSzJLSkktazZybjJGbW9SZ3paZWxNdW9BVVEtcXhTNzJWbEFST2R0bDN3OE1Nd1cxckM1ek1QMjBibkc3Vk9BVWdFOThkUjIzNEt2X1BGc2gyOWhVV0twXzlaclhEaktPWkdmU08zWW9OY0tSVGROTUIwc3lKaF9ZekVKZ1dtRE5yVGFKVG5kZ3lvYk5ZaVlaYmViSUpjdWI3bXhyUEtLYmxzclB1QkNR0gHbAUFVX3lxTE5BQWVXLVZoSUl2NGdWeDVUZ3VrSVhBRk5TX1dhX0lzblRtSWtZaXJjQTRGYVZXS0dTc0wwLUxES2hyc1k0SWdMV0QzdEN6NGRCX1ZiYWFBSkFFVkdpTG40U2lac09OU3UyWi1ySGQxWExYaWNmWV9GZVhfMWprdmxZcF9Zbm1wa01wd3ZackowTGNjNHVXdGNIcHc0cjRhOG1vY0xHYzVkZkpWUmdfTXlwTnVDNjNjR25XMUo5ODNfTFlCQ0JySEpHd2NmSFltd3U1RWVscUl1N1hxNA?oc=5",
+      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "summary": "Stellar growth, low inflation raise questions over need for RBI rate cuts&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
