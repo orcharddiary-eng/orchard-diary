@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-30T08:35:18.863830Z",
+  "generated_at_utc": "2026-05-30T13:54:38.831730Z",
   "items": [
     {
       "category": "pest",
@@ -19,27 +19,11 @@
     },
     {
       "category": "govt",
-      "title": "Press Note Details",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycm1nSWw1TXEzZVVhN19RVGJhem1reEs5NjJIdWRyX25yMVVaaW1CaVFGUUloUm1MWndLd2NOSkpHaFNBZks2dGdyTHFKQlJjdUtRc1Jma0dFTFI0aFJycTdjdnlLcjA1RnoxaHNtOWtHSy1TYjJ3cA?oc=5",
-      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "govt",
       "title": "Karnataka Budget 2026 | Krishi Vistara, AI-based Farmer Call Centre and Raitha Malls planned to boost agriculture",
       "source": "Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1ZId2x5NHM3eG02MllEeFMyQTJFWGhHNUFZTndlWEJ3elBMaTFfZkZ4U3JkamV4di1CazNhT3c5SXBaZWhsdmUtZHFtMFVwRXBhZ25kN3NNMzU5dXQtNGxfZTlpMHRuWUhiWmZ1aHhqRnlxS2kzNmdpUndkZ2ZHV0ZxWmlRZGhvYkRqMzV6X0FHTnBIRVdmWEhDX1Q2eGt3Q3o5VTFqdHdHREMxTDVlRWNzSzRFSkRvbHJteS1NdklIMHctWnBmT253alVWak04ZlBRaU1Oby0tNTNudXIwNWV1aGxJUm81eFVzWTFOdE13X2tsV0E?oc=5",
       "published": "Fri, 06 Mar 2026 08:00:00 GMT",
       "summary": "Karnataka Budget 2026 | Krishi Vistara, AI-based Farmer Call Centre and Raitha Malls planned to boost agriculture&nbsp;&nbsp;Deccan Herald"
-    },
-    {
-      "category": "govt",
-      "title": "National Mission on Edible Oils",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
     },
     {
       "category": "weather",
@@ -139,11 +123,19 @@
     },
     {
       "category": "politics",
-      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
+      "title": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs",
       "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdHVCTFl6VjREeElOSzZQUFIxdWJfMDNrbTQ2THpSeDN4dEd0RHFEdnNfNTVkWk8yai12Y2J1MENCZmdRSi1YSFE0Q29wV0N3bldkSnFiMlJhbUxUcGVCbFc3a3VhUQ?oc=5",
+      "published": "Thu, 28 May 2026 05:00:00 GMT",
+      "summary": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
+      "title": "Rahul Gandhi | Biography, Congress, Education, Parliamentary Membership, & Facts",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYWElUNFVxb1ZTaW9KcUlvMmtjYkc4Z3k1dTNyTzVlRjQyYkVPVWxfSXhjREszQ1AyckdQVjlFaWRuSnpfZzlHanRKdEpaSEFiQUpoZzlWSXF5U1hUZWc?oc=5",
       "published": "Tue, 26 May 2026 05:00:00 GMT",
-      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
+      "summary": "Rahul Gandhi | Biography, Congress, Education, Parliamentary Membership, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -176,6 +168,14 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFlCWEVIUFNCTDBfVmdfQ2ZZYjI3aVhsNVc4c29GaXVXZ2I2dUY4Mms1bFFURHlKcU1NUG9TMlE3aTlnaFJBRlg5U0hMQ1FHdWxzdEhLS1pNQ3RqUnRGWnp1OWxQSEJVY0xCaHNEVTR2bEY2NlFTMUdNaWJoM2dpWHJiaFJQVzhUWkpnS2NvWXZ3bFFjWTdRSHVn0gGgAUFVX3lxTE5zeWxqSEtzcVRZMUd1YmJ0MmNYY0tTZVpXbnRaQ1dPbzE5UXRKUkZIejdxUVQzRzhJb2dvbmZvQmlUcjdDNWs5UWhrYk9YQXpialNlRUNLVVAxSXNKUVlwaDZFbDY0NlEyclZ4OVRkenBxaWVJdlhSSmNQMUlFVGtxVjE4OFUtZVphZGU5ZDdZZnZvaXVibm5Kb0tIT3BZYXI?oc=5",
       "published": "Wed, 11 Feb 2026 08:00:00 GMT",
       "summary": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes&nbsp;&nbsp;Frontline Magazine"
+    },
+    {
+      "category": "politics",
+      "title": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1xbzh2Ul9fY0NVR3JfaEtoRy1maE56bVlqZTV1LUV6YjYtakhZcVVYRmJvMmtsTlYtZXdvMzlQX00wNkdteEN5UXBvV1pyWHIzeHhFeGp2YXF2YlE1WmQxUVprbExWV3luOGN1Rkktell0cDE1ZmJGTmRSMlVyNHdUSUk?oc=5",
+      "published": "Tue, 26 May 2026 05:00:00 GMT",
+      "summary": "Indian National Congress - Post-1991 Reforms, Coalition Politics, Nationalism&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -218,20 +218,12 @@
       "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
     },
     {
-      "category": "politics",
-      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
-      "source": "Citizens for Justice and Peace | CJP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
-      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
-      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
-    },
-    {
-      "category": "politics",
-      "title": "UK and India collaboration: Roadmap to 2030",
-      "source": "House of Lords Library",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmlVX3JpSUY4NDFNZUhQeHlwUktxdEgyVmUwSC1obmptaVZPMnRRRmtKcmJNZ1VuY2V6MTJZRHgzb3c2OV85RU04NWNyUjRMUThkS3NCaHJ2d2pNQTN3RTdXZkstSWUwNmxYN0t4R0FhVGQ0a0JQWnJjczVmdElZNlFPRDc?oc=5",
-      "published": "Thu, 12 Jan 2023 08:00:00 GMT",
-      "summary": "UK and India collaboration: Roadmap to 2030&nbsp;&nbsp;House of Lords Library"
+      "category": "economy",
+      "title": "U.S. Stock Markets Soar Amid Geopolitical and Inflation Uncertainty",
+      "source": "Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnJNZm91TEpwQkZXNnM3cUxManB6dG5ERnBoYTJ6cWJJaU40a1NteWxkTjlZVncyWm9LLVUtUFVEWkYxUVZQYy0zclN0SWVuUXJYQVFJMzdsZXI4cmpfdU9qYVNLY2tnTTg4SHZtdjN2Z2E4cHN3djFlQ2YxbVBOek1ZTDNQTFc2WWFtU1NTRkl3bnJ3R0lVRl8wVWZ3ZmFqNk5TOGVkY3h5U1FYb19rdFNoWXVhdklZRW5wZC1iQXLSAcABQVVfeXFMT05yTWZvdUxKcEJGVzZzN3FMTGpwenRuREZwaGEyenFiSWlONGtTbXlsZE45WVZ3MlpvSy1VLVBVRFpGMVFWUGMtM3JTdEllblFyWEFRSTM3bGVyOHJqX3VPamFTS2NrZ004OEh2bXYzdmdhOHBzd3YxZUNmMW1QTnpNWUwzUExXNllhbVNTU0ZJd25yd0dJVUZfMFVmd2ZhajZOUzhlZGN4eVNRWG9fa3RTaFl1YXZJWUVucGQtYkFy?oc=5",
+      "published": "Fri, 29 May 2026 09:10:52 GMT",
+      "summary": "U.S. Stock Markets Soar Amid Geopolitical and Inflation Uncertainty&nbsp;&nbsp;Devdiscourse"
     },
     {
       "category": "economy",
@@ -264,6 +256,14 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRnRzRzZnSEJlZHJNbEh3STc5bFZaMHMwOGd3cHRDSGo3NERKTkVpR29xUWJmWDcyVVRtbmZRWmpXVVJNS0lTeHVQcldwempWTG1YQ0JDaFBIcUtXV0pVV1NONHI4Tjh4QjJ3dUw0YVg5XzB4V1VTQ01VeGFRNEtQT05YRm1ydjhsVnozYzAzMFkySWU0QUJFbEFveFpRMFhoZmZueWJOdXRoS3NaMmpkYjFpQjlGdjE5T2NMNEQ3dnZOdXdSV1FFMFVXcVdjQm56RWY1QWlfXzM1d9IB3wFBVV95cUxPVU04S29BYUJNMWRvS2RhTlhFWUNVenRVRjZtdkk1ajZmMnVteG02elgzYmZCUTlRSnNKYUJtU3AwT2FOVU1LY1FZX292TmxtdTkyU1FFOVJvb1hXREdSVXFtb1pOTFExVzJwcjk4Z2swVDcxNEdlaGlZcVZNLUF5VEVJX093TjdhY0RmN3FLMEFBQ3dSRXl0UEpscGlpd1FwM29xWEstdGlPNjJYUGNXN1NmYkc1MmNfNmJTcHo0X05neHpVZ3VNc0s0R1VBQU1NUXFIa05OQXFSTWdpYmQw?oc=5",
       "published": "Sat, 07 Feb 2026 08:00:00 GMT",
       "summary": "GDP growth outlook raised to 7.4%, repo rate stays at 5.25%&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "economy",
+      "title": "RBI MPC meet begins: Will RBI keep rates unchanged after US trade deal?",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmtWRlUxSWJyVF9rTllxUHV3UlJRNW5DSkh6VUlENjRob2xvVmpjcVU5WVRVaGZEcmFYa1B5ZlJyd2VSTDFyOV9UY0d0U1dLelo3SVJFTHdmMllMTUFPTUJxMWgwRE1OdjN3bnJqUjl6LTRhU1QwYk94YXBKTEtYSk5YUEItRWl6RlN3S3VnVjJ0TDFwekhlZ1JTOFBxR3VWQmZaWlQ3MU0yakhFUE9Cc0hfR1IyUTFJdmNZUVBoMHVoYnBDX255Z2xINFd4ZVpTeUNzVNIB2gFBVV95cUxNWEh4a1VERElsbndyUV9HdjJpZ2swSEtBVE92TExieWZnXzRtbk9IWHZpZUV6SnNsNlRfOUpLblNYdVR1ckVPa2h5WE5fT2hjQm5EZGhhbV9lSlJZQ0F4UUN1ZWlLcnp3YmJkWGN4X3diRjh4U2xZYkYyN0VLNlp2bDJHTmplM0F1M1g5U2d4RDJWaHhDMEZWRk5JcHhWaUhRbXVraGVZTFJKUTRkN21FTzA0RTgxU2p1UWVLdTVibE9DVnFPbzY0V2g3YVAxRHpLWkt6VDBOb1lMdw?oc=5",
+      "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "summary": "RBI MPC meet begins: Will RBI keep rates unchanged after US trade deal?&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "economy",
@@ -312,22 +312,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
-      "title": "Press Note Details",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTh2QkNJZHQ1LTRmaWdWN3ZhUFgwMHJZQnpMZHhiYnZDdUdtcFRPbzhFdWpFLVdjRWI4MzJ0TC03MW1UTjNNUW5SZ3NOY25YNXd4ZXJSRm5XaVFYNWNqbWVzM0VDOXNDcmIwTi1aWGt1QWVGVHhyZnpsc2FDclNzMXpXYlZDd2ZrM1E?oc=5",
-      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
-      "summary": "Press Note Details&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "economy",
-      "title": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXdkaVpfbzFFVWtEYnpBTW00dTdBeTQ5YU9BRVk2SHhjNm1aMGM2eEE4WHdoV2hlOWh2M0VITGFqNnFpYmdjZkdkeUc5UXlBVEJjN2dlUmRZTDVWVjFUWU5jekloMkpFSG1wdkQ5ZHFXcC1wM0JyNzZLMVpPUFhwc0NMOWNVS1l5MGtjZWZtNC1FSDQ4WWQxZEIxZTQzdktDVkNaU0dqWnJyb3NseWFQU09jc3BBSlc2VGdUUnRlV0RjRi1vYVlpRm01RV81enpLQ0NMTHV3VF94cDZleHZUWVZZNjJmbHhYa3kyZkFOUEREbkR3Z1gwSnNhWDV1eWFEWEdxZTRycC10cDlzSEdvNTVCTTLSAZoCQVVfeXFMTS1kUmVVZEx2VUNod1lYVVhxZlhlVi1hM3BpYTVWXzNkRXBDOUtwcjQ3YzVCWEk4X1RPblFheEFxd0t2RWlLQnI3bmoyOFdiWnpmNkp1UlZaczlNZHA3cE9ORW94Nm5fSk5VQTJCbDFFWko1XzltaC04RTgza2FKWjdMaC1YZXhTcU5MY3l4UWVFWlFMYzdxdk9FSnE5RHpOODI1NkVWRGYtWkdrd3dVR2pFRlRiM25PVlFFUTVGNm5Ed3pqZzYxSTdCOG94emM4WG9hbG53WGx6Y0VtdzlRbG1xZjVVQ3JsNzczX0lxNXNnSTdtcVZjcjY5RjZFUVJPZjgzSWh5LXhNVjAwU2FHc09iTTItQ2FnSS1R?oc=5",
-      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "summary": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals&nbsp;&nbsp;The Times of India"
     }
   ]
 }
