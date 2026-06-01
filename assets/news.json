@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-01T11:48:28.611454Z",
+  "generated_at_utc": "2026-06-01T17:54:45.336027Z",
   "items": [
     {
       "category": "pest",
@@ -16,14 +16,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEdoeWJoWUNuc2pkRUpQQmlfcUJOaTRuSVlYandDdzAzYXNRQ2VxWWJnQWxoZEloUF9oS09aMmVvTGxpLVkyZHdHb096NloxTWlKN2FzNWZuNUtoMDRYWVlQazFhcHdJbE5LTUxjWEpna3VHRTI1SGw0T2kzbFc3Z01fUEU5NzdLTHpQTE5qMEpSQ1YtM1k1ZlVsYzRoNy04SDZhOW5LOWs?oc=5",
       "published": "Thu, 24 Jul 2025 22:42:44 GMT",
       "summary": "Enhancing urban and suburban landscapes to protect pollinators&nbsp;&nbsp;OSU Extension Service"
-    },
-    {
-      "category": "govt",
-      "title": "Press Note Details",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejBTWkZPLTJlRjVzSUw1LVItNDUta2h3NVZZQWd4cERVMkV1QU81c1FSajhOSWgyV1hPNXlJc2wyWTlxVzlxNjhWQmxDSFVybEpxaTliRGNrZS0yX0p3bnVBalNTNHJfeEhqWG9aNDg2QmJucEZOazQ1Y21MQUIxLXlEeEJoVkJOUXc?oc=5",
-      "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details&nbsp;&nbsp;PIB"
     },
     {
       "category": "govt",
@@ -139,6 +131,14 @@
     },
     {
       "category": "politics",
+      "title": "India - Democracy, Federalism, Constitution",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rWmQxdTk3OXNXTVA4VU50UTJOaWJTWXF4TjVYVlJQLXphMURfODVYRExOeGhYSGRfMms3ODlfb1F6TUZtdVhXQzVwT1Brcmp3UDBFenVYM0F4ZEIxZkpiUVdIb3RuZWNmZHJodVprWQ?oc=5",
+      "published": "Wed, 27 May 2026 05:00:00 GMT",
+      "summary": "India - Democracy, Federalism, Constitution&nbsp;&nbsp;Britannica"
+    },
+    {
+      "category": "politics",
       "title": "Facts and figures: Women’s leadership and political participation",
       "source": "UN Women",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
@@ -152,14 +152,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVlZSW1weEttZ3FvbTc0SW5uQ3NPVlotVnNMYTZfWTIxbzFqR1BycC03MnN5c25uamdneEZFNGVzb0RWWElkYWFBWHRuczNoZW1ocW9qVE9WajlMbDNFNTdtcEx0V3U0OU10c1ZEU1NwZVhJZi1tSklmczNjVHFHNktXcElXMmxCaDZ5UE9Hc1VfVThYbFFPa1VlS2xBcGh3eUszR2hTWQ?oc=5",
       "published": "Thu, 26 Mar 2026 07:00:00 GMT",
       "summary": "After Modi: Political Leadership and the Future of Indian Foreign Policy&nbsp;&nbsp;The National Bureau of Asian Research (NBR)"
-    },
-    {
-      "category": "politics",
-      "title": "India - Democracy, Federalism, Constitution",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rWmQxdTk3OXNXTVA4VU50UTJOaWJTWXF4TjVYVlJQLXphMURfODVYRExOeGhYSGRfMms3ODlfb1F6TUZtdVhXQzVwT1Brcmp3UDBFenVYM0F4ZEIxZkpiUVdIb3RuZWNmZHJodVprWQ?oc=5",
-      "published": "Wed, 27 May 2026 05:00:00 GMT",
-      "summary": "India - Democracy, Federalism, Constitution&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -187,30 +179,6 @@
     },
     {
       "category": "politics",
-      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
-      "source": "Citizens for Justice and Peace | CJP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
-      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
-      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
-    },
-    {
-      "category": "politics",
-      "title": "Does “One Nation, One Election” Make Sense for India?",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV05NUkhqR2JLVWZYME92cjRGZWhvdWJCZDdOR3BxNTFRZDhUM1JPcTlHUUZ5NFhDeVhWeXJTRXBhMTdFX1hXNEptYkFaanhfNDI2cDJnaXcyU0l3T1BXU1ZBSmtuS1NDaWtraDVrdkx2aUtTZnpjNUJzYUFSazBua3p0WUhVNkZ5ajJRdmpB?oc=5",
-      "published": "Mon, 28 Jul 2025 07:00:00 GMT",
-      "summary": "Does “One Nation, One Election” Make Sense for India?&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
-      "title": "Women in Politics, Status in India, Challenges, Measures",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZ3ljVk1KbkdMNk5xSW1RNGxDT3BZdjN1eVB2dGVRSFNEOFdvSXh6aHRIWkMxQ3l2MERQcXhrSklVWVl4cWFkUTYtZ0YzbG5JT2I3T3kxSmFRcUw4R09DWlA2cFp4QQ?oc=5",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "Women in Politics, Status in India, Challenges, Measures&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "politics",
       "title": "Rahul Gandhi | Biography, Congress, Education, Parliamentary Membership, & Facts",
       "source": "Britannica",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYWElUNFVxb1ZTaW9KcUlvMmtjYkc4Z3k1dTNyTzVlRjQyYkVPVWxfSXhjREszQ1AyckdQVjlFaWRuSnpfZzlHanRKdEpaSEFiQUpoZzlWSXF5U1hUZWc?oc=5",
@@ -219,11 +187,35 @@
     },
     {
       "category": "politics",
-      "title": "Entirely a Political Failure of the BJP Govt: Dissecting the Parliamentary Debate on Operation Sindoor",
-      "source": "TheWire.in",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeGlVT1k5R0I2M1AyWVpWZFhNcXdlUGljTTZVUWVNQmMwRXpUSjctVVFGQmNMOG9WUjIzLThJS2pLSFRvS2UzR0d2WFgxVlVpWW5vNFoyQ0lsc04xa0JhRnNkWVVISTUtTXFlcnNoR0RzMnY2OVNyaFFBQmhqR0tyczZMMzV0VUJPYVhpNDg3NXJRZmN4bVVGSGRYS0V2T3luYjZBVGlMRFcwdnNrQkdnSXJydG9RbWlrYjZPMklabTB3X0RQbzl5a3lZTGZLeUFQaC12S3lKOU7SAd4BQVVfeXFMTUQzenVhSzJxUmxtTzdkbmFndVJ2QUJjUnJBdno5SFpWZ1NkTGlNbk16SzB5b1FJYlFwRFlQM1dDZUV5SVZ5S2dzOV80QWZITEEtcmZDeE80TTU5YVdpOEczVURJVWh0NDBCMXBIVXdoeWQ5M0EzTWlNODV1bHYyMFVxMmwtZ2lEd2l1TFZ6ZWdCSTBfTmp6V0dhZ1FtOVE1R3hLMEFkOE9yTFFvOGF1QlZ4b0hfTXNxSks4TlFYLTB1LW9raGZGQ2tVMEthcUZvOHM5WnBEUm1TdUVSWTJ3?oc=5",
-      "published": "Fri, 01 Aug 2025 07:00:00 GMT",
-      "summary": "Entirely a Political Failure of the BJP Govt: Dissecting the Parliamentary Debate on Operation Sindoor&nbsp;&nbsp;TheWire.in"
+      "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
+      "source": "orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
+      "published": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
+    },
+    {
+      "category": "politics",
+      "title": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament",
+      "source": "Citizens for Justice and Peace | CJP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzNNYXlWakk3dDJyd0tJdHdHOWhaVVJfbnM5QlVORFFEZDRBaHp6MjBxaFcyYmhnd3hQMy1lR3gtMHBTWmhqaHNIYllVeFNVbWdvdkZoVElBYXFNQ2tKOTZlaWFNTTJVbEhNNkVzLWtHSWFnSGJwS1hDTldmZEtIUFNLY3VtbnFvbS1CedIBkgFBVV95cUxNS1k4NUREWlZnOWJZQWo2aGREVG1OMXNLVEtnNXNjMGpaN0xPVUI4Z01tVmwyV09qaVBEYTdfaXVhamh6dlpCUkNDNXE0aWFSZUtZSHU3MDlEM29MVnJQOWZ1UThIUHNtUmdGX2NRVWNfYkxfU1JkSnpQNWdGeXVMbmdjTk1NZFdiT21vNEM5MUxfZw?oc=5",
+      "published": "Tue, 22 Jul 2025 11:57:09 GMT",
+      "summary": "No Definition, No Data: The ‘Urban Naxal’ bogey exposed in Parliament&nbsp;&nbsp;Citizens for Justice and Peace | CJP"
+    },
+    {
+      "category": "politics",
+      "title": "India loses its last left-wing government after five decades",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlhsRk9ZNDduRG9tUmk4N0ZYOFE0eW9Dd3RLX2djVkpLbkpwU2U3OTJpZEtITXQ2SXZ1bFR6bEFqREtjTERySTZpU3NldGdPSzhoVlJGNE40d0MwckRleFNUdHRTS1kwRWpibXZ6Q044VXhaTmVwbElpZVZDbmhoTkY5OGpUek5xbTJGeV9xUWlwZlFLdEJudHJra2tLQTduR1HSAacBQVVfeXFMTXMzc0x2aEEyM2liVFpNRE5yVm1wbkdIUU1GVW5YTmVxT0JuZF9OMkxfVkJsSVd6RThXRGViSVZwcGtQV0xlRlQ4dlJDU2xkd1N2Nmk4cTU2S0R1TVJvSmVYYUpUc2hCMWFzcTMyWHhPWUE1eVZqNjR3UTNGSjNORTN1b1hpRDBQN3ZlRmwyX25vLUF3MmwtWHpGTkNSVElUYV81WXNBb1E?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "summary": "India loses its last left-wing government after five decades&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "category": "politics",
+      "title": "India’s New Gender Quota Law Is a Win for Women—Mostly",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEN1MUVjenRhSUIzZW0tQVFoR1ZqVzd4TUF2ZWY4b21NcWs1b2I0WXdJSF9FM3hPRFVOM0FMYjBseC0tM0hGRXJkOERuSUIwbV9nYzcxT2tNVmQtOTNURHY4SWh4S29RSmFBYkVqa0pJSUd0UFdYZ0lXN1Y3T3l1U2lYU21oY29pZHh3T3RiYVV1b0p3Tlhob3Y3dVo?oc=5",
+      "published": "Tue, 26 Sep 2023 07:00:00 GMT",
+      "summary": "India’s New Gender Quota Law Is a Win for Women—Mostly&nbsp;&nbsp;Carnegie Endowment for International Peace"
     },
     {
       "category": "economy",
@@ -283,22 +275,6 @@
     },
     {
       "category": "economy",
-      "title": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUC0xUkducGlxaXBLSXhmbVAyNHg0ZFlBNXY4X3lXT2xmZlhpUW0zQjBIcDNJNjFXd2JzUTRLYmpLR3NpeHBFbFlBNWFON0hONXpGdmJEVkxNTTJzRGJ4UGg0b1BDbjJIZm9TT1AzZ0p4M2xILVVkeDhhLWRoOGdxOEwyNm40TEE4cTUtQUx3ZHFfeDhSTUVya1A1NVVZUFVjWkxVbGZqbmN1UXlGM1kzclNKRG13LU5Kejk0T3o2SlotblRHN2tBVFdWVzJTTmNSc1VjRHFlc0dLZTBzVnhmNXdFMl9oaldWazhyMG9yUmlobnVaaDdfVHVHMF91bmFlZm5aSl9NbzNNZmN3T0J3UHhPMlJRdTFVT0RGbmN5TF96XzJoaUtV0gGsAkFVX3lxTFB0ZzhXWDFOVFRhcXBQQy1fcGp3QklzVkFQc2ZyU0h2UndNV1RxM2t2cDcyQk51cHU3VEtKTlZGOW5qMXNUQlg0UkFqMEhrYm9rUEJDX3h1Z051T3J5OTlRN3BhelNHSFlVeW9aV1NCNjdGTThFcHZCc3dHY3dZZVFOSkJ3ejZCbUxPLXlrdlZSbmJLRDQ4bUQ4QjN5dm55YTlJcjNRQWhkSHJhMl8zWGI0UG1XWjZiNVNFX1FIanA0Ymw4OUdjTk9yNTdBV1J0VFJRTFpJbUMxd3dPVkpScFJfVVdtd3dvLVNWV28wcDlkX0NCYmRqNU05QU9mUjZuMVRxejU3RGQ2WTYzemJvbG02LWpmdnMwQ2E3dzJ1cVQxTGJtOUN1b3RJZ3JUSw?oc=5",
-      "published": "Thu, 25 Dec 2025 08:00:00 GMT",
-      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "economy",
-      "title": "Press Note Details",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTh2QkNJZHQ1LTRmaWdWN3ZhUFgwMHJZQnpMZHhiYnZDdUdtcFRPbzhFdWpFLVdjRWI4MzJ0TC03MW1UTjNNUW5SZ3NOY25YNXd4ZXJSRm5XaVFYNWNqbWVzM0VDOXNDcmIwTi1aWGt1QWVGVHhyZnpsc2FDclNzMXpXYlZDd2ZrM1E?oc=5",
-      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
-      "summary": "Press Note Details&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "economy",
       "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
@@ -307,19 +283,35 @@
     },
     {
       "category": "economy",
-      "title": "RBI GDP Growth 2026: Central bank nudges forecast higher, upgrades early FY27 outlook",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd256aXg2Zjd1Ynh0UHNYMmdhX3RyMmRNemxsREh3RklfS2FBZGJZZ04tTjFkeGJOTldtUUUwMnZLTmU1cXV4TTFUdVNCTUcweEZaU3JWWFdFdVAtamYwekJXYnRkTHZwY1A3N0pqR1lTQ2tMMjB2NUZhTGdaeHRkZldMQlp0QjlEMnBMamdIM1NSZmsya2xFYlBqNk9EdkFwZWotUzJVUlNqQldVQ3lxa0xwQVB0MVJnaWs1LVRSOGJSMVlFZU0tNy1VSks3cTJfbEtKZVNIYXptcWpRTXl0R19ZdDZMYW1PY251bFZsQzZQV29Ta3RUV3RPWE80V2UyRjVwR0VCQ28zVGphX255M3luTXYxZ9IBmwJBVV95cUxOcHBJSXNadGNPX2V2RlpiclhPZWs3TWxFcUU0S1pyOXhvdTFORzB2TGRXSUNtMnNYS3kySElFTXdyODhxQ3o2alhtYUQyOW9DXzM1WDZ4SThFVFRtSWlFckg3U2RGcHdadXNNdHY3cFdvWDVsaG56bTZyRnhlRF81T244ckxZU3RJWk53MXc5RGpLR3VOSEJadFZic1FhTnQ4Yld4Z0JVY2dOaFk3b1RNOUlMUkpvcVozaWJwRzVSTFQ0OWpLSVZGdG5QZzJjUk9WV1IyMW5tUFN2Vjc2Sl9IX3F4a1IybUkwd2lYY3EwalJWN29WZjQ0MzR1c1p0dlBsWDFjVk9hY1lMMG9ENXBzZm1USHlzRFQyenZJ?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI GDP Growth 2026: Central bank nudges forecast higher, upgrades early FY27 outlook&nbsp;&nbsp;The Economic Times"
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0dPLVF1ZUtYNzZveGUtcGwtSkhvWnluVkRTd1dURFozR3U5LW1iTmZXamxXMHQ1Q2FmWm5CZzJUdmtkYllmakFDWDQ2d1laSWZYVzM0bmFNdnJnS05HdTc2TEFGNVd3QjF6Ylp6dzdPdkhnMF8zYzF4OXZmdmEzUUxSSGVTUQ?oc=5",
+      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
-      "title": "RBI keeps rates steady, positive on growth and inflation",
+      "title": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2tJVWx5aTJWV003dDVURVQwbndnNDQ5S0dER21jUk5jeElGWFdtZ0xscWRGRlltd3BmaWhKVHZFWk1RRjZ4YndRNzZhaHdBQjRhdXA5UHFMNFRRc1hkOXJtU21SUDdlb0luU2ZxNUQ4cl82U3pRTVRnVms0V3lJVURfMFRmT0dVOVRTR2I1NFNoVDBwNHZIeDd3T2hjOWNhNS1YTFV5MUtLS2JSVUhvbmx0bFRwVml4UVZpQkdtWVc5eWdVOXFwR05XU2hCSklENTk4bHFpaGM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUC0xUkducGlxaXBLSXhmbVAyNHg0ZFlBNXY4X3lXT2xmZlhpUW0zQjBIcDNJNjFXd2JzUTRLYmpLR3NpeHBFbFlBNWFON0hONXpGdmJEVkxNTTJzRGJ4UGg0b1BDbjJIZm9TT1AzZ0p4M2xILVVkeDhhLWRoOGdxOEwyNm40TEE4cTUtQUx3ZHFfeDhSTUVya1A1NVVZUFVjWkxVbGZqbmN1UXlGM1kzclNKRG13LU5Kejk0T3o2SlotblRHN2tBVFdWVzJTTmNSc1VjRHFlc0dLZTBzVnhmNXdFMl9oaldWazhyMG9yUmlobnVaaDdfVHVHMF91bmFlZm5aSl9NbzNNZmN3T0J3UHhPMlJRdTFVT0RGbmN5TF96XzJoaUtV0gGsAkFVX3lxTFB0ZzhXWDFOVFRhcXBQQy1fcGp3QklzVkFQc2ZyU0h2UndNV1RxM2t2cDcyQk51cHU3VEtKTlZGOW5qMXNUQlg0UkFqMEhrYm9rUEJDX3h1Z051T3J5OTlRN3BhelNHSFlVeW9aV1NCNjdGTThFcHZCc3dHY3dZZVFOSkJ3ejZCbUxPLXlrdlZSbmJLRDQ4bUQ4QjN5dm55YTlJcjNRQWhkSHJhMl8zWGI0UG1XWjZiNVNFX1FIanA0Ymw4OUdjTk9yNTdBV1J0VFJRTFpJbUMxd3dPVkpScFJfVVdtd3dvLVNWV28wcDlkX0NCYmRqNU05QU9mUjZuMVRxejU3RGQ2WTYzemJvbG02LWpmdnMwQ2E3dzJ1cVQxTGJtOUN1b3RJZ3JUSw?oc=5",
+      "published": "Thu, 25 Dec 2025 08:00:00 GMT",
+      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "economy",
+      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI keeps rates steady, positive on growth and inflation&nbsp;&nbsp;The Times of India"
+      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "economy",
+      "title": "Press Information Bureau",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXVxMXNoVzdacHNIUV9PT0Y1RUtaWThPMlZsYUJZWVlZdF84WHJpcVl3UWJTTGlMN1l0WlhrT2ZLVEdxV3lTM0Vyd3c4SndTMk9qSzJvLVhINmczV1cyUjJWSjlfTUNGOFFZcWVfbTVHSUJUMkhLNlpzdVk2YmFJMWstMlU4a0FuSEkyc3pB?oc=5",
+      "published": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "summary": "Press Information Bureau&nbsp;&nbsp;PIB"
     }
   ]
 }
