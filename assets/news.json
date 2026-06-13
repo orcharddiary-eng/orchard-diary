@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-13T09:25:59.928225Z",
+  "generated_at_utc": "2026-06-13T14:14:42.772280Z",
   "items": [
     {
       "category": "pest",
@@ -26,14 +26,6 @@
       "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
     },
     {
-      "category": "govt",
-      "title": "National Mission on Edible Oils",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
-    },
-    {
       "category": "weather",
       "title": "Northwest India to be hit by heavy rain, hailstorms on Saturday, mercury to dip",
       "source": "India Today",
@@ -48,6 +40,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdE9DU2ZjdDgwMkFtMlc3Z2Y2MEQ3ZG1aM1lKWUEyY0czTDA4V1ZubVM3LUg0SDdCeGJYSlY1a25IWGtKRFdFTHRVMWM5WGNCMDJBYXB2TkpwYms1MUZBZTF4ZUpWQkxuVTNxLWpWdTM2aGhSMEpPXzM0RG00dUtoVTlPSUp5TW1tdUdLbWlPYUV4V1J0MDZYd2tQM3F2SWU3MWdyNVhYUEZPamZ4bVlKa2pJT3JhYnpxZkE0SGs1MDhPR2V2NmlJRUlUbGZ1NkRoTldWaG5CWG9ZRE9vOFF4LXFrR3loVE83c0txZDB0alJEZWFGWkNkaVNNbkw4Z3RhaXNhNWgyaWNkLXczNWxLV1lkd3dUOGhOQ1dLT0JtSFFwX21EZFVPUWdFZ9IBsAJBVV95cUxNVHAzOXVyUnp3ZUZ2M3gzbkE0UmtTSncwdWd4YnVQbzI2Smw4QUVUQkxudjdjMUZVWUFrT3VuUFhnYS0yZUtvODR3QXFHR3JtR1Bia0JBZGhTNEVaN2Q4SE9NU2xSenhmVWpkZUt5Qi1nVFZsU1FkaU9NQmFKMWpCekV6WU9DWEROMFBueDc4MHdZMkpOQW9FVlZLVDBRaXdIRUYwUjlNblhyU0wwd3FSc3ViOGwzWVc4QzlRcTV4Rlpza01FNFZKbGwzZm5CV05mWjE3Z29od0N0WUtabE1KOEw0M1MxSjRFb2RBR2FtUV83RkQ2SVpSazdNOGVzUVNqWVBac3U3QlE0ZGtXMzBYTVNmQlJYS2R1VnVQWVB1N0hnNG5JNERldHhXSHl6S3kz?oc=5",
       "published": "Fri, 23 Jan 2026 08:00:00 GMT",
       "summary": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "weather",
+      "title": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWlGTm9lVHhPNGpsaHRrYURVakljcXNlM3hvYmVFUlRlVGdUUVFCNHRLOHM0cFZIUXlGVWpjYTFWZ29nMmFmSDk4VmZRNEo2UDFiTTF0WE40NlVyR25LZGZkczJ1UVFyRmJKVlZhSkt5TXZRRUE1eHdGMHFNMFh4OW5DeTVPRlVNM1o1UUwxeWIwWGVzRDg0WDdyVnY5Ti1xVUFNMU8xUGFXeHFhU2RnZ1NhTHNpQm1lN1dxVzlxVV9UbklWOFVsQmthSW1TVlJPRkHSAdcBQVVfeXFMTXpuVW01N0hYbE5TaGlXNUN6T191N3N4a0RGOUpFanB3aVpMaFVDcFoxS1VHdXBVWW1YR3hKZEhLT2JobG5QNkV2UzNpTlp5OVBwbzdmcFlqWVdyZUY2UEN4aGdKNmxRNmgwR2FmUHA3X0JMcjBKcGNiNXkxRWFjWlpzbEZBaGVDLVJxblNsYllkMTZweE16bjB5V3dpZVZfaGJ5U2ZkYWRCamxMSFJoYUJzXzdfdFF3dWRWVnk0THZPMWpYOUNETDQySFpmWkhWVkVJQWQwUlU?oc=5",
+      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "summary": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "weather",
@@ -91,19 +91,19 @@
     },
     {
       "category": "weather",
-      "title": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWlGTm9lVHhPNGpsaHRrYURVakljcXNlM3hvYmVFUlRlVGdUUVFCNHRLOHM0cFZIUXlGVWpjYTFWZ29nMmFmSDk4VmZRNEo2UDFiTTF0WE40NlVyR25LZGZkczJ1UVFyRmJKVlZhSkt5TXZRRUE1eHdGMHFNMFh4OW5DeTVPRlVNM1o1UUwxeWIwWGVzRDg0WDdyVnY5Ti1xVUFNMU8xUGFXeHFhU2RnZ1NhTHNpQm1lN1dxVzlxVV9UbklWOFVsQmthSW1TVlJPRkHSAdcBQVVfeXFMTXpuVW01N0hYbE5TaGlXNUN6T191N3N4a0RGOUpFanB3aVpMaFVDcFoxS1VHdXBVWW1YR3hKZEhLT2JobG5QNkV2UzNpTlp5OVBwbzdmcFlqWVdyZUY2UEN4aGdKNmxRNmgwR2FmUHA3X0JMcjBKcGNiNXkxRWFjWlpzbEZBaGVDLVJxblNsYllkMTZweE16bjB5V3dpZVZfaGJ5U2ZkYWRCamxMSFJoYUJzXzdfdFF3dWRWVnk0THZPMWpYOUNETDQySFpmWkhWVkVJQWQwUlU?oc=5",
-      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "summary": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "category": "weather",
       "title": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...",
       "source": "Bhaskar English",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjNCaXFFRFh5WVdxUWR3MElwYUxZRDNJejVna1IwWDdjc1pnbmcyM2s5RG90Q2NsM0o3cmppVlE1cndjalBKb1RFWUh3aHI4cG41cW9TdXA4Z1N1Vk95ODRJMGxrMWozbkZHem82eUpOVHlCRGwyWTl4b3MzUmFuak1zYndvcVQ4TW00ak1pWVFrSkU0aURCVWpwbjhsbFRCOXlEejNUTEJBOEt2MjJjc1FsWVNySUlSOGMwc0N0RV81RDNUS3AyQjFaM1JaXzBZSkkw0gHYAUFVX3lxTE1RWlU4eFRSZWhnZ1dobTBzajhtRUhFSlZUZFNWb01lVW5fWDFfUDVDQXk1Ni1ac3lDM2N4YVR4c3BoVHozd0N2SE9QM0VBTGZWN1lteVQ5TjhWZ2phQU9pUG1CcmJnTFFzbmxvWkRDYnhjOXZ1dUZUYUw1S0hIeVM3eHZZbi1pcTFVNUxWZ0tPMmI3ZDNJT094c0NaRDgzODVjQWhHdmY4TDlDcER5b3pXX2Qyc0laZS1wR2NSRDZBcms4cENXV0JfcTdzT0NOOXNmRmVreXl3TQ?oc=5",
       "published": "Fri, 20 Mar 2026 02:51:24 GMT",
       "summary": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...&nbsp;&nbsp;Bhaskar English"
+    },
+    {
+      "category": "weather",
+      "title": "IMD Sounds Farmers on Another Series of Squalls and Hailstorm in Himachal",
+      "source": "HimbuMail",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMXYzNmxPN3Vvei1XT1lGb055cU1lc1plTm5YRndWOWJsYVRjdjByMzZXTmc5TU9yR2hPZ2RiVEJGUF9mWmZkV0RXaDl3TVZPMTM1amx4SV9ZSDJHc0JLVw?oc=5",
+      "published": "Fri, 18 Apr 2025 07:00:00 GMT",
+      "summary": "IMD Sounds Farmers on Another Series of Squalls and Hailstorm in Himachal&nbsp;&nbsp;HimbuMail"
     },
     {
       "category": "weather",
@@ -120,22 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXlBaGlsY1Y4a2lBNG5CX0d6Zk9kQ1ZwSDQxRTB6OGY5NGFUUWJxcWprN0dBUzhXcXBVYWliZmpHeEU5S2RyWnFZaUxNZkluZUlmLTZKdWlWei1IQ2RnVE9XTnVKRE5XQngzaENRN2xvMGxvaEFBZnlJMEtsemVLaDdtNGxaTEFiOVhMNlNWVUtWeld2aGVSY2E1Q0ZMOERSS2JNbUUxUlY5Y2F6anQ0UGlReGlkR19ybW9TTTdMUllwMmVMUHdoM2Z5aHhfVldMUm9ZQnN3cEZ4VkpXcFJ3aEhJUGozcm_SAewBQVVfeXFMUFZHVWdTcVlWa0h6VWJvRHBBMUhWU0FZYTRnUFo3R3c0RW8xbVMtTk5RcThFMHpXa2hvTlJuWnlzc2RYY1FyN3JqNGtXMWdjN3FVQkdta3VDaml4Y1VvSENCeFlXcEYxdk1NWGduWmQ0UzZoQnc5M1JodjRvWDZ2bGVJelNqYjQ5R2hmaGM0bVdVQjllR1J4X19kcWNuaHdRdVF0V2hRNmFla2FtZmV5bHVpQmhmMXNWZUhYUEJWZzZDVjg5a3VXazV3ZkNIS2ZacUJmbEJKRXVkbDVRZDdtMnZXQkwzS05LMHFBNVM?oc=5",
       "published": "Fri, 27 Dec 2024 08:00:00 GMT",
       "summary": "Delhi receives highest Dec rainfall; ‘orange alert’ for snowfall in Himachal Pradesh | Updates | India News&nbsp;&nbsp;Hindustan Times"
-    },
-    {
-      "category": "weather",
-      "title": "IMD issues severe thunderstorm and lightning warning across 8 states",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd09zWTlxYW0xRTNoMThSWGVib2Rfbl9JNndCcU51YTFRV014MnU3Q3V3eHRMNEtsbWgwUmQ2bHpFWXdibW1qOV9RX005X2s3N042elIwc2RKN1B6dlIyeWxRUHR3bHQyLTUxelJFYWxVMVdKbXYwMUpBb25yNUtkWEIzYm9vWFBDOHpfMGZiSldEN1pNNnNqcTBuRUNDTmQtMkNWZ3NzY19hVi1mUVBjOU4xV29OZ0lZdU13N1c4OVA0WklkYThtSDBXalJ5NU5EXzZhSWNrSFh5VjhZVHJUWDhqemF5NnowOVVVc3ZGOWUwS1JRSFVoNy1hSHFnWEo5TjRJWnF5UdIBjAJBVV95cUxOeTVUNXdKNWpMa2J3Y0JHQ0pwbWxqMm5KRy1sTTBjdWg5anowVGMxTWVOUjJta3VMMnVPMFRkZURQaFlLR2FSTU9IbmRQTmNWZDlKVkl2Z0FKV3NNT09UNnUzTTU1Z09PX1FQQWlNWjJRM3JaOTZnOHZvaDhXOVlIRlNVaTBwZWNGN2FHckhTa0dxS3BQRUIyWG5UYXFEYlB0Z0wzemdSZV9aVXlGdWg3RGFmcXd0M29QdmNCR3hJT0laZ3BNbmktMFBaYUNMcEpUb3dLWVdJQ0ppam9yVnVjY1lMNWxwNXphdDdWNHVERXZ4SWpmd2ktNmt4RmpmazUxam5uY1BLMWxSeWdo?oc=5",
-      "published": "Sat, 03 May 2025 07:00:00 GMT",
-      "summary": "IMD issues severe thunderstorm and lightning warning across 8 states&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "politics",
-      "title": "Facts and figures: Women’s leadership and political participation",
-      "source": "UN Women",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "Facts and figures: Women’s leadership and political participation&nbsp;&nbsp;UN Women"
     },
     {
       "category": "politics",
@@ -195,11 +179,11 @@
     },
     {
       "category": "politics",
-      "title": "How Ideology Shapes Indian Politics",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0RuM0RHQUZGZFZwUHRUbEg3elpkTzdPVWFzWVQtd0NWREpmcnUwd1pJTVlCbFhmX2JoLW1lN1FmWU54czZGUkdYeWx0OTVCV1VTajd4XzhmOHlXdFc5MmY4T3FLd3FKOFRJeGFIdVQ2S1ZEcjRIWUZFYjBGVUNua3IxV3U1b1AzcHc?oc=5",
-      "published": "Mon, 18 Dec 2023 08:00:00 GMT",
-      "summary": "How Ideology Shapes Indian Politics&nbsp;&nbsp;Carnegie Endowment for International Peace"
+      "title": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)",
+      "source": "bjp.org",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdKcXk2ZGFyaXMtX092VFA3RUZ4bWtGOHNHREFiZ18zRDhuVVBlcHU0ajdicFRKdmVsVlpFRGNWOTJzYnFmZF9GaEY3bU1YejFhVWN3enlRVml6dUpHNkFaTXBicEVOYlFCSXphcUN3akJraGp5UF82UnBqT1ZDMVZWQ2tQbHA2WEJCR25sY242bmRZN09KYUpUc1pFSWppNHpQTk82NWpzdm1zeWN6LWJKQjZ1TzNv?oc=5",
+      "published": "Fri, 15 Apr 2022 13:09:18 GMT",
+      "summary": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)&nbsp;&nbsp;bjp.org"
     },
     {
       "category": "politics",
@@ -208,6 +192,14 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUw3OGNEYnNnRTRJcHZtbkgzSWZxUTBlM21xS2hCN0NNcTMxS3JaUjg5NWZESmdCNHJSYm5EQ0hJTU94SURyeFRIcmRHc2EzVjlXUkhnQ2laYnZBcnEzYy0wcVRmTWV5dld5OGtBZVJYT1hqT1E?oc=5",
       "published": "Mon, 22 Dec 2025 08:00:00 GMT",
       "summary": "Functions of Parliament, Legislative, Financial and Other Functions&nbsp;&nbsp;Vajiram & Ravi"
+    },
+    {
+      "category": "politics",
+      "title": "How Ideology Shapes Indian Politics",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0RuM0RHQUZGZFZwUHRUbEg3elpkTzdPVWFzWVQtd0NWREpmcnUwd1pJTVlCbFhmX2JoLW1lN1FmWU54czZGUkdYeWx0OTVCV1VTajd4XzhmOHlXdFc5MmY4T3FLd3FKOFRJeGFIdVQ2S1ZEcjRIWUZFYjBGVUNua3IxV3U1b1AzcHc?oc=5",
+      "published": "Mon, 18 Dec 2023 08:00:00 GMT",
+      "summary": "How Ideology Shapes Indian Politics&nbsp;&nbsp;Carnegie Endowment for International Peace"
     },
     {
       "category": "politics",
@@ -259,6 +251,14 @@
     },
     {
       "category": "economy",
+      "title": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18",
+      "source": "LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXA5UFFJZjZMTlNESnlzSDUxY0xWVWpJNmxoUGpLdXBRY1NCY2U4amNpZGhGTVQ3RUlRczBpVDNHQTlFdUVRUjluWkJwTFFYWlRtcDRRLVVBdFN5YVl4NV9RNUN3S1hmVzl2TXh3elMxRDlyNzZab2ZVWDZObkd5MTViYjNLVV80MnRrZWY5REZtbE0zOUxvRV9IVGs2d25CSDNWUmpGejdpQ3NCT2U3clk4cGE5dw?oc=5",
+      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "summary": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18&nbsp;&nbsp;LinkedIn"
+    },
+    {
+      "category": "economy",
       "title": "India economic outlook, January 2026",
       "source": "Deloitte",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
@@ -283,14 +283,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "category": "economy",
       "title": "RBI MPC Meet: Inflation for FY26 pegged at 2.1%, real GDP growth at 7.4%",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzJjWHBJVHpESUpXdW9DQXAtSENBdXJJMGU5LXNEUVlTWHNhaDlNb0txOW41RVZoa2NfbDVIX0RidGRTVTB3RVF3RlVzbGdLeXRmbzdpNFlwdnRmMkdMNnZmZUJydE5yTjlQRjNyd0NNZGpqNXBKeUd5VHpob2ROMlRyLTRRWkhTV1Z0NzlDckc2eXFEMkw4amZndE8waUNoejBtU0hxaEp0WnhHLWRNc1lkc3B2RDM0WXU3c9IBwgFBVV95cUxOX1BubW5SRVZ3aVU3elAyRlFQb1RBcHcyX3J3cTN1SEFhVWZaWlh0RmN5VlVwRzU5U2RDNG4yVFN5Q1BFY25Gb1JUT3pybFZueDR2NlhlZlNvT3lRMXNLUndHbzJscGxLcUNxX3VRaGdMb01OcXpoNEN0RmZwTjJOU1lBVEZiaGd5bFJXemFQOWItTjZXenJrWkJzcWhuSHM4MUNlbTBrSVJwYlNZMGJkVDZ1ZThqVXF4OXI1Qzdack02dw?oc=5",
@@ -307,19 +299,19 @@
     },
     {
       "category": "economy",
-      "title": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained",
+      "title": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbE1RaER4Q01VMWZ3eDh4dHVjaHZIZUVtaVhRRTNQRlN6VG9kaFpLYjFIa0plWUpaZlhjOTZNVFNtOEswSW9WQV9ITlFHYTRlUlpWemZpS1pLa19QU19JOG5hRXhFNWVXMVpfdExfbE84cExrUjRjejBJVGpZVmhNRnpGV3B0R0ZwaDRZSy1IVTlUbFA5cG1kbnMzbWFzN0JLVGtNX1pHRXMxTE55TTF4OUx0RTZLVVR3VGVkbnZkYzlKU3pIVl9wWjl1bmJiZU9rQlZlRTRnVTJYWTMta2h2bV9Eb0JHV3ZkN1RWTWpvamNmbEpuWTEyd3lBMndKd2dmS2RBTEpXWDVEdkFjNTVJMm9TcjR1amxIdEZfM1dqWk5xS3pZc0x4N2ZrSdIBsAJBVV95cUxQaWgzSENsenZHNVBUQXpOenlYS2RkSTBzU1JYdzJJYW5DQkFVTVZSd0Qtc0Z0SDFmc2xYNURRTkVpSDFFS0NTWlI0RlNpVFhndmtJdGFoRVNrTlF6ZFQ0aFlmMnUzNXVBN3FoNThXWkJZMEdYQVZpa1lKSGs5QTdZZXpURC1KeWcwTmppSXZKNGZFalNZeTJRMWhlMXZXUzVTQmpySnloRWNFZ0MyU005Yi1MZzlpWFQ5WmlZUGZiRnBjS1Vfa3JVS1MxZ2NPczJ6T1VOckJxMnpCYXBZX2VteWppMktWX0ZtSU0yQ0RyUmZmenczU3k0cWljanY5M0l3MXYtcU9lNFRfSkRvSG1hbE9GVkR4NlgwVkRnbEhJWXN4ZFBYTGhsMXNNQWo2TDZi?oc=5",
-      "published": "Sat, 27 Dec 2025 08:00:00 GMT",
-      "summary": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained&nbsp;&nbsp;The Economic Times"
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYUFqeVBJYUlRSlZCdEhWckZnT2hicWxqbVJKLWpUeVNTSDU4N24zVUR6Vm94dFN0bUtueUpyQlFOQXRkOG9Xd0tHbnNhMmlxNHZWQUJtbWxYTEJiamVHTUxSekJtS0RoSUpURExBbmdJaW5vYXFSZHAxbVlvbGw3ZllNSXlueXF3a3F3blhTU1hLLTFOMDJuVXpBQnY4M3NOSnhOeDJMODJpQUdHcFZDMUFYWnV1eF9xSUt2aTlqbVJISDBEbjBLdnhmTG5FZmc0T1V5cjk1bVpraXNybUdISTNnM1RLNFNiNUxZb3lxdktjbzNOeHFpeHdXalBrYVVKdG9hUUVVaWoweVprWWVubnFHanhvZ1hzRzA3aGFJQjZrS0s1WjBMWVBLUExjYXlYaUlQVXIweE3SAb4CQVVfeXFMTXFzZkFSMkFGZVdvU3RJNFdJVGZILVNiaWJ5ckdOOXlfRTlFSTRIb0VPeTBtUkxkYTdRdjVvcllKTlU4anRGQWM1SzdJYmxnTDFaNE1XTHNoUFlvU3RaTnRWZVJPT3VsM2stUFJRczVIUkwwcWVuTnJ4Q3k1bkNRRjRnbzR5dVBTckJRRTNIMTBiNFlHS2czN0JxSlEtaHlWd3gzb3pQZkxHc3ZSc1RYVEhKSUh2UE9LYkZtN3N5NGpiTnNmTkE3ZFNvM1Vza1JYVTNRYjRORHdoRVNWWFEzbUlubDZjVVE5ZWdpb2tNaTNxaUpEdUg2cGNiNVV5M3c5QldEM0NhaHQ2WnRjY3RrRkxHeXhxbjRUaFF1YS13UlIxWWd6THlqZnNXVWdlYUxTZ2NWbVZuU2lYUmpTaGxR?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI MPC Meeting 2026-27 Key Takeaways: Repo rate, GDP & inflation targets&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
-      "title": "Despite global headwinds India to remain fastest-growing economy: RBI",
+      "title": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOWFLdVQ0cG9OSW5DUDJKTUo3ejFObTZoR2ZfX2lIc1FDNUlUVXRiVWd1X1JYTUxfTE1sakZXWU5DSk9iRVpaYUdNbEx2cXg0M0FPbDF1cHUwWmVEM1VHMFhGZktRbUpLT0xkb1h0M3U2ZnR5WXowb1J6dEk2Z2RXRGhwakhJajM2Ty1YdnNYMkZPMi1ZcEhPeXZaX042U1JSRk5NQ21jTGFtQjg3bkd5UTVzTW1ydTBXaXNuY3BQZ1drZHZnalQyaXJubUxYY3A0aWJLQUJRZDJSX2p1Mm5USGpvcWdSTXRka3fSAe8BQVVfeXFMTkpBNWp1S2U3bVM4WGNJNkRoR3J0dE9STjZYXzVSenRjck5DaXNfLWpncDJ2R3hQT3hpdW1seWFEbzVsYkNFS01RMkJScUtyMkVxUVpsaUMxczRlRUxVQ3dJdi05WlMtUy1lY0FxUmVEOF9FckNXbnc2aHptTXpKSlF5eVF1OGg0VXQtdUZUeW5kNHd4eUpXUElULUtGanlMMXBBVlRuUk5VYkJoRmtObVpOallDaGN1SUlldTh5Z1NDU21odmVhb0h0ZnZpUmdfUmRPVFRjRThYTnpoUWJZRVhVUGUwckhGcXVxaHd6T3c?oc=5",
-      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "summary": "Despite global headwinds India to remain fastest-growing economy: RBI&nbsp;&nbsp;The Times of India"
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXdkaVpfbzFFVWtEYnpBTW00dTdBeTQ5YU9BRVk2SHhjNm1aMGM2eEE4WHdoV2hlOWh2M0VITGFqNnFpYmdjZkdkeUc5UXlBVEJjN2dlUmRZTDVWVjFUWU5jekloMkpFSG1wdkQ5ZHFXcC1wM0JyNzZLMVpPUFhwc0NMOWNVS1l5MGtjZWZtNC1FSDQ4WWQxZEIxZTQzdktDVkNaU0dqWnJyb3NseWFQU09jc3BBSlc2VGdUUnRlV0RjRi1vYVlpRm01RV81enpLQ0NMTHV3VF94cDZleHZUWVZZNjJmbHhYa3kyZkFOUEREbkR3Z1gwSnNhWDV1eWFEWEdxZTRycC10cDlzSEdvNTVCTTLSAZoCQVVfeXFMTS1kUmVVZEx2VUNod1lYVVhxZlhlVi1hM3BpYTVWXzNkRXBDOUtwcjQ3YzVCWEk4X1RPblFheEFxd0t2RWlLQnI3bmoyOFdiWnpmNkp1UlZaczlNZHA3cE9ORW94Nm5fSk5VQTJCbDFFWko1XzltaC04RTgza2FKWjdMaC1YZXhTcU5MY3l4UWVFWlFMYzdxdk9FSnE5RHpOODI1NkVWRGYtWkdrd3dVR2pFRlRiM25PVlFFUTVGNm5Ed3pqZzYxSTdCOG94emM4WG9hbG53WGx6Y0VtdzlRbG1xZjVVQ3JsNzczX0lxNXNnSTdtcVZjcjY5RjZFUVJPZjgzSWh5LXhNVjAwU2FHc09iTTItQ2FnSS1R?oc=5",
+      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "summary": "Data reset: RBI governor backs CPI, GDP and IIP base year revision, says it will sharpen policy signals&nbsp;&nbsp;The Times of India"
     }
   ]
 }
