@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25T14:45:19.907499Z",
+  "generated_at_utc": "2026-06-25T20:10:55.774361Z",
   "items": [
     {
       "category": "pest",
@@ -131,14 +131,6 @@
     },
     {
       "category": "politics",
-      "title": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdHVCTFl6VjREeElOSzZQUFIxdWJfMDNrbTQ2THpSeDN4dEd0RHFEdnNfNTVkWk8yai12Y2J1MENCZmdRSi1YSFE0Q29wV0N3bldkSnFiMlJhbUxUcGVCbFc3a3VhUQ?oc=5",
-      "published": "Sun, 21 Jun 2026 05:00:00 GMT",
-      "summary": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
       "title": "After Modi: Political Leadership and the Future of Indian Foreign Policy",
       "source": "The National Bureau of Asian Research (NBR)",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVlZSW1weEttZ3FvbTc0SW5uQ3NPVlotVnNMYTZfWTIxbzFqR1BycC03MnN5c25uamdneEZFNGVzb0RWWElkYWFBWHRuczNoZW1ocW9qVE9WajlMbDNFNTdtcEx0V3U0OU10c1ZEU1NwZVhJZi1tSklmczNjVHFHNktXcElXMmxCaDZ5UE9Hc1VfVThYbFFPa1VlS2xBcGh3eUszR2hTWQ?oc=5",
@@ -160,6 +152,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajFicTZHZjVmdjVkT1ZEck83RXNLd3Bna2J2MWM3c2ttNk9rRGtxVGpTamh4M3JEUWM4M0poNV9MN0o5cmJiVVl1dUZ6dlF2blAzOEUxeTNVbDFkWFBiU1M3R0tzU1NjeWMyWVNkMlc3aDRtYXpNQWlMTVcyOUItUzlvc2xUS3VIUml5RUJwQXMyOENWcS1fT3lIV2libVFwMVdWcHY4WEtrSFXSAbIBQVVfeXFMTWZJSzVvZ3ZTYWs1dXR3T2RRZTJ0dHZBWlV1SG5fVWxwNFBILUpVYk5aUHRBOWhGQld1SzU2elZXWFVtSFlTSmFWaWpjWl8yVDdDR2ZFS05xaFQxX1MydjN0VzI5Z1dMUHJwVTNTb3dhS1NVdmtQMFFqSGJPdy1tLVRtVl9VT0JJZHNOLV9lamdVLUR6UzhrcTNFNXhyRWM3VWZpbWxKdENFeDBUNEVndjJ0Zw?oc=5",
       "published": "Tue, 10 Mar 2026 07:00:00 GMT",
       "summary": "Is India Losing its Moral Voice During the Iran Crisis?&nbsp;&nbsp;Frontline Magazine"
+    },
+    {
+      "category": "politics",
+      "title": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTG11N0poM0dESXM0RzdVbWxzV25ETl9uN1FFaC1oaWVyYnVTdDNlbWxCMkVxVEZfTHN4U0lYQlExQzUtYkpkOXhBc29IdFBUS0cxMWMyTGVuRmxR?oc=5",
+      "published": "Tue, 26 May 2026 07:00:00 GMT",
+      "summary": "Samajwadi Party | Political Party, Mulayam Singh Yadav, Uttar Pradesh, History, Elections, & Facts&nbsp;&nbsp;Britannica"
     },
     {
       "category": "politics",
@@ -283,14 +283,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI MPC meet begins: Will RBI keep rates unchanged after US trade deal?",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmtWRlUxSWJyVF9rTllxUHV3UlJRNW5DSkh6VUlENjRob2xvVmpjcVU5WVRVaGZEcmFYa1B5ZlJyd2VSTDFyOV9UY0d0U1dLelo3SVJFTHdmMllMTUFPTUJxMWgwRE1OdjN3bnJqUjl6LTRhU1QwYk94YXBKTEtYSk5YUEItRWl6RlN3S3VnVjJ0TDFwekhlZ1JTOFBxR3VWQmZaWlQ3MU0yakhFUE9Cc0hfR1IyUTFJdmNZUVBoMHVoYnBDX255Z2xINFd4ZVpTeUNzVNIB2gFBVV95cUxNWEh4a1VERElsbndyUV9HdjJpZ2swSEtBVE92TExieWZnXzRtbk9IWHZpZUV6SnNsNlRfOUpLblNYdVR1ckVPa2h5WE5fT2hjQm5EZGhhbV9lSlJZQ0F4UUN1ZWlLcnp3YmJkWGN4X3diRjh4U2xZYkYyN0VLNlp2bDJHTmplM0F1M1g5U2d4RDJWaHhDMEZWRk5JcHhWaUhRbXVraGVZTFJKUTRkN21FTzA0RTgxU2p1UWVLdTVibE9DVnFPbzY0V2g3YVAxRHpLWkt6VDBOb1lMdw?oc=5",
-      "published": "Wed, 04 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC meet begins: Will RBI keep rates unchanged after US trade deal?&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "category": "economy",
       "title": "Press Note Details",
       "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lOW90TDNaN29VN2FrdmxBeEZTc0Y4TFVRTURZZnlXR1Z3b0ljTS0zWW1tRHp1U2N5WGptUUdzTnRwTkdLMU9YYVRRcHpiZ3l5M1BiN05lcnp0T2lZTWdWTkhUdWo0ZEkwcHJSWUNCU3A4QWtTTnZHZQ?oc=5",
@@ -320,6 +312,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbE1RaER4Q01VMWZ3eDh4dHVjaHZIZUVtaVhRRTNQRlN6VG9kaFpLYjFIa0plWUpaZlhjOTZNVFNtOEswSW9WQV9ITlFHYTRlUlpWemZpS1pLa19QU19JOG5hRXhFNWVXMVpfdExfbE84cExrUjRjejBJVGpZVmhNRnpGV3B0R0ZwaDRZSy1IVTlUbFA5cG1kbnMzbWFzN0JLVGtNX1pHRXMxTE55TTF4OUx0RTZLVVR3VGVkbnZkYzlKU3pIVl9wWjl1bmJiZU9rQlZlRTRnVTJYWTMta2h2bV9Eb0JHV3ZkN1RWTWpvamNmbEpuWTEyd3lBMndKd2dmS2RBTEpXWDVEdkFjNTVJMm9TcjR1amxIdEZfM1dqWk5xS3pZc0x4N2ZrSdIBsAJBVV95cUxQaWgzSENsenZHNVBUQXpOenlYS2RkSTBzU1JYdzJJYW5DQkFVTVZSd0Qtc0Z0SDFmc2xYNURRTkVpSDFFS0NTWlI0RlNpVFhndmtJdGFoRVNrTlF6ZFQ0aFlmMnUzNXVBN3FoNThXWkJZMEdYQVZpa1lKSGs5QTdZZXpURC1KeWcwTmppSXZKNGZFalNZeTJRMWhlMXZXUzVTQmpySnloRWNFZ0MyU005Yi1MZzlpWFQ5WmlZUGZiRnBjS1Vfa3JVS1MxZ2NPczJ6T1VOckJxMnpCYXBZX2VteWppMktWX0ZtSU0yQ0RyUmZmenczU3k0cWljanY5M0l3MXYtcU9lNFRfSkRvSG1hbE9GVkR4NlgwVkRnbEhJWXN4ZFBYTGhsMXNNQWo2TDZi?oc=5",
       "published": "Sat, 27 Dec 2025 08:00:00 GMT",
       "summary": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "economy",
+      "title": "India’s Trade and Economic Outlook",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ZFJkQ1V0blpvNkl6OGkwa1BBWjBWSk9MUndNMWp2akZrTmxWbGkyWmY2SjNldlJSUXB3ZThYaFJZeUpHVjc2UXR5LW5VRWpVT0h5RDNtSWVqT3hURmFEd0M2V0ZUMnli?oc=5",
+      "published": "Thu, 20 Mar 2025 07:00:00 GMT",
+      "summary": "India’s Trade and Economic Outlook&nbsp;&nbsp;PIB"
     }
   ]
 }
