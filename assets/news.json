@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-03T14:23:25.304698Z",
+  "generated_at_utc": "2026-07-03T19:38:47.315222Z",
   "items": [
     {
       "category": "pest",
@@ -19,35 +19,11 @@
     },
     {
       "category": "govt",
-      "title": "Press Note Details: Press Information Bureau",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzF0U0o2Qzd4RE5jYkpoUlZueXdRbllXM2NnbnVudWRPbWVjQXhQcENpVjhOOG4tX3IyVVJ6X2Rsa2tyempaelVWVEo1ZVFQb0xDS0xGOFgwbWsxakpxRHdoeGNZamdUUXRGSXhucWM4Y01oOGRtMk8tUDJBVnlBZGhaRFpleEJDMWc?oc=5",
-      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "govt",
       "title": "Demand for Grants 2026-27 Analysis : Agriculture and Farmers Welfare",
       "source": "PRSIndia",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUZOcm50NWJ6MjNUbXEzc1BBSTZtcy0yRVAwUHBhRlFrbjhwWDR0TFUzTkNrYmF0cVBvT2NTZEZmMjZLTlFvVGR0OHZ0TnhSMlA0SmQwejRRTGRVMVNTSXpYWXNxQlZDMW5uR3BBT0l6NldYSHg2UWozVDl4TjRoTUhsTXlKbDNIRTFpV3dqMnNmNkdzSTVGWTVyOGxGS3dfWE1RWkwwcFJ6QQ?oc=5",
       "published": "Tue, 24 Feb 2026 17:41:25 GMT",
       "summary": "Demand for Grants 2026-27 Analysis : Agriculture and Farmers Welfare&nbsp;&nbsp;PRSIndia"
-    },
-    {
-      "category": "govt",
-      "title": "Rashtriya Krishi Vikas Yojana, Objectives, Features, Funding Pattern",
-      "source": "Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZE9uNXgyenRKZ2d3MVlCaUdLU054aXRCcGMzSjJnMmozcV9ycWdTN09ad3RQNjFPSHZZVnMtWXFuejhsQy1rRXFpMjRFSkp4QlBwbU5oMEE0QkhwZGFhS1h5N3hrS1h3Zl9mNmJ1MEVSYk5XSmQ0S2IzZzF6QQ?oc=5",
-      "published": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "summary": "Rashtriya Krishi Vikas Yojana, Objectives, Features, Funding Pattern&nbsp;&nbsp;Vajiram & Ravi"
-    },
-    {
-      "category": "govt",
-      "title": "National Mission on Edible Oils",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;PIB"
     },
     {
       "category": "weather",
@@ -211,19 +187,19 @@
     },
     {
       "category": "politics",
-      "title": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)",
-      "source": "Bharatiya Janata Party",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdKcXk2ZGFyaXMtX092VFA3RUZ4bWtGOHNHREFiZ18zRDhuVVBlcHU0ajdicFRKdmVsVlpFRGNWOTJzYnFmZF9GaEY3bU1YejFhVWN3enlRVml6dUpHNkFaTXBicEVOYlFCSXphcUN3akJraGp5UF82UnBqT1ZDMVZWQ2tQbHA2WEJCR25sY242bmRZN09KYUpUc1pFSWppNHpQTk82NWpzdm1zeWN6LWJKQjZ1TzNv?oc=5",
-      "published": "Fri, 15 Apr 2022 13:09:18 GMT",
-      "summary": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)&nbsp;&nbsp;Bharatiya Janata Party"
-    },
-    {
-      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
       "published": "Wed, 16 Nov 2022 08:00:00 GMT",
       "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
+    },
+    {
+      "category": "politics",
+      "title": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)",
+      "source": "Bharatiya Janata Party",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdKcXk2ZGFyaXMtX092VFA3RUZ4bWtGOHNHREFiZ18zRDhuVVBlcHU0ajdicFRKdmVsVlpFRGNWOTJzYnFmZF9GaEY3bU1YejFhVWN3enlRVml6dUpHNkFaTXBicEVOYlFCSXphcUN3akJraGp5UF82UnBqT1ZDMVZWQ2tQbHA2WEJCR25sY242bmRZN09KYUpUc1pFSWppNHpQTk82NWpzdm1zeWN6LWJKQjZ1TzNv?oc=5",
+      "published": "Fri, 15 Apr 2022 13:09:18 GMT",
+      "summary": "Presidential Speech by Shri Rajnath Singhji at National Executive Meeing, Parliament Annexe (New Delhi)&nbsp;&nbsp;Bharatiya Janata Party"
     },
     {
       "category": "politics",
