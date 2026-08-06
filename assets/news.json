@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-06T08:46:52.865066Z",
+  "generated_at_utc": "2026-08-06T14:26:34.118650Z",
   "items": [
     {
       "category": "pest",
@@ -35,19 +35,27 @@
     },
     {
       "category": "weather",
-      "title": "An orange alert has been issued by the India Meteorological Department (IMD) for hailstorms in parts of Himachal Pradesh, warning of intense weather activity due to an approaching western disturbance.",
-      "source": "newsarenaindia.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmt2Z0FjY2xNWUtDZkxpQmxFOUxHa3JFME53cTRmcVlmVjdhTEFlc3k4alV6cUlLUTdjWEI5N1FQcEJWd2JJWEdMRU5wZGFpZ29FZkpfbDlVV3U4MkJjVTJEYzYtLUxraXpKU01CNWp5b1RtZEw1Z0tfUGFPcG9xajRJTlE?oc=5",
-      "published": "Thu, 16 Apr 2026 10:34:58 GMT",
-      "summary": "An orange alert has been issued by the India Meteorological Department (IMD) for hailstorms in parts of Himachal Pradesh, warning of intense weather activity due to an approaching western disturbance.&nbsp;&nbsp;newsaren…"
-    },
-    {
-      "category": "weather",
       "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdE9DU2ZjdDgwMkFtMlc3Z2Y2MEQ3ZG1aM1lKWUEyY0czTDA4V1ZubVM3LUg0SDdCeGJYSlY1a25IWGtKRFdFTHRVMWM5WGNCMDJBYXB2TkpwYms1MUZBZTF4ZUpWQkxuVTNxLWpWdTM2aGhSMEpPXzM0RG00dUtoVTlPSUp5TW1tdUdLbWlPYUV4V1J0MDZYd2tQM3F2SWU3MWdyNVhYUEZPamZ4bVlKa2pJT3JhYnpxZkE0SGs1MDhPR2V2NmlJRUlUbGZ1NkRoTldWaG5CWG9ZRE9vOFF4LXFrR3loVE83c0txZDB0alJEZWFGWkNkaVNNbkw4Z3RhaXNhNWgyaWNkLXczNWxLV1lkd3dUOGhOQ1dLT0JtSFFwX21EZFVPUWdFZ9IBsAJBVV95cUxNVHAzOXVyUnp3ZUZ2M3gzbkE0UmtTSncwdWd4YnVQbzI2Smw4QUVUQkxudjdjMUZVWUFrT3VuUFhnYS0yZUtvODR3QXFHR3JtR1Bia0JBZGhTNEVaN2Q4SE9NU2xSenhmVWpkZUt5Qi1nVFZsU1FkaU9NQmFKMWpCekV6WU9DWEROMFBueDc4MHdZMkpOQW9FVlZLVDBRaXdIRUYwUjlNblhyU0wwd3FSc3ViOGwzWVc4QzlRcTV4Rlpza01FNFZKbGwzZm5CV05mWjE3Z29od0N0WUtabE1KOEw0M1MxSjRFb2RBR2FtUV83RkQ2SVpSazdNOGVzUVNqWVBac3U3QlE0ZGtXMzBYTVNmQlJYS2R1VnVQWVB1N0hnNG5JNERldHhXSHl6S3kz?oc=5",
       "published": "Fri, 23 Jan 2026 08:00:00 GMT",
       "summary": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "weather",
+      "title": "An orange alert has been issued by the India Meteorological Department (IMD) for hailstorms in parts of Himachal Pradesh, warning of intense weather activity due to an approaching western disturbance.",
+      "source": "News Arena India",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmt2Z0FjY2xNWUtDZkxpQmxFOUxHa3JFME53cTRmcVlmVjdhTEFlc3k4alV6cUlLUTdjWEI5N1FQcEJWd2JJWEdMRU5wZGFpZ29FZkpfbDlVV3U4MkJjVTJEYzYtLUxraXpKU01CNWp5b1RtZEw1Z0tfUGFPcG9xajRJTlE?oc=5",
+      "published": "Thu, 16 Apr 2026 10:34:58 GMT",
+      "summary": "An orange alert has been issued by the India Meteorological Department (IMD) for hailstorms in parts of Himachal Pradesh, warning of intense weather activity due to an approaching western disturbance.&nbsp;&nbsp;News Are…"
+    },
+    {
+      "category": "weather",
+      "title": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUJHR1czRnRqdmV4bk8yYkFDYWlBR2RzWXdxUlRmTlhfRXlOY05GWGxrSk5vbWZCZEdIalVhZEpWQmIxNnY4MHk1RWV3MkQwSTdwVmVrblVKQjJCdU9jVmhpdnJYQTVDLU51WmJ2eGZULUFUc2traXUzRWRoZTNoc25oTVhBelZ3Y2FBNmlWZ1pyZjZBQm85WHpEUkE2bVdTSzVkdUx4clc0NjlXcFJDaFlYZ2R3cERIQ1Qybkxza0NGN1hFT2J6Rnc2OEtuY0lnc1Z5M284bUp0bVF1ZlF2Vk82SjlCMER2VVA2dWFjOFIzcmFHMUI5LW1R0gH_AUFVX3lxTE1IamZYYkM4QzlicVpKT2VyMUhHdjkta2lZN1h3QmV3dTJKcUFFSE9ZWnVYSi1TcTlia0hZQTROWlFLa1ZkQ0hrR2szUnhkNzk5ZUJSUmMtaTQtUTg0UVd6aEYwSl9aUzVSTmdZcGU1M0FTOWdobDRoeUZpOHJNNmVKcEtHQnpzTjJyc3FWaTJGNjJpeUpJX2ppQlE5YlFKczcwMUdDdldLM2Z4WlROYUN1eURVNm9BanFQbXVaODV2QUY3ZGdoZ2pKMzAyUXlucnZEZ3FHMmh2VWRUOFcxdmxaUzI5dXJObGo0VnVMNFBOY0pXWjBXdl8yZ2pyMHlDMA?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab&nbsp;&nbsp;CNBC TV18"
     },
     {
       "category": "weather",
@@ -68,10 +76,10 @@
     {
       "category": "weather",
       "title": "Hailstorm alert: IMD warns of stormy, rainy week for Delhi and Northwest India",
-      "source": "India Today",
+      "source": "indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZFJhQkFpY0RJdzJpUlA0TFJBZUw5VXIzM3hlZWxBbjdqNFktUGxwVVpnVVFNWjhTZEJ4S1RtWXpGS2hobHNwU01xVG1UVlN0TEJPeTU0ZU1DdHlvZUlmWmd2NS1oenpSN3EtRjktR29MTFpTT184R1F0ZERhSi1iMmgzNU1FWlQzdjU0bkZYb3VrRUZaeFk5ei1OYlByVHFzc0RvWUgyN1MyNXN6RGNxa3J4ODI1OGRHeDlrajVkVTR1SllXTG5ZZlBVb2FOdks5NV840gHYAUFVX3lxTE43YlBGT2t3bUdad1JWNUVDT2l3SkhkcDlENW1fR3FreTN2bE9vdGJTZ1NmUVh6ZmNvRTBWTjBwZTY5YlhNOGxrSGVPWDAzdG90MnBNT1ZqY042VV9QbkduUWhEWHlPS0dSVzZ6bmNCTWFOcFNicnpPUFpJSEU3bEJOWDlOR3k0WC1UZWxObGlGSHpWbkwtUS1DSy01cGtLWWpwVVAyTDhnSnZ5ODhFT28xSFRWTVJRUzBjWE1haWJMcXFMb010VVVaZVZ1ZmZmem1FNUEzMjJZeg?oc=5",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Hailstorm alert: IMD warns of stormy, rainy week for Delhi and Northwest India&nbsp;&nbsp;India Today"
+      "summary": "Hailstorm alert: IMD warns of stormy, rainy week for Delhi and Northwest India&nbsp;&nbsp;indiatoday.in"
     },
     {
       "category": "weather",
@@ -91,14 +99,6 @@
     },
     {
       "category": "weather",
-      "title": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...",
-      "source": "Bhaskar English",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjNCaXFFRFh5WVdxUWR3MElwYUxZRDNJejVna1IwWDdjc1pnbmcyM2s5RG90Q2NsM0o3cmppVlE1cndjalBKb1RFWUh3aHI4cG41cW9TdXA4Z1N1Vk95ODRJMGxrMWozbkZHem82eUpOVHlCRGwyWTl4b3MzUmFuak1zYndvcVQ4TW00ak1pWVFrSkU0aURCVWpwbjhsbFRCOXlEejNUTEJBOEt2MjJjc1FsWVNySUlSOGMwc0N0RV81RDNUS3AyQjFaM1JaXzBZSkkw0gHYAUFVX3lxTE1RWlU4eFRSZWhnZ1dobTBzajhtRUhFSlZUZFNWb01lVW5fWDFfUDVDQXk1Ni1ac3lDM2N4YVR4c3BoVHozd0N2SE9QM0VBTGZWN1lteVQ5TjhWZ2phQU9pUG1CcmJnTFFzbmxvWkRDYnhjOXZ1dUZUYUw1S0hIeVM3eHZZbi1pcTFVNUxWZ0tPMmI3ZDNJT094c0NaRDgzODVjQWhHdmY4TDlDcER5b3pXX2Qyc0laZS1wR2NSRDZBcms4cENXV0JfcTdzT0NOOXNmRmVreXl3TQ?oc=5",
-      "published": "Fri, 20 Mar 2026 02:51:24 GMT",
-      "summary": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...&nbsp;&nbsp;Bhaskar English"
-    },
-    {
-      "category": "weather",
       "title": "Weather update: IMD predicts heavy rain for THESE states, hailstorm warning issued",
       "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnMtdHkyeWlLeWhrampBSm5rUWxqeU1oclg5N1M2YjRxa0xNRGp0WnQ1V0ZjaV9rNGd5NXpoTG5fZXRpUENUR0VMczJGZkluTklkaThnUkZ5amlUbE5IY2NRUnZEZU01d01UdUVnRzVTcjczTERtYXVQNmlIRjc1eHZ2VXBPNFhvRGJHOHRoYTk0OG1FbnE5cWR0bWxJZzg5cVBTaDJkbjlFei1LbE9VM2VIYWF4UXp1ZWx1aGpxOXQ0ejlkODBpc05ZT3BwTVlfdUHSAdcBQVVfeXFMUHZaWUdPNEl0aEllRUxoOXlzTEY2ZGdNRDBVN3NYMmdTZWJkeVM3SVg3OWtqRXB1SVZEMHlidFhPclp0b1ZiWlVJaGp2ODg2Sms1TFhuTlFSQi1EdGlhVzY1MFJtbHB0Rm95a0ZoN2tnc0F4ZkhNRVdkOTdZS3VhSlN1V2dMc1pjbUsxWjFtbFNMRmk3UjlicHVzS0M2N3RIaVVyUnJzcXBQMTVTR2daMWVPdXZrQkJPT241Y2VjS2t2Y1ppZEVQaWJobTZ5aGJGX1FQZUNtZWs?oc=5",
@@ -107,19 +107,11 @@
     },
     {
       "category": "weather",
-      "title": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab",
-      "source": "cnbctv18.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUJHR1czRnRqdmV4bk8yYkFDYWlBR2RzWXdxUlRmTlhfRXlOY05GWGxrSk5vbWZCZEdIalVhZEpWQmIxNnY4MHk1RWV3MkQwSTdwVmVrblVKQjJCdU9jVmhpdnJYQTVDLU51WmJ2eGZULUFUc2traXUzRWRoZTNoc25oTVhBelZ3Y2FBNmlWZ1pyZjZBQm85WHpEUkE2bVdTSzVkdUx4clc0NjlXcFJDaFlYZ2R3cERIQ1Qybkxza0NGN1hFT2J6Rnc2OEtuY0lnc1Z5M284bUp0bVF1ZlF2Vk82SjlCMER2VVA2dWFjOFIzcmFHMUI5LW1R0gH_AUFVX3lxTE1IamZYYkM4QzlicVpKT2VyMUhHdjkta2lZN1h3QmV3dTJKcUFFSE9ZWnVYSi1TcTlia0hZQTROWlFLa1ZkQ0hrR2szUnhkNzk5ZUJSUmMtaTQtUTg0UVd6aEYwSl9aUzVSTmdZcGU1M0FTOWdobDRoeUZpOHJNNmVKcEtHQnpzTjJyc3FWaTJGNjJpeUpJX2ppQlE5YlFKczcwMUdDdldLM2Z4WlROYUN1eURVNm9BanFQbXVaODV2QUY3ZGdoZ2pKMzAyUXlucnZEZ3FHMmh2VWRUOFcxdmxaUzI5dXJObGo0VnVMNFBOY0pXWjBXdl8yZ2pyMHlDMA?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab&nbsp;&nbsp;cnbctv18.com"
-    },
-    {
-      "category": "weather",
-      "title": "Heavy rain and snowfall have lashed Himachal Pradesh over the past few days, including popular tourist spots. The India Meteorological Department (IMD) has warned that unstable weather will continue, with chances of thunderstorms and hailstorms in the co",
-      "source": "newsarenaindia.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUtXa2ptZVFvZ1hyejVESFJ1TVFxNTNpRmF0MnJZVmxxT1JNNUZqbDQ5Y3NUOGQ3X2VGUnVSMS1YSHpURWhGb1lnWUgzN3FycXdEZW8ycDNoTS02SklyWXlVRkQyaHBfLTVCOWNKWXhiWWZVOFdVN2tZc01zNnR4R3E3WEZLdVhIb19LTFZMNGM?oc=5",
-      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "Heavy rain and snowfall have lashed Himachal Pradesh over the past few days, including popular tourist spots. The India Meteorological Department (IMD) has warned that unstable weather will continue, with chances of thun…"
+      "title": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...",
+      "source": "Bhaskar English",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjNCaXFFRFh5WVdxUWR3MElwYUxZRDNJejVna1IwWDdjc1pnbmcyM2s5RG90Q2NsM0o3cmppVlE1cndjalBKb1RFWUh3aHI4cG41cW9TdXA4Z1N1Vk95ODRJMGxrMWozbkZHem82eUpOVHlCRGwyWTl4b3MzUmFuak1zYndvcVQ4TW00ak1pWVFrSkU0aURCVWpwbjhsbFRCOXlEejNUTEJBOEt2MjJjc1FsWVNySUlSOGMwc0N0RV81RDNUS3AyQjFaM1JaXzBZSkkw0gHYAUFVX3lxTE1RWlU4eFRSZWhnZ1dobTBzajhtRUhFSlZUZFNWb01lVW5fWDFfUDVDQXk1Ni1ac3lDM2N4YVR4c3BoVHozd0N2SE9QM0VBTGZWN1lteVQ5TjhWZ2phQU9pUG1CcmJnTFFzbmxvWkRDYnhjOXZ1dUZUYUw1S0hIeVM3eHZZbi1pcTFVNUxWZ0tPMmI3ZDNJT094c0NaRDgzODVjQWhHdmY4TDlDcER5b3pXX2Qyc0laZS1wR2NSRDZBcms4cENXV0JfcTdzT0NOOXNmRmVreXl3TQ?oc=5",
+      "published": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "summary": "1,000-km ‘rain band’ lashes India, Pakistan, Afghanistan: Western disturbances induce weather changes acros...&nbsp;&nbsp;Bhaskar English"
     },
     {
       "category": "weather",
@@ -128,6 +120,14 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEtVQlVic0NJNzhVWnJGUEM4X0FzRzBlOE1LbkNLbV9mcUVMZFNTeWlyQ1FBX2ZERTBOaFVLMk13NmU5ZURaUUZadXlSa0NPaHg4c1pVckN5ZkRQOXRFd2V6S3ZENFQ0Mm1OdnhFX2tlT1UyelBibmtZNGp1clozeHZEaTYyNFFxcE9WUzFKTkpLUm16cWFZc0EtYVRFV2x5dGt2RGNOSjR2NWk2WUlqaHBGcnFLX0VTdEJFeFkwd2ZOa1FDa1Z4YlJPUFk5MkF0M0tDUkxqZjdhWUloX0ItTG9ublo5b2JyYlg3Q2RNWWUzN2dNd3fSAfsBQVVfeXFMTTd1cVNBVS1KRi1qR1U0ZURYWVVqWWRZTWZGODlPLUI2d2dhTktkNm9sT2hsYjItVFJYZ0FfaUh4cl9GaWJYX3dQRUR5UFdOT2oxSnYwWUpMZnJxN3R2TlhXbUZ0c01MLTJCVFFMd3NZOHdteU9yR2lhVVFzSE12LUpyTEFVSksxNFM4eTQwUzVTdFBmeGR6TEpIUFpwSHJRYXNXczRPeVZBX1dmV3NVbklhME9EN2VPZ2hkbGZXZzZuNTUwT09ZU2E4QUo5WTkyZElHU24tZXMyYzd3U1ZZc2I0M0pIUEZ1UjQ2elZWSW9yTUlFZC1GOFZQWHc?oc=5",
       "published": "Sat, 02 Mar 2024 08:00:00 GMT",
       "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;livemint.com"
+    },
+    {
+      "category": "weather",
+      "title": "Watch | Hailstorm Hits Delhi, Temperature Drops Sharply After Intense Heatwave",
+      "source": "republicworld.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYk5ac3NMUGN1V1hpSHJ4dkRibkI4LUJ2cjVRZlVXOGRIS3Q2NGZPd0lOclVDOWR3Tmp0cURhYjA3TElneXpYRnhhd2FhLVVDeWNlTFV1Wlp1VTRUNXZvSWFCOVJsR1d4MHBPOTI4YmliemxsMUNuYlg1VDJiNy1hV0hOMTc2dHJLWVNmUGt3eU9WX1pfa3dUay1zQkdJVHBpQUxjWk1iOVbSAa4BQVVfeXFMTno2dDYzanRsZ2l0U1lMcmwyal8wTmczeWFNUkJlRzIwMV80ME5rdkU2SDAtZTVFdkZBR0lMZEw5Rnl6cWlxdk5xdzBrYlZvNEdCV19TMHVaVFU4R2FwOG4xT1JTaVR6ZEVVNGhQRy1OS25zREtxSFVxTDRIT05TdTVWWE9jbFE2SGo2X0YwNkpnWkg0MTV1RFNHN2pIeVU5aWY5cVNsZXdEWXZYWmlB?oc=5",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "summary": "Watch | Hailstorm Hits Delhi, Temperature Drops Sharply After Intense Heatwave&nbsp;&nbsp;republicworld.com"
     },
     {
       "category": "politics",
@@ -227,38 +227,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI MPC Outcome August 2026: Why RBI has kept repo rate unchanged again | Inflation | GDP growth",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTGhDNkVySGxnc0VhaUdnWUMzV2lvZUk5T21VSU41akFHSlQ3X2lPTFI2YXhncEtFR1V1YldZSzlNVmtCSTVJcWY4LV9KanhFdDFJTjMyVUVGaVlBQ1MyRTlxQUF0Y0VUT0c5ZEVxUnlORVRTSlBlTDdLVUJjQnFXeXBFQVZtZkVNQkdUZ01BeFR0LWJ0el9EdF8yNlRuYmo5VUxhZ3BVVjhDcVZRVG5ZZ2N2M1hsWjVLb1RHcWlWZHBKZGZoUUdvdXluZG1melBBcnh0Q3Q4Vnh6TlZBczNTRmdXOG90QmJhUkw2aGt1clBDQdIB8gFBVV95cUxOTGhDNkVySGxnc0VhaUdnWUMzV2lvZUk5T21VSU41akFHSlQ3X2lPTFI2YXhncEtFR1V1YldZSzlNVmtCSTVJcWY4LV9KanhFdDFJTjMyVUVGaVlBQ1MyRTlxQUF0Y0VUT0c5ZEVxUnlORVRTSlBlTDdLVUJjQnFXeXBFQVZtZkVNQkdUZ01BeFR0LWJ0el9EdF8yNlRuYmo5VUxhZ3BVVjhDcVZRVG5ZZ2N2M1hsWjVLb1RHcWlWZHBKZGZoUUdvdXluZG1melBBcnh0Q3Q4Vnh6TlZBczNTRmdXOG90QmJhUkw2aGt1clBDQQ?oc=5",
-      "published": "Wed, 05 Aug 2026 14:10:00 GMT",
-      "summary": "RBI MPC Outcome August 2026: Why RBI has kept repo rate unchanged again | Inflation | GDP growth&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "category": "economy",
-      "title": "India’s trade deals will matter more than ever amid uncertainties",
-      "source": "deloitte.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "summary": "India’s trade deals will matter more than ever amid uncertainties&nbsp;&nbsp;deloitte.com"
-    },
-    {
-      "category": "economy",
-      "title": "Economic Survey 2025-26",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNS1udk00TUloVkRKRlNleUthQWUzRXpUdHRwdUhlcVc0YmRGSTd3eHNucUFYdnNEaXRRZjY3NjlOUzc0OFlNRzFscHpSamZQVlFlUXkxclhfVzVETC1oc1ZVVjB3MF9xVjdpb2RvU0ZKYm5pd3JmUkxn?oc=5",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "Economic Survey 2025-26&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "economy",
-      "title": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18",
-      "source": "linkedin.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXA5UFFJZjZMTlNESnlzSDUxY0xWVWpJNmxoUGpLdXBRY1NCY2U4amNpZGhGTVQ3RUlRczBpVDNHQTlFdUVRUjluWkJwTFFYWlRtcDRRLVVBdFN5YVl4NV9RNUN3S1hmVzl2TXh3elMxRDlyNzZab2ZVWDZObkd5MTViYjNLVV80MnRrZWY5REZtbE0zOUxvRV9IVGs2d25CSDNWUmpGejdpQ3NCT2U3clk4cGE5dw?oc=5",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "summary": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18&nbsp;&nbsp;linkedin.com"
-    },
-    {
-      "category": "economy",
       "title": "RBI lowers FY27 inflation forecast to 5%, ups GDP growth at 6.7%",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORTBxTV9EaWJxckQ5VjJ0NmNtM2ZQLUdTNFpFVy1rRW1SNlJ6V25QcUFsMURRTHhaRG1uNmhUTFh4Q09BaE4zZnI4OWp4LXJoRWF6VHpRNjl5WmFBLUlFY3VSTjZXQVZKVmd5ZmprajZOUkJneXhOUlcyWExvODlwck9mTXlMQzFxRTRfNGlkTlJQNjRFN2p0STdKM1JGWXJJdnU0M0RxTkk1dHpCenU2YjhfM01iQW00dDZMaEpWOFgwaUlDTzVPMGxHRV9ud1ExRV83TWJMNG1YOGhFTV9IQdIB4AFBVV95cUxORTBxTV9EaWJxckQ5VjJ0NmNtM2ZQLUdTNFpFVy1rRW1SNlJ6V25QcUFsMURRTHhaRG1uNmhUTFh4Q09BaE4zZnI4OWp4LXJoRWF6VHpRNjl5WmFBLUlFY3VSTjZXQVZKVmd5ZmprajZOUkJneXhOUlcyWExvODlwck9mTXlMQzFxRTRfNGlkTlJQNjRFN2p0STdKM1JGWXJJdnU0M0RxTkk1dHpCenU2YjhfM01iQW00dDZMaEpWOFgwaUlDTzVPMGxHRV9ud1ExRV83TWJMNG1YOGhFTV9IQQ?oc=5",
@@ -267,11 +235,11 @@
     },
     {
       "category": "economy",
-      "title": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbE1RaER4Q01VMWZ3eDh4dHVjaHZIZUVtaVhRRTNQRlN6VG9kaFpLYjFIa0plWUpaZlhjOTZNVFNtOEswSW9WQV9ITlFHYTRlUlpWemZpS1pLa19QU19JOG5hRXhFNWVXMVpfdExfbE84cExrUjRjejBJVGpZVmhNRnpGV3B0R0ZwaDRZSy1IVTlUbFA5cG1kbnMzbWFzN0JLVGtNX1pHRXMxTE55TTF4OUx0RTZLVVR3VGVkbnZkYzlKU3pIVl9wWjl1bmJiZU9rQlZlRTRnVTJYWTMta2h2bV9Eb0JHV3ZkN1RWTWpvamNmbEpuWTEyd3lBMndKd2dmS2RBTEpXWDVEdkFjNTVJMm9TcjR1amxIdEZfM1dqWk5xS3pZc0x4N2ZrSdIBsAJBVV95cUxQaWgzSENsenZHNVBUQXpOenlYS2RkSTBzU1JYdzJJYW5DQkFVTVZSd0Qtc0Z0SDFmc2xYNURRTkVpSDFFS0NTWlI0RlNpVFhndmtJdGFoRVNrTlF6ZFQ0aFlmMnUzNXVBN3FoNThXWkJZMEdYQVZpa1lKSGs5QTdZZXpURC1KeWcwTmppSXZKNGZFalNZeTJRMWhlMXZXUzVTQmpySnloRWNFZ0MyU005Yi1MZzlpWFQ5WmlZUGZiRnBjS1Vfa3JVS1MxZ2NPczJ6T1VOckJxMnpCYXBZX2VteWppMktWX0ZtSU0yQ0RyUmZmenczU3k0cWljanY5M0l3MXYtcU9lNFRfSkRvSG1hbE9GVkR4NlgwVkRnbEhJWXN4ZFBYTGhsMXNNQWo2TDZi?oc=5",
-      "published": "Sat, 27 Dec 2025 08:00:00 GMT",
-      "summary": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained&nbsp;&nbsp;The Economic Times"
+      "title": "India’s trade deals will matter more than ever amid uncertainties",
+      "source": "Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVNEUF9teW9VSlNOTVBOOXNjbVkybkFnOTVDNkljbWpGTld4Z1BhS243VUhJcHJqMjh3UWJDRkQwYlhTam9fMzQwTTRuejFnMlJrUjNteUVmZE5LeUc4ODVPRHhFYVlQNGU4S3RwX1dKc01XTTB4VTR0STVNbVVMN0F5WndKRnNiSlpUcUlCV2pIY2ZiVUdBb09XMA?oc=5",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "summary": "India’s trade deals will matter more than ever amid uncertainties&nbsp;&nbsp;Deloitte"
     },
     {
       "category": "economy",
@@ -283,27 +251,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m&nbsp;&nbsp;The Times of India"
-    },
-    {
-      "category": "economy",
-      "title": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens",
-      "source": "PIB",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Q09uOTR4bF9fZVB0a25vZ1RhcTdCVmM2NnJEaUdVaV9aVk53NFM4VTd6MEZwNG90dDlPSUdLNHE1WS0zelJTU2l0ZUQ4cDY2aHptRldaYl9MWDRnMVVpVS1oT2I3c254?oc=5",
-      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
-      "summary": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens&nbsp;&nbsp;PIB"
-    },
-    {
-      "category": "economy",
-      "title": "RBI keeps rates steady, positive on growth and inflation",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2tJVWx5aTJWV003dDVURVQwbndnNDQ5S0dER21jUk5jeElGWFdtZ0xscWRGRlltd3BmaWhKVHZFWk1RRjZ4YndRNzZhaHdBQjRhdXA5UHFMNFRRc1hkOXJtU21SUDdlb0luU2ZxNUQ4cl82U3pRTVRnVms0V3lJVURfMFRmT0dVOVRTR2I1NFNoVDBwNHZIeDd3T2hjOWNhNS1YTFV5MUtLS2JSVUhvbmx0bFRwVml4UVZpQkdtWVc5eWdVOXFwR05XU2hCSklENTk4bHFpaGM?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "RBI keeps rates steady, positive on growth and inflation&nbsp;&nbsp;The Times of India"
+      "title": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18",
+      "source": "LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXA5UFFJZjZMTlNESnlzSDUxY0xWVWpJNmxoUGpLdXBRY1NCY2U4amNpZGhGTVQ3RUlRczBpVDNHQTlFdUVRUjluWkJwTFFYWlRtcDRRLVVBdFN5YVl4NV9RNUN3S1hmVzl2TXh3elMxRDlyNzZab2ZVWDZObkd5MTViYjNLVV80MnRrZWY5REZtbE0zOUxvRV9IVGs2d25CSDNWUmpGejdpQ3NCT2U3clk4cGE5dw?oc=5",
+      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "summary": "RBI MPC Minutes: Nervous global investors, 'Goldilocks' growth-inflation mix back rate pause - CNBC TV18&nbsp;&nbsp;LinkedIn"
     },
     {
       "category": "economy",
@@ -315,11 +267,59 @@
     },
     {
       "category": "economy",
-      "title": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the",
+      "title": "Economic Survey 2025-26",
+      "source": "pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNS1udk00TUloVkRKRlNleUthQWUzRXpUdHRwdUhlcVc0YmRGSTd3eHNucUFYdnNEaXRRZjY3NjlOUzc0OFlNRzFscHpSamZQVlFlUXkxclhfVzVETC1oc1ZVVjB3MF9xVjdpb2RvU0ZKYm5pd3JmUkxn?oc=5",
+      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "Economic Survey 2025-26&nbsp;&nbsp;pib.gov.in"
+    },
+    {
+      "category": "economy",
+      "title": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbE1RaER4Q01VMWZ3eDh4dHVjaHZIZUVtaVhRRTNQRlN6VG9kaFpLYjFIa0plWUpaZlhjOTZNVFNtOEswSW9WQV9ITlFHYTRlUlpWemZpS1pLa19QU19JOG5hRXhFNWVXMVpfdExfbE84cExrUjRjejBJVGpZVmhNRnpGV3B0R0ZwaDRZSy1IVTlUbFA5cG1kbnMzbWFzN0JLVGtNX1pHRXMxTE55TTF4OUx0RTZLVVR3VGVkbnZkYzlKU3pIVl9wWjl1bmJiZU9rQlZlRTRnVTJYWTMta2h2bV9Eb0JHV3ZkN1RWTWpvamNmbEpuWTEyd3lBMndKd2dmS2RBTEpXWDVEdkFjNTVJMm9TcjR1amxIdEZfM1dqWk5xS3pZc0x4N2ZrSdIBsAJBVV95cUxQaWgzSENsenZHNVBUQXpOenlYS2RkSTBzU1JYdzJJYW5DQkFVTVZSd0Qtc0Z0SDFmc2xYNURRTkVpSDFFS0NTWlI0RlNpVFhndmtJdGFoRVNrTlF6ZFQ0aFlmMnUzNXVBN3FoNThXWkJZMEdYQVZpa1lKSGs5QTdZZXpURC1KeWcwTmppSXZKNGZFalNZeTJRMWhlMXZXUzVTQmpySnloRWNFZ0MyU005Yi1MZzlpWFQ5WmlZUGZiRnBjS1Vfa3JVS1MxZ2NPczJ6T1VOckJxMnpCYXBZX2VteWppMktWX0ZtSU0yQ0RyUmZmenczU3k0cWljanY5M0l3MXYtcU9lNFRfSkRvSG1hbE9GVkR4NlgwVkRnbEhJWXN4ZFBYTGhsMXNNQWo2TDZi?oc=5",
+      "published": "Sat, 27 Dec 2025 08:00:00 GMT",
+      "summary": "India Budget 2026: From GDP to RBI policy moves, A-Z of Union Budget explained&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "economy",
+      "title": "With robust economic growth, what are the Union Budget 2026 prospects?",
+      "source": "EY",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ19SNm9SeEtMNWR4VlF4bDRHWGdsNm10ckdDeHVGY2JOemNKN0I1NTVTSmxDU1g3NFotSDI3dkZmVGs3NC12ZEdCWDlDZ0JYeXFVdWxQV2FKdEs4cGFxTVBGQnZhY29Zdm5KRUVPNHJlM09fM0k5LV9MMVBZbzUxeUtEWVhxY3YtMk5QcmgyM1RxMVkwbHlVYmpCZUVhYm1XaFREemlBYm5ZdWV2SnNlZGdQVi1CakJIMFg0RQ?oc=5",
+      "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "summary": "With robust economic growth, what are the Union Budget 2026 prospects?&nbsp;&nbsp;EY"
+    },
+    {
+      "category": "economy",
+      "title": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens",
+      "source": "pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Q09uOTR4bF9fZVB0a25vZ1RhcTdCVmM2NnJEaUdVaV9aVk53NFM4VTd6MEZwNG90dDlPSUdLNHE1WS0zelJTU2l0ZUQ4cDY2aHptRldaYl9MWDRnMVVpVS1oT2I3c254?oc=5",
+      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "summary": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens&nbsp;&nbsp;pib.gov.in"
+    },
+    {
+      "category": "economy",
+      "title": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUC0xUkducGlxaXBLSXhmbVAyNHg0ZFlBNXY4X3lXT2xmZlhpUW0zQjBIcDNJNjFXd2JzUTRLYmpLR3NpeHBFbFlBNWFON0hONXpGdmJEVkxNTTJzRGJ4UGg0b1BDbjJIZm9TT1AzZ0p4M2xILVVkeDhhLWRoOGdxOEwyNm40TEE4cTUtQUx3ZHFfeDhSTUVya1A1NVVZUFVjWkxVbGZqbmN1UXlGM1kzclNKRG13LU5Kejk0T3o2SlotblRHN2tBVFdWVzJTTmNSc1VjRHFlc0dLZTBzVnhmNXdFMl9oaldWazhyMG9yUmlobnVaaDdfVHVHMF91bmFlZm5aSl9NbzNNZmN3T0J3UHhPMlJRdTFVT0RGbmN5TF96XzJoaUtV0gGsAkFVX3lxTFB0ZzhXWDFOVFRhcXBQQy1fcGp3QklzVkFQc2ZyU0h2UndNV1RxM2t2cDcyQk51cHU3VEtKTlZGOW5qMXNUQlg0UkFqMEhrYm9rUEJDX3h1Z051T3J5OTlRN3BhelNHSFlVeW9aV1NCNjdGTThFcHZCc3dHY3dZZVFOSkJ3ejZCbUxPLXlrdlZSbmJLRDQ4bUQ4QjN5dm55YTlJcjNRQWhkSHJhMl8zWGI0UG1XWjZiNVNFX1FIanA0Ymw4OUdjTk9yNTdBV1J0VFJRTFpJbUMxd3dPVkpScFJfVVdtd3dvLVNWV28wcDlkX0NCYmRqNU05QU9mUjZuMVRxejU3RGQ2WTYzemJvbG02LWpmdnMwQ2E3dzJ1cVQxTGJtOUN1b3RJZ3JUSw?oc=5",
-      "published": "Thu, 25 Dec 2025 08:00:00 GMT",
-      "summary": "Economic outlook in 2026: Indian economy neutralized global uncertainties in 2025; what’s expected in the&nbsp;&nbsp;The Times of India"
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNaVdCTFRJMC1JbW5NcGFXNEluZm9WRHM3cTJRZ1pYQ0ZaQVRNSm5qS3ZkdEFIdTMyZzVTRGVYYXFISTU0M01KTkNRSXVEVTM4bVI4N2pDR2pwOHEzNXNha01CM1FxYk5lTVFnNVdYMERpUGwyQ1FId0pLVTZua0JNWkpRMnJzWmplMHBLSURPb3hBUXgyZmdzQnd6WHh1NjlPbV9wdG1rREVSZ0dvc01MSkd0TE9PRzg0N196V3BxZ1gwTGM3cGZZZmxxNHo5cm4xM2h3aFVrOGx0bHBXZEJCamZOLWlDWWNfRlhaYkd4T1ZZNzNOYjdKekhGWjg4UjZoYlhNMm42cklSdk45UjVBd3QxT2p6WEcyRkJFM296ZFhnT3R2UUx2RFZKZUlNQ1BVaHFNRTdlN2taRm_SAcACQVVfeXFMT195ZURZVVlFWXQtdVMzR19hLTg1OXN6YjU2SEN3MWVJVjctWkM4OS1QX0RLR1pmX19NUHE5N2pveHE2NHA1SGl0ZjZqQzNpbW50Q3hZQVk5YWlSYzNhVWFYS3B4N0x2Q1psWHpFLW9vc2hYVkdYVTB5SDYyMzZvVUtqaG1GR0VIdk96V09wNU42UUZlbnVybWpDd2pXdTY3OVlIMFFmVC1ZZmxEeXhhOTEzQkpTaXAwV0ZLLTk0RmowZ3A5QVRMYWhNR2RGMnhZa20ycjE0aDVOVndDN2tINDh3b2RUakpEaWRjeHM1Q21KR0xKT0h1QzBJRlVZemdVQ29sQVlEb0t6MzF1VzlfbWpRNjYwSGY3WDFhLXBrUGdpbHJWU0I1SVp4YlBNNEN2bVhPeFBjdnhaRElDTnJoTkc?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI monetary policy: Repo rate kept at 5.25% - what’s the GDP, inflation outlook & what does status quo m&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "category": "economy",
+      "title": "PIB Backgrounder",
+      "source": "pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHRpNjZKY1hVMnVMWHJHOHNyTU11RTBtVXNPcGJLODhCMXJMRXdvZEZGMW94ZE81UGEyZ0NaWk9PUzhTM2tzcXFGbzgyQlpZeEJFdE00ekNUZ0NQNENFM0MtaEtfclZINldlal9FYk1vNnAwYkNsay1PYzdLY0liaUk4U0NLYjEzc1Fz?oc=5",
+      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
+      "summary": "PIB Backgrounder&nbsp;&nbsp;pib.gov.in"
+    },
+    {
+      "category": "economy",
+      "title": "RBI keeps rates steady, positive on growth and inflation",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2tJVWx5aTJWV003dDVURVQwbndnNDQ5S0dER21jUk5jeElGWFdtZ0xscWRGRlltd3BmaWhKVHZFWk1RRjZ4YndRNzZhaHdBQjRhdXA5UHFMNFRRc1hkOXJtU21SUDdlb0luU2ZxNUQ4cl82U3pRTVRnVms0V3lJVURfMFRmT0dVOVRTR2I1NFNoVDBwNHZIeDd3T2hjOWNhNS1YTFV5MUtLS2JSVUhvbmx0bFRwVml4UVZpQkdtWVc5eWdVOXFwR05XU2hCSklENTk4bHFpaGM?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "RBI keeps rates steady, positive on growth and inflation&nbsp;&nbsp;The Times of India"
     }
   ]
 }
