@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T12:50:43.432269Z",
+  "generated_at_utc": "2026-08-22T18:38:22.995395Z",
   "items": [
     {
       "category": "pest",
@@ -131,19 +131,19 @@
     },
     {
       "category": "politics",
-      "title": "India - Democracy, Federalism, Constitution",
-      "source": "Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rWmQxdTk3OXNXTVA4VU50UTJOaWJTWXF4TjVYVlJQLXphMURfODVYRExOeGhYSGRfMms3ODlfb1F6TUZtdVhXQzVwT1Brcmp3UDBFenVYM0F4ZEIxZkpiUVdIb3RuZWNmZHJodVprWQ?oc=5",
-      "published": "Wed, 19 Aug 2026 05:00:00 GMT",
-      "summary": "India - Democracy, Federalism, Constitution&nbsp;&nbsp;Encyclopedia Britannica"
-    },
-    {
-      "category": "politics",
       "title": "Who Is Pralhad Joshi? BJP Veteran Given Charge Of Education Ministry After Dharmendra Pradhan's Exit",
       "source": "Brut",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFFmeV84cXlENlBLbTRhZkZmV0dYNDY2aEhhWTBTcnR6aC1fdzcxMU9Ib0pCZGRGaXpZTkRHM0V1TTVVbU8td0Y1SjRFTGZESTQ3M082TWpTTnZ2azRReUZlY2J1UEppeGJFd2p4N0VIRm9YMkN5VkdhRV9hYU5SRW1FRlRXZ195enliNmRmNlhqVmM5N0tmbmRXWWM0eGhhTE9iUnY2V1ctTXdkTm5JUWdpVzhueGlDNmxRaTVVai1zZGVHZHhKZzNrNEg3MGszck9QcVlLTTNXWGJVSE1lQjZSQQ?oc=5",
       "published": "Mon, 27 Jul 2026 07:00:00 GMT",
       "summary": "Who Is Pralhad Joshi? BJP Veteran Given Charge Of Education Ministry After Dharmendra Pradhan's Exit&nbsp;&nbsp;Brut"
+    },
+    {
+      "category": "politics",
+      "title": "Parliament and the fraying idea of India | Policy Circle",
+      "source": "Policy Circle",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qWWlWdEpHb2x2cXlFaFV0TDl1czRZSFJ3SC14cTNEaF9ZQjFmR3Z3NE52cHZJRHFLcUxZbVJtdHZXdzZSRm14VVdhUzJVNExlSHJvdnBTYVFDamxnRFFkZ3ZmUzNUWVFudk5XVjNXZkJ4VG9YWkMxN9IBfkFVX3lxTE0tYUlzc1RCMldxc0JVdG9pQ2lxLS0zN1dvZ3dQeVU5ZnR1a1JWN2hlU0s5RDVjME56czVkdTdmbWppbG8tVTZTaDRSa3YySWxxYTRWc3ZWb3FyeFNZMlNrOHZFeXVuMUNXRmxWRkJqUWF2M2U5ems0bVlYLXZKdw?oc=5",
+      "published": "Thu, 13 Aug 2026 10:22:08 GMT",
+      "summary": "Parliament and the fraying idea of India | Policy Circle&nbsp;&nbsp;Policy Circle"
     },
     {
       "category": "politics",
@@ -179,6 +179,14 @@
     },
     {
       "category": "politics",
+      "title": "Dadabhai Naoroji",
+      "source": "Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LTERZb0RnQm9YcVVnZ0owUFpLRWNHbHlXVFVvWGdyVTVYMXEyendOclowSURIWjIzVDNlMVJzU3NvRFc1aFVObVR1d2hIYlVxa01HaDVCemJ4a3d0RklCakg5Yw?oc=5",
+      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "summary": "Dadabhai Naoroji&nbsp;&nbsp;Encyclopedia Britannica"
+    },
+    {
+      "category": "politics",
       "title": "India: New foreign funding rules tighten control over civil society and undermine the right to freedom of association",
       "source": "Amnesty International",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXlCNFNTTktIdVlMYko3Qjl1VXZWTGEtTExLWjNILUh3cVlLbS1Ec1pINnh3VFhmTHJ0SVo5NUIxUXM4NHZkdGdNdS1CeGNsbTd2emFUeW9xYzZKRlZScjFuY0FZVFpEb3RsT1NoZ0VZcWJ6a0Y3bHA1dXJ4V3RUMmxyZ0JvWF9MdFF5RWt0UU94TE9sZlI5ZVhpYk0wVHZzS2pScmxFWV9raThiVXRMWjVxUkFwUVNVc2ppWlVlUVVNTkk?oc=5",
@@ -200,14 +208,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVXA4YnhUYWNUem9JdjBUUXlRbjRiaVQ1LXl1MlhBeVRMNlREV2VFcEFrNjRkeHJ6aEhIY21waHIwOEVld0tkcjFKcVYtUjRURHp1d1E1Z0Y4Mm9ld19GOUlOSGhQalNuTjliNzRKcTVpUzZ4SWdoZGtzcjllVGVYYlUyU0htdzZpOGoxU0VOcE9uZ183OWpOY0hpaVNJLXZMWDdlMmhzTFJMcHVjNldQX2MxdHJjaktlbEZjN3BXS21lRkdJQ2hYdjNGLURFWFdWTXZTXzVmQVlFWXI1N3NMYlNxeFdxYnBIYnJteUtaLWk?oc=5",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
       "summary": "Explained: Why critics say India’s Delimitation and Lok Sabha Expansion Bills are using women’s reservation as a cover&nbsp;&nbsp;The Leaflet"
-    },
-    {
-      "category": "politics",
-      "title": "Dadabhai Naoroji",
-      "source": "Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LTERZb0RnQm9YcVVnZ0owUFpLRWNHbHlXVFVvWGdyVTVYMXEyendOclowSURIWjIzVDNlMVJzU3NvRFc1aFVObVR1d2hIYlVxa01HaDVCemJ4a3d0RklCakg5Yw?oc=5",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "Dadabhai Naoroji&nbsp;&nbsp;Encyclopedia Britannica"
     },
     {
       "category": "politics",
