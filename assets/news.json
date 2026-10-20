@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T16:42:05.253737Z",
+  "generated_at_utc": "2026-10-20T21:27:31.466015Z",
   "items": [
     {
       "category": "pest",
@@ -28,10 +28,10 @@
     {
       "category": "govt",
       "title": "PIB Backgrounder",
-      "source": "पीआईबी",
+      "source": "Press Information Bureau",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb05rMk54cWF6X2hGYzVMblVNSmNMY09CZnJHZEJlTE9pVjRQci15dm1aV2plT2ViSXN3QTBURkF2SzhYYnU4OHBpWmZFcXZwcXhKSEM5ZDFpUk9iOGVnbkx6cC1GMENldkxNSUhlRE54dnkzYVlsSkhQblJyQ3ltYXNQM2cxOVJvcFE?oc=5",
       "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "PIB Backgrounder&nbsp;&nbsp;पीआईबी"
+      "summary": "PIB Backgrounder&nbsp;&nbsp;Press Information Bureau"
     },
     {
       "category": "govt",
@@ -123,19 +123,19 @@
     },
     {
       "category": "weather",
-      "title": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWlGTm9lVHhPNGpsaHRrYURVakljcXNlM3hvYmVFUlRlVGdUUVFCNHRLOHM0cFZIUXlGVWpjYTFWZ29nMmFmSDk4VmZRNEo2UDFiTTF0WE40NlVyR25LZGZkczJ1UVFyRmJKVlZhSkt5TXZRRUE1eHdGMHFNMFh4OW5DeTVPRlVNM1o1UUwxeWIwWGVzRDg0WDdyVnY5Ti1xVUFNMU8xUGFXeHFhU2RnZ1NhTHNpQm1lN1dxVzlxVV9UbklWOFVsQmthSW1TVlJPRkHSAdcBQVVfeXFMTXpuVW01N0hYbE5TaGlXNUN6T191N3N4a0RGOUpFanB3aVpMaFVDcFoxS1VHdXBVWW1YR3hKZEhLT2JobG5QNkV2UzNpTlp5OVBwbzdmcFlqWVdyZUY2UEN4aGdKNmxRNmgwR2FmUHA3X0JMcjBKcGNiNXkxRWFjWlpzbEZBaGVDLVJxblNsYllkMTZweE16bjB5V3dpZVZfaGJ5U2ZkYWRCamxMSFJoYUJzXzdfdFF3dWRWVnk0THZPMWpYOUNETDQySFpmWkhWVkVJQWQwUlU?oc=5",
-      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "summary": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "category": "weather",
       "title": "Weather update: IMD predicts heavy rain for THESE states, hailstorm warning issued",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnMtdHkyeWlLeWhrampBSm5rUWxqeU1oclg5N1M2YjRxa0xNRGp0WnQ1V0ZjaV9rNGd5NXpoTG5fZXRpUENUR0VMczJGZkluTklkaThnUkZ5amlUbE5IY2NRUnZEZU01d01UdUVnRzVTcjczTERtYXVQNmlIRjc1eHZ2VXBPNFhvRGJHOHRoYTk0OG1FbnE5cWR0bWxJZzg5cVBTaDJkbjlFei1LbE9VM2VIYWF4UXp1ZWx1aGpxOXQ0ejlkODBpc05ZT3BwTVlfdUHSAdcBQVVfeXFMUHZaWUdPNEl0aEllRUxoOXlzTEY2ZGdNRDBVN3NYMmdTZWJkeVM3SVg3OWtqRXB1SVZEMHlidFhPclp0b1ZiWlVJaGp2ODg2Sms1TFhuTlFSQi1EdGlhVzY1MFJtbHB0Rm95a0ZoN2tnc0F4ZkhNRVdkOTdZS3VhSlN1V2dMc1pjbUsxWjFtbFNMRmk3UjlicHVzS0M2N3RIaVVyUnJzcXBQMTVTR2daMWVPdXZrQkJPT241Y2VjS2t2Y1ppZEVQaWJobTZ5aGJGX1FQZUNtZWs?oc=5",
       "published": "Sat, 17 Feb 2024 08:00:00 GMT",
       "summary": "Weather update: IMD predicts heavy rain for THESE states, hailstorm warning issued&nbsp;&nbsp;Livemint"
+    },
+    {
+      "category": "weather",
+      "title": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWlGTm9lVHhPNGpsaHRrYURVakljcXNlM3hvYmVFUlRlVGdUUVFCNHRLOHM0cFZIUXlGVWpjYTFWZ29nMmFmSDk4VmZRNEo2UDFiTTF0WE40NlVyR25LZGZkczJ1UVFyRmJKVlZhSkt5TXZRRUE1eHdGMHFNMFh4OW5DeTVPRlVNM1o1UUwxeWIwWGVzRDg0WDdyVnY5Ti1xVUFNMU8xUGFXeHFhU2RnZ1NhTHNpQm1lN1dxVzlxVV9UbklWOFVsQmthSW1TVlJPRkHSAdcBQVVfeXFMTXpuVW01N0hYbE5TaGlXNUN6T191N3N4a0RGOUpFanB3aVpMaFVDcFoxS1VHdXBVWW1YR3hKZEhLT2JobG5QNkV2UzNpTlp5OVBwbzdmcFlqWVdyZUY2UEN4aGdKNmxRNmgwR2FmUHA3X0JMcjBKcGNiNXkxRWFjWlpzbEZBaGVDLVJxblNsYllkMTZweE16bjB5V3dpZVZfaGJ5U2ZkYWRCamxMSFJoYUJzXzdfdFF3dWRWVnk0THZPMWpYOUNETDQySFpmWkhWVkVJQWQwUlU?oc=5",
+      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "summary": "Weather update: IMD forecasts rain in Delhi today, cold wave in north India&nbsp;&nbsp;Business Standard"
     },
     {
       "category": "weather",
