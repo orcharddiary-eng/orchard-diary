@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-04T05:50:27.633352Z",
+  "generated_at_utc": "2026-11-04T14:11:08.978450Z",
   "items": [
     {
       "category": "pest",
@@ -20,10 +20,10 @@
     {
       "category": "govt",
       "title": "Press Note Details: Press Information Bureau",
-      "source": "पीआईबी",
+      "source": "pib.gov.in",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejBTWkZPLTJlRjVzSUw1LVItNDUta2h3NVZZQWd4cERVMkV1QU81c1FSajhOSWgyV1hPNXlJc2wyWTlxVzlxNjhWQmxDSFVybEpxaTliRGNrZS0yX0p3bnVBalNTNHJfeEhqWG9aNDg2QmJucEZOazQ1Y21MQUIxLXlEeEJoVkJOUXc?oc=5",
       "published": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;पीआईबी"
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;pib.gov.in"
     },
     {
       "category": "govt",
@@ -44,10 +44,10 @@
     {
       "category": "govt",
       "title": "National Mission on Edible Oils",
-      "source": "पीआईबी",
+      "source": "www.pib.gov.in",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
       "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;पीआईबी"
+      "summary": "National Mission on Edible Oils&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "category": "govt",
@@ -171,27 +171,11 @@
     },
     {
       "category": "politics",
-      "title": "Democracy, Constitutional Responsibility and the Sanctity of Parliament",
-      "source": "Goa Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFdwT0lxcmxJczc0LTExNFJrbThic0FoRm02S0k4bzNkajM3LTl6V2FYOThWeTdGcVJ2OVI1Q1NJc3NYd2k5b0FTVS0yeWlSbXIxaG11SXRkbTJabFNJSzFNanJLZjRiUEpXVGpJaGVGejFvSlVHYTI5MHUyVUh1cGNXeTF5d1JWWDdMVS1ZYlJYcXJRQ3B1ZzNGTkM?oc=5",
-      "published": "Sun, 01 Nov 2026 15:09:55 GMT",
-      "summary": "Democracy, Constitutional Responsibility and the Sanctity of Parliament&nbsp;&nbsp;Goa Chronicle"
-    },
-    {
-      "category": "politics",
       "title": "Facts and figures: Women’s leadership and political participation",
       "source": "UN Women",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
       "published": "Tue, 15 Sep 2026 07:00:00 GMT",
       "summary": "Facts and figures: Women’s leadership and political participation&nbsp;&nbsp;UN Women"
-    },
-    {
-      "category": "politics",
-      "title": "Indian Parliament: Why Democracy Needs Reform",
-      "source": "Frontline Magazine",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnlyMHJwcmE5Wmk3dVlMckxnVnVBcE0xb2xoeVQyR19OVDlib3hIX3JWemxvYk1fOU9yMURhQzFmWGExV2o4T044aVhnVnNNMnVxOGN1SkxTcHU5REpkZ2JPM0FTakMzblBMaThHMEVsaWtnZ2ZXRGM3R2dhaWI5NW91czhxRVNpV1R6ekJPbW9iRTBlOHlGcU130gGgAUFVX3lxTFBtVUFOR0o5Z2xDSW9uV0wzR19GUlNpbTRreDN2aXpNclFnSWMyd3ZOVzV0cG9XNk42ZE1pRVpUMHpxNHgtQWRIVEdEbm5tTlZQNnBnQTBWcE9ybFZYXzJXdUIzYjZCeHBuN2hWTXByS1E1TDl6TW9GVFZWQXZ2ZEJSbG43UWJqUGRFMnREZGFpaWZYRGd2NlNKNjJ4Z25mRHc?oc=5",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "Indian Parliament: Why Democracy Needs Reform&nbsp;&nbsp;Frontline Magazine"
     },
     {
       "category": "politics",
@@ -227,6 +211,14 @@
     },
     {
       "category": "politics",
+      "title": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes",
+      "source": "Frontline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFlCWEVIUFNCTDBfVmdfQ2ZZYjI3aVhsNVc4c29GaXVXZ2I2dUY4Mms1bFFURHlKcU1NUG9TMlE3aTlnaFJBRlg5U0hMQ1FHdWxzdEhLS1pNQ3RqUnRGWnp1OWxQSEJVY0xCaHNEVTR2bEY2NlFTMUdNaWJoM2dpWHJiaFJQVzhUWkpnS2NvWXZ3bFFjWTdRSHVn0gGgAUFVX3lxTE5zeWxqSEtzcVRZMUd1YmJ0MmNYY0tTZVpXbnRaQ1dPbzE5UXRKUkZIejdxUVQzRzhJb2dvbmZvQmlUcjdDNWs5UWhrYk9YQXpialNlRUNLVVAxSXNKUVlwaDZFbDY0NlEyclZ4OVRkenBxaWVJdlhSSmNQMUlFVGtxVjE4OFUtZVphZGU5ZDdZZnZvaXVibm5Kb0tIT3BZYXI?oc=5",
+      "published": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "summary": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes&nbsp;&nbsp;Frontline Magazine"
+    },
+    {
+      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
@@ -258,12 +250,12 @@
       "summary": "India’s New Gender Quota Law Is a Win for Women—Mostly&nbsp;&nbsp;Carnegie Endowment for International Peace"
     },
     {
-      "category": "economy",
-      "title": "Annual Report",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZnd6TUNkRy1vRXRLTkxhSnpYUnJhRUk2VkdWNmxlQkI1eTdWOE5KaUJ5ODBpbVR4QUFUaGhYcWJLel9aMGktYmhOUUp4dHNDVnpVXzRndVdlbVRmMGhMUjlWR2k4WmJlQ28yY0s4cTVMMWVQ?oc=5",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "Annual Report&nbsp;&nbsp;Reserve Bank of India"
+      "category": "politics",
+      "title": "2026 Investment Climate Statements: India",
+      "source": "U.S. Department of State (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Pb0tWLVo2cTY2blBIb05melppRF9RNmpwTlBrMmxOMzlDWlplc2NteWQzRDU1ZW5qT3R4MTBxc0pYTDJoNDVwemJWOVFIanp4Q2xjOVk5a1V5SlQyRnBtb2RDQmFoblJaTVlqV1hMQkphN3pzemZLRTV3?oc=5",
+      "published": "Thu, 15 Oct 2026 07:00:21 GMT",
+      "summary": "2026 Investment Climate Statements: India&nbsp;&nbsp;U.S. Department of State (.gov)"
     },
     {
       "category": "economy",
@@ -275,19 +267,19 @@
     },
     {
       "category": "economy",
-      "title": "RBI Policy Update August 2026: Repo Rate Unchanged at 5.25%, FY27 GDP Growth Raised to 6.7%, Inflation Forecast Cut",
-      "source": "India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlpZERrZGItVFh2OVgtMzN4MjUtRlR4SjhTdTBYQXRyMWNYRHpuNFo1MmRnMUV4aENrd1B4WkFxbG9tWmMtSXc5ek9lU01zWUJmbWp3WlpSYWZ0di0tbmpicGM2aU1fdUJQSk03eXE0UDM1azVScEVncU95LW85N0xoajJiY3N4dF9OWlROMUFfTUZoVjFwcWw5UHRNT0lPSE01aDFSZXZwcUNvZlFtNVZTZzV3OS12Zk9teVRyMFFSdEtmOWRTNTRuRlAzdGZjSUxzUUM2VXNQM3JoN1lIQ3FfY01hSGFM?oc=5",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "RBI Policy Update August 2026: Repo Rate Unchanged at 5.25%, FY27 GDP Growth Raised to 6.7%, Inflation Forecast Cut&nbsp;&nbsp;India Infoline"
-    },
-    {
-      "category": "economy",
       "title": "RBI Monetary Policy and Its Impact on the Indian Stock Market",
       "source": "Equitypandit",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmU3VzF2bGhiS09fakJzUDdSQlRidHJJTjBJV3ZBdG9FbUt0TnJBZmZaT0cxQWNKVUNsOG9LRmNCLUJEYjVaZ2xINC0yZXhlVDRScy1ib0xiejZPZVRxTnRwb0YzbGJ4czhRclkzVVVoTlpWTHo4SEI3WHVLd1pZUjY4QmR3dVhYVnNnckl0MEI3aHhZRUE?oc=5",
       "published": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "RBI Monetary Policy and Its Impact on the Indian Stock Market&nbsp;&nbsp;Equitypandit"
+    },
+    {
+      "category": "economy",
+      "title": "RBI Policy Update August 2026: Repo Rate Unchanged at 5.25%, FY27 GDP Growth Raised to 6.7%, Inflation Forecast Cut",
+      "source": "India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlpZERrZGItVFh2OVgtMzN4MjUtRlR4SjhTdTBYQXRyMWNYRHpuNFo1MmRnMUV4aENrd1B4WkFxbG9tWmMtSXc5ek9lU01zWUJmbWp3WlpSYWZ0di0tbmpicGM2aU1fdUJQSk03eXE0UDM1azVScEVncU95LW85N0xoajJiY3N4dF9OWlROMUFfTUZoVjFwcWw5UHRNT0lPSE01aDFSZXZwcUNvZlFtNVZTZzV3OS12Zk9teVRyMFFSdEtmOWRTNTRuRlAzdGZjSUxzUUM2VXNQM3JoN1lIQ3FfY01hSGFM?oc=5",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "RBI Policy Update August 2026: Repo Rate Unchanged at 5.25%, FY27 GDP Growth Raised to 6.7%, Inflation Forecast Cut&nbsp;&nbsp;India Infoline"
     },
     {
       "category": "economy",
@@ -312,6 +304,14 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTjVpbWhMUTA2RjZWQzlWVUFORlhzUUF1SnFudWFQUWdiTjl2Z3lTS0lkWE5QTG4wWXZpWGRqbHZXaWV0UkhtN0tnZXFTN2V0Y1NRVGJLNFRaMjVJUElWLXBmMW1DMkFWdEpBMzZsenk1YS1KcE8xd3ctb0FES3NtRGlFZFNreWJsLUVwUTRyXzQ?oc=5",
       "published": "Thu, 22 Jan 2026 08:00:00 GMT",
       "summary": "The ascent of India’s economy&nbsp;&nbsp;The Economist"
+    },
+    {
+      "category": "economy",
+      "title": "Annual Report",
+      "source": "Reserve Bank of India",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZnd6TUNkRy1vRXRLTkxhSnpYUnJhRUk2VkdWNmxlQkI1eTdWOE5KaUJ5ODBpbVR4QUFUaGhYcWJLel9aMGktYmhOUUp4dHNDVnpVXzRndVdlbVRmMGhMUjlWR2k4WmJlQ28yY0s4cTVMMWVQ?oc=5",
+      "published": "Fri, 29 May 2026 07:00:00 GMT",
+      "summary": "Annual Report&nbsp;&nbsp;Reserve Bank of India"
     },
     {
       "category": "economy",
