@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T12:46:53.274327Z",
+  "generated_at_utc": "2026-11-07T21:40:07.770623Z",
   "items": [
     {
       "category": "pest",
@@ -139,14 +139,6 @@
     },
     {
       "category": "politics",
-      "title": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdHVCTFl6VjREeElOSzZQUFIxdWJfMDNrbTQ2THpSeDN4dEd0RHFEdnNfNTVkWk8yai12Y2J1MENCZmdRSi1YSFE0Q29wV0N3bldkSnFiMlJhbUxUcGVCbFc3a3VhUQ?oc=5",
-      "published": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "summary": "Bharatiya Janata Party (BJP) | History, Ideology, Election Performance, & Beliefs&nbsp;&nbsp;Britannica"
-    },
-    {
-      "category": "politics",
       "title": "Facts and figures: Women’s leadership and political participation",
       "source": "UN Women",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpmalZLd193RDRuYnRPRWd3dXMtaWZtbHpianJKVG9ZMzl4ZjRxVDF0bVM4N0pva0c4bmtzWHIzemc5aGhOZDBFSVZHSEQySWUyU2Zsd2w3ZVpNUXp6MTJ0MEdQR1lrY1ZaSU1kSjROQmtyNl90cEV0U3J5U185MmZaMkQxLXV0dXoxYW1tR204SDVmNWhvMHJkUXkzd3RFZmZnSFNsdkFEb2F3MW16Qmp4RGEtbXpa?oc=5",
@@ -208,6 +200,14 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrWjJtMHYzUUJtdnM4WmE5RGtWcnpZak1UaDdUNjgtaVJyVUxOMGtTMWpiSnZGei01TzFKTE9CbUNLVjNwVEMxOW9FRlE4cDJZS3VObHNVeVpOSGpmcHNYVllPT29aOHVoSWNHaHZsUnk2UQ?oc=5",
       "published": "Wed, 23 Oct 2024 05:22:39 GMT",
       "summary": "Shri Pranab Mukherjee Profile&nbsp;&nbsp;www.presidentofindia.gov.in"
+    },
+    {
+      "category": "politics",
+      "title": "India: Freedom in the World 2024 Country Report",
+      "source": "Freedom House",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02OVJTQWFiNlU2bVVzZGlZN2VzS2l2WHRPMUlkcTAxSzIyN3FYWmF6MUs5ejZOT29acEwzUW1aT3N6VzltRXJSOExDVmtGeDkzQk1MR3hGUzZRYV91OTFWb1lQRkRaUlVW?oc=5",
+      "published": "Thu, 29 Feb 2024 06:38:18 GMT",
+      "summary": "India: Freedom in the World 2024 Country Report&nbsp;&nbsp;Freedom House"
     },
     {
       "category": "politics",
@@ -307,14 +307,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI Bulletin",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91WHIyMEVzTXNub0JvQjYteUdMTmRhTVFtNmVVNEF3SjBrU2lvUnJWUElWQzJLdlZQeHZ0aWUyLWRCYmJZTDVoT1hsQ1lrSHRCRkFlbWo0UktPdk9Zd1FEc2VMQjBDQ0IwNEhDMw?oc=5",
-      "published": "Wed, 19 Jun 2024 07:00:00 GMT",
-      "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
-    },
-    {
-      "category": "economy",
       "title": "PIB Backgrounder",
       "source": "pib.gov.in",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHRpNjZKY1hVMnVMWHJHOHNyTU11RTBtVXNPcGJLODhCMXJMRXdvZEZGMW94ZE81UGEyZ0NaWk9PUzhTM2tzcXFGbzgyQlpZeEJFdE00ekNUZ0NQNENFM0MtaEtfclZINldlal9FYk1vNnAwYkNsay1PYzdLY0liaUk4U0NLYjEzc1Fz?oc=5",
@@ -328,6 +320,14 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ZFJkQ1V0blpvNkl6OGkwa1BBWjBWSk9MUndNMWp2akZrTmxWbGkyWmY2SjNldlJSUXB3ZThYaFJZeUpHVjc2UXR5LW5VRWpVT0h5RDNtSWVqT3hURmFEd0M2V0ZUMnli?oc=5",
       "published": "Thu, 20 Mar 2025 07:00:00 GMT",
       "summary": "India’s Trade and Economic Outlook&nbsp;&nbsp;PIB"
+    },
+    {
+      "category": "economy",
+      "title": "Press Note Details: Press Information Bureau",
+      "source": "pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oREV6c3dQN0x1YmFWdHVkSURSb1I0Vi1GNmh2Y3NHblcwQklLTWFlN3VLQW1FLWlmMDZtM1dQVUhWemItbGNBZ0lYRXBLSXJMQTRHT0YwaVNYdmRQSjdzWllMV1RBXzNyeWJVQTJjNWhBVVBvUGZlQg?oc=5",
+      "published": "Sat, 30 Aug 2025 07:00:00 GMT",
+      "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;pib.gov.in"
     }
   ]
 }
