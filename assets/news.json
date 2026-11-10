@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-10T01:23:21.243434Z",
+  "generated_at_utc": "2026-11-10T14:40:43.306868Z",
   "items": [
     {
       "category": "pest",
@@ -123,6 +123,14 @@
     },
     {
       "category": "weather",
+      "title": "IMD weather alert: Cyclone Arnab weakens, but extreme rain threatens Odisha, Chhattisgarh and Bihar",
+      "source": "Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPem16YjVRdlZyQWVubDhZdGFfSHUzY0d5aUgteUZIb0k0LVNjc2lJLXBDd1RYWXJTM2UxMVhzVzFVV1pmM2pDLWhpaTByaGp1dnhOeWw4WE93X1IzR1E2OUN2ejdTcFhNZDNwVGhoNHp4SlVfREV3M1d3eHd4em5KT1RDSFBETHM2c0FHV2RIdUJWeXZYcHp5dVZmZzhqbDl2T3RQZXExdGEwazZrS3hfeHNaTEthbTVwMEVQR2JmTlFkWDFiVWtETDhZbw?oc=5",
+      "published": "Thu, 29 Oct 2026 09:55:23 GMT",
+      "summary": "IMD weather alert: Cyclone Arnab weakens, but extreme rain threatens Odisha, Chhattisgarh and Bihar&nbsp;&nbsp;Business Upturn"
+    },
+    {
+      "category": "weather",
       "title": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan",
       "source": "Republic World",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2RaMzVMTm1ZYVdtX0huU09OOVk5aVZUMHU2NzByTGZCUDVBWEFYck5LM2YwLXlJU1BvNlZId3cyMTZVMERXUWw3b2VXd04yaG95U0Vkc3I0NURvZlVPd2pQN3NQM1hlUE9fYjdpaFpBUzZORGdsS1BLcmFGVjA3eWFoRERhMnJEc3FIN0Znb2JTUHdhRVpOQTk3SEU4azZBMFJwbUl0RTl5VWY4S3dOZnlHVdIBuAFBVV95cUxOcGxjcjhEdTFKeFAxZUQzcFc1RTc2T3Exb2gxdWNqWkhLbllEX0hNYUpvY280RmV2RGRBdFpPVmlVeE1OdTRFZ0Z3X2JRYjV1dV81cld3Q1NMcjZEc3hXMGpxb25fYUdUam5zZm5GWU1Zb1ZzdDRfNDl2dmxja3R3cjFUZWFZWlY1WC0wVzliajQxNWtETWRjVGY0NGhPa1lrbnh5bzJucERhaEROZUZONXBtb0ttWmxB?oc=5",
@@ -171,19 +179,19 @@
     },
     {
       "category": "politics",
+      "title": "Delimitation After Defeat: India’s Unfinished Debate Over Representation",
+      "source": "Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNandCOXhmLVFqQUJZUzZYUHFBck1kdzU4Y0pkbkpGTmhydTNzUkJPcC1MUm9iVGZCaEl5XzFvTUpXUEg5cWc3V21UYkxlQWtSblJ4ekRVOEdsMHZ2cmpUY3dRWmYxVE1oNjA0OTlaQm5neGJERWlwTGQ3amw3a3I1WXp5a0NtZ2RSTHRYLVNibzJMX2JSXzNKTUU3VTliSEg4a21ha0Z1UUdzOWF6NTVibUs5NUxaWlJxbUdaMkhjazAzUFE?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Delimitation After Defeat: India’s Unfinished Debate Over Representation&nbsp;&nbsp;Carnegie Endowment for International Peace"
+    },
+    {
+      "category": "politics",
       "title": "Modi Government Suffers Setback as Constitutional Amendment Defeated in Parliament",
       "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHFVSjlvMmVOQjFyZnF0Tzhkc2tzQWZ5TlBqX1l2SnNuUm5JQ2hSNHlsdEhtZ2pnS3ZBVy1CWElqRHhyalZ6aEJRSGU2dGJkalJqU1FYRFBMX1NIMFFsS3hyX1BYZEMxVVd6eEtURUo2YzdwT3Uzc3BGVURwUEN5dklVVXZWeTRzWjFYeTI1U1AxcWFBNE53Z2NrSGExOUgzSHU2RnNOZW1rallpM0x2TjRwQk5ZUQ?oc=5",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
       "summary": "Modi Government Suffers Setback as Constitutional Amendment Defeated in Parliament&nbsp;&nbsp;The Diplomat – Asia-Pacific Current Affairs Magazine"
-    },
-    {
-      "category": "politics",
-      "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
-      "source": "orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
-      "published": "Wed, 16 Nov 2022 08:00:00 GMT",
-      "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
     },
     {
       "category": "politics",
@@ -195,11 +203,11 @@
     },
     {
       "category": "politics",
-      "title": "Women’s Power Index",
-      "source": "Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91RXprUHJKTUdtWUJ3ek9FVXpDZVlScFdMNmt3MmNYSUVBWWUzcGw0ekNvT3pPd3BxRkVfbXVYNmtSci1PVFJJME5GVTdnMktqLWFlbVRtTVdUYjA?oc=5",
-      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "Women’s Power Index&nbsp;&nbsp;Council on Foreign Relations"
+      "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
+      "source": "orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
+      "published": "Wed, 16 Nov 2022 08:00:00 GMT",
+      "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
     },
     {
       "category": "politics",
@@ -211,19 +219,19 @@
     },
     {
       "category": "politics",
-      "title": "India’s New Gender Quota Law Is a Win for Women—Mostly",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEN1MUVjenRhSUIzZW0tQVFoR1ZqVzd4TUF2ZWY4b21NcWs1b2I0WXdJSF9FM3hPRFVOM0FMYjBseC0tM0hGRXJkOERuSUIwbV9nYzcxT2tNVmQtOTNURHY4SWh4S29RSmFBYkVqa0pJSUd0UFdYZ0lXN1Y3T3l1U2lYU21oY29pZHh3T3RiYVV1b0p3Tlhob3Y3dVo?oc=5",
-      "published": "Tue, 26 Sep 2023 07:00:00 GMT",
-      "summary": "India’s New Gender Quota Law Is a Win for Women—Mostly&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
       "title": "Profile of Shri C. P. Radhakrishnan",
       "source": "vicepresidentofindia.nic.in",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUxFc2IzSGduemxTUF85TjBOYmNTdXRHUkhBaUJhNXQyZFdHSm9LLVV5aWNXb01rdHZYcEhZQWdLUUkwVHY5cm84eVBnZzRwYkNHOGVYRUJzM0g0bTZzWkRDV1Y2RUVlWG1FclM1OEo4aVQxdHloZGlLNW9SbzhKdV9iMVI4Qm9YaUFN?oc=5",
       "published": "Fri, 12 Sep 2025 07:00:00 GMT",
       "summary": "Profile of Shri C. P. Radhakrishnan&nbsp;&nbsp;vicepresidentofindia.nic.in"
+    },
+    {
+      "category": "politics",
+      "title": "Indira Gandhi: As Prime Minister",
+      "source": "inc.in",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ub0JEUGlEa3JlVHIxZFA1N2pBbWw0RVBrUko0bWJWblhLN2hvbk5YZGtBWnJmZU0yTERlaDJ6VWQxenlnLU5uQmJ5TXYzbldTb2J4c3JTbVYzY2l4a3pZRGZCaF9ieUk4OWVkY2FNeWhIWXJWRnllZktTNA?oc=5",
+      "published": "Tue, 09 Jul 2024 10:47:34 GMT",
+      "summary": "Indira Gandhi: As Prime Minister&nbsp;&nbsp;inc.in"
     },
     {
       "category": "economy",
@@ -259,14 +267,6 @@
     },
     {
       "category": "economy",
-      "title": "RBI Bulletin",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYVFySGlnLXQ2U1pBV2RlSkEyUXVqS2Y2anU4TDJ6SXZnaEpENkJ6RzNYTkw5N1p0MVdSX3hfeXNfa1NFbWM5OTZqTDVFNUdOSTlGUi1ZLXhyWGlCOV9ydy15Z1VScDhQMGF4dQ?oc=5",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
-    },
-    {
-      "category": "economy",
       "title": "The Outlook for India’s Economy in 2026 amid A New US Trade Deal",
       "source": "Goldman Sachs",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3NpaHFzYWtwMlMyNjc5SlZ3UzU4dkI4ckhIcDM5eGthWk15dVBuemludEdkMjUxekdSWWt1WG5SYy1GVlNtZ09WSVFxQ3FVZUhIRWdwRVBmbm80WGpCd0pQcDNCclkwWTI5VmhCXzV2NkZrbmR2ckRfektZN3JlNXRtY1FVLWdGa2FXSjhSaVY3aUgwYUR3SlRYVlhIZTVwZ2JqUUVtaDBKUUU?oc=5",
@@ -285,9 +285,17 @@
       "category": "economy",
       "title": "RBI Bulletin",
       "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bWVsX2p6blR2WEdMRjl2dU5YWml5VlZhY1NqZVU1VzM0QlJ4MURuYjlMaXBUaVp6N1MtWTRUUGRnMjZNX1g1cnF5eXNoLTVQTnhDQlp5R09qNjNUbmpOQl9Ca0NpZ00?oc=5",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91WHIyMEVzTXNub0JvQjYteUdMTmRhTVFtNmVVNEF3SjBrU2lvUnJWUElWQzJLdlZQeHZ0aWUyLWRCYmJZTDVoT1hsQ1lrSHRCRkFlbWo0UktPdk9Zd1FEc2VMQjBDQ0IwNEhDMw?oc=5",
+      "published": "Wed, 19 Jun 2024 07:00:00 GMT",
       "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
+    },
+    {
+      "category": "economy",
+      "title": "Samvat 2083 begins: Will the good times roll for Indian businesses?",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXUzMmdlQVB6Um1EWjloa0lzaEFvbUhUNjJhMjI3bTk2RUpuRl9GRjB2Qk9HN1F2dW5VRldTMXB5bWtyWmRnU3dVS1VoRFlqZTZiU3JGY0ZmUldWLWs2cFljUW1ka01XRUQ4STFPSVJNNUQ2Rml4NE81X3Zobkh3ZWNhSXpoV0pTR2FGdkVmbXVqR1FFMnJmd2NYanQtd19MOWpINjhRVHZwekwtbnFtV3R4Mndnem1jd0Rpckphc3hyVVl0N2NPZW9iZHAzZmo5Sk53S1JNSWp0dXRQM09vOGE2RElDSjNLVThaVVgzRjFhS2twVWwtekhscmZpamUyS21OeEhNeko3c0FhMC1SdmpWUXdELVJrUWJ6RGUzTmplTnFGaWZCcjlaRGRPYVllSXV30gG4AkFVX3lxTE9uTmxBbjVTVThzS2FWYjZYRlhxVzg2RDhRR0pka3Z1SW1CTXBoNjZGZGhhTWhGQmZLcFJkMHNubm1fdE9kSnA1cjk4S05LUmt6bjRHQTlqVk9CeDhuanBZOGJ2MTFmMmlkQWJoMEhqTC1UVGtZc1k5ekhtN0FMQ0ZxMjNVeDU2VHQtcmxFRWVSbk5OVXdZc042eUpLX0hOd2VDdDlpeXFiaV82MTVaN3RrSTdObjdKMVp4aURTMEhvX3VtS2ZEOFNLeUIwUjNVbVpScm4zeURBNXBlQjNYQ2E2NUZkdk9icTF6RVpxZzc3WjdDS1NFcC1rYVdtSXozRGxmOUc4N2hUSGlETTYxbWNSWmc3UDVJaEMyVVBkQWJSMzhXWlRLdE5raGJfLS1nbHVsbGpSdTF2Uw?oc=5",
+      "published": "Sun, 08 Nov 2026 08:58:01 GMT",
+      "summary": "Samvat 2083 begins: Will the good times roll for Indian businesses?&nbsp;&nbsp;The Economic Times"
     },
     {
       "category": "economy",
