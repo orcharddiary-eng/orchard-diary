@@ -1,14 +1,6 @@
 {
-  "generated_at_utc": "2026-11-12T23:26:06.163021Z",
+  "generated_at_utc": "2026-11-13T06:08:00.987678Z",
   "items": [
-    {
-      "category": "pest",
-      "title": "Enhancing urban and suburban landscapes to protect pollinators",
-      "source": "OSU Extension Service",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEdoeWJoWUNuc2pkRUpQQmlfcUJOaTRuSVlYandDdzAzYXNRQ2VxWWJnQWxoZEloUF9oS09aMmVvTGxpLVkyZHdHb096NloxTWlKN2FzNWZuNUtoMDRYWVlQazFhcHdJbE5LTUxjWEpna3VHRTI1SGw0T2kzbFc3Z01fUEU5NzdLTHpQTE5qMEpSQ1YtM1k1ZlVsYzRoNy04SDZhOW5LOWs?oc=5",
-      "published": "Thu, 24 Jul 2025 22:42:44 GMT",
-      "summary": "Enhancing urban and suburban landscapes to protect pollinators&nbsp;&nbsp;OSU Extension Service"
-    },
     {
       "category": "pest",
       "title": "An Integrated Pest Management Strategic Plan for Sweet Cherries in Oregon and Washington",
@@ -16,6 +8,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbG9TOWNURmt4akdKZ00yd1NxQ0ttQVhCZGo1WU41QWNsS3Nyd3kxN0hYamt6dEt3Vmsycmpsc1RlNDVzQzVpWmVoWDlJRmRJUFFxR1lLMUJjQVlXTjJNU2ZoUWgwWUtBUlVSZjF5bEIyQ3N4ZW91RTdPUDA3dFBHTmFnd3Z6aFFIejZJNHJjZjZLMGliLUdzQmFJb2VCRlU5TGVlMjN3YU9fNDlYYy1MQ2Q2M3FqYkRhWG5HTm54WjBsUQ?oc=5",
       "published": "Sat, 25 Apr 2026 21:08:47 GMT",
       "summary": "An Integrated Pest Management Strategic Plan for Sweet Cherries in Oregon and Washington&nbsp;&nbsp;OSU Extension Service"
+    },
+    {
+      "category": "pest",
+      "title": "Enhancing urban and suburban landscapes to protect pollinators",
+      "source": "OSU Extension Service",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEdoeWJoWUNuc2pkRUpQQmlfcUJOaTRuSVlYandDdzAzYXNRQ2VxWWJnQWxoZEloUF9oS09aMmVvTGxpLVkyZHdHb096NloxTWlKN2FzNWZuNUtoMDRYWVlQazFhcHdJbE5LTUxjWEpna3VHRTI1SGw0T2kzbFc3Z01fUEU5NzdLTHpQTE5qMEpSQ1YtM1k1ZlVsYzRoNy04SDZhOW5LOWs?oc=5",
+      "published": "Thu, 24 Jul 2025 22:42:44 GMT",
+      "summary": "Enhancing urban and suburban landscapes to protect pollinators&nbsp;&nbsp;OSU Extension Service"
     },
     {
       "category": "govt",
@@ -75,19 +75,19 @@
     },
     {
       "category": "weather",
-      "title": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUJHR1czRnRqdmV4bk8yYkFDYWlBR2RzWXdxUlRmTlhfRXlOY05GWGxrSk5vbWZCZEdIalVhZEpWQmIxNnY4MHk1RWV3MkQwSTdwVmVrblVKQjJCdU9jVmhpdnJYQTVDLU51WmJ2eGZULUFUc2traXUzRWRoZTNoc25oTVhBelZ3Y2FBNmlWZ1pyZjZBQm85WHpEUkE2bVdTSzVkdUx4clc0NjlXcFJDaFlYZ2R3cERIQ1Qybkxza0NGN1hFT2J6Rnc2OEtuY0lnc1Z5M284bUp0bVF1ZlF2Vk82SjlCMER2VVA2dWFjOFIzcmFHMUI5LW1R0gH_AUFVX3lxTE1IamZYYkM4QzlicVpKT2VyMUhHdjkta2lZN1h3QmV3dTJKcUFFSE9ZWnVYSi1TcTlia0hZQTROWlFLa1ZkQ0hrR2szUnhkNzk5ZUJSUmMtaTQtUTg0UVd6aEYwSl9aUzVSTmdZcGU1M0FTOWdobDRoeUZpOHJNNmVKcEtHQnpzTjJyc3FWaTJGNjJpeUpJX2ppQlE5YlFKczcwMUdDdldLM2Z4WlROYUN1eURVNm9BanFQbXVaODV2QUY3ZGdoZ2pKMzAyUXlucnZEZ3FHMmh2VWRUOFcxdmxaUzI5dXJObGo0VnVMNFBOY0pXWjBXdl8yZ2pyMHlDMA?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab&nbsp;&nbsp;CNBC TV18"
-    },
-    {
-      "category": "weather",
       "title": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEtVQlVic0NJNzhVWnJGUEM4X0FzRzBlOE1LbkNLbV9mcUVMZFNTeWlyQ1FBX2ZERTBOaFVLMk13NmU5ZURaUUZadXlSa0NPaHg4c1pVckN5ZkRQOXRFd2V6S3ZENFQ0Mm1OdnhFX2tlT1UyelBibmtZNGp1clozeHZEaTYyNFFxcE9WUzFKTkpLUm16cWFZc0EtYVRFV2x5dGt2RGNOSjR2NWk2WUlqaHBGcnFLX0VTdEJFeFkwd2ZOa1FDa1Z4YlJPUFk5MkF0M0tDUkxqZjdhWUloX0ItTG9ublo5b2JyYlg3Q2RNWWUzN2dNd3fSAfsBQVVfeXFMTTd1cVNBVS1KRi1qR1U0ZURYWVVqWWRZTWZGODlPLUI2d2dhTktkNm9sT2hsYjItVFJYZ0FfaUh4cl9GaWJYX3dQRUR5UFdOT2oxSnYwWUpMZnJxN3R2TlhXbUZ0c01MLTJCVFFMd3NZOHdteU9yR2lhVVFzSE12LUpyTEFVSksxNFM4eTQwUzVTdFBmeGR6TEpIUFpwSHJRYXNXczRPeVZBX1dmV3NVbklhME9EN2VPZ2hkbGZXZzZuNTUwT09ZU2E4QUo5WTkyZElHU24tZXMyYzd3U1ZZc2I0M0pIUEZ1UjQ2elZWSW9yTUlFZC1GOFZQWHc?oc=5",
       "published": "Sat, 02 Mar 2024 08:00:00 GMT",
       "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Livemint"
+    },
+    {
+      "category": "weather",
+      "title": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUJHR1czRnRqdmV4bk8yYkFDYWlBR2RzWXdxUlRmTlhfRXlOY05GWGxrSk5vbWZCZEdIalVhZEpWQmIxNnY4MHk1RWV3MkQwSTdwVmVrblVKQjJCdU9jVmhpdnJYQTVDLU51WmJ2eGZULUFUc2traXUzRWRoZTNoc25oTVhBelZ3Y2FBNmlWZ1pyZjZBQm85WHpEUkE2bVdTSzVkdUx4clc0NjlXcFJDaFlYZ2R3cERIQ1Qybkxza0NGN1hFT2J6Rnc2OEtuY0lnc1Z5M284bUp0bVF1ZlF2Vk82SjlCMER2VVA2dWFjOFIzcmFHMUI5LW1R0gH_AUFVX3lxTE1IamZYYkM4QzlicVpKT2VyMUhHdjkta2lZN1h3QmV3dTJKcUFFSE9ZWnVYSi1TcTlia0hZQTROWlFLa1ZkQ0hrR2szUnhkNzk5ZUJSUmMtaTQtUTg0UVd6aEYwSl9aUzVSTmdZcGU1M0FTOWdobDRoeUZpOHJNNmVKcEtHQnpzTjJyc3FWaTJGNjJpeUpJX2ppQlE5YlFKczcwMUdDdldLM2Z4WlROYUN1eURVNm9BanFQbXVaODV2QUY3ZGdoZ2pKMzAyUXlucnZEZ3FHMmh2VWRUOFcxdmxaUzI5dXJObGo0VnVMNFBOY0pXWjBXdl8yZ2pyMHlDMA?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Weather alert! Rain, snowfall in Jammu & Kashmir, Ladakh; hailstorm warning for Punjab&nbsp;&nbsp;CNBC TV18"
     },
     {
       "category": "weather",
@@ -99,11 +99,11 @@
     },
     {
       "category": "weather",
-      "title": "Uttarakhand Snowfall Alert: IMD Warns of Heavy Falls, Hailstorms in Higher Districts",
-      "source": "Outlook India",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMERnamloVGJ4Wjk4QWsxd1hMOW41Mi1JSWRVcFpUbmJLZDRLS1lDV19YY3JTNVVXcVpWSnhqMGRvbE1wOXdiU2VGSklyNmZ4dERsM2drWmlfVlJSV2FkR21PRFRQT1lIa3F3bFFkOURPY0ppWWVhOXY1aG9YZlpkVkZsYjJaR0dqeW45S0F5MkIyU0xDNFN3YVRMVms5OG42RmdveGtFVUF6X09GT2IxMVdjSnd5STdJWUNfZtIBygFBVV95cUxPbXN3T1hzUWZHMS0zVjR3M2gxczlVTHlhMzF0cXZZUE1DN2I3VGFLeUtBdklZOXRKelF1X3RxLU9Yc2JkWDh6UTROc3dMOFh4STRPMlRxRlIzSTVzb1gyNDRad19FWXhSM3JVOGtCME1kLUVKeUROVExiT3hOeV9wTTVlaHdfdTNsQmx5a1o5ZVRxYmV1SlAyd3g2cDM2WG9NZVBEX2JBTFJfTktQM1VGUUtTZ1RyMnZyX0hGeEpUYTR1dThvcGladFJB?oc=5",
-      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
-      "summary": "Uttarakhand Snowfall Alert: IMD Warns of Heavy Falls, Hailstorms in Higher Districts&nbsp;&nbsp;Outlook India"
+      "title": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan",
+      "source": "Republic World",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2RaMzVMTm1ZYVdtX0huU09OOVk5aVZUMHU2NzByTGZCUDVBWEFYck5LM2YwLXlJU1BvNlZId3cyMTZVMERXUWw3b2VXd04yaG95U0Vkc3I0NURvZlVPd2pQN3NQM1hlUE9fYjdpaFpBUzZORGdsS1BLcmFGVjA3eWFoRERhMnJEc3FIN0Znb2JTUHdhRVpOQTk3SEU4azZBMFJwbUl0RTl5VWY4S3dOZnlHVdIBuAFBVV95cUxOcGxjcjhEdTFKeFAxZUQzcFc1RTc2T3Exb2gxdWNqWkhLbllEX0hNYUpvY280RmV2RGRBdFpPVmlVeE1OdTRFZ0Z3X2JRYjV1dV81cld3Q1NMcjZEc3hXMGpxb25fYUdUam5zZm5GWU1Zb1ZzdDRfNDl2dmxja3R3cjFUZWFZWlY1WC0wVzliajQxNWtETWRjVGY0NGhPa1lrbnh5bzJucERhaEROZUZONXBtb0ttWmxB?oc=5",
+      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "summary": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan&nbsp;&nbsp;Republic World"
     },
     {
       "category": "weather",
@@ -123,19 +123,11 @@
     },
     {
       "category": "weather",
-      "title": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan",
-      "source": "Republic World",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2RaMzVMTm1ZYVdtX0huU09OOVk5aVZUMHU2NzByTGZCUDVBWEFYck5LM2YwLXlJU1BvNlZId3cyMTZVMERXUWw3b2VXd04yaG95U0Vkc3I0NURvZlVPd2pQN3NQM1hlUE9fYjdpaFpBUzZORGdsS1BLcmFGVjA3eWFoRERhMnJEc3FIN0Znb2JTUHdhRVpOQTk3SEU4azZBMFJwbUl0RTl5VWY4S3dOZnlHVdIBuAFBVV95cUxOcGxjcjhEdTFKeFAxZUQzcFc1RTc2T3Exb2gxdWNqWkhLbllEX0hNYUpvY280RmV2RGRBdFpPVmlVeE1OdTRFZ0Z3X2JRYjV1dV81cld3Q1NMcjZEc3hXMGpxb25fYUdUam5zZm5GWU1Zb1ZzdDRfNDl2dmxja3R3cjFUZWFZWlY1WC0wVzliajQxNWtETWRjVGY0NGhPa1lrbnh5bzJucERhaEROZUZONXBtb0ttWmxB?oc=5",
-      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "summary": "IMD Weather Alert: Heavy Rain, Thunderstorms Likely In Parts Of North India; Hailstorms To Hit Punjab & Rajasthan&nbsp;&nbsp;Republic World"
-    },
-    {
-      "category": "politics",
-      "title": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts",
-      "source": "Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iV3IyMU9lWE9CSXY3VHh3bVhFdHp4STg1VGFteHgyUGxBQmIyNTNTclduRnA4eUYwWEt6SkVtRjhOazBkM2t1TER2UVJMR19JZ0pZUA?oc=5",
-      "published": "Mon, 09 Nov 2026 09:19:00 GMT",
-      "summary": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts&nbsp;&nbsp;Britannica"
+      "title": "Weather update: IMD predicts heavy rain for THESE states, hailstorm warning issued",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnMtdHkyeWlLeWhrampBSm5rUWxqeU1oclg5N1M2YjRxa0xNRGp0WnQ1V0ZjaV9rNGd5NXpoTG5fZXRpUENUR0VMczJGZkluTklkaThnUkZ5amlUbE5IY2NRUnZEZU01d01UdUVnRzVTcjczTERtYXVQNmlIRjc1eHZ2VXBPNFhvRGJHOHRoYTk0OG1FbnE5cWR0bWxJZzg5cVBTaDJkbjlFei1LbE9VM2VIYWF4UXp1ZWx1aGpxOXQ0ejlkODBpc05ZT3BwTVlfdUHSAdcBQVVfeXFMUHZaWUdPNEl0aEllRUxoOXlzTEY2ZGdNRDBVN3NYMmdTZWJkeVM3SVg3OWtqRXB1SVZEMHlidFhPclp0b1ZiWlVJaGp2ODg2Sms1TFhuTlFSQi1EdGlhVzY1MFJtbHB0Rm95a0ZoN2tnc0F4ZkhNRVdkOTdZS3VhSlN1V2dMc1pjbUsxWjFtbFNMRmk3UjlicHVzS0M2N3RIaVVyUnJzcXBQMTVTR2daMWVPdXZrQkJPT241Y2VjS2t2Y1ppZEVQaWJobTZ5aGJGX1FQZUNtZWs?oc=5",
+      "published": "Sat, 17 Feb 2024 08:00:00 GMT",
+      "summary": "Weather update: IMD predicts heavy rain for THESE states, hailstorm warning issued&nbsp;&nbsp;Livemint"
     },
     {
       "category": "politics",
@@ -152,14 +144,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnlyMHJwcmE5Wmk3dVlMckxnVnVBcE0xb2xoeVQyR19OVDlib3hIX3JWemxvYk1fOU9yMURhQzFmWGExV2o4T044aVhnVnNNMnVxOGN1SkxTcHU5REpkZ2JPM0FTakMzblBMaThHMEVsaWtnZ2ZXRGM3R2dhaWI5NW91czhxRVNpV1R6ekJPbW9iRTBlOHlGcU130gGgAUFVX3lxTFBtVUFOR0o5Z2xDSW9uV0wzR19GUlNpbTRreDN2aXpNclFnSWMyd3ZOVzV0cG9XNk42ZE1pRVpUMHpxNHgtQWRIVEdEbm5tTlZQNnBnQTBWcE9ybFZYXzJXdUIzYjZCeHBuN2hWTXByS1E1TDl6TW9GVFZWQXZ2ZEJSbG43UWJqUGRFMnREZGFpaWZYRGd2NlNKNjJ4Z25mRHc?oc=5",
       "published": "Tue, 25 Aug 2026 07:00:00 GMT",
       "summary": "Indian Parliament: Why Democracy Needs Reform&nbsp;&nbsp;Frontline Magazine"
-    },
-    {
-      "category": "politics",
-      "title": "Eisenkot unveils agenda to reverse Netanyahu's policies as Israel's new parliament is sworn in",
-      "source": "AsiaOne.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWktVZGttaU1NMGVtd2JLWmJSRlRYQmFOdHNkcnBKVldsY1ZLXzFCRy02TDhCRFR1YmlwSDk3OEdDVVZUVm4yekhSR1J5LUhMc3IwS1NhMXppYmJneTNZVlZ4Wmh0UkdsckdSNmxOanAyWEMxbjk3elFCVFdHRzRyOFh3akY1TGc0dURDM3I5bEZ1VFBQTExxU2dsSS1NbGw5UmE2VFZxaWhmeEJvTnBr?oc=5",
-      "published": "Wed, 11 Nov 2026 08:54:38 GMT",
-      "summary": "Eisenkot unveils agenda to reverse Netanyahu's policies as Israel's new parliament is sworn in&nbsp;&nbsp;AsiaOne.com"
     },
     {
       "category": "politics",
@@ -187,14 +171,6 @@
     },
     {
       "category": "politics",
-      "title": "The French Far Right’s Foreign Policy: Big Ambitions, Uncertain Direction",
-      "source": "Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelBVOWU0QXNrNlVScnBob2x2LUZRNmE3QmI0ZVFmdEtOUVJHUEdCUk0zaU9MTThzUFhlYThoc211MU1mQmg2LTVYM25sX0V1TU1kRFo4UkJUX0tCcXFjVkgzNElDMU8xenBCWlROQ0xVYWdiUDMxd3VSc1c1UndwekVaRTU2dlRBd1lQRU9aRTREbzdpZFRySjJQNm94ZWthME1lMnJEOFJDZnBMUDRZSXFGZ2g1cldR?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "The French Far Right’s Foreign Policy: Big Ambitions, Uncertain Direction&nbsp;&nbsp;Carnegie Endowment for International Peace"
-    },
-    {
-      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
@@ -203,11 +179,11 @@
     },
     {
       "category": "politics",
-      "title": "Profile of Shri C. P. Radhakrishnan",
-      "source": "vicepresidentofindia.nic.in",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUxFc2IzSGduemxTUF85TjBOYmNTdXRHUkhBaUJhNXQyZFdHSm9LLVV5aWNXb01rdHZYcEhZQWdLUUkwVHY5cm84eVBnZzRwYkNHOGVYRUJzM0g0bTZzWkRDV1Y2RUVlWG1FclM1OEo4aVQxdHloZGlLNW9SbzhKdV9iMVI4Qm9YaUFN?oc=5",
-      "published": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "summary": "Profile of Shri C. P. Radhakrishnan&nbsp;&nbsp;vicepresidentofindia.nic.in"
+      "title": "Kanimozhi Karunanidhi: India’s Federal Government Is Eroding States’ Rights",
+      "source": "Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUFPNmpiTXNHQVB3WXB3OWJ1N1RTWllvV2txYkpFUV96WlNnQkxHdHRGRkhYUkRsMDlfVWl2VnhCaGlNY0RvNVpmOFVXZnhxc18zQzRWV3NlMjRtVEUyN1JEZ3Fza2FUQjFuU2VaaHBFNXVzVEFXR09sMWw1c3VJYl9iUzRjSUh6czlVNHNsbXFCQk13aS1xOTh0NF9scW8?oc=5",
+      "published": "Thu, 26 May 2022 07:00:00 GMT",
+      "summary": "Kanimozhi Karunanidhi: India’s Federal Government Is Eroding States’ Rights&nbsp;&nbsp;Council on Foreign Relations"
     },
     {
       "category": "politics",
@@ -219,11 +195,43 @@
     },
     {
       "category": "politics",
+      "title": "Profile of Shri C. P. Radhakrishnan",
+      "source": "vicepresidentofindia.nic.in",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUxFc2IzSGduemxTUF85TjBOYmNTdXRHUkhBaUJhNXQyZFdHSm9LLVV5aWNXb01rdHZYcEhZQWdLUUkwVHY5cm84eVBnZzRwYkNHOGVYRUJzM0g0bTZzWkRDV1Y2RUVlWG1FclM1OEo4aVQxdHloZGlLNW9SbzhKdV9iMVI4Qm9YaUFN?oc=5",
+      "published": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "summary": "Profile of Shri C. P. Radhakrishnan&nbsp;&nbsp;vicepresidentofindia.nic.in"
+    },
+    {
+      "category": "politics",
       "title": "Indira Gandhi: As Prime Minister",
       "source": "inc.in",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ub0JEUGlEa3JlVHIxZFA1N2pBbWw0RVBrUko0bWJWblhLN2hvbk5YZGtBWnJmZU0yTERlaDJ6VWQxenlnLU5uQmJ5TXYzbldTb2J4c3JTbVYzY2l4a3pZRGZCaF9ieUk4OWVkY2FNeWhIWXJWRnllZktTNA?oc=5",
       "published": "Tue, 09 Jul 2024 10:47:34 GMT",
       "summary": "Indira Gandhi: As Prime Minister&nbsp;&nbsp;inc.in"
+    },
+    {
+      "category": "politics",
+      "title": "India’s shock election result is a loss for Modi but a win for democracy",
+      "source": "Chatham House",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2Ezcmw1eU9fdmp2YjFReC1VYXdDUUFwRE9oMDRLTVVJdWpkU2ItNllMLWpjQ2RLMG9NUkR5NzBTNGo5b1pnS1JOY1RrMXVoQ2lUNGVQR2NxTjJZSWJKTzZTcF9BaVYzVjhQdVZ2Y2hlZmNZOXA4anRLbW1abTBWMG1rc1d2X2YwVTZyNlRBb2Fva2M?oc=5",
+      "published": "Thu, 06 Jun 2024 07:00:00 GMT",
+      "summary": "India’s shock election result is a loss for Modi but a win for democracy&nbsp;&nbsp;Chatham House"
+    },
+    {
+      "category": "politics",
+      "title": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes",
+      "source": "Frontline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFlCWEVIUFNCTDBfVmdfQ2ZZYjI3aVhsNVc4c29GaXVXZ2I2dUY4Mms1bFFURHlKcU1NUG9TMlE3aTlnaFJBRlg5U0hMQ1FHdWxzdEhLS1pNQ3RqUnRGWnp1OWxQSEJVY0xCaHNEVTR2bEY2NlFTMUdNaWJoM2dpWHJiaFJQVzhUWkpnS2NvWXZ3bFFjWTdRSHVn0gGgAUFVX3lxTE5zeWxqSEtzcVRZMUd1YmJ0MmNYY0tTZVpXbnRaQ1dPbzE5UXRKUkZIejdxUVQzRzhJb2dvbmZvQmlUcjdDNWs5UWhrYk9YQXpialNlRUNLVVAxSXNKUVlwaDZFbDY0NlEyclZ4OVRkenBxaWVJdlhSSmNQMUlFVGtxVjE4OFUtZVphZGU5ZDdZZnZvaXVibm5Kb0tIT3BZYXI?oc=5",
+      "published": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "summary": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes&nbsp;&nbsp;Frontline Magazine"
+    },
+    {
+      "category": "economy",
+      "title": "Annual Report",
+      "source": "Reserve Bank of India",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZnd6TUNkRy1vRXRLTkxhSnpYUnJhRUk2VkdWNmxlQkI1eTdWOE5KaUJ5ODBpbVR4QUFUaGhYcWJLel9aMGktYmhOUUp4dHNDVnpVXzRndVdlbVRmMGhMUjlWR2k4WmJlQ28yY0s4cTVMMWVQ?oc=5",
+      "published": "Fri, 29 May 2026 07:00:00 GMT",
+      "summary": "Annual Report&nbsp;&nbsp;Reserve Bank of India"
     },
     {
       "category": "economy",
@@ -235,11 +243,11 @@
     },
     {
       "category": "economy",
-      "title": "Annual Report",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZnd6TUNkRy1vRXRLTkxhSnpYUnJhRUk2VkdWNmxlQkI1eTdWOE5KaUJ5ODBpbVR4QUFUaGhYcWJLel9aMGktYmhOUUp4dHNDVnpVXzRndVdlbVRmMGhMUjlWR2k4WmJlQ28yY0s4cTVMMWVQ?oc=5",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "Annual Report&nbsp;&nbsp;Reserve Bank of India"
+      "title": "Economic Survey 2025-26",
+      "source": "www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNS1udk00TUloVkRKRlNleUthQWUzRXpUdHRwdUhlcVc0YmRGSTd3eHNucUFYdnNEaXRRZjY3NjlOUzc0OFlNRzFscHpSamZQVlFlUXkxclhfVzVETC1oc1ZVVjB3MF9xVjdpb2RvU0ZKYm5pd3JmUkxn?oc=5",
+      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "Economic Survey 2025-26&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "category": "economy",
@@ -256,14 +264,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bWVsX2p6blR2WEdMRjl2dU5YWml5VlZhY1NqZVU1VzM0QlJ4MURuYjlMaXBUaVp6N1MtWTRUUGRnMjZNX1g1cnF5eXNoLTVQTnhDQlp5R09qNjNUbmpOQl9Ca0NpZ00?oc=5",
       "published": "Fri, 22 May 2026 07:00:00 GMT",
       "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
-    },
-    {
-      "category": "economy",
-      "title": "Economic Survey 2025-26",
-      "source": "www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNS1udk00TUloVkRKRlNleUthQWUzRXpUdHRwdUhlcVc0YmRGSTd3eHNucUFYdnNEaXRRZjY3NjlOUzc0OFlNRzFscHpSamZQVlFlUXkxclhfVzVETC1oc1ZVVjB3MF9xVjdpb2RvU0ZKYm5pd3JmUkxn?oc=5",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "Economic Survey 2025-26&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "category": "economy",
@@ -317,8 +317,8 @@
       "category": "economy",
       "title": "RBI Bulletin",
       "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00R0dUc1M5eHlDYzJBWm5tdzhuSFYtbmxNR09nWEJraTAxME9YQ0NUbXQtd3laYVc4VEFCcEJkeXVDSkQxcUFUSV8tWUNkRUhYMlRzSU52MWI4X1lSajRUSGlHOVpELWc?oc=5",
-      "published": "Tue, 20 Feb 2024 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aUNKNHBFTTdpRXZUaDJ5cmE1VnNWWVVraHlnTjBoak01T0w3ckVnd203TUdiT3V1YzRtUjIwaXNUaWlqYVFLUVBiWGZzYmZZOXhka05tT0dVVlVZX2NxUEd3T3V4MjE2WXc?oc=5",
+      "published": "Wed, 25 Jun 2025 07:00:00 GMT",
       "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
     }
   ]
