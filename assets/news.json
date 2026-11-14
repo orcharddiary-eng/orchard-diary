@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-13T19:28:06.743529Z",
+  "generated_at_utc": "2026-11-14T05:54:21.310493Z",
   "items": [
     {
       "category": "pest",
@@ -32,14 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejBTWkZPLTJlRjVzSUw1LVItNDUta2h3NVZZQWd4cERVMkV1QU81c1FSajhOSWgyV1hPNXlJc2wyWTlxVzlxNjhWQmxDSFVybEpxaTliRGNrZS0yX0p3bnVBalNTNHJfeEhqWG9aNDg2QmJucEZOazQ1Y21MQUIxLXlEeEJoVkJOUXc?oc=5",
       "published": "Sat, 09 Aug 2025 07:00:00 GMT",
       "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;pib.gov.in"
-    },
-    {
-      "category": "govt",
-      "title": "National Mission on Edible Oils",
-      "source": "www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3WE9uWkRGMDJKamdfZHFTd0QtYnIyTkhSY2VuOFVzQ21QMGFGYjloMjdDZm9zRXhDQi1aczBkdUZReUFxcGVYQ0tqR3l4VEFwUmpKblIxZGpLWG1HYzVNQXlqQ0pTb041c1lUT0J0a0FtVlNGVWV0SkVR?oc=5",
-      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "summary": "National Mission on Edible Oils&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "category": "govt",
@@ -91,19 +83,19 @@
     },
     {
       "category": "weather",
+      "title": "Weather update: IMD predicts heavy rain for THESE states, hailstorm warning issued",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnMtdHkyeWlLeWhrampBSm5rUWxqeU1oclg5N1M2YjRxa0xNRGp0WnQ1V0ZjaV9rNGd5NXpoTG5fZXRpUENUR0VMczJGZkluTklkaThnUkZ5amlUbE5IY2NRUnZEZU01d01UdUVnRzVTcjczTERtYXVQNmlIRjc1eHZ2VXBPNFhvRGJHOHRoYTk0OG1FbnE5cWR0bWxJZzg5cVBTaDJkbjlFei1LbE9VM2VIYWF4UXp1ZWx1aGpxOXQ0ejlkODBpc05ZT3BwTVlfdUHSAdcBQVVfeXFMUHZaWUdPNEl0aEllRUxoOXlzTEY2ZGdNRDBVN3NYMmdTZWJkeVM3SVg3OWtqRXB1SVZEMHlidFhPclp0b1ZiWlVJaGp2ODg2Sms1TFhuTlFSQi1EdGlhVzY1MFJtbHB0Rm95a0ZoN2tnc0F4ZkhNRVdkOTdZS3VhSlN1V2dMc1pjbUsxWjFtbFNMRmk3UjlicHVzS0M2N3RIaVVyUnJzcXBQMTVTR2daMWVPdXZrQkJPT241Y2VjS2t2Y1ppZEVQaWJobTZ5aGJGX1FQZUNtZWs?oc=5",
+      "published": "Sat, 17 Feb 2024 08:00:00 GMT",
+      "summary": "Weather update: IMD predicts heavy rain for THESE states, hailstorm warning issued&nbsp;&nbsp;Livemint"
+    },
+    {
+      "category": "weather",
       "title": "IMD weather alert: Cyclone Arnab weakens, but extreme rain threatens Odisha, Chhattisgarh and Bihar",
       "source": "Business Upturn",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPem16YjVRdlZyQWVubDhZdGFfSHUzY0d5aUgteUZIb0k0LVNjc2lJLXBDd1RYWXJTM2UxMVhzVzFVV1pmM2pDLWhpaTByaGp1dnhOeWw4WE93X1IzR1E2OUN2ejdTcFhNZDNwVGhoNHp4SlVfREV3M1d3eHd4em5KT1RDSFBETHM2c0FHV2RIdUJWeXZYcHp5dVZmZzhqbDl2T3RQZXExdGEwazZrS3hfeHNaTEthbTVwMEVQR2JmTlFkWDFiVWtETDhZbw?oc=5",
       "published": "Thu, 29 Oct 2026 09:55:23 GMT",
       "summary": "IMD weather alert: Cyclone Arnab weakens, but extreme rain threatens Odisha, Chhattisgarh and Bihar&nbsp;&nbsp;Business Upturn"
-    },
-    {
-      "category": "weather",
-      "title": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEtVQlVic0NJNzhVWnJGUEM4X0FzRzBlOE1LbkNLbV9mcUVMZFNTeWlyQ1FBX2ZERTBOaFVLMk13NmU5ZURaUUZadXlSa0NPaHg4c1pVckN5ZkRQOXRFd2V6S3ZENFQ0Mm1OdnhFX2tlT1UyelBibmtZNGp1clozeHZEaTYyNFFxcE9WUzFKTkpLUm16cWFZc0EtYVRFV2x5dGt2RGNOSjR2NWk2WUlqaHBGcnFLX0VTdEJFeFkwd2ZOa1FDa1Z4YlJPUFk5MkF0M0tDUkxqZjdhWUloX0ItTG9ublo5b2JyYlg3Q2RNWWUzN2dNd3fSAfsBQVVfeXFMTTd1cVNBVS1KRi1qR1U0ZURYWVVqWWRZTWZGODlPLUI2d2dhTktkNm9sT2hsYjItVFJYZ0FfaUh4cl9GaWJYX3dQRUR5UFdOT2oxSnYwWUpMZnJxN3R2TlhXbUZ0c01MLTJCVFFMd3NZOHdteU9yR2lhVVFzSE12LUpyTEFVSksxNFM4eTQwUzVTdFBmeGR6TEpIUFpwSHJRYXNXczRPeVZBX1dmV3NVbklhME9EN2VPZ2hkbGZXZzZuNTUwT09ZU2E4QUo5WTkyZElHU24tZXMyYzd3U1ZZc2I0M0pIUEZ1UjQ2elZWSW9yTUlFZC1GOFZQWHc?oc=5",
-      "published": "Sat, 02 Mar 2024 08:00:00 GMT",
-      "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Livemint"
     },
     {
       "category": "weather",
@@ -120,6 +112,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTzFTN0FzVm1OMlhuSkRyeU8yajZkRWhRU0ZEdkYzLU5JUF9kUFFhbGRqcGFLOWlfNHY4c19ORjdXWDctUHJZbXNIRjNTMmxreGktQXhMdXVfdy00NHA0OXc3S3djOGpTTGpvZGVWc1o2bjJfazBjczU1eFB6RTdxcFIweF8zeGpWd3RYT3lQTzVEem1PSnFOQWMxWlBkYzdrRnN6YnZ6UGZnd1FlVnJKU1h3U29Rc0lsZmNFSFBaQ0hXSU5HbkxBWEh2WkV2X1JpZGpMN3E4X1VvZkRMZ1FFT3l0Yzd6QWgxR1Bjb3ItVjlyQWZfdDF5WmozWnlmZUtHZ2Vhenh1eURpRzVYRzVva0hyb2htNjhPUmZUUk1MbER5aW1WVkRkWnRR0gGvAkFVX3lxTE9zR0FEQlRQNGFRZF9sTkZkZU5MS3JBemVZVTI4V1dlR0ZyNGVLWE9DTFpWRkRlVWdsakJwUkNRX3VBZGZPZjhRRWF2ZGYwUVc0a0txaFAtWGJJQ1RvX2pSU0hQQ1dZMHktS1VmQmxjQ1pjVXBqbTRiS0p3UlV4T280TkV2eWRVRGVVZ01PWkZ2SjgyaUgyelhVTWRobElZOWJVX3B4Z3hEX3NlbW55TThZbFZuYlJnM1ZYd3NacUVhekEwVWVqV0prbHZfVkdNYmlkcnhrb29KRjd5bnJId1F1dXV5QzA1YkQ4aE1FUUZvaUFpc0lDMFl2Mml3RGtCQVQwZW1QTzZPRzAxTE1iVUswMElEZGVpcmlRN0Y1MHF0dTBXTHhtenlXd1BGQzA1WQ?oc=5",
       "published": "Wed, 18 Mar 2026 07:00:00 GMT",
       "summary": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Hary&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "category": "weather",
+      "title": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEtVQlVic0NJNzhVWnJGUEM4X0FzRzBlOE1LbkNLbV9mcUVMZFNTeWlyQ1FBX2ZERTBOaFVLMk13NmU5ZURaUUZadXlSa0NPaHg4c1pVckN5ZkRQOXRFd2V6S3ZENFQ0Mm1OdnhFX2tlT1UyelBibmtZNGp1clozeHZEaTYyNFFxcE9WUzFKTkpLUm16cWFZc0EtYVRFV2x5dGt2RGNOSjR2NWk2WUlqaHBGcnFLX0VTdEJFeFkwd2ZOa1FDa1Z4YlJPUFk5MkF0M0tDUkxqZjdhWUloX0ItTG9ublo5b2JyYlg3Q2RNWWUzN2dNd3fSAfsBQVVfeXFMTTd1cVNBVS1KRi1qR1U0ZURYWVVqWWRZTWZGODlPLUI2d2dhTktkNm9sT2hsYjItVFJYZ0FfaUh4cl9GaWJYX3dQRUR5UFdOT2oxSnYwWUpMZnJxN3R2TlhXbUZ0c01MLTJCVFFMd3NZOHdteU9yR2lhVVFzSE12LUpyTEFVSksxNFM4eTQwUzVTdFBmeGR6TEpIUFpwSHJRYXNXczRPeVZBX1dmV3NVbklhME9EN2VPZ2hkbGZXZzZuNTUwT09ZU2E4QUo5WTkyZElHU24tZXMyYzd3U1ZZc2I0M0pIUEZ1UjQ2elZWSW9yTUlFZC1GOFZQWHc?oc=5",
+      "published": "Sat, 02 Mar 2024 08:00:00 GMT",
+      "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Livemint"
     },
     {
       "category": "politics",
@@ -147,11 +147,11 @@
     },
     {
       "category": "politics",
-      "title": "MPs to Vote on Wiping Out Government Debts After Death",
-      "source": "News of Bahrain",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjB2Y2p5MHM4ZnFuWHIxdDdCa2ZfZUxHaXJPd09QUjlUdEphNkNqTURBNWwyM0twWlREbG9lNmNjWXk4SEtFbmp3bHpxRlRUcnN6X2RtdlU4LXFtTjVjZUl3VU90WU5UdlZhRnVNTEZpYlB4SWg1cFF0UURFX194empNVU1NXzMxMDFWR21wdEVyNUw5TWxOd0Zfbw?oc=5",
-      "published": "Fri, 13 Nov 2026 16:37:25 GMT",
-      "summary": "MPs to Vote on Wiping Out Government Debts After Death&nbsp;&nbsp;News of Bahrain"
+      "title": "Syria’s new parliament can build institutions and trust",
+      "source": "Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHE5dVM1cUhzN1JoMkhNUkI1UkViM0U4OE1nNGdSUWFUdExGY3N5MUZES3BIMjRCTHlQTFZJdEpEa2k4WGd2M240Z3FvYlM4aHZLcWRjT0pBOXdRWlA0MnN2LXJ5R3FQc01rT0g3TEV5WjR2Z0FrYU5CUGtMTDVVaFlFQjU4OW5ua1BJZ0RVR0pKM3dTMWgwQURvaWZ2TjhBVTV1VG9pQQ?oc=5",
+      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "summary": "Syria’s new parliament can build institutions and trust&nbsp;&nbsp;Atlantic Council"
     },
     {
       "category": "politics",
@@ -171,11 +171,27 @@
     },
     {
       "category": "politics",
+      "title": "Shri Pranab Mukherjee Profile",
+      "source": "www.presidentofindia.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrWjJtMHYzUUJtdnM4WmE5RGtWcnpZak1UaDdUNjgtaVJyVUxOMGtTMWpiSnZGei01TzFKTE9CbUNLVjNwVEMxOW9FRlE4cDJZS3VObHNVeVpOSGpmcHNYVllPT29aOHVoSWNHaHZsUnk2UQ?oc=5",
+      "published": "Wed, 23 Oct 2024 05:22:39 GMT",
+      "summary": "Shri Pranab Mukherjee Profile&nbsp;&nbsp;www.presidentofindia.gov.in"
+    },
+    {
+      "category": "politics",
       "title": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles",
       "source": "orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFZclRndlhlejFzOFdJS1QtZnN3VjV2SlZIaEJEQmduOEczVHh6UUh5ckZhZ3h3MkROVi1xbWEzdkJ5c0VlU1J0V1BtTFhLZU80SE9iTEpEZmtSYUVrTkJvWkFIT3dsWVY1aFE5dEdpblJ0UWdJSHQtRzcwRG1vV0xzTnVhX3RSSk1lX2hEMVRrVDhieExMVnVZV2ZTaFVaZE1NQWpCbmJ3RlNXbTdmQXhyN3ZEN09vbXc?oc=5",
       "published": "Wed, 16 Nov 2022 08:00:00 GMT",
       "summary": "Women’s Representation in India’s Parliament: Measuring Progress, Analysing Obstacles&nbsp;&nbsp;orfonline.org"
+    },
+    {
+      "category": "politics",
+      "title": "Ministry of Youth Affairs and Sports",
+      "source": "www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnVJcm93NHBDbWVwbjAxd3R5XzctMFZXTGpDdkFodVdLaWMzMU45Z1ViMDJFRjZWRjctOExWRlBpdkhhWlFwWHB4VGtyQ1Vkanc1RkRqY1B4d3ZLNEIwcnZSQ0tqWHJXM0RZWjAtTkt1dXg4N0xOakV0MEVZbHVBU3NSNURPY010anc?oc=5",
+      "published": "Thu, 21 Nov 2024 08:00:00 GMT",
+      "summary": "Ministry of Youth Affairs and Sports&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "category": "politics",
@@ -195,35 +211,11 @@
     },
     {
       "category": "politics",
-      "title": "India’s shock election result is a loss for Modi but a win for democracy",
-      "source": "Chatham House",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2Ezcmw1eU9fdmp2YjFReC1VYXdDUUFwRE9oMDRLTVVJdWpkU2ItNllMLWpjQ2RLMG9NUkR5NzBTNGo5b1pnS1JOY1RrMXVoQ2lUNGVQR2NxTjJZSWJKTzZTcF9BaVYzVjhQdVZ2Y2hlZmNZOXA4anRLbW1abTBWMG1rc1d2X2YwVTZyNlRBb2Fva2M?oc=5",
-      "published": "Thu, 06 Jun 2024 07:00:00 GMT",
-      "summary": "India’s shock election result is a loss for Modi but a win for democracy&nbsp;&nbsp;Chatham House"
-    },
-    {
-      "category": "politics",
-      "title": "A New Era of Online Gaming Governance",
-      "source": "www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jbUNJNmpJblk4M0doWW9zdHdxcTJudzFmM0gyRmVKREZNUzQtX0VVR1FsR1VWeDVyalZ2MkxjNEFyY3RHUEMyTUgtS2x4UWZpckJKWkEzeU9aNDBoWDQxRHFWVFVCbDZ0Q2pkXzZLOTB6M1ZNdExPVjRn?oc=5",
-      "published": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "summary": "A New Era of Online Gaming Governance&nbsp;&nbsp;www.pib.gov.in"
-    },
-    {
-      "category": "politics",
-      "title": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes",
-      "source": "Frontline Magazine",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFlCWEVIUFNCTDBfVmdfQ2ZZYjI3aVhsNVc4c29GaXVXZ2I2dUY4Mms1bFFURHlKcU1NUG9TMlE3aTlnaFJBRlg5U0hMQ1FHdWxzdEhLS1pNQ3RqUnRGWnp1OWxQSEJVY0xCaHNEVTR2bEY2NlFTMUdNaWJoM2dpWHJiaFJQVzhUWkpnS2NvWXZ3bFFjWTdRSHVn0gGgAUFVX3lxTE5zeWxqSEtzcVRZMUd1YmJ0MmNYY0tTZVpXbnRaQ1dPbzE5UXRKUkZIejdxUVQzRzhJb2dvbmZvQmlUcjdDNWs5UWhrYk9YQXpialNlRUNLVVAxSXNKUVlwaDZFbDY0NlEyclZ4OVRkenBxaWVJdlhSSmNQMUlFVGtxVjE4OFUtZVphZGU5ZDdZZnZvaXVibm5Kb0tIT3BZYXI?oc=5",
-      "published": "Wed, 11 Feb 2026 08:00:00 GMT",
-      "summary": "Rahul Gandhi: Why Parliament Optics Don’t Win Votes&nbsp;&nbsp;Frontline Magazine"
-    },
-    {
-      "category": "economy",
-      "title": "Annual Report",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZnd6TUNkRy1vRXRLTkxhSnpYUnJhRUk2VkdWNmxlQkI1eTdWOE5KaUJ5ODBpbVR4QUFUaGhYcWJLel9aMGktYmhOUUp4dHNDVnpVXzRndVdlbVRmMGhMUjlWR2k4WmJlQ28yY0s4cTVMMWVQ?oc=5",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "Annual Report&nbsp;&nbsp;Reserve Bank of India"
+      "title": "Indira Gandhi: As Prime Minister",
+      "source": "inc.in",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ub0JEUGlEa3JlVHIxZFA1N2pBbWw0RVBrUko0bWJWblhLN2hvbk5YZGtBWnJmZU0yTERlaDJ6VWQxenlnLU5uQmJ5TXYzbldTb2J4c3JTbVYzY2l4a3pZRGZCaF9ieUk4OWVkY2FNeWhIWXJWRnllZktTNA?oc=5",
+      "published": "Tue, 09 Jul 2024 10:47:34 GMT",
+      "summary": "Indira Gandhi: As Prime Minister&nbsp;&nbsp;inc.in"
     },
     {
       "category": "economy",
@@ -235,11 +227,11 @@
     },
     {
       "category": "economy",
-      "title": "Economic Survey 2025-26",
-      "source": "www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNS1udk00TUloVkRKRlNleUthQWUzRXpUdHRwdUhlcVc0YmRGSTd3eHNucUFYdnNEaXRRZjY3NjlOUzc0OFlNRzFscHpSamZQVlFlUXkxclhfVzVETC1oc1ZVVjB3MF9xVjdpb2RvU0ZKYm5pd3JmUkxn?oc=5",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "Economic Survey 2025-26&nbsp;&nbsp;www.pib.gov.in"
+      "title": "Annual Report",
+      "source": "Reserve Bank of India",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZnd6TUNkRy1vRXRLTkxhSnpYUnJhRUk2VkdWNmxlQkI1eTdWOE5KaUJ5ODBpbVR4QUFUaGhYcWJLel9aMGktYmhOUUp4dHNDVnpVXzRndVdlbVRmMGhMUjlWR2k4WmJlQ28yY0s4cTVMMWVQ?oc=5",
+      "published": "Fri, 29 May 2026 07:00:00 GMT",
+      "summary": "Annual Report&nbsp;&nbsp;Reserve Bank of India"
     },
     {
       "category": "economy",
@@ -256,6 +248,14 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bWVsX2p6blR2WEdMRjl2dU5YWml5VlZhY1NqZVU1VzM0QlJ4MURuYjlMaXBUaVp6N1MtWTRUUGRnMjZNX1g1cnF5eXNoLTVQTnhDQlp5R09qNjNUbmpOQl9Ca0NpZ00?oc=5",
       "published": "Fri, 22 May 2026 07:00:00 GMT",
       "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
+    },
+    {
+      "category": "economy",
+      "title": "Economic Survey 2025-26",
+      "source": "www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNS1udk00TUloVkRKRlNleUthQWUzRXpUdHRwdUhlcVc0YmRGSTd3eHNucUFYdnNEaXRRZjY3NjlOUzc0OFlNRzFscHpSamZQVlFlUXkxclhfVzVETC1oc1ZVVjB3MF9xVjdpb2RvU0ZKYm5pd3JmUkxn?oc=5",
+      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "Economic Survey 2025-26&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "category": "economy",
