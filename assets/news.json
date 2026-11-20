@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T15:34:08.011754Z",
+  "generated_at_utc": "2026-11-20T00:30:13.857641Z",
   "items": [
     {
       "category": "pest",
@@ -130,6 +130,22 @@
       "summary": "Weather update: IMD issues orange alert for snow, hailstorm in THESE states; yellow alert for heavy rain in Himachal&nbsp;&nbsp;Livemint"
     },
     {
+      "category": "weather",
+      "title": "Weather news: IMD issues ‘Yellow alert’ for hailstorm in THESE states; Wet spell continues with snowfall, rainfall today",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU1IwNHNhcFlTYUwxcTVqYU5sUkRaNlN1c1BmRnluTndjZGJ3NTlVc3JYNGE1S0ZyeXZWMDhGTzI0ZWJGbUxnQ1dMaU9GaUVWMkU5WFJGY2lqYnJhbGswak0xMGl3M0tFaWVjeVJGLVBxZE5jY3YtWVNTeDhHVzhIQ3pqNFNmSHJXYXM2aEFTTTk2T0pCSWt2RERYbkZxM1R1TkY4SWx3bmNQVVJHa1pWeFhOTHdDRnRteTN1QmFRc2MxeHBoOXZBMkpmOXktU1pVdTBrZXNwUTRJdTYyZWFUMjl6eEpGV09wMzRXam9XV3Z4STdZM1QtUdIB_gFBVV95cUxOc0gyNTZPbEUzZm4wUDA1OHVzNGI0N1JFVk5pQmI3R3VMcENoOVFkWGY5WGNPWUNVMU5VWmZkNUQ3MGJsVm1qSmtDTUlrbzNNVk5IbTVQUWwwOGIzMjFPTnhFd2ZSZ0xtRXdLalItVUF2ZHpWY09YUnFHZzlpZ2FNVFRhVlJkbmdjSTdROW5jczR2dTJVWjFwVlg5dEZDRURhWDJEQ19GbEtyUVpLaXJrSzJiX1gycGJRRFNPNmtoWDRJSHdSdFlpX0dQcEpLNHc0X3ZRMnl0VzJvdHNGeWhNWC1DUl9DNjZxaTUtN1V4aWQ1eE9hcDZtOXF6Qml2dw?oc=5",
+      "published": "Wed, 21 Feb 2024 08:00:00 GMT",
+      "summary": "Weather news: IMD issues ‘Yellow alert’ for hailstorm in THESE states; Wet spell continues with snowfall, rainfall today&nbsp;&nbsp;Livemint"
+    },
+    {
+      "category": "politics",
+      "title": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts",
+      "source": "Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iV3IyMU9lWE9CSXY3VHh3bVhFdHp4STg1VGFteHgyUGxBQmIyNTNTclduRnA4eUYwWEt6SkVtRjhOazBkM2t1TER2UVJMR19JZ0pZUA?oc=5",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "summary": "Lok Sabha | History, Elections, Seats, Members, Speaker, & Facts&nbsp;&nbsp;Britannica"
+    },
+    {
       "category": "politics",
       "title": "Digital and technology policy and national sovereignty",
       "source": "House of Lords Library",
@@ -218,22 +234,6 @@
       "summary": "Know the PM&nbsp;&nbsp;PM India"
     },
     {
-      "category": "politics",
-      "title": "India: Government Policies, Actions Target Minorities",
-      "source": "Human Rights Watch",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTNvbGY3NFYtcXUtNmZBYlgxWkZaRFpNbWh0U2lncDg2aFVGN1A2M3VxX0htLU54a1poWkN4RVUzWDFEWXJBN0RFOVprdUkydUM0VnVpeVh1N1pCckI1cWNBVk40d2Fsc0FURkkyMDI2UzdLcUVBMmR3eEFPNjNQVHJHSUZSRXJUczZPeThaeHY?oc=5",
-      "published": "Fri, 19 Feb 2021 08:00:00 GMT",
-      "summary": "India: Government Policies, Actions Target Minorities&nbsp;&nbsp;Human Rights Watch"
-    },
-    {
-      "category": "economy",
-      "title": "RBI Bulletin",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UODVHS3htemtTVE8yS2psMS1vNU9nNDZBRmNtN082VzQzY1JLdjg5bVJBYU10c3JmaUJnR0hpeTh5VnNXLWRsQ1ZRT1Vjb25BeUhHUzdSWlNCeUxiWjBLMzhTVXNhNlItN3c?oc=5",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
-    },
-    {
       "category": "economy",
       "title": "Annual Report",
       "source": "Reserve Bank of India",
@@ -247,6 +247,14 @@
       "source": "Reserve Bank of India",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYVFySGlnLXQ2U1pBV2RlSkEyUXVqS2Y2anU4TDJ6SXZnaEpENkJ6RzNYTkw5N1p0MVdSX3hfeXNfa1NFbWM5OTZqTDVFNUdOSTlGUi1ZLXhyWGlCOV9ydy15Z1VScDhQMGF4dQ?oc=5",
       "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
+    },
+    {
+      "category": "economy",
+      "title": "RBI Bulletin",
+      "source": "Reserve Bank of India",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UODVHS3htemtTVE8yS2psMS1vNU9nNDZBRmNtN082VzQzY1JLdjg5bVJBYU10c3JmaUJnR0hpeTh5VnNXLWRsQ1ZRT1Vjb25BeUhHUzdSWlNCeUxiWjBLMzhTVXNhNlItN3c?oc=5",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
       "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
     },
     {
@@ -283,11 +291,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI Bulletin",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91WHIyMEVzTXNub0JvQjYteUdMTmRhTVFtNmVVNEF3SjBrU2lvUnJWUElWQzJLdlZQeHZ0aWUyLWRCYmJZTDVoT1hsQ1lrSHRCRkFlbWo0UktPdk9Zd1FEc2VMQjBDQ0IwNEhDMw?oc=5",
-      "published": "Wed, 19 Jun 2024 07:00:00 GMT",
-      "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
+      "title": "India’s Trade and Economic Outlook",
+      "source": "PIB",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ZFJkQ1V0blpvNkl6OGkwa1BBWjBWSk9MUndNMWp2akZrTmxWbGkyWmY2SjNldlJSUXB3ZThYaFJZeUpHVjc2UXR5LW5VRWpVT0h5RDNtSWVqT3hURmFEd0M2V0ZUMnli?oc=5",
+      "published": "Thu, 20 Mar 2025 07:00:00 GMT",
+      "summary": "India’s Trade and Economic Outlook&nbsp;&nbsp;PIB"
     },
     {
       "category": "economy",
@@ -301,8 +309,8 @@
       "category": "economy",
       "title": "RBI Bulletin",
       "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yTjZQT0tSNjd6dEtfVWtFYkRudFJTQ0t5SDgwbkFGQmJGa2JpMEtNcEV5QXJwd3NRUWVYVU1KMnduWXdsamk1ZUNtcFNJV1NPUTBoSXd3ZXlhZXo0SHRTcXBMRzYzVU9CMlVCZA?oc=5",
-      "published": "Wed, 23 Jul 2025 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91WHIyMEVzTXNub0JvQjYteUdMTmRhTVFtNmVVNEF3SjBrU2lvUnJWUElWQzJLdlZQeHZ0aWUyLWRCYmJZTDVoT1hsQ1lrSHRCRkFlbWo0UktPdk9Zd1FEc2VMQjBDQ0IwNEhDMw?oc=5",
+      "published": "Wed, 19 Jun 2024 07:00:00 GMT",
       "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
     },
     {
@@ -315,11 +323,11 @@
     },
     {
       "category": "economy",
-      "title": "RBI Bulletin",
-      "source": "Reserve Bank of India",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SkpDSm5RMkxzLTdEYm1mZmdqSGVFLUdzbGtmT0tvY2ZpWjBnb0MyN2NuVVYzdFBBME9ua3RJTnFmek5jcjhwZTRENl9vU1Ixa0M1UV8zZzhfT2Z2clBhQ1BDSzloS0xvaVB6ZA?oc=5",
-      "published": "Fri, 17 Jan 2025 08:00:00 GMT",
-      "summary": "RBI Bulletin&nbsp;&nbsp;Reserve Bank of India"
+      "title": "PIB Backgrounder",
+      "source": "pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHRpNjZKY1hVMnVMWHJHOHNyTU11RTBtVXNPcGJLODhCMXJMRXdvZEZGMW94ZE81UGEyZ0NaWk9PUzhTM2tzcXFGbzgyQlpZeEJFdE00ekNUZ0NQNENFM0MtaEtfclZINldlal9FYk1vNnAwYkNsay1PYzdLY0liaUk4U0NLYjEzc1Fz?oc=5",
+      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
+      "summary": "PIB Backgrounder&nbsp;&nbsp;pib.gov.in"
     }
   ]
 }
